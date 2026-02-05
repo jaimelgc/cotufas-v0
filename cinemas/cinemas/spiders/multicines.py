@@ -6,8 +6,8 @@ class MulticinesSpider(scrapy.Spider):
     start_urls = ['https://multicinestenerife.com/cartelera-tenerife/']
 
     def parse(self, response):
-        for showings in response.css('div.amy-movie-item-inner'):
-            movie_url = showings.css('div.amy-movie-item-poster > a::attr(href)').get()
+        for movies in response.css('div.amy-movie-item-inner'):
+            movie_url = movies.css('div.amy-movie-item-poster > a::attr(href)').get()
 
             if movie_url:
                 yield response.follow(

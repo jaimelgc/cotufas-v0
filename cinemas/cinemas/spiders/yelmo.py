@@ -1,11 +1,19 @@
+from collections import defaultdict
+
 import scrapy
 from scrapy_playwright.page import PageMethod
-from collections import defaultdict
 
 
 class YelmoSpider(scrapy.Spider):
     name = 'yelmo'
     start_urls = ['https://www.yelmocines.es/cartelera/santa-cruz-tenerife/']
+
+    # Limit concurrent requests to avoid overwhelming the server
+    custom_settings = {
+        'CONCURRENT_REQUESTS': 4,
+        'CONCURRENT_REQUESTS_PER_DOMAIN': 2,
+        'DOWNLOAD_DELAY': 1,
+    }
 
     def start_requests(self):
         yield scrapy.Request(
@@ -27,93 +35,101 @@ class YelmoSpider(scrapy.Spider):
                 meta={
                     'playwright': True,
                     'playwright_page_methods': [
-                        PageMethod('wait_for_selector', '#ddlDate')
+                        PageMethod('wait_for_load_state', 'networkidle'),
                     ],
-                }
+                    'playwright_include_page': True,
+                },
             )
 
-    def parse_movie(self, response):
-        # title, length, age, showings{day: [hours]},
-        # actors, directors, genres, synopsis, url
+    async def parse_movie(self, response):
+        page = response.meta['playwright_page']
 
-        days = response.css("#ddlDate option::attr(value)").getall()
-        print(days)
-        details = {}
-        synopsis = ''
+        try:
+            # Get movie details
+            details = {}
+            synopsis = ''
+            if 'Sinopsis' in response.css('div.info > h4::text').getall():
+                synopsis = response.css('div.info > p::text').get()
+            for info in response.css('div.info > p.bolder.cf'):
+                key = info.css('span::text').get()
+                value = info.css('small::text').get()
+                if key and value:
+                    details[key] = value.split(', ')
 
-        for day in days:
-            yield scrapy.Request(
-                response.url,
-                callback=self.parse_day,
-                meta={
-                    'playwright': True,
-                    'playwright_page_methods': [
-                        PageMethod('select_option', '#ddlDate', day),
-                        PageMethod('wait_for_timeout', 500),
-                    ],
-                    'day': day
-                }
-            )
+            movie_detail = {
+                'title': response.css('div.infoPelicula > h3::text').get(),
+                'length': response.css('span.duracion::text').get(),
+                'age': response.css('span.clasificacion::text').get(),
+                'genres': response.css('span.genero::text').get(),
+                'details': details,
+                'synopsis': synopsis,
+                'url': response.url,
+            }
 
-        if response.css('div.info > h4::text') == 'Sinopsis':
-            synopsis = response.css('div.info > p::text').get()
+            # Wait a bit for the page to fully settle
+            await page.wait_for_timeout(1000)
 
-        # with open('test.txt', 'w') as f:
-        #     for t1 in response.css('div.info > h4::text').get():
-        #         f.write('\n T1 \n ' + t1 + '\n')
-        #     for t2 in response.css('div.info').getall():
-        #         f.write('\n T2 \n ' + t2 + '\n')
-        #     for t3 in response.css('div.info > p > span + small').getall():
-        #         f.write('\n T3 \n ' + t3 + '\n')
-        #     for t4 in response.css('div.info > p'):
-        #         f.write('\n T4 \n ' + t4 + '\n').getall()
+            # Get days using JavaScript with retry logic
+            days = []
+            for attempt in range(3):  # Try 3 times
+                try:
+                    days = await page.evaluate(
+                        '''() => {
+                        const select = document.querySelector('#ddlDate');
+                        if (!select) return [];
+                        return Array.from(select.options)
+                            .map(opt => opt.value)
+                            .filter(v => v && v.trim() !== '');
+                    }'''
+                    )
+                    if days:
+                        break
+                    await page.wait_for_timeout(1000)
+                except Exception as e:
+                    self.logger.warning(f"Attempt {attempt + 1} failed to get days: {e}")
+                    if attempt < 2:
+                        await page.wait_for_timeout(1000)
 
-        for info in response.css('div.info > p > span + small'):
-            details[info.css('span::text').get()] = info.css('small::text').get().split(', ')
-        print(details)
+            self.logger.info(f"Found {len(days)} days for {movie_detail['title']}")
 
-        yield {
-            'title': response.css('div.infoPelicula > h3').get(),
-            'length': response.css('span.duracion::text').get(),
-            'age': response.css('span.clasificacion::text').get(),
-            'details': details,
-            'synopsis': synopsis,
-            'url': response.url,
-        }
+            # Collect showings for all days
+            all_showings = defaultdict(lambda: defaultdict(dict))
 
-    def parse_day(self, response):
-        day = response.meta["day"]
-        showings = defaultdict(lambda: defaultdict(dict))
+            for day in days:
+                self.logger.info(f"Processing day: {day}")
 
-        for div in response.css('div.horariosDesc > div'):
-            showings[
-                div.css('::attr(data-cinema)').get()
-            ][
-                div.css('label::text').get()
-            ][
-                day
-            ] = div.css('time > a::text').getall()
+                try:
+                    # Select the day option
+                    await page.select_option('#ddlDate', day)
+                    await page.wait_for_timeout(2500)  # Increased wait time
 
-        yield {
-            'url_specific': response.url,
-            'showings': showings
-        }
+                    # Get updated content
+                    content = await page.content()
+                    updated_response = scrapy.http.HtmlResponse(
+                        url=response.url, body=content, encoding='utf-8'
+                    )
 
-# if 'la-villa-de-orotava' in location:
-#     if '2D ESPAÑOL' in label:
-#         showings_villa[day: shows]
-#     elif '2D INGLÉS SUBTITULADO EN ESPAÑOL (VOSE)':
-#         showings_vose_villa[day: shows]
-#     elif '3D ESPAÑOL' in label:
-#         showings_3d_villa[day: shows]
-#     elif '3D INGLÉS SUBTITULADO EN ESPAÑOL (VOSE)':
-#         showings_vose_3d_villa[day: shows]
-# elif 'meridiano' in location:
-#     if '2D ESPAÑOL' in label:
-#         showings_meridiano[day: shows]
-#     elif '2D INGLÉS SUBTITULADO EN ESPAÑOL (VOSE)':
-#         showings_vose_meridiano[day: shows]
-#     elif '3D ESPAÑOL' in label:
-#         showings_3d_meridiano[day: shows]
-#     elif '3D INGLÉS SUBTITULADO EN ESPAÑOL (VOSE)':
-#         showings_vose_3d_meridiano[day: shows]
+                    # Parse showings for this day
+                    showings_count = 0
+                    for div in updated_response.css('div.horariosDesc > div'):
+                        cinema = div.css('::attr(data-cinema)').get()
+                        format_type = div.css('label::text').get()
+                        times = div.css('time > a::text').getall()
+                        if cinema and format_type and times:
+                            all_showings[cinema][format_type][day] = times
+                            showings_count += 1
+
+                    self.logger.info(f"Found {showings_count} showings for day {day}")
+                except Exception as e:
+                    self.logger.error(f"Error processing day {day}: {e}")
+
+            # Yield everything together
+            yield {
+                'detail': movie_detail,
+                'showings': {k: dict(v) for k, v in all_showings.items()},
+            }
+
+        except Exception as e:
+            self.logger.error(f"Error processing movie {response.url}: {e}")
+        finally:
+            await page.close()

@@ -126,6 +126,7 @@ class YelmoSpider(scrapy.Spider):
             # Yield everything together
             yield {
                 'detail': movie_detail,
+                'theater': 'yelmo',
                 'showings': {k: dict(v) for k, v in all_showings.items()},
             }
 

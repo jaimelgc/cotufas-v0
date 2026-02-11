@@ -1,8 +1,8 @@
 import scrapy
 
 
-class KinetikeSpider(scrapy.Spider):
-    name = 'kinetike'
+class ZentralcenterSpider(scrapy.Spider):
+    name = 'zentralcenter'
     # Start without session - let the server create one
     start_urls = ['https://kinetike.com:83/views/init.aspx?cine=ZENTRALCENTER']
 
@@ -140,6 +140,7 @@ class KinetikeSpider(scrapy.Spider):
                 'duration': duration.strip() if duration else None,
                 'language': language.strip() if language else None,
                 'age_rating': age_rating,
+                'theater': 'zentralcenter',
                 'showings': showings,
             }
 

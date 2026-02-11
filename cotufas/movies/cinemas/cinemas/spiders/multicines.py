@@ -66,6 +66,7 @@ class MulticinesSpider(scrapy.Spider):
             'title': title_raw.strip(),
             'length': movie_length,
             'age': response.css('span.pg::text').get(),
+            'theater': 'multicines',
             'showings': showings,
             'actors': actors,
             'directors': directors,

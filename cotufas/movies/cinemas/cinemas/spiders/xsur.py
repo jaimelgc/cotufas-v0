@@ -22,5 +22,6 @@ class XsurSpider(scrapy.Spider):
             'synopsis': response.css('div.the_content_wrapper > p::text').getall()[0].strip(),
             'length': data[0].split(': ')[1],
             'age': data[1].split(':  ')[1],
+            'theater': 'xsur',
             'showings': data[3:],
         }

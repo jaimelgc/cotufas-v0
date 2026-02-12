@@ -1,0 +1,418 @@
+[
+  {
+    "title": "AIDA Y VUELTA",
+    "length": "110 min.",
+    "age": "7",
+    "theater": "zentralcenter",
+    "language": "SIN SUBTITULOS",
+    "showings": {
+      "2026-02-11": {
+        "SALA 3": [
+          "16:30"
+        ]
+      },
+      "2026-02-12": {
+        "SALA 3": [
+          "16:30"
+        ]
+      }
+    },
+    "actors": null,
+    "directors": null,
+    "genres": null,
+    "synopsis": null,
+    "url": null
+  },
+  {
+    "title": "CUMBRES BORRASCOSAS",
+    "length": "130 min.",
+    "age": "Desconocida",
+    "theater": "zentralcenter",
+    "language": "SIN SUBTITULOS",
+    "showings": {
+      "2026-02-13": {
+        "SALA 2": [
+          "16:15",
+          "19:00",
+          "21:45"
+        ]
+      },
+      "2026-02-14": {
+        "SALA 2": [
+          "16:15",
+          "19:00",
+          "21:45"
+        ]
+      },
+      "2026-02-15": {
+        "SALA 2": [
+          "12:00",
+          "16:15",
+          "19:00",
+          "21:45"
+        ]
+      },
+      "2026-02-16": {
+        "SALA 2": [
+          "16:15",
+          "19:00",
+          "21:45"
+        ]
+      },
+      "2026-02-17": {
+        "SALA 2": [
+          "16:15",
+          "19:00",
+          "21:45"
+        ]
+      },
+      "2026-02-18": {
+        "SALA 2": [
+          "16:15",
+          "19:00",
+          "21:45"
+        ]
+      }
+    },
+    "actors": null,
+    "directors": null,
+    "genres": null,
+    "synopsis": null,
+    "url": null
+  },
+  {
+    "title": "EVOLUTION",
+    "length": "95 min.",
+    "age": "Desconocida",
+    "theater": "zentralcenter",
+    "language": "SIN SUBTITULOS",
+    "showings": {
+      "2026-02-11": {
+        "SALA 4": [
+          "16:45",
+          "19:00",
+          "21:00"
+        ]
+      },
+      "2026-02-12": {
+        "SALA 4": [
+          "16:45",
+          "19:00",
+          "21:00"
+        ]
+      },
+      "2026-02-13": {
+        "SALA 3": [
+          "18:45"
+        ],
+        "-SALA 4": [
+          "16:30"
+        ]
+      },
+      "2026-02-14": {
+        "SALA 3": [
+          "18:45"
+        ],
+        "-SALA 4": [
+          "16:30"
+        ]
+      },
+      "2026-02-15": {
+        "SALA 3": [
+          "18:45"
+        ],
+        "-SALA 4": [
+          "12:00",
+          "16:30"
+        ]
+      },
+      "2026-02-16": {
+        "SALA 3": [
+          "18:45"
+        ],
+        "-SALA 4": [
+          "16:30"
+        ]
+      },
+      "2026-02-17": {
+        "SALA 3": [
+          "18:45"
+        ],
+        "-SALA 4": [
+          "16:30"
+        ]
+      },
+      "2026-02-18": {
+        "SALA 3": [
+          "18:45"
+        ],
+        "-SALA 4": [
+          "16:30"
+        ]
+      }
+    },
+    "actors": null,
+    "directors": null,
+    "genres": null,
+    "synopsis": null,
+    "url": null
+  },
+  {
+    "title": "GOAT, COMO CABRAS",
+    "length": "100 min.",
+    "age": "Desconocida",
+    "theater": "zentralcenter",
+    "language": "SIN SUBTITULOS",
+    "showings": {
+      "2026-02-13": {
+        "SALA 1": [
+          "16:30",
+          "18:50",
+          "21:00"
+        ]
+      },
+      "2026-02-14": {
+        "SALA 1": [
+          "16:30",
+          "18:50",
+          "21:00"
+        ]
+      },
+      "2026-02-15": {
+        "SALA 1": [
+          "12:00",
+          "16:30",
+          "18:50",
+          "21:00"
+        ]
+      },
+      "2026-02-16": {
+        "SALA 1": [
+          "16:30",
+          "18:50",
+          "21:00"
+        ]
+      },
+      "2026-02-17": {
+        "SALA 1": [
+          "16:30",
+          "18:50",
+          "21:00"
+        ]
+      },
+      "2026-02-18": {
+        "SALA 1": [
+          "16:30",
+          "18:50",
+          "21:00"
+        ]
+      }
+    },
+    "actors": null,
+    "directors": null,
+    "genres": null,
+    "synopsis": null,
+    "url": null
+  },
+  {
+    "title": "HELLBOY: EL HOMBRE RETORCIDO",
+    "length": "99 min.",
+    "age": "16",
+    "theater": "zentralcenter",
+    "language": "SIN SUBTITULOS",
+    "showings": {
+      "2026-02-11": {
+        "SALA 2": [
+          "16:30",
+          "18:45",
+          "21:00"
+        ]
+      },
+      "2026-02-12": {
+        "SALA 2": [
+          "16:30",
+          "18:45",
+          "21:00"
+        ]
+      },
+      "2026-02-13": {
+        "SALA 3": [
+          "16:30"
+        ],
+        "-SALA 4": [
+          "21:15"
+        ]
+      },
+      "2026-02-14": {
+        "SALA 3": [
+          "16:30"
+        ],
+        "-SALA 4": [
+          "21:15"
+        ]
+      },
+      "2026-02-15": {
+        "SALA 3": [
+          "12:00",
+          "16:30"
+        ],
+        "-SALA 4": [
+          "21:15"
+        ]
+      },
+      "2026-02-16": {
+        "SALA 3": [
+          "16:30"
+        ],
+        "-SALA 4": [
+          "21:15"
+        ]
+      },
+      "2026-02-17": {
+        "SALA 3": [
+          "16:30"
+        ],
+        "-SALA 4": [
+          "21:15"
+        ]
+      },
+      "2026-02-18": {
+        "SALA 3": [
+          "16:30"
+        ],
+        "-SALA 4": [
+          "21:15"
+        ]
+      }
+    },
+    "actors": null,
+    "directors": null,
+    "genres": null,
+    "synopsis": null,
+    "url": null
+  },
+  {
+    "title": "LA LUCHA",
+    "length": "92 min.",
+    "age": "7",
+    "theater": "zentralcenter",
+    "language": "SIN SUBTITULOS",
+    "showings": {
+      "2026-02-11": {
+        "SALA 3": [
+          "18:45"
+        ]
+      },
+      "2026-02-12": {
+        "SALA 3": [
+          "18:45"
+        ]
+      }
+    },
+    "actors": null,
+    "directors": null,
+    "genres": null,
+    "synopsis": null,
+    "url": null
+  },
+  {
+    "title": "MARTY SUPREME",
+    "length": "149 min.",
+    "age": "16",
+    "theater": "zentralcenter",
+    "language": "SIN SUBTITULOS",
+    "showings": {
+      "2026-02-11": {
+        "SALA 3": [
+          "21:00"
+        ]
+      },
+      "2026-02-12": {
+        "SALA 3": [
+          "21:00"
+        ]
+      }
+    },
+    "actors": null,
+    "directors": null,
+    "genres": null,
+    "synopsis": null,
+    "url": null
+  },
+  {
+    "title": "PRIMATE",
+    "length": "88 min.",
+    "age": "18",
+    "theater": "zentralcenter",
+    "language": "SIN SUBTITULOS",
+    "showings": {
+      "2026-02-11": {
+        "SALA 1": [
+          "17:00",
+          "19:15",
+          "21:30"
+        ]
+      },
+      "2026-02-12": {
+        "SALA 1": [
+          "17:00",
+          "19:15",
+          "21:30"
+        ]
+      },
+      "2026-02-13": {
+        "SALA 3": [
+          "21:00"
+        ],
+        "-SALA 4": [
+          "19:00"
+        ]
+      },
+      "2026-02-14": {
+        "SALA 3": [
+          "21:00"
+        ],
+        "-SALA 4": [
+          "19:00"
+        ]
+      },
+      "2026-02-15": {
+        "SALA 3": [
+          "21:00"
+        ],
+        "-SALA 4": [
+          "19:00"
+        ]
+      },
+      "2026-02-16": {
+        "SALA 3": [
+          "21:00"
+        ],
+        "-SALA 4": [
+          "19:00"
+        ]
+      },
+      "2026-02-17": {
+        "SALA 3": [
+          "21:00"
+        ],
+        "-SALA 4": [
+          "19:00"
+        ]
+      },
+      "2026-02-18": {
+        "SALA 3": [
+          "21:00"
+        ],
+        "-SALA 4": [
+          "19:00"
+        ]
+      }
+    },
+    "actors": null,
+    "directors": null,
+    "genres": null,
+    "synopsis": null,
+    "url": null
+  }
+]

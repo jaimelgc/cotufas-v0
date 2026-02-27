@@ -46,7 +46,7 @@ class CinemaNormalizer:
         self.output_path.parent.mkdir(parents=True, exist_ok=True)
         with open(self.output_path, 'w', encoding='utf-8') as f:
             json.dump(data, f, ensure_ascii=False, indent=indent)
-        print(f"✓ Saved {len(data)} movies to {self.output_path}")
+        print(f"Saved {len(data)} movies to {self.output_path}")
 
     def normalize(self) -> List[Dict[str, Any]]:
         """Override this method in subclasses"""
@@ -58,7 +58,7 @@ class YelmoNormalizer(CinemaNormalizer):
 
     @staticmethod
     def convert_timestamp_to_date(timestamp: str) -> str:
-        """Convert Yelmo's weird timestamp format to YYYY-MM-DD"""
+        """Convert timestamp format to YYYY-MM-DD"""
         # The timestamp is in .NET ticks (100-nanosecond intervals since 0001-01-01)
         try:
             ticks = int(timestamp)
@@ -122,7 +122,7 @@ class YelmoNormalizer(CinemaNormalizer):
         # Convert to list and sort by title
         result = sorted(movies_by_title.values(), key=lambda x: x['title'])
 
-        print(f"✓ Normalized {len(result)} movies from Yelmo")
+        print(f"Normalized {len(result)} movies from Yelmo")
         return result
 
 
@@ -334,7 +334,6 @@ def normalize_all(input_dir: str = 'data_raw', output_dir: str = 'data') -> None
 
 
 if __name__ == '__main__':
-    # Run from the command line
     import sys
 
     if len(sys.argv) > 2:

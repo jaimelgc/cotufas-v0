@@ -8,7 +8,7 @@ Target Schema:
 {
     "title": str,
     "length": str,
-    "age": str | null,
+    "age": int | null,
     "theater": str,
     "showings": {
         "YYYY-MM-DD": ["HH:MM", ...],
@@ -88,13 +88,14 @@ class YelmoNormalizer(CinemaNormalizer):
             detail = item['detail']
             title = detail['title']
             theater = item['theater']
+            age = '0' if detail.get('age') == 'TP' else detail.get('age').split('-')[1]
 
             # Initialize movie entry if first time seeing this title
             if title not in movies_by_title:
                 movies_by_title[title] = {
                     'title': title,
                     'length': detail.get('length'),
-                    'age': detail.get('age'),
+                    'age': age,
                     'theater': theater,
                     'showings': {},
                     'actors': detail.get('details', {}).get('Actores:'),
@@ -160,7 +161,6 @@ class ZentralcenterNormalizer(CinemaNormalizer):
 
         for day_data in raw_data:
             date = self.parse_date(day_data['date'])
-            day_name = day_data.get('day_name', '')
 
             for movie in day_data['movies']:
                 title = movie['title']
@@ -175,7 +175,11 @@ class ZentralcenterNormalizer(CinemaNormalizer):
                         {
                             'title': title,
                             'length': movie.get('duration'),
-                            'age': movie.get('age_rating'),
+                            'age': (
+                                '0'
+                                if movie.get('age_rating') == 'Desconocida'
+                                else movie.get('age_rating')
+                            ),
                             'language': language,
                         }
                     )
@@ -271,7 +275,12 @@ class XsurNormalizer(CinemaNormalizer):
             # Fix encoding issues
             title = self.clean_text(movie['title'])
             synopsis = self.clean_text(movie.get('synopsis', ''))
-            age = self.clean_text(movie.get('age', ''))
+            age_raw = self.clean_text(movie.get('age', ''))
+            age = (
+                '0'
+                if age_raw == 'Para todos los públicos'
+                else (age_raw.split(' ')[-2] if age_raw else '')
+            )
 
             result.append(
                 {

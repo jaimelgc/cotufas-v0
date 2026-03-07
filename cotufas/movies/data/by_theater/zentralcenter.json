@@ -9,17 +9,13 @@
         "date": "2026-02-11",
         "time": "16:30",
         "theater": "zentralcenter",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-12",
         "time": "16:30",
         "theater": "zentralcenter",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       }
     ],
     "actors": null,
@@ -38,153 +34,115 @@
         "date": "2026-02-13",
         "time": "16:15",
         "theater": "zentralcenter",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-13",
         "time": "19:00",
         "theater": "zentralcenter",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-13",
         "time": "21:45",
         "theater": "zentralcenter",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-14",
         "time": "16:15",
         "theater": "zentralcenter",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-14",
         "time": "19:00",
         "theater": "zentralcenter",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-14",
         "time": "21:45",
         "theater": "zentralcenter",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-15",
         "time": "12:00",
         "theater": "zentralcenter",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-15",
         "time": "16:15",
         "theater": "zentralcenter",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-15",
         "time": "19:00",
         "theater": "zentralcenter",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-15",
         "time": "21:45",
         "theater": "zentralcenter",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-16",
         "time": "16:15",
         "theater": "zentralcenter",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-16",
         "time": "19:00",
         "theater": "zentralcenter",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-16",
         "time": "21:45",
         "theater": "zentralcenter",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-17",
         "time": "16:15",
         "theater": "zentralcenter",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-17",
         "time": "19:00",
         "theater": "zentralcenter",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-17",
         "time": "21:45",
         "theater": "zentralcenter",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-18",
         "time": "16:15",
         "theater": "zentralcenter",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-18",
         "time": "19:00",
         "theater": "zentralcenter",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-18",
         "time": "21:45",
         "theater": "zentralcenter",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       }
     ],
     "actors": null,
@@ -203,153 +161,115 @@
         "date": "2026-02-11",
         "time": "16:45",
         "theater": "zentralcenter",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-11",
         "time": "19:00",
         "theater": "zentralcenter",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-11",
         "time": "21:00",
         "theater": "zentralcenter",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-12",
         "time": "16:45",
         "theater": "zentralcenter",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-12",
         "time": "19:00",
         "theater": "zentralcenter",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-12",
         "time": "21:00",
         "theater": "zentralcenter",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-13",
         "time": "18:45",
         "theater": "zentralcenter",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-13",
         "time": "16:30",
         "theater": "zentralcenter",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-14",
         "time": "18:45",
         "theater": "zentralcenter",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-14",
         "time": "16:30",
         "theater": "zentralcenter",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-15",
         "time": "18:45",
         "theater": "zentralcenter",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-15",
         "time": "12:00",
         "theater": "zentralcenter",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-15",
         "time": "16:30",
         "theater": "zentralcenter",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-16",
         "time": "18:45",
         "theater": "zentralcenter",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-16",
         "time": "16:30",
         "theater": "zentralcenter",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-17",
         "time": "18:45",
         "theater": "zentralcenter",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-17",
         "time": "16:30",
         "theater": "zentralcenter",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-18",
         "time": "18:45",
         "theater": "zentralcenter",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-18",
         "time": "16:30",
         "theater": "zentralcenter",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       }
     ],
     "actors": null,
@@ -368,153 +288,115 @@
         "date": "2026-02-13",
         "time": "16:30",
         "theater": "zentralcenter",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-13",
         "time": "18:50",
         "theater": "zentralcenter",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-13",
         "time": "21:00",
         "theater": "zentralcenter",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-14",
         "time": "16:30",
         "theater": "zentralcenter",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-14",
         "time": "18:50",
         "theater": "zentralcenter",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-14",
         "time": "21:00",
         "theater": "zentralcenter",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-15",
         "time": "12:00",
         "theater": "zentralcenter",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-15",
         "time": "16:30",
         "theater": "zentralcenter",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-15",
         "time": "18:50",
         "theater": "zentralcenter",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-15",
         "time": "21:00",
         "theater": "zentralcenter",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-16",
         "time": "16:30",
         "theater": "zentralcenter",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-16",
         "time": "18:50",
         "theater": "zentralcenter",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-16",
         "time": "21:00",
         "theater": "zentralcenter",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-17",
         "time": "16:30",
         "theater": "zentralcenter",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-17",
         "time": "18:50",
         "theater": "zentralcenter",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-17",
         "time": "21:00",
         "theater": "zentralcenter",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-18",
         "time": "16:30",
         "theater": "zentralcenter",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-18",
         "time": "18:50",
         "theater": "zentralcenter",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-18",
         "time": "21:00",
         "theater": "zentralcenter",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       }
     ],
     "actors": null,
@@ -533,153 +415,115 @@
         "date": "2026-02-11",
         "time": "16:30",
         "theater": "zentralcenter",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-11",
         "time": "18:45",
         "theater": "zentralcenter",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-11",
         "time": "21:00",
         "theater": "zentralcenter",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-12",
         "time": "16:30",
         "theater": "zentralcenter",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-12",
         "time": "18:45",
         "theater": "zentralcenter",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-12",
         "time": "21:00",
         "theater": "zentralcenter",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-13",
         "time": "16:30",
         "theater": "zentralcenter",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-13",
         "time": "21:15",
         "theater": "zentralcenter",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-14",
         "time": "16:30",
         "theater": "zentralcenter",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-14",
         "time": "21:15",
         "theater": "zentralcenter",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-15",
         "time": "12:00",
         "theater": "zentralcenter",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-15",
         "time": "16:30",
         "theater": "zentralcenter",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-15",
         "time": "21:15",
         "theater": "zentralcenter",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-16",
         "time": "16:30",
         "theater": "zentralcenter",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-16",
         "time": "21:15",
         "theater": "zentralcenter",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-17",
         "time": "16:30",
         "theater": "zentralcenter",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-17",
         "time": "21:15",
         "theater": "zentralcenter",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-18",
         "time": "16:30",
         "theater": "zentralcenter",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-18",
         "time": "21:15",
         "theater": "zentralcenter",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       }
     ],
     "actors": null,
@@ -698,17 +542,13 @@
         "date": "2026-02-11",
         "time": "18:45",
         "theater": "zentralcenter",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-12",
         "time": "18:45",
         "theater": "zentralcenter",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       }
     ],
     "actors": null,
@@ -727,17 +567,13 @@
         "date": "2026-02-11",
         "time": "21:00",
         "theater": "zentralcenter",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-12",
         "time": "21:00",
         "theater": "zentralcenter",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       }
     ],
     "actors": null,
@@ -756,145 +592,109 @@
         "date": "2026-02-11",
         "time": "17:00",
         "theater": "zentralcenter",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-11",
         "time": "19:15",
         "theater": "zentralcenter",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-11",
         "time": "21:30",
         "theater": "zentralcenter",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-12",
         "time": "17:00",
         "theater": "zentralcenter",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-12",
         "time": "19:15",
         "theater": "zentralcenter",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-12",
         "time": "21:30",
         "theater": "zentralcenter",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-13",
         "time": "21:00",
         "theater": "zentralcenter",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-13",
         "time": "19:00",
         "theater": "zentralcenter",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-14",
         "time": "21:00",
         "theater": "zentralcenter",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-14",
         "time": "19:00",
         "theater": "zentralcenter",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-15",
         "time": "21:00",
         "theater": "zentralcenter",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-15",
         "time": "19:00",
         "theater": "zentralcenter",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-16",
         "time": "21:00",
         "theater": "zentralcenter",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-16",
         "time": "19:00",
         "theater": "zentralcenter",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-17",
         "time": "21:00",
         "theater": "zentralcenter",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-17",
         "time": "19:00",
         "theater": "zentralcenter",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-18",
         "time": "21:00",
         "theater": "zentralcenter",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-18",
         "time": "19:00",
         "theater": "zentralcenter",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       }
     ],
     "actors": null,

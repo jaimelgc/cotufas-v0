@@ -142,6 +142,7 @@ class ZentralcenterSpider(scrapy.Spider):
                 'age_rating': age_rating,
                 'theater': 'zentralcenter',
                 'showings': showings,
+                'url': response.url,
             }
 
             movies.append(movie_data)

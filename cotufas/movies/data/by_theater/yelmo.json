@@ -9,73 +9,55 @@
         "date": "2026-02-11 (meridiano - 2D ESPAÑOL)",
         "time": "22:25",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-12 (meridiano - 2D ESPAÑOL)",
         "time": "22:25",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-13 (meridiano - 2D ESPAÑOL)",
         "time": "22:15",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-14 (meridiano - 2D ESPAÑOL)",
         "time": "22:15",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-15 (meridiano - 2D ESPAÑOL)",
         "time": "22:15",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-16 (meridiano - 2D ESPAÑOL)",
         "time": "22:15",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-17 (meridiano - 2D ESPAÑOL)",
         "time": "22:05",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-18 (meridiano - 2D ESPAÑOL)",
         "time": "22:15",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-19 (meridiano - 2D ESPAÑOL)",
         "time": "22:15",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       }
     ],
     "actors": [
@@ -104,161 +86,121 @@
         "date": "2026-02-11 (la-villa-de-orotava - 3D ESPAÑOL)",
         "time": "20:00",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-12 (la-villa-de-orotava - 3D ESPAÑOL)",
         "time": "20:00",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-13 (la-villa-de-orotava - 3D ESPAÑOL)",
         "time": "20:40",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-14 (la-villa-de-orotava - 3D ESPAÑOL)",
         "time": "20:40",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-15 (la-villa-de-orotava - 3D ESPAÑOL)",
         "time": "20:40",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-16 (la-villa-de-orotava - 3D ESPAÑOL)",
         "time": "20:05",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-17 (la-villa-de-orotava - 3D ESPAÑOL)",
         "time": "20:40",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-18 (la-villa-de-orotava - 3D ESPAÑOL)",
         "time": "20:05",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-19 (la-villa-de-orotava - 3D ESPAÑOL)",
         "time": "20:05",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-12 (la-villa-de-orotava - 2D ESPAÑOL)",
         "time": "21:00",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-11 (meridiano - 2D ESPAÑOL)",
         "time": "21:10",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-14 (meridiano - 2D ESPAÑOL)",
         "time": "20:30",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-15 (meridiano - 2D ESPAÑOL)",
         "time": "12:00",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-15 (meridiano - 2D ESPAÑOL)",
         "time": "20:10",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-17 (meridiano - 2D ESPAÑOL)",
         "time": "12:00",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-11 (meridiano - 3D ESPAÑOL)",
         "time": "20:00",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-12 (meridiano - 3D ESPAÑOL)",
         "time": "20:05",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-13 (meridiano - 3D ESPAÑOL)",
         "time": "20:05",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-18 (meridiano - 3D ESPAÑOL)",
         "time": "20:20",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-19 (meridiano - 3D ESPAÑOL)",
         "time": "20:20",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       }
     ],
     "actors": [
@@ -290,489 +232,367 @@
         "date": "2026-02-11 (la-villa-de-orotava - 2D ESPAÑOL)",
         "time": "18:00",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-11 (la-villa-de-orotava - 2D ESPAÑOL)",
         "time": "20:10",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-11 (la-villa-de-orotava - 2D ESPAÑOL)",
         "time": "22:20",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-12 (la-villa-de-orotava - 2D ESPAÑOL)",
         "time": "18:00",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-12 (la-villa-de-orotava - 2D ESPAÑOL)",
         "time": "20:10",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-12 (la-villa-de-orotava - 2D ESPAÑOL)",
         "time": "22:20",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-13 (la-villa-de-orotava - 2D ESPAÑOL)",
         "time": "18:20",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-13 (la-villa-de-orotava - 2D ESPAÑOL)",
         "time": "20:30",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-13 (la-villa-de-orotava - 2D ESPAÑOL)",
         "time": "22:40",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-14 (la-villa-de-orotava - 2D ESPAÑOL)",
         "time": "16:10",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-14 (la-villa-de-orotava - 2D ESPAÑOL)",
         "time": "18:20",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-14 (la-villa-de-orotava - 2D ESPAÑOL)",
         "time": "20:30",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-14 (la-villa-de-orotava - 2D ESPAÑOL)",
         "time": "22:40",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-15 (la-villa-de-orotava - 2D ESPAÑOL)",
         "time": "16:10",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-15 (la-villa-de-orotava - 2D ESPAÑOL)",
         "time": "18:20",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-15 (la-villa-de-orotava - 2D ESPAÑOL)",
         "time": "20:30",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-15 (la-villa-de-orotava - 2D ESPAÑOL)",
         "time": "22:40",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-16 (la-villa-de-orotava - 2D ESPAÑOL)",
         "time": "18:20",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-16 (la-villa-de-orotava - 2D ESPAÑOL)",
         "time": "20:30",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-16 (la-villa-de-orotava - 2D ESPAÑOL)",
         "time": "22:40",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-17 (la-villa-de-orotava - 2D ESPAÑOL)",
         "time": "16:10",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-17 (la-villa-de-orotava - 2D ESPAÑOL)",
         "time": "18:20",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-17 (la-villa-de-orotava - 2D ESPAÑOL)",
         "time": "20:30",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-17 (la-villa-de-orotava - 2D ESPAÑOL)",
         "time": "22:40",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-18 (la-villa-de-orotava - 2D ESPAÑOL)",
         "time": "18:20",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-18 (la-villa-de-orotava - 2D ESPAÑOL)",
         "time": "20:30",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-18 (la-villa-de-orotava - 2D ESPAÑOL)",
         "time": "22:40",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-19 (la-villa-de-orotava - 2D ESPAÑOL)",
         "time": "18:20",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-19 (la-villa-de-orotava - 2D ESPAÑOL)",
         "time": "20:30",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-19 (la-villa-de-orotava - 2D ESPAÑOL)",
         "time": "22:40",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-11 (meridiano - 2D ESPAÑOL)",
         "time": "18:10",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-11 (meridiano - 2D ESPAÑOL)",
         "time": "20:20",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-11 (meridiano - 2D ESPAÑOL)",
         "time": "22:30",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-12 (meridiano - 2D ESPAÑOL)",
         "time": "18:10",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-12 (meridiano - 2D ESPAÑOL)",
         "time": "20:20",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-12 (meridiano - 2D ESPAÑOL)",
         "time": "22:30",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-13 (meridiano - 2D ESPAÑOL)",
         "time": "18:15",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-13 (meridiano - 2D ESPAÑOL)",
         "time": "20:25",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-13 (meridiano - 2D ESPAÑOL)",
         "time": "22:35",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-14 (meridiano - 2D ESPAÑOL)",
         "time": "16:05",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-14 (meridiano - 2D ESPAÑOL)",
         "time": "18:15",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-14 (meridiano - 2D ESPAÑOL)",
         "time": "20:25",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-14 (meridiano - 2D ESPAÑOL)",
         "time": "22:35",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-15 (meridiano - 2D ESPAÑOL)",
         "time": "15:40",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-15 (meridiano - 2D ESPAÑOL)",
         "time": "17:50",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-15 (meridiano - 2D ESPAÑOL)",
         "time": "20:00",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-15 (meridiano - 2D ESPAÑOL)",
         "time": "22:10",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-16 (meridiano - 2D ESPAÑOL)",
         "time": "18:10",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-16 (meridiano - 2D ESPAÑOL)",
         "time": "20:20",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-16 (meridiano - 2D ESPAÑOL)",
         "time": "22:30",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-17 (meridiano - 2D ESPAÑOL)",
         "time": "12:20",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-17 (meridiano - 2D ESPAÑOL)",
         "time": "15:40",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-17 (meridiano - 2D ESPAÑOL)",
         "time": "17:50",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-17 (meridiano - 2D ESPAÑOL)",
         "time": "20:00",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-17 (meridiano - 2D ESPAÑOL)",
         "time": "22:10",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-18 (meridiano - 2D ESPAÑOL)",
         "time": "18:10",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-18 (meridiano - 2D ESPAÑOL)",
         "time": "20:00",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-18 (meridiano - 2D ESPAÑOL)",
         "time": "22:10",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-19 (meridiano - 2D ESPAÑOL)",
         "time": "18:10",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-19 (meridiano - 2D ESPAÑOL)",
         "time": "20:00",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-19 (meridiano - 2D ESPAÑOL)",
         "time": "22:10",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       }
     ],
     "actors": [
@@ -802,105 +622,79 @@
         "date": "2026-02-11 (la-villa-de-orotava - 2D ESPAÑOL)",
         "time": "17:35",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-12 (la-villa-de-orotava - 2D ESPAÑOL)",
         "time": "17:35",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-14 (la-villa-de-orotava - 2D ESPAÑOL)",
         "time": "16:40",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-15 (la-villa-de-orotava - 2D ESPAÑOL)",
         "time": "16:40",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-16 (la-villa-de-orotava - 2D ESPAÑOL)",
         "time": "17:05",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-17 (la-villa-de-orotava - 2D ESPAÑOL)",
         "time": "16:40",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-18 (la-villa-de-orotava - 2D ESPAÑOL)",
         "time": "17:05",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-19 (la-villa-de-orotava - 2D ESPAÑOL)",
         "time": "17:05",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-11 (meridiano - 2D ESPAÑOL)",
         "time": "18:00",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-12 (meridiano - 2D ESPAÑOL)",
         "time": "18:00",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-14 (meridiano - 2D ESPAÑOL)",
         "time": "16:45",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-15 (meridiano - 2D ESPAÑOL)",
         "time": "16:45",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-17 (meridiano - 2D ESPAÑOL)",
         "time": "16:35",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       }
     ],
     "actors": [
@@ -930,321 +724,241 @@
         "date": "2026-02-11 (la-villa-de-orotava - 2D ESPAÑOL)",
         "time": "17:10",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-11 (la-villa-de-orotava - 2D ESPAÑOL)",
         "time": "19:40",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-11 (la-villa-de-orotava - 2D ESPAÑOL)",
         "time": "22:10",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-12 (la-villa-de-orotava - 2D ESPAÑOL)",
         "time": "17:10",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-12 (la-villa-de-orotava - 2D ESPAÑOL)",
         "time": "19:40",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-12 (la-villa-de-orotava - 2D ESPAÑOL)",
         "time": "22:10",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-13 (la-villa-de-orotava - 2D ESPAÑOL)",
         "time": "17:20",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-13 (la-villa-de-orotava - 2D ESPAÑOL)",
         "time": "19:55",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-14 (la-villa-de-orotava - 2D ESPAÑOL)",
         "time": "17:20",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-14 (la-villa-de-orotava - 2D ESPAÑOL)",
         "time": "19:55",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-15 (la-villa-de-orotava - 2D ESPAÑOL)",
         "time": "17:20",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-15 (la-villa-de-orotava - 2D ESPAÑOL)",
         "time": "19:55",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-16 (la-villa-de-orotava - 2D ESPAÑOL)",
         "time": "17:20",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-16 (la-villa-de-orotava - 2D ESPAÑOL)",
         "time": "19:55",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-17 (la-villa-de-orotava - 2D ESPAÑOL)",
         "time": "19:55",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-18 (la-villa-de-orotava - 2D ESPAÑOL)",
         "time": "17:20",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-18 (la-villa-de-orotava - 2D ESPAÑOL)",
         "time": "19:55",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-19 (la-villa-de-orotava - 2D ESPAÑOL)",
         "time": "17:20",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-19 (la-villa-de-orotava - 2D ESPAÑOL)",
         "time": "19:55",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-17 (la-villa-de-orotava - 2D INGLÉS SUBTITULADO EN ESPAÑOL (VOSE))",
         "time": "17:20",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-11 (meridiano - 2D ESPAÑOL)",
         "time": "17:15",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-11 (meridiano - 2D ESPAÑOL)",
         "time": "19:50",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-12 (meridiano - 2D ESPAÑOL)",
         "time": "17:15",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-12 (meridiano - 2D ESPAÑOL)",
         "time": "19:50",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-13 (meridiano - 2D ESPAÑOL)",
         "time": "17:00",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-13 (meridiano - 2D ESPAÑOL)",
         "time": "19:35",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-14 (meridiano - 2D ESPAÑOL)",
         "time": "16:50",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-14 (meridiano - 2D ESPAÑOL)",
         "time": "19:30",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-15 (meridiano - 2D ESPAÑOL)",
         "time": "16:50",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-15 (meridiano - 2D ESPAÑOL)",
         "time": "19:30",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-16 (meridiano - 2D ESPAÑOL)",
         "time": "17:00",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-16 (meridiano - 2D ESPAÑOL)",
         "time": "19:35",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-17 (meridiano - 2D ESPAÑOL)",
         "time": "19:30",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-18 (meridiano - 2D ESPAÑOL)",
         "time": "17:00",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-18 (meridiano - 2D ESPAÑOL)",
         "time": "19:35",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-19 (meridiano - 2D ESPAÑOL)",
         "time": "17:00",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-19 (meridiano - 2D ESPAÑOL)",
         "time": "19:35",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-15 (meridiano - 2D INGLÉS SUBTITULADO EN ESPAÑOL (VOSE))",
         "time": "12:50",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-17 (meridiano - 2D INGLÉS SUBTITULADO EN ESPAÑOL (VOSE))",
         "time": "12:50",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-17 (meridiano - 2D INGLÉS SUBTITULADO EN ESPAÑOL (VOSE))",
         "time": "16:50",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       }
     ],
     "actors": [
@@ -1272,57 +986,43 @@
         "date": "2026-02-11 (la-villa-de-orotava - 2D ESPAÑOL)",
         "time": "20:20",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-11 (la-villa-de-orotava - 2D ESPAÑOL)",
         "time": "22:40",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-12 (la-villa-de-orotava - 2D ESPAÑOL)",
         "time": "20:20",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-12 (la-villa-de-orotava - 2D ESPAÑOL)",
         "time": "22:40",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-13 (la-villa-de-orotava - 2D ESPAÑOL)",
         "time": "22:35",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-14 (la-villa-de-orotava - 2D ESPAÑOL)",
         "time": "22:35",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-15 (la-villa-de-orotava - 2D ESPAÑOL)",
         "time": "22:35",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       }
     ],
     "actors": [
@@ -1350,337 +1050,253 @@
         "date": "2026-02-11 (la-villa-de-orotava - 2D ESPAÑOL)",
         "time": "17:05",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-11 (la-villa-de-orotava - 2D ESPAÑOL)",
         "time": "19:40",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-11 (la-villa-de-orotava - 2D ESPAÑOL)",
         "time": "22:20",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-12 (la-villa-de-orotava - 2D ESPAÑOL)",
         "time": "17:10",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-12 (la-villa-de-orotava - 2D ESPAÑOL)",
         "time": "22:20",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-13 (la-villa-de-orotava - 2D ESPAÑOL)",
         "time": "19:35",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-13 (la-villa-de-orotava - 2D ESPAÑOL)",
         "time": "22:15",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-14 (la-villa-de-orotava - 2D ESPAÑOL)",
         "time": "19:35",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-14 (la-villa-de-orotava - 2D ESPAÑOL)",
         "time": "22:15",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-15 (la-villa-de-orotava - 2D ESPAÑOL)",
         "time": "19:35",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-15 (la-villa-de-orotava - 2D ESPAÑOL)",
         "time": "22:15",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-16 (la-villa-de-orotava - 2D ESPAÑOL)",
         "time": "19:35",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-16 (la-villa-de-orotava - 2D ESPAÑOL)",
         "time": "22:15",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-17 (la-villa-de-orotava - 2D ESPAÑOL)",
         "time": "19:35",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-17 (la-villa-de-orotava - 2D ESPAÑOL)",
         "time": "22:15",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-18 (la-villa-de-orotava - 2D ESPAÑOL)",
         "time": "19:35",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-18 (la-villa-de-orotava - 2D ESPAÑOL)",
         "time": "22:15",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-19 (la-villa-de-orotava - 2D ESPAÑOL)",
         "time": "19:35",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-19 (la-villa-de-orotava - 2D ESPAÑOL)",
         "time": "22:15",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-11 (meridiano - 2D ESPAÑOL)",
         "time": "17:00",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-11 (meridiano - 2D ESPAÑOL)",
         "time": "19:40",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-11 (meridiano - 2D ESPAÑOL)",
         "time": "22:20",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-12 (meridiano - 2D ESPAÑOL)",
         "time": "17:00",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-12 (meridiano - 2D ESPAÑOL)",
         "time": "19:40",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-12 (meridiano - 2D ESPAÑOL)",
         "time": "22:20",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-13 (meridiano - 2D ESPAÑOL)",
         "time": "19:55",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-13 (meridiano - 2D ESPAÑOL)",
         "time": "22:40",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-14 (meridiano - 2D ESPAÑOL)",
         "time": "19:55",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-14 (meridiano - 2D ESPAÑOL)",
         "time": "22:40",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-15 (meridiano - 2D ESPAÑOL)",
         "time": "12:25",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-15 (meridiano - 2D ESPAÑOL)",
         "time": "19:40",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-15 (meridiano - 2D ESPAÑOL)",
         "time": "22:20",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-16 (meridiano - 2D ESPAÑOL)",
         "time": "17:00",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-16 (meridiano - 2D ESPAÑOL)",
         "time": "19:40",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-16 (meridiano - 2D ESPAÑOL)",
         "time": "22:20",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-17 (meridiano - 2D ESPAÑOL)",
         "time": "12:25",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-17 (meridiano - 2D ESPAÑOL)",
         "time": "19:40",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-17 (meridiano - 2D ESPAÑOL)",
         "time": "22:20",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-18 (meridiano - 2D ESPAÑOL)",
         "time": "19:40",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-18 (meridiano - 2D ESPAÑOL)",
         "time": "22:20",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-19 (meridiano - 2D ESPAÑOL)",
         "time": "19:40",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-19 (meridiano - 2D ESPAÑOL)",
         "time": "22:20",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       }
     ],
     "actors": [
@@ -1708,241 +1324,181 @@
         "date": "2026-02-11 (la-villa-de-orotava - 2D ESPAÑOL)",
         "time": "18:05",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-11 (la-villa-de-orotava - 2D ESPAÑOL)",
         "time": "20:25",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-11 (la-villa-de-orotava - 2D ESPAÑOL)",
         "time": "22:45",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-12 (la-villa-de-orotava - 2D ESPAÑOL)",
         "time": "18:05",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-12 (la-villa-de-orotava - 2D ESPAÑOL)",
         "time": "20:25",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-12 (la-villa-de-orotava - 2D ESPAÑOL)",
         "time": "22:45",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-13 (la-villa-de-orotava - 2D ESPAÑOL)",
         "time": "17:10",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-14 (la-villa-de-orotava - 2D ESPAÑOL)",
         "time": "21:00",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-15 (la-villa-de-orotava - 2D ESPAÑOL)",
         "time": "21:00",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-16 (la-villa-de-orotava - 2D ESPAÑOL)",
         "time": "17:10",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-16 (la-villa-de-orotava - 2D ESPAÑOL)",
         "time": "21:00",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-17 (la-villa-de-orotava - 2D ESPAÑOL)",
         "time": "17:10",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-17 (la-villa-de-orotava - 2D ESPAÑOL)",
         "time": "21:00",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-18 (la-villa-de-orotava - 2D ESPAÑOL)",
         "time": "17:10",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-18 (la-villa-de-orotava - 2D ESPAÑOL)",
         "time": "21:00",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-19 (la-villa-de-orotava - 2D ESPAÑOL)",
         "time": "17:10",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-19 (la-villa-de-orotava - 2D ESPAÑOL)",
         "time": "21:00",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-11 (meridiano - 2D ESPAÑOL)",
         "time": "17:40",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-11 (meridiano - 2D ESPAÑOL)",
         "time": "20:10",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-11 (meridiano - 2D ESPAÑOL)",
         "time": "22:35",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-12 (meridiano - 2D ESPAÑOL)",
         "time": "17:45",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-12 (meridiano - 2D ESPAÑOL)",
         "time": "20:10",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-12 (meridiano - 2D ESPAÑOL)",
         "time": "22:35",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-13 (meridiano - 2D ESPAÑOL)",
         "time": "17:35",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-14 (meridiano - 2D ESPAÑOL)",
         "time": "17:45",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-15 (meridiano - 2D ESPAÑOL)",
         "time": "17:40",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-16 (meridiano - 2D ESPAÑOL)",
         "time": "17:40",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-17 (meridiano - 2D ESPAÑOL)",
         "time": "17:40",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-18 (meridiano - 2D ESPAÑOL)",
         "time": "17:40",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-19 (meridiano - 2D ESPAÑOL)",
         "time": "17:40",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       }
     ],
     "actors": [
@@ -1973,81 +1529,61 @@
         "date": "2026-02-11 (la-villa-de-orotava - 2D ESPAÑOL)",
         "time": "18:15",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-12 (la-villa-de-orotava - 2D ESPAÑOL)",
         "time": "18:15",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-13 (la-villa-de-orotava - 2D ESPAÑOL)",
         "time": "17:05",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-11 (meridiano - 2D ESPAÑOL)",
         "time": "17:00",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-12 (meridiano - 2D ESPAÑOL)",
         "time": "17:00",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-13 (meridiano - 2D ESPAÑOL)",
         "time": "17:10",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-16 (meridiano - 2D ESPAÑOL)",
         "time": "20:00",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-17 (meridiano - 2D ESPAÑOL)",
         "time": "16:45",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-18 (meridiano - 2D ESPAÑOL)",
         "time": "18:00",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-19 (meridiano - 2D ESPAÑOL)",
         "time": "18:00",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       }
     ],
     "actors": [
@@ -2076,337 +1612,253 @@
         "date": "2026-02-11 (la-villa-de-orotava - 2D ESPAÑOL)",
         "time": "19:05",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-11 (la-villa-de-orotava - 2D ESPAÑOL)",
         "time": "22:00",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-12 (la-villa-de-orotava - 2D ESPAÑOL)",
         "time": "19:05",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-12 (la-villa-de-orotava - 2D ESPAÑOL)",
         "time": "22:00",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-13 (la-villa-de-orotava - 2D ESPAÑOL)",
         "time": "19:05",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-13 (la-villa-de-orotava - 2D ESPAÑOL)",
         "time": "22:05",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-14 (la-villa-de-orotava - 2D ESPAÑOL)",
         "time": "19:05",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-14 (la-villa-de-orotava - 2D ESPAÑOL)",
         "time": "22:05",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-15 (la-villa-de-orotava - 2D ESPAÑOL)",
         "time": "19:05",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-15 (la-villa-de-orotava - 2D ESPAÑOL)",
         "time": "22:05",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-16 (la-villa-de-orotava - 2D ESPAÑOL)",
         "time": "17:15",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-16 (la-villa-de-orotava - 2D ESPAÑOL)",
         "time": "19:05",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-16 (la-villa-de-orotava - 2D ESPAÑOL)",
         "time": "22:05",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-17 (la-villa-de-orotava - 2D ESPAÑOL)",
         "time": "17:15",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-17 (la-villa-de-orotava - 2D ESPAÑOL)",
         "time": "19:05",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-18 (la-villa-de-orotava - 2D ESPAÑOL)",
         "time": "17:15",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-18 (la-villa-de-orotava - 2D ESPAÑOL)",
         "time": "19:05",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-18 (la-villa-de-orotava - 2D ESPAÑOL)",
         "time": "22:05",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-19 (la-villa-de-orotava - 2D ESPAÑOL)",
         "time": "17:15",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-19 (la-villa-de-orotava - 2D ESPAÑOL)",
         "time": "19:05",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-19 (la-villa-de-orotava - 2D ESPAÑOL)",
         "time": "22:05",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-17 (la-villa-de-orotava - 2D INGLÉS SUBTITULADO EN ESPAÑOL (VOSE))",
         "time": "22:05",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-11 (meridiano - 2D ESPAÑOL)",
         "time": "19:00",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-11 (meridiano - 2D ESPAÑOL)",
         "time": "22:00",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-12 (meridiano - 2D ESPAÑOL)",
         "time": "19:00",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-12 (meridiano - 2D ESPAÑOL)",
         "time": "22:00",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-13 (meridiano - 2D ESPAÑOL)",
         "time": "17:30",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-13 (meridiano - 2D ESPAÑOL)",
         "time": "20:30",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-14 (meridiano - 2D ESPAÑOL)",
         "time": "19:00",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-14 (meridiano - 2D ESPAÑOL)",
         "time": "22:00",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-15 (meridiano - 2D ESPAÑOL)",
         "time": "19:00",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-15 (meridiano - 2D ESPAÑOL)",
         "time": "22:00",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-16 (meridiano - 2D ESPAÑOL)",
         "time": "17:30",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-16 (meridiano - 2D ESPAÑOL)",
         "time": "20:30",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-17 (meridiano - 2D ESPAÑOL)",
         "time": "21:45",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-18 (meridiano - 2D ESPAÑOL)",
         "time": "17:30",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-18 (meridiano - 2D ESPAÑOL)",
         "time": "20:30",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-19 (meridiano - 2D ESPAÑOL)",
         "time": "17:30",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-19 (meridiano - 2D ESPAÑOL)",
         "time": "20:30",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-15 (meridiano - 2D INGLÉS SUBTITULADO EN ESPAÑOL (VOSE))",
         "time": "12:40",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-17 (meridiano - 2D INGLÉS SUBTITULADO EN ESPAÑOL (VOSE))",
         "time": "12:40",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-17 (meridiano - 2D INGLÉS SUBTITULADO EN ESPAÑOL (VOSE))",
         "time": "18:45",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       }
     ],
     "actors": [
@@ -2438,297 +1890,223 @@
         "date": "2026-02-11 (la-villa-de-orotava - 2D ESPAÑOL)",
         "time": "18:30",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-11 (la-villa-de-orotava - 2D ESPAÑOL)",
         "time": "20:30",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-11 (la-villa-de-orotava - 2D ESPAÑOL)",
         "time": "22:35",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-12 (la-villa-de-orotava - 2D ESPAÑOL)",
         "time": "18:30",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-12 (la-villa-de-orotava - 2D ESPAÑOL)",
         "time": "20:30",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-12 (la-villa-de-orotava - 2D ESPAÑOL)",
         "time": "22:35",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-13 (la-villa-de-orotava - 2D ESPAÑOL)",
         "time": "17:15",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-13 (la-villa-de-orotava - 2D ESPAÑOL)",
         "time": "21:55",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-14 (la-villa-de-orotava - 2D ESPAÑOL)",
         "time": "17:40",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-14 (la-villa-de-orotava - 2D ESPAÑOL)",
         "time": "21:55",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-15 (la-villa-de-orotava - 2D ESPAÑOL)",
         "time": "17:40",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-15 (la-villa-de-orotava - 2D ESPAÑOL)",
         "time": "21:55",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-16 (la-villa-de-orotava - 2D ESPAÑOL)",
         "time": "17:15",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-16 (la-villa-de-orotava - 2D ESPAÑOL)",
         "time": "21:55",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-17 (la-villa-de-orotava - 2D ESPAÑOL)",
         "time": "21:55",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-18 (la-villa-de-orotava - 2D ESPAÑOL)",
         "time": "17:15",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-18 (la-villa-de-orotava - 2D ESPAÑOL)",
         "time": "21:55",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-19 (la-villa-de-orotava - 2D ESPAÑOL)",
         "time": "17:15",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-19 (la-villa-de-orotava - 2D ESPAÑOL)",
         "time": "21:55",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-11 (meridiano - 2D ESPAÑOL)",
         "time": "18:20",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-11 (meridiano - 2D ESPAÑOL)",
         "time": "20:30",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-11 (meridiano - 2D ESPAÑOL)",
         "time": "22:35",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-12 (meridiano - 2D ESPAÑOL)",
         "time": "18:20",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-12 (meridiano - 2D ESPAÑOL)",
         "time": "20:30",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-12 (meridiano - 2D ESPAÑOL)",
         "time": "22:35",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-13 (meridiano - 2D ESPAÑOL)",
         "time": "22:05",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-14 (meridiano - 2D ESPAÑOL)",
         "time": "22:05",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-15 (meridiano - 2D ESPAÑOL)",
         "time": "15:45",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-15 (meridiano - 2D ESPAÑOL)",
         "time": "22:05",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-16 (meridiano - 2D ESPAÑOL)",
         "time": "17:10",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-16 (meridiano - 2D ESPAÑOL)",
         "time": "22:40",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-17 (meridiano - 2D ESPAÑOL)",
         "time": "18:10",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-17 (meridiano - 2D ESPAÑOL)",
         "time": "22:15",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-18 (meridiano - 2D ESPAÑOL)",
         "time": "17:10",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-18 (meridiano - 2D ESPAÑOL)",
         "time": "22:40",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-19 (meridiano - 2D ESPAÑOL)",
         "time": "17:10",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-19 (meridiano - 2D ESPAÑOL)",
         "time": "22:40",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       }
     ],
     "actors": [
@@ -2760,89 +2138,67 @@
         "date": "2026-02-11 (la-villa-de-orotava - 2D ESPAÑOL)",
         "time": "22:25",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-12 (la-villa-de-orotava - 2D ESPAÑOL)",
         "time": "22:25",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-11 (meridiano - 2D ESPAÑOL)",
         "time": "21:55",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-12 (meridiano - 2D ESPAÑOL)",
         "time": "22:15",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-13 (meridiano - 2D ESPAÑOL)",
         "time": "22:25",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-14 (meridiano - 2D ESPAÑOL)",
         "time": "22:45",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-15 (meridiano - 2D ESPAÑOL)",
         "time": "22:35",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-16 (meridiano - 2D ESPAÑOL)",
         "time": "22:35",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-17 (meridiano - 2D ESPAÑOL)",
         "time": "22:35",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-18 (meridiano - 2D ESPAÑOL)",
         "time": "22:35",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-19 (meridiano - 2D ESPAÑOL)",
         "time": "22:35",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       }
     ],
     "actors": [
@@ -2870,25 +2226,19 @@
         "date": "2026-02-11 (la-villa-de-orotava - 2D ESPAÑOL)",
         "time": "17:00",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-12 (la-villa-de-orotava - 2D ESPAÑOL)",
         "time": "17:00",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-12 (meridiano - 2D ESPAÑOL)",
         "time": "17:00",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       }
     ],
     "actors": [
@@ -2918,97 +2268,73 @@
         "date": "2026-02-11 (meridiano - 2D ESPAÑOL)",
         "time": "17:05",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-11 (meridiano - 2D ESPAÑOL)",
         "time": "19:30",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-12 (meridiano - 2D ESPAÑOL)",
         "time": "17:30",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-13 (meridiano - 2D ESPAÑOL)",
         "time": "17:45",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-14 (meridiano - 2D ESPAÑOL)",
         "time": "20:15",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-15 (meridiano - 2D ESPAÑOL)",
         "time": "20:05",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-16 (meridiano - 2D ESPAÑOL)",
         "time": "20:05",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-17 (meridiano - 2D ESPAÑOL)",
         "time": "20:05",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-18 (meridiano - 2D ESPAÑOL)",
         "time": "20:05",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-19 (meridiano - 2D ESPAÑOL)",
         "time": "20:05",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-15 (meridiano - 2D ITALIANO SUBTITULADO EN ESPAÑOL (VOSE))",
         "time": "12:10",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-17 (meridiano - 2D ITALIANO SUBTITULADO EN ESPAÑOL (VOSE))",
         "time": "12:10",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       }
     ],
     "actors": [
@@ -3035,169 +2361,127 @@
         "date": "2026-02-11 (la-villa-de-orotava - 2D ESPAÑOL)",
         "time": "17:10",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-11 (la-villa-de-orotava - 2D ESPAÑOL)",
         "time": "19:50",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-12 (la-villa-de-orotava - 2D ESPAÑOL)",
         "time": "17:10",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-12 (la-villa-de-orotava - 2D ESPAÑOL)",
         "time": "19:50",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-13 (la-villa-de-orotava - 2D ESPAÑOL)",
         "time": "19:20",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-14 (la-villa-de-orotava - 2D ESPAÑOL)",
         "time": "19:20",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-15 (la-villa-de-orotava - 2D ESPAÑOL)",
         "time": "19:20",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-16 (la-villa-de-orotava - 2D ESPAÑOL)",
         "time": "19:20",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-17 (la-villa-de-orotava - 2D ESPAÑOL)",
         "time": "19:20",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-18 (la-villa-de-orotava - 2D ESPAÑOL)",
         "time": "19:20",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-19 (la-villa-de-orotava - 2D ESPAÑOL)",
         "time": "19:20",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-11 (meridiano - 2D ESPAÑOL)",
         "time": "18:30",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-12 (meridiano - 2D ESPAÑOL)",
         "time": "17:40",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-12 (meridiano - 2D ESPAÑOL)",
         "time": "22:20",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-13 (meridiano - 2D ESPAÑOL)",
         "time": "17:20",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-14 (meridiano - 2D ESPAÑOL)",
         "time": "17:20",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-15 (meridiano - 2D ESPAÑOL)",
         "time": "17:05",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-16 (meridiano - 2D ESPAÑOL)",
         "time": "17:15",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-17 (meridiano - 2D ESPAÑOL)",
         "time": "17:05",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-18 (meridiano - 2D ESPAÑOL)",
         "time": "17:05",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       },
       {
         "date": "2026-02-19 (meridiano - 2D ESPAÑOL)",
         "time": "17:05",
         "theater": "yelmo",
-        "cinema": null,
-        "format": null,
-        "url": null
+        "format": null
       }
     ],
     "actors": [

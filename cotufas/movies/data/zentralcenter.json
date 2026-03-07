@@ -1,418 +1,454 @@
 [
   {
-    "title": "AIDA Y VUELTA",
-    "length": "110 min.",
-    "age": "7",
+    "title": "CLEANER: RESCATE VERTICAL",
+    "length": "97 min.",
+    "age": "16",
     "theater": "zentralcenter",
-    "language": "SIN SUBTITULOS",
+    "format": "SIN SUBTITULOS",
     "showings": {
-      "2026-02-11": {
-        "SALA 3": [
-          "16:30"
-        ]
-      },
-      "2026-02-12": {
-        "SALA 3": [
-          "16:30"
-        ]
-      }
+      "2026-03-07": [
+        {
+          "time": "16:45",
+          "format": "SIN SUBTITULOS"
+        },
+        {
+          "time": "19:00",
+          "format": "SIN SUBTITULOS"
+        },
+        {
+          "time": "21:15",
+          "format": "SIN SUBTITULOS"
+        }
+      ],
+      "2026-03-08": [
+        {
+          "time": "12:00",
+          "format": "SIN SUBTITULOS"
+        },
+        {
+          "time": "16:45",
+          "format": "SIN SUBTITULOS"
+        },
+        {
+          "time": "19:00",
+          "format": "SIN SUBTITULOS"
+        },
+        {
+          "time": "21:15",
+          "format": "SIN SUBTITULOS"
+        }
+      ],
+      "2026-03-09": [
+        {
+          "time": "16:45",
+          "format": "SIN SUBTITULOS"
+        },
+        {
+          "time": "19:00",
+          "format": "SIN SUBTITULOS"
+        },
+        {
+          "time": "21:15",
+          "format": "SIN SUBTITULOS"
+        }
+      ],
+      "2026-03-10": [
+        {
+          "time": "16:45",
+          "format": "SIN SUBTITULOS"
+        },
+        {
+          "time": "19:00",
+          "format": "SIN SUBTITULOS"
+        },
+        {
+          "time": "21:15",
+          "format": "SIN SUBTITULOS"
+        }
+      ],
+      "2026-03-11": [
+        {
+          "time": "16:45",
+          "format": "SIN SUBTITULOS"
+        },
+        {
+          "time": "19:00",
+          "format": "SIN SUBTITULOS"
+        },
+        {
+          "time": "21:15",
+          "format": "SIN SUBTITULOS"
+        }
+      ],
+      "2026-03-12": [
+        {
+          "time": "16:45",
+          "format": "SIN SUBTITULOS"
+        },
+        {
+          "time": "19:00",
+          "format": "SIN SUBTITULOS"
+        },
+        {
+          "time": "21:15",
+          "format": "SIN SUBTITULOS"
+        }
+      ]
     },
     "actors": null,
     "directors": null,
     "genres": null,
     "synopsis": null,
-    "url": null
+    "url": "https://kinetike.com:83/views/peliculas.aspx?s=INTERNETx51x0l23d875"
   },
   {
-    "title": "CUMBRES BORRASCOSAS",
-    "length": "130 min.",
-    "age": "Desconocida",
+    "title": "HOPPERS",
+    "length": "105 min.",
+    "age": "0",
     "theater": "zentralcenter",
-    "language": "SIN SUBTITULOS",
+    "format": "SIN SUBTITULOS",
     "showings": {
-      "2026-02-13": {
-        "SALA 2": [
-          "16:15",
-          "19:00",
-          "21:45"
-        ]
-      },
-      "2026-02-14": {
-        "SALA 2": [
-          "16:15",
-          "19:00",
-          "21:45"
-        ]
-      },
-      "2026-02-15": {
-        "SALA 2": [
-          "12:00",
-          "16:15",
-          "19:00",
-          "21:45"
-        ]
-      },
-      "2026-02-16": {
-        "SALA 2": [
-          "16:15",
-          "19:00",
-          "21:45"
-        ]
-      },
-      "2026-02-17": {
-        "SALA 2": [
-          "16:15",
-          "19:00",
-          "21:45"
-        ]
-      },
-      "2026-02-18": {
-        "SALA 2": [
-          "16:15",
-          "19:00",
-          "21:45"
-        ]
-      }
+      "2026-03-07": [
+        {
+          "time": "16:45",
+          "format": "SIN SUBTITULOS"
+        },
+        {
+          "time": "19:10",
+          "format": "SIN SUBTITULOS"
+        },
+        {
+          "time": "21:30",
+          "format": "SIN SUBTITULOS"
+        }
+      ],
+      "2026-03-08": [
+        {
+          "time": "12:00",
+          "format": "SIN SUBTITULOS"
+        },
+        {
+          "time": "16:45",
+          "format": "SIN SUBTITULOS"
+        },
+        {
+          "time": "19:10",
+          "format": "SIN SUBTITULOS"
+        },
+        {
+          "time": "21:30",
+          "format": "SIN SUBTITULOS"
+        }
+      ],
+      "2026-03-09": [
+        {
+          "time": "16:45",
+          "format": "SIN SUBTITULOS"
+        },
+        {
+          "time": "19:10",
+          "format": "SIN SUBTITULOS"
+        },
+        {
+          "time": "21:30",
+          "format": "SIN SUBTITULOS"
+        }
+      ],
+      "2026-03-10": [
+        {
+          "time": "16:45",
+          "format": "SIN SUBTITULOS"
+        },
+        {
+          "time": "19:10",
+          "format": "SIN SUBTITULOS"
+        },
+        {
+          "time": "21:30",
+          "format": "SIN SUBTITULOS"
+        }
+      ],
+      "2026-03-11": [
+        {
+          "time": "16:45",
+          "format": "SIN SUBTITULOS"
+        },
+        {
+          "time": "19:10",
+          "format": "SIN SUBTITULOS"
+        },
+        {
+          "time": "21:30",
+          "format": "SIN SUBTITULOS"
+        }
+      ],
+      "2026-03-12": [
+        {
+          "time": "16:45",
+          "format": "SIN SUBTITULOS"
+        },
+        {
+          "time": "19:10",
+          "format": "SIN SUBTITULOS"
+        },
+        {
+          "time": "21:30",
+          "format": "SIN SUBTITULOS"
+        }
+      ]
     },
     "actors": null,
     "directors": null,
     "genres": null,
     "synopsis": null,
-    "url": null
+    "url": "https://kinetike.com:83/views/peliculas.aspx?s=INTERNETx51x0l23d875"
   },
   {
-    "title": "EVOLUTION",
-    "length": "95 min.",
-    "age": "Desconocida",
+    "title": "SCREAM 7",
+    "length": "114 min.",
+    "age": "0",
     "theater": "zentralcenter",
-    "language": "SIN SUBTITULOS",
+    "format": "SIN SUBTITULOS",
     "showings": {
-      "2026-02-11": {
-        "SALA 4": [
-          "16:45",
-          "19:00",
-          "21:00"
-        ]
-      },
-      "2026-02-12": {
-        "SALA 4": [
-          "16:45",
-          "19:00",
-          "21:00"
-        ]
-      },
-      "2026-02-13": {
-        "SALA 3": [
-          "18:45"
-        ],
-        "-SALA 4": [
-          "16:30"
-        ]
-      },
-      "2026-02-14": {
-        "SALA 3": [
-          "18:45"
-        ],
-        "-SALA 4": [
-          "16:30"
-        ]
-      },
-      "2026-02-15": {
-        "SALA 3": [
-          "18:45"
-        ],
-        "-SALA 4": [
-          "12:00",
-          "16:30"
-        ]
-      },
-      "2026-02-16": {
-        "SALA 3": [
-          "18:45"
-        ],
-        "-SALA 4": [
-          "16:30"
-        ]
-      },
-      "2026-02-17": {
-        "SALA 3": [
-          "18:45"
-        ],
-        "-SALA 4": [
-          "16:30"
-        ]
-      },
-      "2026-02-18": {
-        "SALA 3": [
-          "18:45"
-        ],
-        "-SALA 4": [
-          "16:30"
-        ]
-      }
+      "2026-03-07": [
+        {
+          "time": "16:30",
+          "format": "SIN SUBTITULOS"
+        },
+        {
+          "time": "19:00",
+          "format": "SIN SUBTITULOS"
+        },
+        {
+          "time": "21:30",
+          "format": "SIN SUBTITULOS"
+        }
+      ],
+      "2026-03-08": [
+        {
+          "time": "12:00",
+          "format": "SIN SUBTITULOS"
+        },
+        {
+          "time": "16:30",
+          "format": "SIN SUBTITULOS"
+        },
+        {
+          "time": "19:00",
+          "format": "SIN SUBTITULOS"
+        },
+        {
+          "time": "21:30",
+          "format": "SIN SUBTITULOS"
+        }
+      ],
+      "2026-03-09": [
+        {
+          "time": "16:30",
+          "format": "SIN SUBTITULOS"
+        },
+        {
+          "time": "19:00",
+          "format": "SIN SUBTITULOS"
+        },
+        {
+          "time": "21:30",
+          "format": "SIN SUBTITULOS"
+        }
+      ],
+      "2026-03-10": [
+        {
+          "time": "16:30",
+          "format": "SIN SUBTITULOS"
+        },
+        {
+          "time": "19:00",
+          "format": "SIN SUBTITULOS"
+        },
+        {
+          "time": "21:30",
+          "format": "SIN SUBTITULOS"
+        }
+      ],
+      "2026-03-11": [
+        {
+          "time": "16:30",
+          "format": "SIN SUBTITULOS"
+        },
+        {
+          "time": "19:00",
+          "format": "SIN SUBTITULOS"
+        },
+        {
+          "time": "21:30",
+          "format": "SIN SUBTITULOS"
+        }
+      ],
+      "2026-03-12": [
+        {
+          "time": "16:30",
+          "format": "SIN SUBTITULOS"
+        },
+        {
+          "time": "19:00",
+          "format": "SIN SUBTITULOS"
+        },
+        {
+          "time": "21:30",
+          "format": "SIN SUBTITULOS"
+        }
+      ]
     },
     "actors": null,
     "directors": null,
     "genres": null,
     "synopsis": null,
-    "url": null
+    "url": "https://kinetike.com:83/views/peliculas.aspx?s=INTERNETx51x0l23d875"
   },
   {
-    "title": "GOAT, COMO CABRAS",
+    "title": "TORRENTE PRESIDENTE",
     "length": "100 min.",
-    "age": "Desconocida",
+    "age": "0",
     "theater": "zentralcenter",
-    "language": "SIN SUBTITULOS",
+    "format": "SIN SUBTITULOS",
     "showings": {
-      "2026-02-13": {
-        "SALA 1": [
-          "16:30",
-          "18:50",
-          "21:00"
-        ]
-      },
-      "2026-02-14": {
-        "SALA 1": [
-          "16:30",
-          "18:50",
-          "21:00"
-        ]
-      },
-      "2026-02-15": {
-        "SALA 1": [
-          "12:00",
-          "16:30",
-          "18:50",
-          "21:00"
-        ]
-      },
-      "2026-02-16": {
-        "SALA 1": [
-          "16:30",
-          "18:50",
-          "21:00"
-        ]
-      },
-      "2026-02-17": {
-        "SALA 1": [
-          "16:30",
-          "18:50",
-          "21:00"
-        ]
-      },
-      "2026-02-18": {
-        "SALA 1": [
-          "16:30",
-          "18:50",
-          "21:00"
-        ]
-      }
+      "2026-03-07": [],
+      "2026-03-08": [],
+      "2026-03-09": [],
+      "2026-03-10": [],
+      "2026-03-11": [],
+      "2026-03-12": [],
+      "2026-03-13": [
+        {
+          "time": "16:30",
+          "format": "SIN SUBTITULOS"
+        },
+        {
+          "time": "18:45",
+          "format": "SIN SUBTITULOS"
+        },
+        {
+          "time": "21:00",
+          "format": "SIN SUBTITULOS"
+        }
+      ],
+      "2026-03-14": [
+        {
+          "time": "16:30",
+          "format": "SIN SUBTITULOS"
+        },
+        {
+          "time": "18:45",
+          "format": "SIN SUBTITULOS"
+        },
+        {
+          "time": "21:00",
+          "format": "SIN SUBTITULOS"
+        }
+      ]
     },
     "actors": null,
     "directors": null,
     "genres": null,
     "synopsis": null,
-    "url": null
+    "url": "https://kinetike.com:83/views/peliculas.aspx?s=INTERNETx51x0l23d875"
   },
   {
-    "title": "HELLBOY: EL HOMBRE RETORCIDO",
-    "length": "99 min.",
-    "age": "16",
+    "title": "¡LA NOVIA!",
+    "length": "126 min.",
+    "age": "12",
     "theater": "zentralcenter",
-    "language": "SIN SUBTITULOS",
+    "format": "SIN SUBTITULOS",
     "showings": {
-      "2026-02-11": {
-        "SALA 2": [
-          "16:30",
-          "18:45",
-          "21:00"
-        ]
-      },
-      "2026-02-12": {
-        "SALA 2": [
-          "16:30",
-          "18:45",
-          "21:00"
-        ]
-      },
-      "2026-02-13": {
-        "SALA 3": [
-          "16:30"
-        ],
-        "-SALA 4": [
-          "21:15"
-        ]
-      },
-      "2026-02-14": {
-        "SALA 3": [
-          "16:30"
-        ],
-        "-SALA 4": [
-          "21:15"
-        ]
-      },
-      "2026-02-15": {
-        "SALA 3": [
-          "12:00",
-          "16:30"
-        ],
-        "-SALA 4": [
-          "21:15"
-        ]
-      },
-      "2026-02-16": {
-        "SALA 3": [
-          "16:30"
-        ],
-        "-SALA 4": [
-          "21:15"
-        ]
-      },
-      "2026-02-17": {
-        "SALA 3": [
-          "16:30"
-        ],
-        "-SALA 4": [
-          "21:15"
-        ]
-      },
-      "2026-02-18": {
-        "SALA 3": [
-          "16:30"
-        ],
-        "-SALA 4": [
-          "21:15"
-        ]
-      }
+      "2026-03-07": [
+        {
+          "time": "19:00",
+          "format": "SIN SUBTITULOS"
+        },
+        {
+          "time": "21:30",
+          "format": "SIN SUBTITULOS"
+        }
+      ],
+      "2026-03-08": [
+        {
+          "time": "12:00",
+          "format": "SIN SUBTITULOS"
+        },
+        {
+          "time": "16:15",
+          "format": "SIN SUBTITULOS"
+        },
+        {
+          "time": "18:50",
+          "format": "SIN SUBTITULOS"
+        },
+        {
+          "time": "21:30",
+          "format": "SIN SUBTITULOS"
+        }
+      ],
+      "2026-03-09": [
+        {
+          "time": "16:15",
+          "format": "SIN SUBTITULOS"
+        },
+        {
+          "time": "18:50",
+          "format": "SIN SUBTITULOS"
+        },
+        {
+          "time": "21:30",
+          "format": "SIN SUBTITULOS"
+        }
+      ],
+      "2026-03-10": [
+        {
+          "time": "16:15",
+          "format": "SIN SUBTITULOS"
+        },
+        {
+          "time": "18:50",
+          "format": "SIN SUBTITULOS"
+        },
+        {
+          "time": "21:30",
+          "format": "SIN SUBTITULOS"
+        }
+      ],
+      "2026-03-11": [
+        {
+          "time": "16:15",
+          "format": "SIN SUBTITULOS"
+        },
+        {
+          "time": "18:50",
+          "format": "SIN SUBTITULOS"
+        },
+        {
+          "time": "21:30",
+          "format": "SIN SUBTITULOS"
+        }
+      ],
+      "2026-03-12": [
+        {
+          "time": "16:15",
+          "format": "SIN SUBTITULOS"
+        },
+        {
+          "time": "18:50",
+          "format": "SIN SUBTITULOS"
+        },
+        {
+          "time": "21:30",
+          "format": "SIN SUBTITULOS"
+        }
+      ]
     },
     "actors": null,
     "directors": null,
     "genres": null,
     "synopsis": null,
-    "url": null
-  },
-  {
-    "title": "LA LUCHA",
-    "length": "92 min.",
-    "age": "7",
-    "theater": "zentralcenter",
-    "language": "SIN SUBTITULOS",
-    "showings": {
-      "2026-02-11": {
-        "SALA 3": [
-          "18:45"
-        ]
-      },
-      "2026-02-12": {
-        "SALA 3": [
-          "18:45"
-        ]
-      }
-    },
-    "actors": null,
-    "directors": null,
-    "genres": null,
-    "synopsis": null,
-    "url": null
-  },
-  {
-    "title": "MARTY SUPREME",
-    "length": "149 min.",
-    "age": "16",
-    "theater": "zentralcenter",
-    "language": "SIN SUBTITULOS",
-    "showings": {
-      "2026-02-11": {
-        "SALA 3": [
-          "21:00"
-        ]
-      },
-      "2026-02-12": {
-        "SALA 3": [
-          "21:00"
-        ]
-      }
-    },
-    "actors": null,
-    "directors": null,
-    "genres": null,
-    "synopsis": null,
-    "url": null
-  },
-  {
-    "title": "PRIMATE",
-    "length": "88 min.",
-    "age": "18",
-    "theater": "zentralcenter",
-    "language": "SIN SUBTITULOS",
-    "showings": {
-      "2026-02-11": {
-        "SALA 1": [
-          "17:00",
-          "19:15",
-          "21:30"
-        ]
-      },
-      "2026-02-12": {
-        "SALA 1": [
-          "17:00",
-          "19:15",
-          "21:30"
-        ]
-      },
-      "2026-02-13": {
-        "SALA 3": [
-          "21:00"
-        ],
-        "-SALA 4": [
-          "19:00"
-        ]
-      },
-      "2026-02-14": {
-        "SALA 3": [
-          "21:00"
-        ],
-        "-SALA 4": [
-          "19:00"
-        ]
-      },
-      "2026-02-15": {
-        "SALA 3": [
-          "21:00"
-        ],
-        "-SALA 4": [
-          "19:00"
-        ]
-      },
-      "2026-02-16": {
-        "SALA 3": [
-          "21:00"
-        ],
-        "-SALA 4": [
-          "19:00"
-        ]
-      },
-      "2026-02-17": {
-        "SALA 3": [
-          "21:00"
-        ],
-        "-SALA 4": [
-          "19:00"
-        ]
-      },
-      "2026-02-18": {
-        "SALA 3": [
-          "21:00"
-        ],
-        "-SALA 4": [
-          "19:00"
-        ]
-      }
-    },
-    "actors": null,
-    "directors": null,
-    "genres": null,
-    "synopsis": null,
-    "url": null
+    "url": "https://kinetike.com:83/views/peliculas.aspx?s=INTERNETx51x0l23d875"
   }
 ]

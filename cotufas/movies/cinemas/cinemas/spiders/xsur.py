@@ -24,4 +24,5 @@ class XsurSpider(scrapy.Spider):
             'age': data[1].split(':  ')[1],
             'theater': 'xsur',
             'showings': data[3:],
+            'url': response.url,
         }

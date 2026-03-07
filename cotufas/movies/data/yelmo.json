@@ -1,124 +1,64 @@
 [
   {
-    "title": "28 años después: El templo de los huesos",
-    "length": "109",
-    "age": "M-18",
+    "title": "2026 RIIZE CONCERT TOUR RIIZING LOUD",
+    "length": "200",
+    "age": "0",
     "theater": "yelmo",
     "showings": {
-      "2026-02-11 (meridiano - 2D ESPAÑOL)": [
-        "22:25"
-      ],
-      "2026-02-12 (meridiano - 2D ESPAÑOL)": [
-        "22:25"
-      ],
-      "2026-02-13 (meridiano - 2D ESPAÑOL)": [
-        "22:15"
-      ],
-      "2026-02-14 (meridiano - 2D ESPAÑOL)": [
-        "22:15"
-      ],
-      "2026-02-15 (meridiano - 2D ESPAÑOL)": [
-        "22:15"
-      ],
-      "2026-02-16 (meridiano - 2D ESPAÑOL)": [
-        "22:15"
-      ],
-      "2026-02-17 (meridiano - 2D ESPAÑOL)": [
-        "22:05"
-      ],
-      "2026-02-18 (meridiano - 2D ESPAÑOL)": [
-        "22:15"
-      ],
-      "2026-02-19 (meridiano - 2D ESPAÑOL)": [
-        "22:15"
+      "2026-03-07": [
+        {
+          "time": "16:00",
+          "cinema": "meridiano",
+          "format": "2D COR"
+        }
       ]
     },
     "actors": [
-      "Ralph Fiennes",
-      "Jack O'Connell",
-      "Alfie Williams",
-      "Erin Kellyman",
-      "Chi Lewis-Parry"
+      "SHOTARO ",
+      "EUNSEOK ",
+      "SUNGCHAN ",
+      "WONBIN ",
+      "SOHEE ",
+      "ANTON "
     ],
     "directors": [
-      "Nia DaCosta"
-    ],
-    "producers": [
-      "Danny Boyle",
-      "Alex Garland",
-      "Andrew Macdonald",
-      "Peter Rice",
-      "Bernard Bellew"
+      "Kyung-chan Kim"
     ],
     "genres": [
-      "TERROR"
+      "CONCIERTO,CONTENIDO ALTERNATIVO"
     ],
-    "synopsis": "Ampliando el mundo creado por Danny Boyle y Alex Garland en ‘28 años después’, pero dándole un giro radical, Nia DaCosta dirige ‘28 años después: El templo de los huesos’. En la continuación de esta épica historia, el Dr. Kelson (Ralph Fiennes) se ve envuelto en una nueva y sorprendente relación, cuyas consecuencias podrían cambiar el mundo tal y como lo conocen, y el encuentro de Spike (Alfie Williams) con Jimmy Crystal (Jack O'Connell) se convierte en una pesadilla de la que no puede escapar. En el mundo de ‘El templo de los huesos’, los infectados ya no son la mayor amenaza para la supervivencia: la inhumanidad de los supervivientes puede ser aún más extraña y aterradora.",
-    "url": "https://www.yelmocines.es/sinopsis/28-anos-despues-el-templo-de-los-huesos"
+    "synopsis": "¡El espectacular final de la primera gira mundial de RIIZE, que cautivó a 21 ciudades de todo el mundo! 2026 RIIZE CONCERT TOUR [RIIZING LOUD] FINALE IN SEOUL Siente el rugido de la multitud y las impresionantes imágenes, solo en cines con pantallas inmersivas y sonido nítido.",
+    "url": "https://www.yelmocines.es/sinopsis/2026-riize-concert-tour-riizing-loud"
   },
   {
     "title": "Avatar: Fuego y ceniza",
     "length": "197",
-    "age": "M-12",
+    "age": "12",
     "theater": "yelmo",
     "showings": {
-      "2026-02-11 (la-villa-de-orotava - 3D ESPAÑOL)": [
-        "20:00"
+      "2026-03-07": [
+        {
+          "time": "21:00",
+          "cinema": "la-villa-de-orotava",
+          "format": "3D ESPAÑOL"
+        },
+        {
+          "time": "20:30",
+          "cinema": "meridiano",
+          "format": "3D ESPAÑOL"
+        }
       ],
-      "2026-02-12 (la-villa-de-orotava - 3D ESPAÑOL)": [
-        "20:00"
-      ],
-      "2026-02-13 (la-villa-de-orotava - 3D ESPAÑOL)": [
-        "20:40"
-      ],
-      "2026-02-14 (la-villa-de-orotava - 3D ESPAÑOL)": [
-        "20:40"
-      ],
-      "2026-02-15 (la-villa-de-orotava - 3D ESPAÑOL)": [
-        "20:40"
-      ],
-      "2026-02-16 (la-villa-de-orotava - 3D ESPAÑOL)": [
-        "20:05"
-      ],
-      "2026-02-17 (la-villa-de-orotava - 3D ESPAÑOL)": [
-        "20:40"
-      ],
-      "2026-02-18 (la-villa-de-orotava - 3D ESPAÑOL)": [
-        "20:05"
-      ],
-      "2026-02-19 (la-villa-de-orotava - 3D ESPAÑOL)": [
-        "20:05"
-      ],
-      "2026-02-12 (la-villa-de-orotava - 2D ESPAÑOL)": [
-        "21:00"
-      ],
-      "2026-02-11 (meridiano - 2D ESPAÑOL)": [
-        "21:10"
-      ],
-      "2026-02-14 (meridiano - 2D ESPAÑOL)": [
-        "20:30"
-      ],
-      "2026-02-15 (meridiano - 2D ESPAÑOL)": [
-        "12:00",
-        "20:10"
-      ],
-      "2026-02-17 (meridiano - 2D ESPAÑOL)": [
-        "12:00"
-      ],
-      "2026-02-11 (meridiano - 3D ESPAÑOL)": [
-        "20:00"
-      ],
-      "2026-02-12 (meridiano - 3D ESPAÑOL)": [
-        "20:05"
-      ],
-      "2026-02-13 (meridiano - 3D ESPAÑOL)": [
-        "20:05"
-      ],
-      "2026-02-18 (meridiano - 3D ESPAÑOL)": [
-        "20:20"
-      ],
-      "2026-02-19 (meridiano - 3D ESPAÑOL)": [
-        "20:20"
+      "2026-03-08": [
+        {
+          "time": "21:00",
+          "cinema": "la-villa-de-orotava",
+          "format": "3D ESPAÑOL"
+        },
+        {
+          "time": "21:00",
+          "cinema": "meridiano",
+          "format": "3D ESPAÑOL"
+        }
       ]
     },
     "actors": [
@@ -134,10 +74,6 @@
     "directors": [
       "James Cameron"
     ],
-    "producers": [
-      "James Cameron",
-      "Jon Landau"
-    ],
     "genres": [
       "CIENCIA FICCIÓN"
     ],
@@ -147,105 +83,110 @@
   {
     "title": "Aída y vuelta",
     "length": "100",
-    "age": "M-12",
+    "age": "12",
     "theater": "yelmo",
     "showings": {
-      "2026-02-11 (la-villa-de-orotava - 2D ESPAÑOL)": [
-        "18:00",
-        "20:10",
-        "22:20"
+      "2026-03-07": [
+        {
+          "time": "16:10",
+          "cinema": "la-villa-de-orotava",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "18:20",
+          "cinema": "la-villa-de-orotava",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "15:45",
+          "cinema": "meridiano",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "17:50",
+          "cinema": "meridiano",
+          "format": "2D ESPAÑOL"
+        }
       ],
-      "2026-02-12 (la-villa-de-orotava - 2D ESPAÑOL)": [
-        "18:00",
-        "20:10",
-        "22:20"
+      "2026-03-08": [
+        {
+          "time": "16:10",
+          "cinema": "la-villa-de-orotava",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "18:20",
+          "cinema": "la-villa-de-orotava",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "12:45",
+          "cinema": "meridiano",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "15:25",
+          "cinema": "meridiano",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "17:30",
+          "cinema": "meridiano",
+          "format": "2D ESPAÑOL"
+        }
       ],
-      "2026-02-13 (la-villa-de-orotava - 2D ESPAÑOL)": [
-        "18:20",
-        "20:30",
-        "22:40"
+      "2026-03-09": [
+        {
+          "time": "18:20",
+          "cinema": "la-villa-de-orotava",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "17:20",
+          "cinema": "meridiano",
+          "format": "2D ESPAÑOL"
+        }
       ],
-      "2026-02-14 (la-villa-de-orotava - 2D ESPAÑOL)": [
-        "16:10",
-        "18:20",
-        "20:30",
-        "22:40"
+      "2026-03-10": [
+        {
+          "time": "18:20",
+          "cinema": "la-villa-de-orotava",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "17:20",
+          "cinema": "meridiano",
+          "format": "2D ESPAÑOL"
+        }
       ],
-      "2026-02-15 (la-villa-de-orotava - 2D ESPAÑOL)": [
-        "16:10",
-        "18:20",
-        "20:30",
-        "22:40"
+      "2026-03-11": [
+        {
+          "time": "18:20",
+          "cinema": "la-villa-de-orotava",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "17:20",
+          "cinema": "meridiano",
+          "format": "2D ESPAÑOL"
+        }
       ],
-      "2026-02-16 (la-villa-de-orotava - 2D ESPAÑOL)": [
-        "18:20",
-        "20:30",
-        "22:40"
-      ],
-      "2026-02-17 (la-villa-de-orotava - 2D ESPAÑOL)": [
-        "16:10",
-        "18:20",
-        "20:30",
-        "22:40"
-      ],
-      "2026-02-18 (la-villa-de-orotava - 2D ESPAÑOL)": [
-        "18:20",
-        "20:30",
-        "22:40"
-      ],
-      "2026-02-19 (la-villa-de-orotava - 2D ESPAÑOL)": [
-        "18:20",
-        "20:30",
-        "22:40"
-      ],
-      "2026-02-11 (meridiano - 2D ESPAÑOL)": [
-        "18:10",
-        "20:20",
-        "22:30"
-      ],
-      "2026-02-12 (meridiano - 2D ESPAÑOL)": [
-        "18:10",
-        "20:20",
-        "22:30"
-      ],
-      "2026-02-13 (meridiano - 2D ESPAÑOL)": [
-        "18:15",
-        "20:25",
-        "22:35"
-      ],
-      "2026-02-14 (meridiano - 2D ESPAÑOL)": [
-        "16:05",
-        "18:15",
-        "20:25",
-        "22:35"
-      ],
-      "2026-02-15 (meridiano - 2D ESPAÑOL)": [
-        "15:40",
-        "17:50",
-        "20:00",
-        "22:10"
-      ],
-      "2026-02-16 (meridiano - 2D ESPAÑOL)": [
-        "18:10",
-        "20:20",
-        "22:30"
-      ],
-      "2026-02-17 (meridiano - 2D ESPAÑOL)": [
-        "12:20",
-        "15:40",
-        "17:50",
-        "20:00",
-        "22:10"
-      ],
-      "2026-02-18 (meridiano - 2D ESPAÑOL)": [
-        "18:10",
-        "20:00",
-        "22:10"
-      ],
-      "2026-02-19 (meridiano - 2D ESPAÑOL)": [
-        "18:10",
-        "20:00",
-        "22:10"
+      "2026-03-12": [
+        {
+          "time": "18:20",
+          "cinema": "la-villa-de-orotava",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "17:20",
+          "cinema": "meridiano",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "22:30",
+          "cinema": "meridiano",
+          "format": "2D ESPAÑOL"
+        }
       ]
     },
     "actors": [
@@ -259,7 +200,6 @@
     "directors": [
       "Paco León"
     ],
-    "producers": null,
     "genres": [
       "COMEDIA"
     ],
@@ -267,156 +207,711 @@
     "url": "https://www.yelmocines.es/sinopsis/aida-y-vuelta"
   },
   {
-    "title": "Evolution",
-    "length": "95",
-    "age": "M-7",
+    "title": "Como cabras",
+    "length": "100",
+    "age": "0",
     "theater": "yelmo",
     "showings": {
-      "2026-02-11 (la-villa-de-orotava - 2D ESPAÑOL)": [
-        "17:35"
+      "2026-03-07": [
+        {
+          "time": "16:00",
+          "cinema": "la-villa-de-orotava",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "18:10",
+          "cinema": "la-villa-de-orotava",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "20:15",
+          "cinema": "la-villa-de-orotava",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "17:30",
+          "cinema": "meridiano",
+          "format": "2D ESPAÑOL"
+        }
       ],
-      "2026-02-12 (la-villa-de-orotava - 2D ESPAÑOL)": [
-        "17:35"
+      "2026-03-08": [
+        {
+          "time": "16:00",
+          "cinema": "la-villa-de-orotava",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "18:10",
+          "cinema": "la-villa-de-orotava",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "20:15",
+          "cinema": "la-villa-de-orotava",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "12:15",
+          "cinema": "meridiano",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "15:15",
+          "cinema": "meridiano",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "17:25",
+          "cinema": "meridiano",
+          "format": "2D ESPAÑOL"
+        }
       ],
-      "2026-02-14 (la-villa-de-orotava - 2D ESPAÑOL)": [
-        "16:40"
+      "2026-03-09": [
+        {
+          "time": "18:10",
+          "cinema": "la-villa-de-orotava",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "17:10",
+          "cinema": "meridiano",
+          "format": "2D ESPAÑOL"
+        }
       ],
-      "2026-02-15 (la-villa-de-orotava - 2D ESPAÑOL)": [
-        "16:40"
+      "2026-03-11": [
+        {
+          "time": "18:10",
+          "cinema": "la-villa-de-orotava",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "17:10",
+          "cinema": "meridiano",
+          "format": "2D ESPAÑOL"
+        }
       ],
-      "2026-02-16 (la-villa-de-orotava - 2D ESPAÑOL)": [
-        "17:05"
+      "2026-03-12": [
+        {
+          "time": "18:10",
+          "cinema": "la-villa-de-orotava",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "17:10",
+          "cinema": "meridiano",
+          "format": "2D ESPAÑOL"
+        }
       ],
-      "2026-02-17 (la-villa-de-orotava - 2D ESPAÑOL)": [
-        "16:40"
-      ],
-      "2026-02-18 (la-villa-de-orotava - 2D ESPAÑOL)": [
-        "17:05"
-      ],
-      "2026-02-19 (la-villa-de-orotava - 2D ESPAÑOL)": [
-        "17:05"
-      ],
-      "2026-02-11 (meridiano - 2D ESPAÑOL)": [
-        "18:00"
-      ],
-      "2026-02-12 (meridiano - 2D ESPAÑOL)": [
-        "18:00"
-      ],
-      "2026-02-14 (meridiano - 2D ESPAÑOL)": [
-        "16:45"
-      ],
-      "2026-02-15 (meridiano - 2D ESPAÑOL)": [
-        "16:45"
-      ],
-      "2026-02-17 (meridiano - 2D ESPAÑOL)": [
-        "16:35"
+      "2026-03-10": [
+        {
+          "time": "17:10",
+          "cinema": "meridiano",
+          "format": "2D ESPAÑOL"
+        }
       ]
     },
     "actors": [
-      "Iain Batchelor",
-      "Hodeia Macua",
-      "Yannick Vergara",
-      "Jaione Insausti",
-      "Eba Ojanguren"
+      "David Harbour",
+      "Jennifer Hudson",
+      "Patton Oswalt",
+      "Aaron Pierre",
+      "Sherry Cola",
+      "Nick Kroll",
+      "Caleb McLaughlin",
+      "Gabrielle Union",
+      "Stephen Curry",
+      "Nicola Coughlan",
+      "Jenifer Lewis",
+      "Andrew Santino",
+      "Bobby Lee",
+      "Eduardo Franco",
+      "Jelly Roll"
     ],
     "directors": [
-      "Julio Soto Gurpide",
-      "Zayra Muñoz Dominguez"
+      "Tyree Dillihay",
+      "Adam Rosette"
     ],
-    "producers": null,
     "genres": [
       "ANIMACION"
     ],
-    "synopsis": "Cuando una sustancia extraterrestre mezcla el ADN de Zoe con el de sus exóticas mascotas, empieza una divertidísima aventura donde los humanos se animalizan, los animales se humanizan y todos tienen que ponerse de acuerdo para salvar el mundo.",
-    "url": "https://www.yelmocines.es/sinopsis/evolution"
+    "synopsis": "Will es una pequeña cabra con grandes sueños que recibe una oportunidad única en la vida para unirse a los profesionales y jugar al rugebol, un deporte de alta intensidad, mixto y de contacto total dominado por los animales más rápidos y feroces del mundo. A los nuevos compañeros de equipo de Will no les entusiasma tener a una cabrita en su plantilla, pero Will está decidido a revolucionar el deporte y demostrar de una vez por todas que «¡los pequeños saben jugar!».",
+    "url": "https://www.yelmocines.es/sinopsis/como-cabras"
+  },
+  {
+    "title": "Cumbres borrascosas",
+    "length": "136",
+    "age": "16",
+    "theater": "yelmo",
+    "showings": {
+      "2026-03-07": [
+        {
+          "time": "17:00",
+          "cinema": "la-villa-de-orotava",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "19:40",
+          "cinema": "la-villa-de-orotava",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "22:20",
+          "cinema": "la-villa-de-orotava",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "16:50",
+          "cinema": "meridiano",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "19:35",
+          "cinema": "meridiano",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "22:20",
+          "cinema": "meridiano",
+          "format": "2D ESPAÑOL"
+        }
+      ],
+      "2026-03-08": [
+        {
+          "time": "17:00",
+          "cinema": "la-villa-de-orotava",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "19:40",
+          "cinema": "la-villa-de-orotava",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "22:20",
+          "cinema": "la-villa-de-orotava",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "16:45",
+          "cinema": "meridiano",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "19:30",
+          "cinema": "meridiano",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "22:15",
+          "cinema": "meridiano",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "12:50",
+          "cinema": "meridiano",
+          "format": "2D INGLÉS SUBTITULADO EN ESPAÑOL (VOSE)"
+        }
+      ],
+      "2026-03-09": [
+        {
+          "time": "17:00",
+          "cinema": "la-villa-de-orotava",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "19:40",
+          "cinema": "la-villa-de-orotava",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "22:20",
+          "cinema": "la-villa-de-orotava",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "17:00",
+          "cinema": "meridiano",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "19:40",
+          "cinema": "meridiano",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "22:20",
+          "cinema": "meridiano",
+          "format": "2D ESPAÑOL"
+        }
+      ],
+      "2026-03-10": [
+        {
+          "time": "19:40",
+          "cinema": "la-villa-de-orotava",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "22:20",
+          "cinema": "la-villa-de-orotava",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "17:00",
+          "cinema": "la-villa-de-orotava",
+          "format": "2D INGLÉS SUBTITULADO EN ESPAÑOL (VOSE)"
+        },
+        {
+          "time": "17:00",
+          "cinema": "meridiano",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "22:20",
+          "cinema": "meridiano",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "19:40",
+          "cinema": "meridiano",
+          "format": "2D INGLÉS SUBTITULADO EN ESPAÑOL (VOSE)"
+        }
+      ],
+      "2026-03-11": [
+        {
+          "time": "17:00",
+          "cinema": "la-villa-de-orotava",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "19:40",
+          "cinema": "la-villa-de-orotava",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "22:20",
+          "cinema": "la-villa-de-orotava",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "17:00",
+          "cinema": "meridiano",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "19:40",
+          "cinema": "meridiano",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "22:20",
+          "cinema": "meridiano",
+          "format": "2D ESPAÑOL"
+        }
+      ],
+      "2026-03-12": [
+        {
+          "time": "17:00",
+          "cinema": "la-villa-de-orotava",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "19:40",
+          "cinema": "la-villa-de-orotava",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "22:20",
+          "cinema": "la-villa-de-orotava",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "17:00",
+          "cinema": "meridiano",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "19:40",
+          "cinema": "meridiano",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "22:20",
+          "cinema": "meridiano",
+          "format": "2D ESPAÑOL"
+        }
+      ]
+    },
+    "actors": [
+      "Margot Robbie",
+      "Shazad Latif",
+      "Jacob Elordi",
+      "Hong Chau",
+      "Alison Oliver",
+      "Martin Clunes",
+      "Ewan Mitchell"
+    ],
+    "directors": [
+      "Emerald Fennell"
+    ],
+    "genres": [
+      "DRAMA"
+    ],
+    "synopsis": "Una audaz y original reinterpretación de una de una de las historias de amor más grandes de todos los tiempos, “CUMBRES BORRASCOSAS” de Emerald Fennell está protagonizada por Margot Robbie como Cathy y Jacob Elordi como Heathcliff, cuya pasión prohibida se transforma de romántica a intoxicante en una épica historia de lujuria, amor y locura.",
+    "url": "https://www.yelmocines.es/sinopsis/cumbres-borrascosas"
+  },
+  {
+    "title": "ENHYPEN (WALK THE LINE SUMMER EDITION) IN CINEMAS",
+    "length": "120",
+    "age": "0",
+    "theater": "yelmo",
+    "showings": {
+      "2026-03-07": [
+        {
+          "time": "18:00",
+          "cinema": "meridiano",
+          "format": "2D COREANO CON SUBTÍTULOS EN ESPAÑOL (VOSE)"
+        }
+      ]
+    },
+    "actors": [
+      "ENHYPEN "
+    ],
+    "directors": [
+      "Yoondong Oh",
+      "Jaeseok Park"
+    ],
+    "genres": [
+      "CONCIERTO,CONTENIDO ALTERNATIVO"
+    ],
+    "synopsis": "¡Disfruta ENHYPEN WORLD TOUR ‘WALK THE LINE’ IN JAPAN – SUMMER EDITION en la gran pantalla! Desde su primer encuentro hasta los escenarios que dominan hoy en día, el camino de ENHYPEN es una historia de crecimiento, unidad y conexión. Con millones de álbumes vendidos en un año, un debut que rompió todos los récords en el Tokyo Dome, su primer gran premio en 2025 y su memorable presentación en Coachella, el éxito del grupo nace del lazo inquebrantable que comparten con los ENGENE. Esta película de concierto captura la esencia de ese vínculo: electrizantes actuaciones en vivo, la intensidad de los ensayos, momentos íntimos entre bastidores y el día a día de los miembros recorriendo Japón en pleno verano. Más que un concierto, es una celebración de la conexión que une a ENHYPEN con los ENGENE, un vínculo que sigue fortaleciéndose y que los impulsa juntos hacia el futuro.",
+    "url": "https://www.yelmocines.es/sinopsis/enhypen-walk-the-line-summer-edition-in-cinemas"
+  },
+  {
+    "title": "El mago del Kremlin",
+    "length": "145",
+    "age": "12",
+    "theater": "yelmo",
+    "showings": {
+      "2026-03-07": [
+        {
+          "time": "19:00",
+          "cinema": "meridiano",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "22:00",
+          "cinema": "meridiano",
+          "format": "2D ESPAÑOL"
+        }
+      ],
+      "2026-03-08": [
+        {
+          "time": "16:00",
+          "cinema": "meridiano",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "19:00",
+          "cinema": "meridiano",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "22:00",
+          "cinema": "meridiano",
+          "format": "2D ESPAÑOL"
+        }
+      ],
+      "2026-03-09": [
+        {
+          "time": "17:30",
+          "cinema": "meridiano",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "20:30",
+          "cinema": "meridiano",
+          "format": "2D ESPAÑOL"
+        }
+      ],
+      "2026-03-10": [
+        {
+          "time": "17:30",
+          "cinema": "meridiano",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "20:30",
+          "cinema": "meridiano",
+          "format": "2D INGLÉS SUBTITULADO EN ESPAÑOL (VOSE)"
+        }
+      ],
+      "2026-03-11": [
+        {
+          "time": "17:30",
+          "cinema": "meridiano",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "20:30",
+          "cinema": "meridiano",
+          "format": "2D ESPAÑOL"
+        }
+      ],
+      "2026-03-12": [
+        {
+          "time": "17:30",
+          "cinema": "meridiano",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "20:30",
+          "cinema": "meridiano",
+          "format": "2D ESPAÑOL"
+        }
+      ]
+    },
+    "actors": [
+      "Jude Law",
+      "Jeffrey Wright",
+      "Alicia Vikander",
+      "Paul Dano"
+    ],
+    "directors": [
+      "Olivier Assayas"
+    ],
+    "genres": [
+      "THRILLER"
+    ],
+    "synopsis": "En medio del caos postsoviético de los años 90, el joven Vadim Baranov (Paul Dano) empieza a labrarse un camino como artista y productor de televisión. Su elocuencia y conexión con las altas esferas le llevan a convertirse, de la noche a la mañana, en el asesor de un agente del KGB con un brillante porvenir: Vladimir Putin (Jude Law). Desde las entrañas del poder, ambos darán forma a la nueva Rusia, difuminando los límites entre la verdad y la mentira",
+    "url": "https://www.yelmocines.es/sinopsis/el-mago-del-kremlin"
+  },
+  {
+    "title": "Greenland 2",
+    "length": "98",
+    "age": "16",
+    "theater": "yelmo",
+    "showings": {
+      "2026-03-07": [
+        {
+          "time": "20:35",
+          "cinema": "la-villa-de-orotava",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "22:45",
+          "cinema": "la-villa-de-orotava",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "16:45",
+          "cinema": "meridiano",
+          "format": "2D ESPAÑOL"
+        }
+      ],
+      "2026-03-08": [
+        {
+          "time": "20:35",
+          "cinema": "la-villa-de-orotava",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "22:45",
+          "cinema": "la-villa-de-orotava",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "17:10",
+          "cinema": "meridiano",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "21:55",
+          "cinema": "meridiano",
+          "format": "2D ESPAÑOL"
+        }
+      ],
+      "2026-03-09": [
+        {
+          "time": "20:35",
+          "cinema": "la-villa-de-orotava",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "22:45",
+          "cinema": "la-villa-de-orotava",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "17:50",
+          "cinema": "meridiano",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "22:35",
+          "cinema": "meridiano",
+          "format": "2D ESPAÑOL"
+        }
+      ],
+      "2026-03-10": [
+        {
+          "time": "20:35",
+          "cinema": "la-villa-de-orotava",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "22:45",
+          "cinema": "la-villa-de-orotava",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "17:50",
+          "cinema": "meridiano",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "22:35",
+          "cinema": "meridiano",
+          "format": "2D ESPAÑOL"
+        }
+      ],
+      "2026-03-11": [
+        {
+          "time": "20:35",
+          "cinema": "la-villa-de-orotava",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "22:45",
+          "cinema": "la-villa-de-orotava",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "17:50",
+          "cinema": "meridiano",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "22:35",
+          "cinema": "meridiano",
+          "format": "2D ESPAÑOL"
+        }
+      ],
+      "2026-03-12": [
+        {
+          "time": "20:35",
+          "cinema": "la-villa-de-orotava",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "22:45",
+          "cinema": "la-villa-de-orotava",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "17:40",
+          "cinema": "meridiano",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "22:35",
+          "cinema": "meridiano",
+          "format": "2D ESPAÑOL"
+        }
+      ]
+    },
+    "actors": [
+      "Gerard Butler",
+      "Morena Baccarin",
+      "Roman Griffin Davis",
+      "Amber Rose Revah",
+      "Sidsel Siem Koch"
+    ],
+    "directors": [
+      "Ric Roman Waugh"
+    ],
+    "genres": [
+      "THRILLER"
+    ],
+    "synopsis": "Después de sobrevivir al fin del mundo por la caída de un cometa, Jeff Garrity, junto con su mujer Allison y su hijo Nathan, deciden abandonar el búnker que les ha mantenido a salvo cinco años para buscar una zona en Europa que podría ser habitable. Así, el último refugio es el principio de un nuevo comienzo. Juntos emprenderán un viaje donde los desastres naturales y los humanos que sobrevivieron han convertido el mundo en un auténtico infierno.",
+    "url": "https://www.yelmocines.es/sinopsis/greenland-2"
   },
   {
     "title": "Hamnet",
     "length": "125",
-    "age": "M-12",
+    "age": "12",
     "theater": "yelmo",
     "showings": {
-      "2026-02-11 (la-villa-de-orotava - 2D ESPAÑOL)": [
-        "17:10",
-        "19:40",
-        "22:10"
+      "2026-03-07": [
+        {
+          "time": "20:10",
+          "cinema": "la-villa-de-orotava",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "20:40",
+          "cinema": "meridiano",
+          "format": "2D ESPAÑOL"
+        }
       ],
-      "2026-02-12 (la-villa-de-orotava - 2D ESPAÑOL)": [
-        "17:10",
-        "19:40",
-        "22:10"
+      "2026-03-08": [
+        {
+          "time": "20:10",
+          "cinema": "la-villa-de-orotava",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "19:20",
+          "cinema": "meridiano",
+          "format": "2D ESPAÑOL"
+        }
       ],
-      "2026-02-13 (la-villa-de-orotava - 2D ESPAÑOL)": [
-        "17:20",
-        "19:55"
+      "2026-03-09": [
+        {
+          "time": "17:05",
+          "cinema": "la-villa-de-orotava",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "20:00",
+          "cinema": "meridiano",
+          "format": "2D ESPAÑOL"
+        }
       ],
-      "2026-02-14 (la-villa-de-orotava - 2D ESPAÑOL)": [
-        "17:20",
-        "19:55"
+      "2026-03-10": [
+        {
+          "time": "17:05",
+          "cinema": "la-villa-de-orotava",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "20:00",
+          "cinema": "meridiano",
+          "format": "2D ESPAÑOL"
+        }
       ],
-      "2026-02-15 (la-villa-de-orotava - 2D ESPAÑOL)": [
-        "17:20",
-        "19:55"
+      "2026-03-11": [
+        {
+          "time": "17:05",
+          "cinema": "la-villa-de-orotava",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "20:00",
+          "cinema": "meridiano",
+          "format": "2D ESPAÑOL"
+        }
       ],
-      "2026-02-16 (la-villa-de-orotava - 2D ESPAÑOL)": [
-        "17:20",
-        "19:55"
-      ],
-      "2026-02-17 (la-villa-de-orotava - 2D ESPAÑOL)": [
-        "19:55"
-      ],
-      "2026-02-18 (la-villa-de-orotava - 2D ESPAÑOL)": [
-        "17:20",
-        "19:55"
-      ],
-      "2026-02-19 (la-villa-de-orotava - 2D ESPAÑOL)": [
-        "17:20",
-        "19:55"
-      ],
-      "2026-02-17 (la-villa-de-orotava - 2D INGLÉS SUBTITULADO EN ESPAÑOL (VOSE))": [
-        "17:20"
-      ],
-      "2026-02-11 (meridiano - 2D ESPAÑOL)": [
-        "17:15",
-        "19:50"
-      ],
-      "2026-02-12 (meridiano - 2D ESPAÑOL)": [
-        "17:15",
-        "19:50"
-      ],
-      "2026-02-13 (meridiano - 2D ESPAÑOL)": [
-        "17:00",
-        "19:35"
-      ],
-      "2026-02-14 (meridiano - 2D ESPAÑOL)": [
-        "16:50",
-        "19:30"
-      ],
-      "2026-02-15 (meridiano - 2D ESPAÑOL)": [
-        "16:50",
-        "19:30"
-      ],
-      "2026-02-16 (meridiano - 2D ESPAÑOL)": [
-        "17:00",
-        "19:35"
-      ],
-      "2026-02-17 (meridiano - 2D ESPAÑOL)": [
-        "19:30"
-      ],
-      "2026-02-18 (meridiano - 2D ESPAÑOL)": [
-        "17:00",
-        "19:35"
-      ],
-      "2026-02-19 (meridiano - 2D ESPAÑOL)": [
-        "17:00",
-        "19:35"
-      ],
-      "2026-02-15 (meridiano - 2D INGLÉS SUBTITULADO EN ESPAÑOL (VOSE))": [
-        "12:50"
-      ],
-      "2026-02-17 (meridiano - 2D INGLÉS SUBTITULADO EN ESPAÑOL (VOSE))": [
-        "12:50",
-        "16:50"
+      "2026-03-12": [
+        {
+          "time": "20:10",
+          "cinema": "la-villa-de-orotava",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "19:50",
+          "cinema": "meridiano",
+          "format": "2D ESPAÑOL"
+        }
       ]
     },
     "actors": [
@@ -428,13 +923,6 @@
     "directors": [
       "Chloé Zhao"
     ],
-    "producers": [
-      "Steven Spielberg",
-      "Sam Mendes",
-      "Liza Marshall",
-      "Pippa Harris",
-      "Nicolas Gonda"
-    ],
     "genres": [
       "DRAMA"
     ],
@@ -442,135 +930,137 @@
     "url": "https://www.yelmocines.es/sinopsis/hamnet"
   },
   {
-    "title": "Hellboy: El hombre retorcido",
-    "length": "100",
-    "age": "M-16",
+    "title": "Hoppers",
+    "length": "104",
+    "age": "0",
     "theater": "yelmo",
-    "showings": {
-      "2026-02-11 (la-villa-de-orotava - 2D ESPAÑOL)": [
-        "20:20",
-        "22:40"
-      ],
-      "2026-02-12 (la-villa-de-orotava - 2D ESPAÑOL)": [
-        "20:20",
-        "22:40"
-      ],
-      "2026-02-13 (la-villa-de-orotava - 2D ESPAÑOL)": [
-        "22:35"
-      ],
-      "2026-02-14 (la-villa-de-orotava - 2D ESPAÑOL)": [
-        "22:35"
-      ],
-      "2026-02-15 (la-villa-de-orotava - 2D ESPAÑOL)": [
-        "22:35"
-      ]
-    },
+    "showings": {},
     "actors": [
-      "Jack Kesy",
-      "Jefferson White",
-      "Adeline Rudolph",
-      "Martin Bassindale"
+      "Jon Hamm",
+      "Bobby Moynihan",
+      "Piper Curda"
     ],
     "directors": [
-      "Brian Taylor"
-    ],
-    "producers": [
-      "Yariv Lerner",
-      "Jeffrey Greenstein",
-      "Jonathan Yunger",
-      "Robert Van Norden",
-      "Les Weldon",
-      "Mike Richardson"
+      "Daniel Chong"
     ],
     "genres": [
-      "FANTASÍA"
+      "ANIMACION"
     ],
-    "synopsis": "Hellboy (Jack Kesy) y una agente novata (Adeline Rudolph) del AIDP (Agencia para la investigación y defensa paranormal) se quedan varados en los Apalaches rurales de los años 50 y descubren una pequeña comunidad embrujada, liderada por el Hombre Retorcido.",
-    "url": "https://www.yelmocines.es/sinopsis/hellboy-el-hombre-retorcido"
+    "synopsis": "En Hoppers, los científicos han descubierto la tecnología para instalar la conciencia humana a animales robóticos hiperrealistas, lo que permite a las personas comunicarse con los animales como si fueran uno de ellos. Gracias a esta nueva tecnología, Mabel (Curda) descubrirá misterios dentro del mundo animal que van mucho más allá de lo que jamás imaginó.",
+    "url": "https://www.yelmocines.es/sinopsis/hoppers"
   },
   {
     "title": "La asistenta",
     "length": "131",
-    "age": "M-16",
+    "age": "16",
     "theater": "yelmo",
     "showings": {
-      "2026-02-11 (la-villa-de-orotava - 2D ESPAÑOL)": [
-        "17:05",
-        "19:40",
-        "22:20"
+      "2026-03-07": [
+        {
+          "time": "17:00",
+          "cinema": "la-villa-de-orotava",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "19:35",
+          "cinema": "la-villa-de-orotava",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "22:15",
+          "cinema": "la-villa-de-orotava",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "20:00",
+          "cinema": "meridiano",
+          "format": "2D ESPAÑOL"
+        }
       ],
-      "2026-02-12 (la-villa-de-orotava - 2D ESPAÑOL)": [
-        "17:10",
-        "22:20"
+      "2026-03-08": [
+        {
+          "time": "17:00",
+          "cinema": "la-villa-de-orotava",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "19:35",
+          "cinema": "la-villa-de-orotava",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "22:15",
+          "cinema": "la-villa-de-orotava",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "19:40",
+          "cinema": "meridiano",
+          "format": "2D ESPAÑOL"
+        }
       ],
-      "2026-02-13 (la-villa-de-orotava - 2D ESPAÑOL)": [
-        "19:35",
-        "22:15"
+      "2026-03-09": [
+        {
+          "time": "19:35",
+          "cinema": "la-villa-de-orotava",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "22:15",
+          "cinema": "la-villa-de-orotava",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "19:30",
+          "cinema": "meridiano",
+          "format": "2D ESPAÑOL"
+        }
       ],
-      "2026-02-14 (la-villa-de-orotava - 2D ESPAÑOL)": [
-        "19:35",
-        "22:15"
+      "2026-03-10": [
+        {
+          "time": "19:35",
+          "cinema": "la-villa-de-orotava",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "22:15",
+          "cinema": "la-villa-de-orotava",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "19:30",
+          "cinema": "meridiano",
+          "format": "2D ESPAÑOL"
+        }
       ],
-      "2026-02-15 (la-villa-de-orotava - 2D ESPAÑOL)": [
-        "19:35",
-        "22:15"
+      "2026-03-11": [
+        {
+          "time": "19:35",
+          "cinema": "la-villa-de-orotava",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "22:15",
+          "cinema": "la-villa-de-orotava",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "19:30",
+          "cinema": "meridiano",
+          "format": "2D ESPAÑOL"
+        }
       ],
-      "2026-02-16 (la-villa-de-orotava - 2D ESPAÑOL)": [
-        "19:35",
-        "22:15"
-      ],
-      "2026-02-17 (la-villa-de-orotava - 2D ESPAÑOL)": [
-        "19:35",
-        "22:15"
-      ],
-      "2026-02-18 (la-villa-de-orotava - 2D ESPAÑOL)": [
-        "19:35",
-        "22:15"
-      ],
-      "2026-02-19 (la-villa-de-orotava - 2D ESPAÑOL)": [
-        "19:35",
-        "22:15"
-      ],
-      "2026-02-11 (meridiano - 2D ESPAÑOL)": [
-        "17:00",
-        "19:40",
-        "22:20"
-      ],
-      "2026-02-12 (meridiano - 2D ESPAÑOL)": [
-        "17:00",
-        "19:40",
-        "22:20"
-      ],
-      "2026-02-13 (meridiano - 2D ESPAÑOL)": [
-        "19:55",
-        "22:40"
-      ],
-      "2026-02-14 (meridiano - 2D ESPAÑOL)": [
-        "19:55",
-        "22:40"
-      ],
-      "2026-02-15 (meridiano - 2D ESPAÑOL)": [
-        "12:25",
-        "19:40",
-        "22:20"
-      ],
-      "2026-02-16 (meridiano - 2D ESPAÑOL)": [
-        "17:00",
-        "19:40",
-        "22:20"
-      ],
-      "2026-02-17 (meridiano - 2D ESPAÑOL)": [
-        "12:25",
-        "19:40",
-        "22:20"
-      ],
-      "2026-02-18 (meridiano - 2D ESPAÑOL)": [
-        "19:40",
-        "22:20"
-      ],
-      "2026-02-19 (meridiano - 2D ESPAÑOL)": [
-        "19:40",
-        "22:20"
+      "2026-03-12": [
+        {
+          "time": "20:35",
+          "cinema": "la-villa-de-orotava",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "19:30",
+          "cinema": "meridiano",
+          "format": "2D ESPAÑOL"
+        }
       ]
     },
     "actors": [
@@ -582,12 +1072,6 @@
     "directors": [
       "Paul Feig"
     ],
-    "producers": [
-      "Paul Feig",
-      "Todd Lieberman",
-      "Laura Fischer",
-      "Carly Kleinbart"
-    ],
     "genres": [
       "THRILLER"
     ],
@@ -595,245 +1079,153 @@
     "url": "https://www.yelmocines.es/sinopsis/la-asistenta"
   },
   {
-    "title": "La fiera",
-    "length": "113",
-    "age": "M-12",
+    "title": "Los domingos",
+    "length": "116",
+    "age": "12",
     "theater": "yelmo",
     "showings": {
-      "2026-02-11 (la-villa-de-orotava - 2D ESPAÑOL)": [
-        "18:05",
-        "20:25",
-        "22:45"
+      "2026-03-07": [
+        {
+          "time": "18:30",
+          "cinema": "la-villa-de-orotava",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "19:45",
+          "cinema": "meridiano",
+          "format": "2D ESPAÑOL"
+        }
       ],
-      "2026-02-12 (la-villa-de-orotava - 2D ESPAÑOL)": [
-        "18:05",
-        "20:25",
-        "22:45"
+      "2026-03-08": [
+        {
+          "time": "18:30",
+          "cinema": "la-villa-de-orotava",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "19:35",
+          "cinema": "meridiano",
+          "format": "2D ESPAÑOL"
+        }
       ],
-      "2026-02-13 (la-villa-de-orotava - 2D ESPAÑOL)": [
-        "17:10"
+      "2026-03-09": [
+        {
+          "time": "18:30",
+          "cinema": "la-villa-de-orotava",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "19:20",
+          "cinema": "meridiano",
+          "format": "2D ESPAÑOL"
+        }
       ],
-      "2026-02-14 (la-villa-de-orotava - 2D ESPAÑOL)": [
-        "21:00"
+      "2026-03-10": [
+        {
+          "time": "18:30",
+          "cinema": "la-villa-de-orotava",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "19:20",
+          "cinema": "meridiano",
+          "format": "2D ESPAÑOL"
+        }
       ],
-      "2026-02-15 (la-villa-de-orotava - 2D ESPAÑOL)": [
-        "21:00"
+      "2026-03-11": [
+        {
+          "time": "18:30",
+          "cinema": "la-villa-de-orotava",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "19:20",
+          "cinema": "meridiano",
+          "format": "2D ESPAÑOL"
+        }
       ],
-      "2026-02-16 (la-villa-de-orotava - 2D ESPAÑOL)": [
-        "17:10",
-        "21:00"
-      ],
-      "2026-02-17 (la-villa-de-orotava - 2D ESPAÑOL)": [
-        "17:10",
-        "21:00"
-      ],
-      "2026-02-18 (la-villa-de-orotava - 2D ESPAÑOL)": [
-        "17:10",
-        "21:00"
-      ],
-      "2026-02-19 (la-villa-de-orotava - 2D ESPAÑOL)": [
-        "17:10",
-        "21:00"
-      ],
-      "2026-02-11 (meridiano - 2D ESPAÑOL)": [
-        "17:40",
-        "20:10",
-        "22:35"
-      ],
-      "2026-02-12 (meridiano - 2D ESPAÑOL)": [
-        "17:45",
-        "20:10",
-        "22:35"
-      ],
-      "2026-02-13 (meridiano - 2D ESPAÑOL)": [
-        "17:35"
-      ],
-      "2026-02-14 (meridiano - 2D ESPAÑOL)": [
-        "17:45"
-      ],
-      "2026-02-15 (meridiano - 2D ESPAÑOL)": [
-        "17:40"
-      ],
-      "2026-02-16 (meridiano - 2D ESPAÑOL)": [
-        "17:40"
-      ],
-      "2026-02-17 (meridiano - 2D ESPAÑOL)": [
-        "17:40"
-      ],
-      "2026-02-18 (meridiano - 2D ESPAÑOL)": [
-        "17:40"
-      ],
-      "2026-02-19 (meridiano - 2D ESPAÑOL)": [
-        "17:40"
+      "2026-03-12": [
+        {
+          "time": "18:30",
+          "cinema": "la-villa-de-orotava",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "19:20",
+          "cinema": "meridiano",
+          "format": "2D ESPAÑOL"
+        }
       ]
     },
     "actors": [
-      "José Manuel Poga",
-      "Carlos Cuevas",
-      "Stéphanie Magnin",
-      "Miguel Bernardeau",
-      "Candela González",
-      "David Marcé",
-      "Miguel Angel Silvestre"
+      "Patricia López Arnaiz",
+      "Juan Minujín",
+      "Miguel Garcés",
+      "Blanca Soroa",
+      "Mabel Rivera",
+      "Nagore Aramburu"
     ],
     "directors": [
-      "Salvador Calvo"
-    ],
-    "producers": [
-      "Jaime Ortiz de Artiñano",
-      "Fernando Bovaira",
-      "Rosa Pérez",
-      "Guillem Vidal-Folch"
+      "Alauda Ruiz de Azúa"
     ],
     "genres": [
       "DRAMA"
     ],
-    "synopsis": "Carlos, Darío y Armando, aficionados a los deportes extremos, descubren la experiencia más cercana a volar: el salto B.A.S.E. con traje de alas.",
-    "url": "https://www.yelmocines.es/sinopsis/la-fiera"
-  },
-  {
-    "title": "La lucha",
-    "length": "92",
-    "age": "M-7",
-    "theater": "yelmo",
-    "showings": {
-      "2026-02-11 (la-villa-de-orotava - 2D ESPAÑOL)": [
-        "18:15"
-      ],
-      "2026-02-12 (la-villa-de-orotava - 2D ESPAÑOL)": [
-        "18:15"
-      ],
-      "2026-02-13 (la-villa-de-orotava - 2D ESPAÑOL)": [
-        "17:05"
-      ],
-      "2026-02-11 (meridiano - 2D ESPAÑOL)": [
-        "17:00"
-      ],
-      "2026-02-12 (meridiano - 2D ESPAÑOL)": [
-        "17:00"
-      ],
-      "2026-02-13 (meridiano - 2D ESPAÑOL)": [
-        "17:10"
-      ],
-      "2026-02-16 (meridiano - 2D ESPAÑOL)": [
-        "20:00"
-      ],
-      "2026-02-17 (meridiano - 2D ESPAÑOL)": [
-        "16:45"
-      ],
-      "2026-02-18 (meridiano - 2D ESPAÑOL)": [
-        "18:00"
-      ],
-      "2026-02-19 (meridiano - 2D ESPAÑOL)": [
-        "18:00"
-      ]
-    },
-    "actors": [
-      "Tomasín Padrón",
-      "Aridany Pérez",
-      "Yazmina Estupiñan",
-      "Sara Cano",
-      "Inés Cano"
-    ],
-    "directors": [
-      "José Ángel Alayón"
-    ],
-    "producers": null,
-    "genres": [
-      "DRAMA"
-    ],
-    "synopsis": "En la árida isla de Fuerteventura, Miguel y su hija Mariana intentan seguir adelante tras la muerte de su esposa, una pérdida que los ha dejado a la deriva. La lucha canaria es su refugio, su forma de hacerse un lugar en el mundo. Pero el cuerpo de Miguel empieza a fallar, y la rabia de Mariana la empuja a desafiar las normas. Con la final del campeonato cerca, padre e hija buscan reencontrarse antes de que sea demasiado tarde.",
-    "url": "https://www.yelmocines.es/sinopsis/la-lucha"
+    "synopsis": "\"Los Domingos\" cuenta la historia de Ainara (Blanca Soroa), una joven idealista y brillante de 17 años que ha de decidir qué carrera universitaria estudiará. O, al menos, eso espera su familia que haga. Sin embargo, la joven manifiesta que se siente cada vez más cerca de Dios y que se plantea abrazar la vida de monja de clausura. La noticia pilla por sorpresa a toda la familia provocando un abismo y una prueba de fuego para todos.",
+    "url": "https://www.yelmocines.es/sinopsis/los-domingos"
   },
   {
     "title": "Marty Supreme",
     "length": "149",
-    "age": "M-16",
+    "age": "16",
     "theater": "yelmo",
     "showings": {
-      "2026-02-11 (la-villa-de-orotava - 2D ESPAÑOL)": [
-        "19:05",
-        "22:00"
+      "2026-03-07": [
+        {
+          "time": "22:10",
+          "cinema": "meridiano",
+          "format": "2D ESPAÑOL"
+        }
       ],
-      "2026-02-12 (la-villa-de-orotava - 2D ESPAÑOL)": [
-        "19:05",
-        "22:00"
+      "2026-03-08": [
+        {
+          "time": "22:05",
+          "cinema": "meridiano",
+          "format": "2D ESPAÑOL"
+        }
       ],
-      "2026-02-13 (la-villa-de-orotava - 2D ESPAÑOL)": [
-        "19:05",
-        "22:05"
+      "2026-03-09": [
+        {
+          "time": "21:50",
+          "cinema": "meridiano",
+          "format": "2D ESPAÑOL"
+        }
       ],
-      "2026-02-14 (la-villa-de-orotava - 2D ESPAÑOL)": [
-        "19:05",
-        "22:05"
+      "2026-03-10": [
+        {
+          "time": "20:10",
+          "cinema": "meridiano",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "20:10",
+          "cinema": "la-villa-de-orotava",
+          "format": "2D ESPAÑOL"
+        }
       ],
-      "2026-02-15 (la-villa-de-orotava - 2D ESPAÑOL)": [
-        "19:05",
-        "22:05"
+      "2026-03-11": [
+        {
+          "time": "21:50",
+          "cinema": "meridiano",
+          "format": "2D ESPAÑOL"
+        }
       ],
-      "2026-02-16 (la-villa-de-orotava - 2D ESPAÑOL)": [
-        "17:15",
-        "19:05",
-        "22:05"
-      ],
-      "2026-02-17 (la-villa-de-orotava - 2D ESPAÑOL)": [
-        "17:15",
-        "19:05"
-      ],
-      "2026-02-18 (la-villa-de-orotava - 2D ESPAÑOL)": [
-        "17:15",
-        "19:05",
-        "22:05"
-      ],
-      "2026-02-19 (la-villa-de-orotava - 2D ESPAÑOL)": [
-        "17:15",
-        "19:05",
-        "22:05"
-      ],
-      "2026-02-17 (la-villa-de-orotava - 2D INGLÉS SUBTITULADO EN ESPAÑOL (VOSE))": [
-        "22:05"
-      ],
-      "2026-02-11 (meridiano - 2D ESPAÑOL)": [
-        "19:00",
-        "22:00"
-      ],
-      "2026-02-12 (meridiano - 2D ESPAÑOL)": [
-        "19:00",
-        "22:00"
-      ],
-      "2026-02-13 (meridiano - 2D ESPAÑOL)": [
-        "17:30",
-        "20:30"
-      ],
-      "2026-02-14 (meridiano - 2D ESPAÑOL)": [
-        "19:00",
-        "22:00"
-      ],
-      "2026-02-15 (meridiano - 2D ESPAÑOL)": [
-        "19:00",
-        "22:00"
-      ],
-      "2026-02-16 (meridiano - 2D ESPAÑOL)": [
-        "17:30",
-        "20:30"
-      ],
-      "2026-02-17 (meridiano - 2D ESPAÑOL)": [
-        "21:45"
-      ],
-      "2026-02-18 (meridiano - 2D ESPAÑOL)": [
-        "17:30",
-        "20:30"
-      ],
-      "2026-02-19 (meridiano - 2D ESPAÑOL)": [
-        "17:30",
-        "20:30"
-      ],
-      "2026-02-15 (meridiano - 2D INGLÉS SUBTITULADO EN ESPAÑOL (VOSE))": [
-        "12:40"
-      ],
-      "2026-02-17 (meridiano - 2D INGLÉS SUBTITULADO EN ESPAÑOL (VOSE))": [
-        "12:40",
-        "18:45"
+      "2026-03-12": [
+        {
+          "time": "21:50",
+          "cinema": "meridiano",
+          "format": "2D ESPAÑOL"
+        }
       ]
     },
     "actors": [
@@ -849,13 +1241,6 @@
     "directors": [
       "Josh Safdie"
     ],
-    "producers": [
-      "Timothée Chalamet",
-      "Eli Bush",
-      "Ronald Bronstein",
-      "Josh Safdie",
-      "Anthony Katagas"
-    ],
     "genres": [
       "DRAMA"
     ],
@@ -863,323 +1248,489 @@
     "url": "https://www.yelmocines.es/sinopsis/marty-supreme"
   },
   {
-    "title": "Primate",
-    "length": "89",
-    "age": "M-18",
+    "title": "Ruta de escape",
+    "length": "140",
+    "age": "16",
     "theater": "yelmo",
     "showings": {
-      "2026-02-11 (la-villa-de-orotava - 2D ESPAÑOL)": [
-        "18:30",
-        "20:30",
-        "22:35"
+      "2026-03-07": [
+        {
+          "time": "21:15",
+          "cinema": "la-villa-de-orotava",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "20:10",
+          "cinema": "meridiano",
+          "format": "2D ESPAÑOL"
+        }
       ],
-      "2026-02-12 (la-villa-de-orotava - 2D ESPAÑOL)": [
-        "18:30",
-        "20:30",
-        "22:35"
+      "2026-03-08": [
+        {
+          "time": "21:15",
+          "cinema": "la-villa-de-orotava",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "20:10",
+          "cinema": "meridiano",
+          "format": "2D ESPAÑOL"
+        }
       ],
-      "2026-02-13 (la-villa-de-orotava - 2D ESPAÑOL)": [
-        "17:15",
-        "21:55"
+      "2026-03-09": [
+        {
+          "time": "21:15",
+          "cinema": "la-villa-de-orotava",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "17:10",
+          "cinema": "meridiano",
+          "format": "2D ESPAÑOL"
+        }
       ],
-      "2026-02-14 (la-villa-de-orotava - 2D ESPAÑOL)": [
-        "17:40",
-        "21:55"
+      "2026-03-10": [
+        {
+          "time": "21:15",
+          "cinema": "la-villa-de-orotava",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "21:50",
+          "cinema": "meridiano",
+          "format": "2D ESPAÑOL"
+        }
       ],
-      "2026-02-15 (la-villa-de-orotava - 2D ESPAÑOL)": [
-        "17:40",
-        "21:55"
+      "2026-03-11": [
+        {
+          "time": "21:15",
+          "cinema": "la-villa-de-orotava",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "17:10",
+          "cinema": "meridiano",
+          "format": "2D ESPAÑOL"
+        }
       ],
-      "2026-02-16 (la-villa-de-orotava - 2D ESPAÑOL)": [
-        "17:15",
-        "21:55"
-      ],
-      "2026-02-17 (la-villa-de-orotava - 2D ESPAÑOL)": [
-        "21:55"
-      ],
-      "2026-02-18 (la-villa-de-orotava - 2D ESPAÑOL)": [
-        "17:15",
-        "21:55"
-      ],
-      "2026-02-19 (la-villa-de-orotava - 2D ESPAÑOL)": [
-        "17:15",
-        "21:55"
-      ],
-      "2026-02-11 (meridiano - 2D ESPAÑOL)": [
-        "18:20",
-        "20:30",
-        "22:35"
-      ],
-      "2026-02-12 (meridiano - 2D ESPAÑOL)": [
-        "18:20",
-        "20:30",
-        "22:35"
-      ],
-      "2026-02-13 (meridiano - 2D ESPAÑOL)": [
-        "22:05"
-      ],
-      "2026-02-14 (meridiano - 2D ESPAÑOL)": [
-        "22:05"
-      ],
-      "2026-02-15 (meridiano - 2D ESPAÑOL)": [
-        "15:45",
-        "22:05"
-      ],
-      "2026-02-16 (meridiano - 2D ESPAÑOL)": [
-        "17:10",
-        "22:40"
-      ],
-      "2026-02-17 (meridiano - 2D ESPAÑOL)": [
-        "18:10",
-        "22:15"
-      ],
-      "2026-02-18 (meridiano - 2D ESPAÑOL)": [
-        "17:10",
-        "22:40"
-      ],
-      "2026-02-19 (meridiano - 2D ESPAÑOL)": [
-        "17:10",
-        "22:40"
+      "2026-03-12": [
+        {
+          "time": "21:15",
+          "cinema": "la-villa-de-orotava",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "17:00",
+          "cinema": "meridiano",
+          "format": "2D ESPAÑOL"
+        }
       ]
     },
     "actors": [
-      "Johnny Sequoyah",
-      "Jessica Alexander",
-      "Troy Kotsur",
-      "Victoria Wyant",
-      "Gia Hunter",
-      "Benjamin Cheng",
-      "Charlie Mann",
-      "Tienne Simon"
+      "Chris Hemsworth",
+      "Halle Berry",
+      "Mark Ruffalo",
+      "Corey Hawkins",
+      "Barry Keoghan",
+      "Nick Nolte",
+      "Monica Barbaro",
+      "Tate Donovan",
+      "Jennifer Jason Leigh"
     ],
     "directors": [
-      "Johannes Roberts"
+      "Bart Layton"
     ],
-    "producers": [
-      "Walter Hamada",
-      "John Hodges"
+    "genres": [
+      "THRILLER"
+    ],
+    "synopsis": "Davis (Chris Hemsworth) es un escurridizo ladrón cuyos atracos de alto riesgo tienen desconcertada a la policía. Davis está planeando su mayor golpe, con la esperanza de que sea el último, cuando se cruza en su camino Sharon (Halle Berry), una desilusionada ejecutiva de seguros con la que se ve obligado a trabajar, y Orman (Barry Keoghan) un ladrón rival, con métodos mucho más inquietantes que los de Davis. A medida que se acerca el golpe multimillonario, el implacable teniente Lubesnik (Mark Ruffalo) , se acerca a la operación, aumentando considerablemente el riesgo de lo que está en juego y difuminando la línea entre cazador y presa. Pronto, cada uno tendrá que aceptar el coste de sus decisiones asumiendo que no hay vuelta atrás.",
+    "url": "https://www.yelmocines.es/sinopsis/ruta-de-escape"
+  },
+  {
+    "title": "Scream 7",
+    "length": "114",
+    "age": "18",
+    "theater": "yelmo",
+    "showings": {
+      "2026-03-07": [
+        {
+          "time": "17:35",
+          "cinema": "la-villa-de-orotava",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "18:35",
+          "cinema": "la-villa-de-orotava",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "20:00",
+          "cinema": "la-villa-de-orotava",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "22:25",
+          "cinema": "la-villa-de-orotava",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "17:00",
+          "cinema": "meridiano",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "19:25",
+          "cinema": "meridiano",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "21:50",
+          "cinema": "meridiano",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "23:05",
+          "cinema": "meridiano",
+          "format": "2D ESPAÑOL"
+        }
+      ],
+      "2026-03-08": [
+        {
+          "time": "17:35",
+          "cinema": "la-villa-de-orotava",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "18:35",
+          "cinema": "la-villa-de-orotava",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "20:00",
+          "cinema": "la-villa-de-orotava",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "22:25",
+          "cinema": "la-villa-de-orotava",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "15:05",
+          "cinema": "meridiano",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "17:35",
+          "cinema": "meridiano",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "18:30",
+          "cinema": "meridiano",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "20:00",
+          "cinema": "meridiano",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "22:30",
+          "cinema": "meridiano",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "12:35",
+          "cinema": "meridiano",
+          "format": "2D INGLÉS SUBTITULADO EN ESPAÑOL (VOSE)"
+        }
+      ],
+      "2026-03-09": [
+        {
+          "time": "17:35",
+          "cinema": "la-villa-de-orotava",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "20:00",
+          "cinema": "la-villa-de-orotava",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "22:25",
+          "cinema": "la-villa-de-orotava",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "17:40",
+          "cinema": "meridiano",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "20:05",
+          "cinema": "meridiano",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "22:30",
+          "cinema": "meridiano",
+          "format": "2D ESPAÑOL"
+        }
+      ],
+      "2026-03-10": [
+        {
+          "time": "17:35",
+          "cinema": "la-villa-de-orotava",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "22:25",
+          "cinema": "la-villa-de-orotava",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "20:00",
+          "cinema": "la-villa-de-orotava",
+          "format": "2D INGLÉS SUBTITULADO EN ESPAÑOL (VOSE)"
+        },
+        {
+          "time": "20:05",
+          "cinema": "meridiano",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "22:30",
+          "cinema": "meridiano",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "17:40",
+          "cinema": "meridiano",
+          "format": "2D INGLÉS SUBTITULADO EN ESPAÑOL (VOSE)"
+        }
+      ],
+      "2026-03-11": [
+        {
+          "time": "17:35",
+          "cinema": "la-villa-de-orotava",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "20:00",
+          "cinema": "la-villa-de-orotava",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "22:25",
+          "cinema": "la-villa-de-orotava",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "17:40",
+          "cinema": "meridiano",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "20:05",
+          "cinema": "meridiano",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "22:30",
+          "cinema": "meridiano",
+          "format": "2D ESPAÑOL"
+        }
+      ],
+      "2026-03-12": [
+        {
+          "time": "17:35",
+          "cinema": "la-villa-de-orotava",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "20:00",
+          "cinema": "la-villa-de-orotava",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "22:25",
+          "cinema": "la-villa-de-orotava",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "17:40",
+          "cinema": "meridiano",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "20:05",
+          "cinema": "meridiano",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "22:30",
+          "cinema": "meridiano",
+          "format": "2D ESPAÑOL"
+        }
+      ]
+    },
+    "actors": [
+      "Mckenna Grace",
+      "Courteney Cox",
+      "Celeste O’Connor",
+      "Neve Campbell",
+      "Isabel May",
+      "Jasmin Savoy Brown",
+      "Mason Gooding",
+      "Anna Camp",
+      "Joel McHale",
+      "Michelle Randolph",
+      "Jimmy Tatro",
+      "Asa Germann",
+      "Sam Rechner",
+      "Ethan Embry",
+      "Tim Simons",
+      "Mark Consuelos"
+    ],
+    "directors": [
+      "Kevin Williamson"
     ],
     "genres": [
       "TERROR"
     ],
-    "synopsis": "Tras regresar de la universidad, Lucy se reúne con su familia, incluido el chimpancé Ben. Ben contrae la rabia durante una fiesta en la piscina y se vuelve muy agresivo. Lucy y sus amigos se atrincheran en la piscina e idean formas de sobrevivir al feroz chimpancé.",
-    "url": "https://www.yelmocines.es/sinopsis/primate"
+    "synopsis": "Cuando un nuevo asesino Ghostface aparece en el tranquilo pueblo donde Sidney Prescott (Neve Campbell) ha construido una nueva vida, sus miedos más oscuros se hacen realidad cuando su hija (Isabel May) se convierte en el siguiente objetivo. Decidida a proteger a su familia, Sidney debe enfrentarse a los horrores de su pasado para poner fin al derramamiento de sangre de una vez por todas.",
+    "url": "https://www.yelmocines.es/sinopsis/scream-7"
   },
   {
-    "title": "Send Help (Enviad ayuda)",
-    "length": "112",
-    "age": "M-16",
+    "title": "Zootrópolis 2",
+    "length": "107",
+    "age": "0",
     "theater": "yelmo",
     "showings": {
-      "2026-02-11 (la-villa-de-orotava - 2D ESPAÑOL)": [
-        "22:25"
+      "2026-03-07": [
+        {
+          "time": "16:20",
+          "cinema": "la-villa-de-orotava",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "15:45",
+          "cinema": "meridiano",
+          "format": "2D ESPAÑOL"
+        }
       ],
-      "2026-02-12 (la-villa-de-orotava - 2D ESPAÑOL)": [
-        "22:25"
-      ],
-      "2026-02-11 (meridiano - 2D ESPAÑOL)": [
-        "21:55"
-      ],
-      "2026-02-12 (meridiano - 2D ESPAÑOL)": [
-        "22:15"
-      ],
-      "2026-02-13 (meridiano - 2D ESPAÑOL)": [
-        "22:25"
-      ],
-      "2026-02-14 (meridiano - 2D ESPAÑOL)": [
-        "22:45"
-      ],
-      "2026-02-15 (meridiano - 2D ESPAÑOL)": [
-        "22:35"
-      ],
-      "2026-02-16 (meridiano - 2D ESPAÑOL)": [
-        "22:35"
-      ],
-      "2026-02-17 (meridiano - 2D ESPAÑOL)": [
-        "22:35"
-      ],
-      "2026-02-18 (meridiano - 2D ESPAÑOL)": [
-        "22:35"
-      ],
-      "2026-02-19 (meridiano - 2D ESPAÑOL)": [
-        "22:35"
+      "2026-03-08": [
+        {
+          "time": "16:20",
+          "cinema": "la-villa-de-orotava",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "15:45",
+          "cinema": "meridiano",
+          "format": "2D ESPAÑOL"
+        }
       ]
     },
     "actors": [
-      "Rachel McAdams",
-      "Dylan O'Brien",
-      "Dennis Haysbert",
-      "Chris Pang"
+      "Ke Huy Quan",
+      "Jason Bateman",
+      "Fortune Feimster",
+      "Ginnifer Goodwin",
+      "Rolando Davila-Beltran",
+      "Shakira "
     ],
     "directors": [
-      "Sam Raimi"
+      "Jared Bush",
+      "Byron Howard"
     ],
-    "producers": [
-      "Sam Raimi",
-      "Zainab Azizi"
+    "genres": [
+      "ANIMACION"
+    ],
+    "synopsis": "Tras resolver el caso más grande en la historia de Zootrópolis, los policías novatos Judy Hopps (voz de Ginnifer Goodwin en la versión original) y Nick Wilde (voz de Jason Bateman en la versión original) descubren que su sociedad no es tan sólida como pensaban cuando el Jefe Bogo (voz de Idris Elba en la versión original) les ordena unirse al programa “Compañeros en Crisis”. Pero no pasa mucho tiempo antes de que su alianza se ponga a prueba cuando se ven envueltos en una misteriosa investigación relacionada con la llegada de una serpiente venenosa a la metrópolis animal.",
+    "url": "https://www.yelmocines.es/sinopsis/zootropolis-2"
+  },
+  {
+    "title": "¡La novia!",
+    "length": "126",
+    "age": "0",
+    "theater": "yelmo",
+    "showings": {},
+    "actors": [
+      "Christian Bale",
+      "Jake Gyllenhaal",
+      "Penélope Cruz",
+      "Jessie Buckley",
+      "Peter Sarsgaard",
+      "Annette Bening"
+    ],
+    "directors": [
+      "Maggie Gyllenhaal"
     ],
     "genres": [
       "TERROR"
     ],
-    "synopsis": "Después de que un accidente de avión deje varados en una isla remota a una capaz empleada y a su molesto jefe, ella deberá utilizar sus habilidades de supervivencia para mantenerlos a ambos con vida, a pesar de su difícil relación.",
-    "url": "https://www.yelmocines.es/sinopsis/send-help-enviad-ayuda"
-  },
-  {
-    "title": "Sin piedad",
-    "length": "99",
-    "age": "M-12",
-    "theater": "yelmo",
-    "showings": {
-      "2026-02-11 (la-villa-de-orotava - 2D ESPAÑOL)": [
-        "17:00"
-      ],
-      "2026-02-12 (la-villa-de-orotava - 2D ESPAÑOL)": [
-        "17:00"
-      ],
-      "2026-02-12 (meridiano - 2D ESPAÑOL)": [
-        "17:00"
-      ]
-    },
-    "actors": [
-      "Rebecca Ferguson",
-      "Chris Pratt",
-      "Annabelle Wallis",
-      "Kali Reis",
-      "Chris Sullivan",
-      "Kylie Rogers"
-    ],
-    "directors": [
-      "Timur Bekmambetov"
-    ],
-    "producers": [
-      "Charles Roven",
-      "Robert Amidon",
-      "Majd Nassif"
-    ],
-    "genres": [
-      "CIENCIA FICCIÓN"
-    ],
-    "synopsis": "En un futuro próximo, un detective (Chris Pratt) es acusado de asesinar a su esposa. Tiene 90 minutos para demostrar su inocencia ante la Jueza de la I.A. avanzada (Rebecca Ferguson), a la que él mismo defendió en su día, antes de que esta decida su destino.",
-    "url": "https://www.yelmocines.es/sinopsis/sin-piedad"
-  },
-  {
-    "title": "Tres adioses",
-    "length": "120",
-    "age": "M-12",
-    "theater": "yelmo",
-    "showings": {
-      "2026-02-11 (meridiano - 2D ESPAÑOL)": [
-        "17:05",
-        "19:30"
-      ],
-      "2026-02-12 (meridiano - 2D ESPAÑOL)": [
-        "17:30"
-      ],
-      "2026-02-13 (meridiano - 2D ESPAÑOL)": [
-        "17:45"
-      ],
-      "2026-02-14 (meridiano - 2D ESPAÑOL)": [
-        "20:15"
-      ],
-      "2026-02-15 (meridiano - 2D ESPAÑOL)": [
-        "20:05"
-      ],
-      "2026-02-16 (meridiano - 2D ESPAÑOL)": [
-        "20:05"
-      ],
-      "2026-02-17 (meridiano - 2D ESPAÑOL)": [
-        "20:05"
-      ],
-      "2026-02-18 (meridiano - 2D ESPAÑOL)": [
-        "20:05"
-      ],
-      "2026-02-19 (meridiano - 2D ESPAÑOL)": [
-        "20:05"
-      ],
-      "2026-02-15 (meridiano - 2D ITALIANO SUBTITULADO EN ESPAÑOL (VOSE))": [
-        "12:10"
-      ],
-      "2026-02-17 (meridiano - 2D ITALIANO SUBTITULADO EN ESPAÑOL (VOSE))": [
-        "12:10"
-      ]
-    },
-    "actors": [
-      "Alba Rohrwacher",
-      "Sarita Choudhury",
-      "Elio Germano"
-    ],
-    "directors": [
-      "Isabel Coixet"
-    ],
-    "producers": null,
-    "genres": [
-      "DRAMA"
-    ],
-    "synopsis": "Tras lo que parecía una discusión sin importancia, Marta (Alba Rohrwacher) y Antonio (Elio Germano) se separan. Él, un chef prometedor, se refugia en sus fogones; ella, en su silencio, empieza a notar algo más que tristeza: ha perdido el apetito… y no solo por desamor. Cuando descubre que detrás hay un problema de salud, todo da un giro inesperado: la comida sabe mejor, la música le llega como nunca y el deseo despierta sus ganas de vivir sin miedo.",
-    "url": "https://www.yelmocines.es/sinopsis/tres-adioses"
+    "synopsis": "En el Chicago de los años 30, Frankenstein pide ayuda al Dr. Euphronius para crear una compañera. Dan vida a una mujer asesinada como la Novia, lo que desencadena un romance, el interés de la policía y un cambio social radical. Remake de \"La novia de Frankenstein\".",
+    "url": "https://www.yelmocines.es/sinopsis/la-novia"
   },
   {
     "title": "Ídolos",
     "length": "126",
-    "age": "M-12",
+    "age": "12",
     "theater": "yelmo",
     "showings": {
-      "2026-02-11 (la-villa-de-orotava - 2D ESPAÑOL)": [
-        "17:10",
-        "19:50"
+      "2026-03-07": [
+        {
+          "time": "22:30",
+          "cinema": "la-villa-de-orotava",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "22:40",
+          "cinema": "meridiano",
+          "format": "2D ESPAÑOL"
+        }
       ],
-      "2026-02-12 (la-villa-de-orotava - 2D ESPAÑOL)": [
-        "17:10",
-        "19:50"
+      "2026-03-08": [
+        {
+          "time": "22:30",
+          "cinema": "la-villa-de-orotava",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "22:20",
+          "cinema": "meridiano",
+          "format": "2D ESPAÑOL"
+        }
       ],
-      "2026-02-13 (la-villa-de-orotava - 2D ESPAÑOL)": [
-        "19:20"
+      "2026-03-09": [
+        {
+          "time": "22:10",
+          "cinema": "meridiano",
+          "format": "2D ESPAÑOL"
+        }
       ],
-      "2026-02-14 (la-villa-de-orotava - 2D ESPAÑOL)": [
-        "19:20"
+      "2026-03-10": [
+        {
+          "time": "22:10",
+          "cinema": "meridiano",
+          "format": "2D ESPAÑOL"
+        }
       ],
-      "2026-02-15 (la-villa-de-orotava - 2D ESPAÑOL)": [
-        "19:20"
+      "2026-03-11": [
+        {
+          "time": "22:10",
+          "cinema": "meridiano",
+          "format": "2D ESPAÑOL"
+        }
       ],
-      "2026-02-16 (la-villa-de-orotava - 2D ESPAÑOL)": [
-        "19:20"
-      ],
-      "2026-02-17 (la-villa-de-orotava - 2D ESPAÑOL)": [
-        "19:20"
-      ],
-      "2026-02-18 (la-villa-de-orotava - 2D ESPAÑOL)": [
-        "19:20"
-      ],
-      "2026-02-19 (la-villa-de-orotava - 2D ESPAÑOL)": [
-        "19:20"
-      ],
-      "2026-02-11 (meridiano - 2D ESPAÑOL)": [
-        "18:30"
-      ],
-      "2026-02-12 (meridiano - 2D ESPAÑOL)": [
-        "17:40",
-        "22:20"
-      ],
-      "2026-02-13 (meridiano - 2D ESPAÑOL)": [
-        "17:20"
-      ],
-      "2026-02-14 (meridiano - 2D ESPAÑOL)": [
-        "17:20"
-      ],
-      "2026-02-15 (meridiano - 2D ESPAÑOL)": [
-        "17:05"
-      ],
-      "2026-02-16 (meridiano - 2D ESPAÑOL)": [
-        "17:15"
-      ],
-      "2026-02-17 (meridiano - 2D ESPAÑOL)": [
-        "17:05"
-      ],
-      "2026-02-18 (meridiano - 2D ESPAÑOL)": [
-        "17:05"
-      ],
-      "2026-02-19 (meridiano - 2D ESPAÑOL)": [
-        "17:05"
+      "2026-03-12": [
+        {
+          "time": "22:10",
+          "cinema": "meridiano",
+          "format": "2D ESPAÑOL"
+        }
       ]
     },
     "actors": [
@@ -1192,14 +1743,6 @@
     ],
     "directors": [
       "Mat Whitecross"
-    ],
-    "producers": [
-      "Marco Belardi",
-      "Ricardo Marco Budé",
-      "Jordi Gasull",
-      "Marc Sabé",
-      "Ignacio Salazar-Simpson",
-      "Toni Novella"
     ],
     "genres": [
       "DRAMA"

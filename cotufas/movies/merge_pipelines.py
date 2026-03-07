@@ -26,9 +26,7 @@ class Showing:
     date: str
     time: str
     theater: str
-    cinema: Optional[str] = None
     format: Optional[str] = None
-    url: Optional[str] = None
 
     def to_dict(self) -> Dict[str, Any]:
         """Convert to JSON-serializable dict"""
@@ -36,18 +34,16 @@ class Showing:
             'date': self.date,
             'time': self.time,
             'theater': self.theater,
-            'cinema': self.cinema,
             'format': self.format,
-            'url': self.url,
         }
 
     def __hash__(self):
         """Make hashable for set operations"""
         return hash((self.date, self.time, self.theater))
 
-    def __eq__(self, other):
-        """Define equality for deduplication"""
-        return self.date == other.date and self.time == other.time and self.theater == other.theater
+    # def __eq__(self, other):
+    #     """Define equality for deduplication"""
+    #     return self.date == other.date and self.time == other.time and self.theater == other.theater
 
 
 @dataclass
@@ -150,6 +146,18 @@ class CinemaMerger:
                 url=item.get('url'),
             )
 
+            # Get format
+            match theater:
+                case 'xsur':
+                    if item['title'].split(' (')[1] == 'ENGLISH VERSION)':
+                        format = 'english'
+                case 'zentralcenter':
+                    format = item.get('language')
+                case 'yelmo':
+                    format = item.get('showings')[0].key().split(' - ')[1].strip(')')
+                case _:
+                    format = ''
+
             # Parse showings
             for date, times in item.get('showings', {}).items():
                 # Handle both formats: dict of times or list of times
@@ -157,11 +165,15 @@ class CinemaMerger:
                     # Format: {"SALA 1": ["18:00", "20:00"]}
                     for sala, time_list in times.items():
                         for time in time_list:
-                            movie.add_showing(Showing(date=date, time=time, theater=theater))
+                            movie.add_showing(
+                                Showing(date=date, time=time, theater=theater, format=format)
+                            )
                 elif isinstance(times, list):
                     # Format: ["18:00", "20:00"]
                     for time in times:
-                        movie.add_showing(Showing(date=date, time=time, theater=theater))
+                        movie.add_showing(
+                            Showing(date=date, time=time, theater=theater, format=format)
+                        )
 
             movies.append(movie)
 

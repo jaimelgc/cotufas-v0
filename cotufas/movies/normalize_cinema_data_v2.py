@@ -1,32 +1,20 @@
 """
-Cinema Data Normalization Pipeline
-====================================
+Cinema Data Normalization Pipeline - Version 2
+===============================================
 
-This module normalizes raw JSON data from different cinema scrapers into a unified format.
-
-Target Schema:
-{
-    "title": str,
-    "length": str,
-    "age": int | null,
-    "theater": str,
-    "showings": {
-        "YYYY-MM-DD": ["HH:MM", ...],
-        ...
-    },
-    "actors": [str, ...] | null,
-    "directors": [str, ...] | null,
-    "genres": [str, ...] | null,
-    "synopsis": str | null,
-    "url": str | null
-}
+Improvements:
+- Normalized age ratings to simple numbers
+- Added URL extraction for all cinemas
+- Standardized format field
+- Removed sala (room) details for cleaner output
 """
 
 import json
+import re
 from collections import defaultdict
 from datetime import datetime
 from pathlib import Path
-from typing import Any, Dict, List
+from typing import Any, Dict, List, Optional
 
 
 class CinemaNormalizer:
@@ -46,7 +34,34 @@ class CinemaNormalizer:
         self.output_path.parent.mkdir(parents=True, exist_ok=True)
         with open(self.output_path, 'w', encoding='utf-8') as f:
             json.dump(data, f, ensure_ascii=False, indent=indent)
-        print(f"Saved {len(data)} movies to {self.output_path}")
+        print(f"✓ Saved {len(data)} movies to {self.output_path}")
+
+    @staticmethod
+    def normalize_age(age_str: Optional[str]) -> str:
+        """
+        Normalize age ratings to simple number strings
+
+        Examples:
+            "M-18" -> "18"
+            "No recomendada para menores de 12 años" -> "12"
+            "Para todos los públicos" -> "0"
+            None -> "0"
+        """
+        if not age_str:
+            return "0"
+
+        # Extract number from string
+        match = re.search(r'\d+', age_str)
+        if match:
+            return match.group()
+
+        # Check for "all ages" phrases
+        all_ages_keywords = ['todos', 'all', 'general', 'apta', 'pdc', 'desc']
+        if any(keyword in age_str.lower() for keyword in all_ages_keywords):
+            return "0"
+
+        # Default to 0 if can't determine
+        return "0"
 
     def normalize(self) -> List[Dict[str, Any]]:
         """Override this method in subclasses"""
@@ -58,13 +73,11 @@ class YelmoNormalizer(CinemaNormalizer):
 
     @staticmethod
     def convert_timestamp_to_date(timestamp: str) -> str:
-        """Convert timestamp format to YYYY-MM-DD"""
-        # The timestamp is in .NET ticks (100-nanosecond intervals since 0001-01-01)
+        """Convert Yelmo's .NET timestamp to YYYY-MM-DD"""
+        # .NET epoch is 0001-01-01, Unix epoch is 1970-01-01
+        # Difference is 621355968000000000 ticks
         try:
             ticks = int(timestamp)
-            # Convert .NET ticks to Unix timestamp
-            # .NET epoch is 0001-01-01, Unix epoch is 1970-01-01
-            # Difference is 621355968000000000 ticks
             unix_ticks = ticks - 621355968000000000
             unix_seconds = unix_ticks / 10000000
             dt = datetime.fromtimestamp(unix_seconds)
@@ -73,62 +86,55 @@ class YelmoNormalizer(CinemaNormalizer):
             return timestamp
 
     def normalize(self) -> List[Dict[str, Any]]:
-        """
-        Transform Yelmo data structure:
-        - Flatten nested theater/format structure
-        - Convert timestamps to readable dates
-        - Merge multiple showings per movie
-        """
+        """Transform Yelmo data"""
         raw_data = self.load_data()
-
-        # Group movies by title (they may appear multiple times)
         movies_by_title: Dict[str, Dict[str, Any]] = {}
 
         for item in raw_data:
             detail = item['detail']
             title = detail['title']
-            theater = item['theater']
-            age = '0' if detail.get('age') == 'TP' else detail.get('age').split('-')[1]
 
-            # Initialize movie entry if first time seeing this title
             if title not in movies_by_title:
                 movies_by_title[title] = {
                     'title': title,
                     'length': detail.get('length'),
-                    'age': age,
-                    'theater': theater,
+                    'age': self.normalize_age(detail.get('age')),
+                    'theater': 'yelmo',
                     'showings': {},
                     'actors': detail.get('details', {}).get('Actores:'),
                     'directors': detail.get('details', {}).get('Directores:'),
-                    'producers': detail.get('details', {}).get('Productores:'),
                     'genres': [detail.get('genres')] if detail.get('genres') else None,
                     'synopsis': detail.get('synopsis'),
                     'url': detail.get('url'),
                 }
 
-            # Merge showings from all theaters/formats
+            # Parse showings
             for cinema_name, formats in item['showings'].items():
                 for format_name, dates in formats.items():
                     for timestamp, times in dates.items():
                         date = self.convert_timestamp_to_date(timestamp)
 
-                        # Add cinema and format info to the showing
-                        showing_key = f"{date} ({cinema_name} - {format_name})"
+                        if date not in movies_by_title[title]['showings']:
+                            movies_by_title[title]['showings'][date] = []
 
-                        if showing_key not in movies_by_title[title]['showings']:
-                            movies_by_title[title]['showings'][showing_key] = []
+                        for time in times:
+                            movies_by_title[title]['showings'][date].append(
+                                {
+                                    'time': time,
+                                    'cinema': cinema_name,
+                                    'format': format_name,
+                                }
+                            )
 
-                        movies_by_title[title]['showings'][showing_key].extend(times)
-
-        # Convert to list and sort by title
         result = sorted(movies_by_title.values(), key=lambda x: x['title'])
-
-        print(f"Normalized {len(result)} movies from Yelmo")
+        print(f"✓ Normalized {len(result)} movies from Yelmo")
         return result
 
 
 class ZentralcenterNormalizer(CinemaNormalizer):
     """Normalize Zentralcenter (Kinetike) cinema data"""
+
+    BASE_URL = "https://kinetike.com:83/views/sesionesFuturas.aspx"
 
     @staticmethod
     def parse_date(date_str: str) -> str:
@@ -140,22 +146,12 @@ class ZentralcenterNormalizer(CinemaNormalizer):
             return date_str
 
     def normalize(self) -> List[Dict[str, Any]]:
-        """
-        Transform Zentralcenter data structure:
-        - Group by movie title
-        - Consolidate showings across multiple days
-        - Convert dates to standard format
-        """
+        """Transform Zentralcenter data"""
         raw_data = self.load_data()
-
-        # Group movies by title
         movies_by_title: Dict[str, Dict[str, Any]] = defaultdict(
             lambda: {
                 'showings': {},
                 'title': None,
-                'length': None,
-                'age': None,
-                'theater': 'zentralcenter',
             }
         )
 
@@ -169,46 +165,51 @@ class ZentralcenterNormalizer(CinemaNormalizer):
                 # Use title + language as unique key
                 movie_key = f"{title} - {language}"
 
-                # Set movie metadata (only once)
                 if not movies_by_title[movie_key]['title']:
                     movies_by_title[movie_key].update(
                         {
                             'title': title,
                             'length': movie.get('duration'),
-                            'age': (
-                                '0'
-                                if movie.get('age_rating') == 'Desconocida'
-                                else movie.get('age_rating')
-                            ),
-                            'language': language,
+                            'age': self.normalize_age(movie.get('age_rating')),
+                            'theater': 'zentralcenter',
+                            'format': language,
+                            'actors': None,
+                            'directors': None,
+                            'genres': None,
+                            'synopsis': None,
+                            'url': movie.get('url'),
                         }
                     )
 
-                # Add showings for this date
-                showings_for_date = {}
+                # Add showings for this date (flatten sala structure)
+                if date not in movies_by_title[movie_key]['showings']:
+                    movies_by_title[movie_key]['showings'][date] = []
+
                 for sala, times in movie.get('showings', {}).items():
-                    if times:  # Only add if there are actual times
-                        showings_for_date[sala] = times
+                    for time in times:
+                        movies_by_title[movie_key]['showings'][date].append(
+                            {
+                                'time': time,
+                                'format': language,
+                            }
+                        )
 
-                if showings_for_date:
-                    movies_by_title[movie_key]['showings'][date] = showings_for_date
-
-        # Convert to list format and sort
+        # Convert to list and clean up
         result = []
-        for movie_key, movie_data in sorted(movies_by_title.items()):
+        for movie_data in sorted(movies_by_title.values(), key=lambda x: x['title']):
             result.append(
                 {
                     'title': movie_data['title'],
                     'length': movie_data['length'],
                     'age': movie_data['age'],
                     'theater': movie_data['theater'],
-                    'language': movie_data.get('language'),
+                    'format': movie_data.get('format'),
                     'showings': movie_data['showings'],
-                    'actors': None,
-                    'directors': None,
-                    'genres': None,
-                    'synopsis': None,
-                    'url': None,
+                    'actors': movie_data['actors'],
+                    'directors': movie_data['directors'],
+                    'genres': movie_data['genres'],
+                    'synopsis': movie_data['synopsis'],
+                    'url': movie_data['url'],
                 }
             )
 
@@ -219,13 +220,13 @@ class ZentralcenterNormalizer(CinemaNormalizer):
 class XsurNormalizer(CinemaNormalizer):
     """Normalize X-Sur cinema data"""
 
-    @staticmethod
-    def parse_showings(showings_list: List[str]) -> Dict[str, List[str]]:
-        """
-        Parse X-Sur showings format from list of strings like:
-        ["Lunes 09-02-2026 21:50", "Martes 10-02-2026 20:20 22:30"]
+    BASE_URL = "https://x-surcine.com"
 
-        Returns: {"2026-02-09": ["21:50"], "2026-02-10": ["20:20", "22:30"]}
+    @staticmethod
+    def parse_showings(showings_list: List[str]) -> Dict[str, List[Dict[str, str]]]:
+        """
+        Parse X-Sur showings format
+        Returns: {"2026-02-09": [{"time": "21:50"}], ...}
         """
         result = defaultdict(list)
 
@@ -234,15 +235,15 @@ class XsurNormalizer(CinemaNormalizer):
             if len(parts) < 3:
                 continue
 
-            # Parse date (format: DD-MM-YYYY)
             try:
                 date_str = parts[1]  # "09-02-2026"
                 dt = datetime.strptime(date_str, '%d-%m-%Y')
                 date = dt.strftime('%Y-%m-%d')
 
-                # Parse times (rest of the parts)
+                # Parse times
                 times = [t for t in parts[2:] if ':' in t]
-                result[date].extend(times)
+                for time in times:
+                    result[date].append({'time': time})
             except (ValueError, IndexError) as e:
                 print(f"Warning: Could not parse showing '{showing}': {e}")
                 continue
@@ -251,7 +252,7 @@ class XsurNormalizer(CinemaNormalizer):
 
     @staticmethod
     def clean_text(text: str) -> str:
-        """Fix encoding issues in X-Sur data"""
+        """Fix encoding issues"""
         replacements = {
             'Ã­': 'í',
             'Ã³': 'ó',
@@ -266,34 +267,44 @@ class XsurNormalizer(CinemaNormalizer):
             text = text.replace(old, new)
         return text
 
+    @staticmethod
+    def extract_format(title: str) -> tuple[str, str]:
+        """
+        Extract format from title
+        "MARTY SUPREME (ENGLISH VERSION)" -> ("MARTY SUPREME", "VOSE")
+        "EVOLUTION" -> ("EVOLUTION", "Español")
+        """
+        if '(ENGLISH VERSION)' in title.upper():
+            clean_title = re.sub(r'\s*\(ENGLISH VERSION\)\s*$', '', title, flags=re.IGNORECASE)
+            return (clean_title.strip(), 'VOSE')
+        return (title, 'Español')
+
     def normalize(self) -> List[Dict[str, Any]]:
-        """Transform X-Sur data to standard format"""
+        """Transform X-Sur data"""
         raw_data = self.load_data()
         result = []
 
         for movie in raw_data:
-            # Fix encoding issues
-            title = self.clean_text(movie['title'])
+            # Fix encoding and extract format
+            raw_title = self.clean_text(movie['title'])
+            title, format_type = self.extract_format(raw_title)
+
             synopsis = self.clean_text(movie.get('synopsis', ''))
-            age_raw = self.clean_text(movie.get('age', ''))
-            age = (
-                '0'
-                if age_raw == 'Para todos los públicos'
-                else (age_raw.split(' ')[-2] if age_raw else '')
-            )
+            age = self.clean_text(movie.get('age', ''))
 
             result.append(
                 {
                     'title': title,
                     'length': movie.get('length'),
-                    'age': age if age else None,
-                    'theater': movie.get('theater', 'xsur'),
+                    'age': self.normalize_age(age),
+                    'theater': 'xsur',
+                    'format': format_type,
                     'showings': self.parse_showings(movie.get('showings', [])),
                     'actors': None,  # X-Sur doesn't provide this
                     'directors': None,
                     'genres': None,
                     'synopsis': synopsis if synopsis else None,
-                    'url': None,
+                    'url': movie.get('url'),
                 }
             )
 
@@ -301,26 +312,65 @@ class XsurNormalizer(CinemaNormalizer):
         return result
 
 
-def normalize_all(input_dir: str = 'data_raw', output_dir: str = 'data') -> None:
-    """
-    Normalize all cinema data files
+class MulticinesNormalizer(CinemaNormalizer):
+    """Normalize Multicines data (already mostly normalized)"""
 
-    Args:
-        input_dir: Directory containing raw JSON files
-        output_dir: Directory to save normalized JSON files
-    """
+    @staticmethod
+    def parse_date(date_str: str) -> str:
+        """Convert DD/MM/YYYY to YYYY-MM-DD"""
+        try:
+            dt = datetime.strptime(date_str, '%d/%m/%Y')
+            return dt.strftime('%Y-%m-%d')
+        except ValueError:
+            return date_str
+
+    def normalize(self) -> List[Dict[str, Any]]:
+        """Transform Multicines data"""
+        raw_data = self.load_data()
+        result = []
+
+        for movie in raw_data:
+            # Parse showings into new format
+            showings = {}
+            for date_str, times in movie.get('showings', {}).items():
+                date = self.parse_date(date_str)
+                showings[date] = [{'time': time.strip()} for time in times]
+
+            result.append(
+                {
+                    'title': movie['title'],
+                    'length': movie.get('length'),
+                    'age': self.normalize_age(movie.get('age')),
+                    'theater': 'multicines',
+                    'format': 'Español',  # Multicines doesn't specify
+                    'showings': showings,
+                    'actors': movie.get('actors'),
+                    'directors': movie.get('directors'),
+                    'genres': movie.get('genres'),
+                    'synopsis': movie.get('synopsis'),
+                    'url': movie.get('url'),
+                }
+            )
+
+        print(f"✓ Normalized {len(result)} movies from Multicines")
+        return result
+
+
+def normalize_all(input_dir: str = 'data_raw', output_dir: str = 'data') -> None:
+    """Normalize all cinema data files"""
     normalizers = {
         'yelmo': YelmoNormalizer,
         'zentralcenter': ZentralcenterNormalizer,
         'xsur': XsurNormalizer,
+        'multicines': MulticinesNormalizer,
     }
 
     print("=" * 60)
-    print("Cinema Data Normalization Pipeline")
+    print("Cinema Data Normalization Pipeline V2")
     print("=" * 60)
 
     for cinema, normalizer_class in normalizers.items():
-        input_file = f"{input_dir}/{cinema}.json"
+        input_file = f"{input_dir}/{cinema}_raw.json"
         output_file = f"{output_dir}/{cinema}.json"
 
         print(f"\n📁 Processing {cinema}...")

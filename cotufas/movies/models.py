@@ -86,24 +86,6 @@ class Movie(models.Model):
 
         return ""
 
-    def get_url(self, preferred_theaters: list = None) -> str:
-        """Get best available URL (same logic as synopsis)"""
-        if not preferred_theaters:
-            preferred_theaters = ['yelmo', 'multicines', 'xsur', 'zentralcenter']
-
-        if self.url:
-            return self.url
-
-        for theater in preferred_theaters:
-            if theater in self.all_urls and self.all_urls[theater]:
-                return self.all_urls[theater]
-
-        for url in self.all_urls.values():
-            if url:
-                return url
-
-        return ""
-
     @property
     def theaters_showing(self) -> list:
         """Get list of theaters showing this movie"""
@@ -154,9 +136,6 @@ class Showing(models.Model):
     def day_type(self) -> str:
         """
         Determine day type for pricing
-
-        Returns:
-            'weekday', 'weekend', or 'holiday'
         """
         # You can customize this logic
         weekday = self.date.weekday()
@@ -171,11 +150,6 @@ class Showing(models.Model):
         # TODO: Add holiday detection
         # from django.utils import timezone
         # Check against a Holiday model or external calendar
-
-    @property
-    def price(self) -> float:
-        """Calculate price for this showing"""
-        return self.theater.get_price(day_type=self.day_type, format=self.format)
 
     def clean(self):
         """Validate that showing is in the future (optional)"""

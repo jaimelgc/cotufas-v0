@@ -34,7 +34,7 @@ class Showing:
             'theater': self.theater,
         }
         if self.cinema:
-            result['cinema'] = self.cinema
+            result['theater'] = f'{self.theater}-{self.cinema}'
         if self.format:
             result['format'] = self.format
         return result

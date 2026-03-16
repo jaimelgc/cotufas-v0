@@ -6,7 +6,9 @@ class Theater(models.Model):
     """Cinema theater with pricing information"""
 
     name = models.CharField(max_length=50, unique=True)
+    slug = models.SlugField(max_length=100, unique=True)
     location = models.CharField(max_length=100)
+    city = models.CharField(max_length=100)
 
     # Base pricing by day type
     # Store as JSON: {"weekday": 7.50, "weekend": 9.00, "holiday": 9.50}

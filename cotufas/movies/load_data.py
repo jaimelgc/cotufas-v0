@@ -1,6 +1,7 @@
 """
 python manage.py load_cinema_data data/merged.json
 python manage.py load_cinema_data data/merged.json --clear
+python manage.py load_cinema_data data/merged.json --update-pricing
 """
 
 import json
@@ -11,7 +12,18 @@ from typing import Any, Dict
 from django.core.management.base import BaseCommand, CommandError
 from django.db import transaction
 from django.utils import timezone
+from django.utils.text import slugify
 from movies.models import Movie, Showing, Theater
+
+# Maps (theater, cinema) pairs from the JSON onto Theater slugs.
+# For theaters that are a single entity, cinema is None (wildcard).
+THEATER_CINEMA_MAP = {
+    'yelmo-meridiano': 'yelmo-meridiano',
+    'yelmo-la-villa-de-orotava': 'yelmo-la-villa',
+    'multicines': 'multicines',
+    'xsur': 'xsur',
+    'zentralcenter': 'zentralcenter',
+}
 
 
 class Command(BaseCommand):
@@ -34,84 +46,81 @@ class Command(BaseCommand):
         if not json_file.exists():
             raise CommandError(f'File not found: {json_file}')
 
-        # Clear existing data if requested
         if options['clear']:
             self.stdout.write(self.style.WARNING('🗑️  Clearing existing data...'))
             Showing.objects.all().delete()
             Movie.objects.all().delete()
-            # Don't delete theaters - they have pricing config
             self.stdout.write('   Cleared showings and movies')
 
-        # Load JSON data
         self.stdout.write(f'\n📂 Loading data from {json_file}...')
         with open(json_file, 'r', encoding='utf-8') as f:
             movies_data = json.load(f)
 
         self.stdout.write(f'   Found {len(movies_data)} movies\n')
 
-        # Setup theaters with pricing if requested
         if options['update_pricing']:
             self.setup_theaters()
 
-        # Load movies and showings
         stats = self.load_movies(movies_data)
-
-        # Print statistics
         self.print_statistics(stats)
-
         self.stdout.write(self.style.SUCCESS('\n✅ Data loading complete!'))
 
     def setup_theaters(self):
         """Create/update theaters with pricing information"""
         self.stdout.write('🎭 Setting up theaters with pricing...')
 
-        # Define theater pricing
-        # TODO: Customize these prices based on actual theater pricing
+        yelmo_prices = {'weekday': 10.70, 'wednesday': 7.40}
+
         theater_configs = {
-            'yelmo la villa': {
-                'location': 'Centro Comercial La Villa, TF-5, s/n, 38300 La Orotava, Santa Cruz de Tenerife',
-                'base_prices': {'weekday': 10.70, 'wednesday': 7.40},
-            },
-            'yelmo meridiano': {
+            'yelmo-meridiano': {
+                'name': 'yelmo meridiano',
                 'location': 'Av. Manuel Hermoso Rojas, 16, 38005 Santa Cruz de Tenerife',
-                'base_prices': {'weekday': 10.70, 'wednesday': 7.40},
+                'city': 'Santa Cruz de Tenerife',
+                'base_prices': yelmo_prices,
+            },
+            'yelmo-la-villa': {
+                'name': 'yelmo la villa',
+                'location': 'Centro Comercial La Villa, TF-5, s/n, 38300 La Orotava, Santa Cruz de Tenerife',
+                'city': 'La Orotava',
+                'base_prices': yelmo_prices,
             },
             'xsur': {
+                'name': 'xsur',
                 'location': 'X-Sur, C. Lisboa, centro comercial, 38660 Costa Adeje, Santa Cruz de Tenerife',
+                'city': 'Costa Adeje',
                 'base_prices': {'weekday': 6.50, 'weekend': 8.00, 'holiday': 8.50},
             },
             'multicines': {
-                'location': 'CC ALCAMPO, CAMINO DE LA HORNERA S/N. CC ALCAMPO LA LAGUNA, Cam. la Hornera, S/N, 38296 La Laguna, Santa Cruz de Tenerife',
+                'name': 'multicines',
+                'location': 'CC ALCAMPO, Cam. la Hornera, S/N, 38296 La Laguna, Santa Cruz de Tenerife',
+                'city': 'La Laguna',
                 'base_prices': {'weekday': 7.00, 'weekend': 8.50, 'holiday': 9.00},
             },
             'zentralcenter': {
+                'name': 'zentralcenter',
                 'location': 'Centro Comercial Zentral Center, Av. Arquitecto Gómez Cuesta, 22, 38650 Arona, Santa Cruz de Tenerife',
+                'city': 'Arona',
                 'base_prices': {'weekday': 6.00, 'weekend': 7.50, 'holiday': 8.00},
             },
         }
 
-        for name, config in theater_configs.items():
+        for slug, config in theater_configs.items():
             theater, created = Theater.objects.update_or_create(
-                name=name,
+                slug=slug,
                 defaults={
+                    'name': config['name'],
                     'location': config['location'],
+                    'city': config['city'],
                     'base_prices': config['base_prices'],
-                    'format_surcharges': config['format_surcharges'],
                 },
             )
             action = 'Created' if created else 'Updated'
-            self.stdout.write(f'   {action} theater: {name}')
+            self.stdout.write(f'   {action} theater: {slug}')
 
         self.stdout.write('')
 
     @transaction.atomic
     def load_movies(self, movies_data: list) -> Dict[str, int]:
-        """
-        Load movies and showings from JSON data
-
-        Returns:
-            Statistics dictionary
-        """
         stats = {
             'movies_created': 0,
             'movies_updated': 0,
@@ -121,14 +130,12 @@ class Command(BaseCommand):
         }
 
         for i, movie_data in enumerate(movies_data, 1):
-            # Progress indicator
             if i % 10 == 0:
                 self.stdout.write(f'   Processing movie {i}/{len(movies_data)}...')
 
             try:
                 movie_stats = self.load_movie(movie_data)
 
-                # Aggregate stats
                 if movie_stats['created']:
                     stats['movies_created'] += 1
                 else:
@@ -148,8 +155,6 @@ class Command(BaseCommand):
 
     def load_movie(self, movie_data: Dict[str, Any]) -> Dict[str, Any]:
         """Load a single movie and its showings"""
-
-        # Create or update movie
         movie, created = Movie.objects.update_or_create(
             title=movie_data['title'],
             defaults={
@@ -161,7 +166,6 @@ class Command(BaseCommand):
                 'genres': movie_data.get('genres') or [],
                 'synopsis': movie_data.get('synopsis'),
                 'all_synopsis': movie_data.get('all_synopsis') or {},
-                'url': movie_data.get('url'),
                 'all_urls': movie_data.get('all_urls') or {},
             },
         )
@@ -173,7 +177,6 @@ class Command(BaseCommand):
             'theaters_missing': set(),
         }
 
-        # Load showings
         for showing_data in movie_data.get('showings', []):
             showing_stats = self.load_showing(movie, showing_data)
             movie_stats['showings_created'] += showing_stats['created']
@@ -183,20 +186,31 @@ class Command(BaseCommand):
 
         return movie_stats
 
+    def resolve_theater(self, theater_name: str, cinema: str | None) -> Theater | None:
+        slug = THEATER_CINEMA_MAP.get(theater_name)
+        if slug is None:
+            return None
+        try:
+            return Theater.objects.get(slug=slug)
+        except Theater.DoesNotExist:
+            return None
+
     def load_showing(self, movie: Movie, showing_data: Dict[str, Any]) -> Dict[str, Any]:
         """Load a single showing"""
-
         theater_name = showing_data['theater']
+        cinema = showing_data.get('cinema')
 
-        # Get theater
-        try:
-            theater = Theater.objects.get(name=theater_name)
-        except Theater.DoesNotExist:
-            # Create theater without pricing (can be updated later)
-            theater = Theater.objects.create(name=theater_name, location='Unknown')
-            return {'created': 0, 'skipped': 0, 'theater_missing': theater_name}
+        theater = self.resolve_theater(theater_name, cinema)
 
-        # Parse date and time
+        if theater is None:
+            # Create a minimal theater so data isn't lost; pricing can be added later.
+            key = f"{theater_name}-{cinema}" if cinema else theater_name
+            theater, _ = Theater.objects.get_or_create(
+                slug=key,
+                defaults={'name': key, 'location': 'Unknown', 'city': 'Unknown'},
+            )
+            return {'created': 0, 'skipped': 0, 'theater_missing': key}
+
         try:
             date = self.parse_date(showing_data['date'])
             time = self.parse_time(showing_data['time'])
@@ -206,17 +220,20 @@ class Command(BaseCommand):
             )
             return {'created': 0, 'skipped': 1, 'theater_missing': None}
 
-        # Skip past showings
         if date < timezone.now().date():
             return {'created': 0, 'skipped': 1, 'theater_missing': None}
 
-        # Create or get showing
+        # For split theaters (Yelmo) the cinema field now identifies the
+        # building, not a sub-screen, so we clear it to avoid storing
+        # redundant data (the Theater record already carries the location).
+        resolved_cinema = None if theater_name == 'yelmo' else cinema
+
         showing, created = Showing.objects.get_or_create(
             movie=movie,
             theater=theater,
             date=date,
             time=time,
-            cinema=showing_data.get('cinema'),
+            cinema=resolved_cinema,
             format=showing_data.get('format'),
         )
 
@@ -227,15 +244,12 @@ class Command(BaseCommand):
         }
 
     def parse_date(self, date_str: str) -> datetime.date:
-        """Parse date string (YYYY-MM-DD)"""
         return datetime.strptime(date_str, '%Y-%m-%d').date()
 
     def parse_time(self, time_str: str) -> datetime.time:
-        """Parse time string (HH:MM)"""
         return datetime.strptime(time_str, '%H:%M').time()
 
     def print_statistics(self, stats: Dict[str, Any]):
-        """Print loading statistics"""
         self.stdout.write('\n' + '=' * 60)
         self.stdout.write('📊 LOADING STATISTICS')
         self.stdout.write('=' * 60)
@@ -256,10 +270,8 @@ class Command(BaseCommand):
             )
             self.stdout.write('   Run with --update-pricing to add pricing info')
 
-        # Database totals
         self.stdout.write('\n📈 Database Totals:')
         self.stdout.write(f'   Theaters: {Theater.objects.count()}')
         self.stdout.write(f'   Movies: {Movie.objects.count()}')
         self.stdout.write(f'   Showings: {Showing.objects.count()}')
-
         self.stdout.write('=' * 60)

@@ -33,8 +33,6 @@ class Showing:
             'time': self.time,
             'theater': self.theater,
         }
-        if self.cinema:
-            result['theater'] = f'{self.theater}-{self.cinema}'
         if self.format:
             result['format'] = self.format
         return result
@@ -183,11 +181,13 @@ class CinemaMerger:
                     for showing_item in showing_list:
                         if isinstance(showing_item, dict):
                             # Dict format
+                            if showing_item.get('cinema'):
+                                theater_long = f"{theater}-{showing_item.get('cinema')}"
                             movie.add_showing(
                                 Showing(
                                     date=date,
                                     time=showing_item['time'],
-                                    theater=theater,
+                                    theater=theater_long,
                                     cinema=showing_item.get('cinema'),
                                     format=showing_item.get('format') or item.get('format'),
                                 )
@@ -333,11 +333,11 @@ class CinemaMerger:
         print(f"\n📽️  Total Movie Entries: {stats['total_movie_entries']}")
         print(f"🎬 Unique Movies: {stats['unique_movies']}")
 
-        print(f"\n🎭 By Theater:")
+        print("\n🎭 By Theater:")
         for theater, data in sorted(stats['theaters'].items()):
             print(f"   {theater:20s} {data['movies']:3d} movies, {data['showings']:4d} showings")
 
-        print(f"\n🔞 By Age Rating:")
+        print("\n🔞 By Age Rating:")
         for age, count in sorted(
             stats['movies_by_age_rating'].items(), key=lambda x: (x[0] == 'Unknown', x[0])
         ):

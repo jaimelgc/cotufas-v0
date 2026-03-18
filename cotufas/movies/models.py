@@ -29,6 +29,7 @@ class Movie(models.Model):
     """Movie with metadata - theater-agnostic"""
 
     title = models.CharField(max_length=200, db_index=True)
+    slug = models.SlugField(max_length=200, unique=True)
     length = models.CharField(max_length=20, blank=True, null=True)
     age = models.CharField(max_length=3, blank=True, null=True)
 

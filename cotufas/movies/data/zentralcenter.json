@@ -1,198 +1,63 @@
 [
   {
-    "title": "CLEANER: RESCATE VERTICAL",
-    "length": "97 min.",
-    "age": "16",
-    "theater": "zentralcenter",
-    "format": "SIN SUBTITULOS",
-    "showings": {
-      "2026-03-07": [
-        {
-          "time": "16:45",
-          "format": "SIN SUBTITULOS"
-        },
-        {
-          "time": "19:00",
-          "format": "SIN SUBTITULOS"
-        },
-        {
-          "time": "21:15",
-          "format": "SIN SUBTITULOS"
-        }
-      ],
-      "2026-03-08": [
-        {
-          "time": "12:00",
-          "format": "SIN SUBTITULOS"
-        },
-        {
-          "time": "16:45",
-          "format": "SIN SUBTITULOS"
-        },
-        {
-          "time": "19:00",
-          "format": "SIN SUBTITULOS"
-        },
-        {
-          "time": "21:15",
-          "format": "SIN SUBTITULOS"
-        }
-      ],
-      "2026-03-09": [
-        {
-          "time": "16:45",
-          "format": "SIN SUBTITULOS"
-        },
-        {
-          "time": "19:00",
-          "format": "SIN SUBTITULOS"
-        },
-        {
-          "time": "21:15",
-          "format": "SIN SUBTITULOS"
-        }
-      ],
-      "2026-03-10": [
-        {
-          "time": "16:45",
-          "format": "SIN SUBTITULOS"
-        },
-        {
-          "time": "19:00",
-          "format": "SIN SUBTITULOS"
-        },
-        {
-          "time": "21:15",
-          "format": "SIN SUBTITULOS"
-        }
-      ],
-      "2026-03-11": [
-        {
-          "time": "16:45",
-          "format": "SIN SUBTITULOS"
-        },
-        {
-          "time": "19:00",
-          "format": "SIN SUBTITULOS"
-        },
-        {
-          "time": "21:15",
-          "format": "SIN SUBTITULOS"
-        }
-      ],
-      "2026-03-12": [
-        {
-          "time": "16:45",
-          "format": "SIN SUBTITULOS"
-        },
-        {
-          "time": "19:00",
-          "format": "SIN SUBTITULOS"
-        },
-        {
-          "time": "21:15",
-          "format": "SIN SUBTITULOS"
-        }
-      ]
-    },
-    "actors": null,
-    "directors": null,
-    "genres": null,
-    "synopsis": null,
-    "url": "https://kinetike.com:83/views/peliculas.aspx?s=INTERNETx51x0l23d875"
-  },
-  {
     "title": "HOPPERS",
     "length": "105 min.",
     "age": "0",
     "theater": "zentralcenter",
     "format": "SIN SUBTITULOS",
     "showings": {
-      "2026-03-07": [
+      "2026-03-24": [
         {
-          "time": "16:45",
+          "time": "16:20",
           "format": "SIN SUBTITULOS"
         },
         {
-          "time": "19:10",
-          "format": "SIN SUBTITULOS"
-        },
-        {
-          "time": "21:30",
+          "time": "20:00",
           "format": "SIN SUBTITULOS"
         }
       ],
-      "2026-03-08": [
+      "2026-03-25": [
         {
-          "time": "12:00",
+          "time": "16:20",
           "format": "SIN SUBTITULOS"
         },
         {
-          "time": "16:45",
-          "format": "SIN SUBTITULOS"
-        },
-        {
-          "time": "19:10",
-          "format": "SIN SUBTITULOS"
-        },
-        {
-          "time": "21:30",
+          "time": "20:00",
           "format": "SIN SUBTITULOS"
         }
       ],
-      "2026-03-09": [
+      "2026-03-26": [
         {
-          "time": "16:45",
+          "time": "16:20",
           "format": "SIN SUBTITULOS"
         },
         {
-          "time": "19:10",
-          "format": "SIN SUBTITULOS"
-        },
-        {
-          "time": "21:30",
+          "time": "20:00",
           "format": "SIN SUBTITULOS"
         }
       ],
-      "2026-03-10": [
+      "2026-03-27": [],
+      "2026-03-28": [
         {
-          "time": "16:45",
-          "format": "SIN SUBTITULOS"
-        },
-        {
-          "time": "19:10",
-          "format": "SIN SUBTITULOS"
-        },
-        {
-          "time": "21:30",
+          "time": "16:20",
           "format": "SIN SUBTITULOS"
         }
       ],
-      "2026-03-11": [
+      "2026-03-29": [
         {
-          "time": "16:45",
-          "format": "SIN SUBTITULOS"
-        },
-        {
-          "time": "19:10",
-          "format": "SIN SUBTITULOS"
-        },
-        {
-          "time": "21:30",
+          "time": "16:20",
           "format": "SIN SUBTITULOS"
         }
       ],
-      "2026-03-12": [
+      "2026-03-30": [
         {
-          "time": "16:45",
+          "time": "16:20",
           "format": "SIN SUBTITULOS"
-        },
+        }
+      ],
+      "2026-03-31": [
         {
-          "time": "19:10",
-          "format": "SIN SUBTITULOS"
-        },
-        {
-          "time": "21:30",
+          "time": "16:20",
           "format": "SIN SUBTITULOS"
         }
       ]
@@ -201,7 +66,65 @@
     "directors": null,
     "genres": null,
     "synopsis": null,
-    "url": "https://kinetike.com:83/views/peliculas.aspx?s=INTERNETx51x0l23d875"
+    "url": "https://kinetike.com:83/views/peliculas.aspx?s=INTERNETudlndr2kc911"
+  },
+  {
+    "title": "PROYECTO SALVACIÓN",
+    "length": "157 min.",
+    "age": "7",
+    "theater": "zentralcenter",
+    "format": "SIN SUBTITULOS",
+    "showings": {
+      "2026-03-24": [],
+      "2026-03-25": [],
+      "2026-03-26": [],
+      "2026-03-27": [],
+      "2026-03-28": [
+        {
+          "time": "16:30",
+          "format": "SIN SUBTITULOS"
+        },
+        {
+          "time": "20:00",
+          "format": "SIN SUBTITULOS"
+        }
+      ],
+      "2026-03-29": [
+        {
+          "time": "16:30",
+          "format": "SIN SUBTITULOS"
+        },
+        {
+          "time": "20:00",
+          "format": "SIN SUBTITULOS"
+        }
+      ],
+      "2026-03-30": [
+        {
+          "time": "16:30",
+          "format": "SIN SUBTITULOS"
+        },
+        {
+          "time": "20:00",
+          "format": "SIN SUBTITULOS"
+        }
+      ],
+      "2026-03-31": [
+        {
+          "time": "16:30",
+          "format": "SIN SUBTITULOS"
+        },
+        {
+          "time": "20:00",
+          "format": "SIN SUBTITULOS"
+        }
+      ]
+    },
+    "actors": null,
+    "directors": null,
+    "genres": null,
+    "synopsis": null,
+    "url": "https://kinetike.com:83/views/peliculas.aspx?s=INTERNETudlndr2kc911"
   },
   {
     "title": "SCREAM 7",
@@ -210,91 +133,33 @@
     "theater": "zentralcenter",
     "format": "SIN SUBTITULOS",
     "showings": {
-      "2026-03-07": [
+      "2026-03-24": [
         {
-          "time": "16:30",
+          "time": "18:30",
           "format": "SIN SUBTITULOS"
         },
         {
-          "time": "19:00",
-          "format": "SIN SUBTITULOS"
-        },
-        {
-          "time": "21:30",
+          "time": "21:00",
           "format": "SIN SUBTITULOS"
         }
       ],
-      "2026-03-08": [
+      "2026-03-25": [
         {
-          "time": "12:00",
+          "time": "18:30",
           "format": "SIN SUBTITULOS"
         },
         {
-          "time": "16:30",
-          "format": "SIN SUBTITULOS"
-        },
-        {
-          "time": "19:00",
-          "format": "SIN SUBTITULOS"
-        },
-        {
-          "time": "21:30",
+          "time": "21:00",
           "format": "SIN SUBTITULOS"
         }
       ],
-      "2026-03-09": [
+      "2026-03-26": [
         {
-          "time": "16:30",
+          "time": "18:30",
           "format": "SIN SUBTITULOS"
         },
         {
-          "time": "19:00",
-          "format": "SIN SUBTITULOS"
-        },
-        {
-          "time": "21:30",
-          "format": "SIN SUBTITULOS"
-        }
-      ],
-      "2026-03-10": [
-        {
-          "time": "16:30",
-          "format": "SIN SUBTITULOS"
-        },
-        {
-          "time": "19:00",
-          "format": "SIN SUBTITULOS"
-        },
-        {
-          "time": "21:30",
-          "format": "SIN SUBTITULOS"
-        }
-      ],
-      "2026-03-11": [
-        {
-          "time": "16:30",
-          "format": "SIN SUBTITULOS"
-        },
-        {
-          "time": "19:00",
-          "format": "SIN SUBTITULOS"
-        },
-        {
-          "time": "21:30",
-          "format": "SIN SUBTITULOS"
-        }
-      ],
-      "2026-03-12": [
-        {
-          "time": "16:30",
-          "format": "SIN SUBTITULOS"
-        },
-        {
-          "time": "19:00",
-          "format": "SIN SUBTITULOS"
-        },
-        {
-          "time": "21:30",
+          "time": "21:00",
           "format": "SIN SUBTITULOS"
         }
       ]
@@ -303,46 +168,122 @@
     "directors": null,
     "genres": null,
     "synopsis": null,
-    "url": "https://kinetike.com:83/views/peliculas.aspx?s=INTERNETx51x0l23d875"
+    "url": "https://kinetike.com:83/views/peliculas.aspx?s=INTERNETudlndr2kc911"
   },
   {
-    "title": "TORRENTE PRESIDENTE",
-    "length": "100 min.",
+    "title": "SHELTER: EL PROTECTOR",
+    "length": "107 min.",
+    "age": "16",
+    "theater": "zentralcenter",
+    "format": "SIN SUBTITULOS",
+    "showings": {
+      "2026-03-24": [],
+      "2026-03-25": [],
+      "2026-03-26": [],
+      "2026-03-27": [],
+      "2026-03-28": [
+        {
+          "time": "16:45",
+          "format": "SIN SUBTITULOS"
+        },
+        {
+          "time": "19:00",
+          "format": "SIN SUBTITULOS"
+        }
+      ],
+      "2026-03-29": [
+        {
+          "time": "16:45",
+          "format": "SIN SUBTITULOS"
+        },
+        {
+          "time": "19:00",
+          "format": "SIN SUBTITULOS"
+        }
+      ],
+      "2026-03-30": [
+        {
+          "time": "16:45",
+          "format": "SIN SUBTITULOS"
+        },
+        {
+          "time": "19:00",
+          "format": "SIN SUBTITULOS"
+        }
+      ],
+      "2026-03-31": [
+        {
+          "time": "16:45",
+          "format": "SIN SUBTITULOS"
+        },
+        {
+          "time": "19:00",
+          "format": "SIN SUBTITULOS"
+        }
+      ]
+    },
+    "actors": null,
+    "directors": null,
+    "genres": null,
+    "synopsis": null,
+    "url": "https://kinetike.com:83/views/peliculas.aspx?s=INTERNETudlndr2kc911"
+  },
+  {
+    "title": "SUPER MARIO GALAXY LA PELÍCULA",
+    "length": "98 min.",
     "age": "0",
     "theater": "zentralcenter",
     "format": "SIN SUBTITULOS",
     "showings": {
-      "2026-03-07": [],
-      "2026-03-08": [],
-      "2026-03-09": [],
-      "2026-03-10": [],
-      "2026-03-11": [],
-      "2026-03-12": [],
-      "2026-03-13": [
+      "2026-03-24": [],
+      "2026-03-25": [],
+      "2026-03-26": [],
+      "2026-03-27": [],
+      "2026-03-28": [],
+      "2026-03-29": [],
+      "2026-03-30": [],
+      "2026-03-31": []
+    },
+    "actors": null,
+    "directors": null,
+    "genres": null,
+    "synopsis": null,
+    "url": "https://kinetike.com:83/views/peliculas.aspx?s=INTERNETudlndr2kc911"
+  },
+  {
+    "title": "TAFITI Y SUS AMIGOS",
+    "length": "81 min.",
+    "age": "0",
+    "theater": "zentralcenter",
+    "format": "SIN SUBTITULOS",
+    "showings": {
+      "2026-03-24": [
         {
           "time": "16:30",
           "format": "SIN SUBTITULOS"
         },
         {
-          "time": "18:45",
-          "format": "SIN SUBTITULOS"
-        },
-        {
-          "time": "21:00",
+          "time": "18:15",
           "format": "SIN SUBTITULOS"
         }
       ],
-      "2026-03-14": [
+      "2026-03-25": [
         {
           "time": "16:30",
           "format": "SIN SUBTITULOS"
         },
         {
-          "time": "18:45",
+          "time": "18:15",
+          "format": "SIN SUBTITULOS"
+        }
+      ],
+      "2026-03-26": [
+        {
+          "time": "16:30",
           "format": "SIN SUBTITULOS"
         },
         {
-          "time": "21:00",
+          "time": "18:15",
           "format": "SIN SUBTITULOS"
         }
       ]
@@ -351,96 +292,72 @@
     "directors": null,
     "genres": null,
     "synopsis": null,
-    "url": "https://kinetike.com:83/views/peliculas.aspx?s=INTERNETx51x0l23d875"
+    "url": "https://kinetike.com:83/views/peliculas.aspx?s=INTERNETudlndr2kc911"
   },
   {
-    "title": "¡LA NOVIA!",
-    "length": "126 min.",
-    "age": "12",
+    "title": "TE VAN A MATAR",
+    "length": "95 min.",
+    "age": "16",
     "theater": "zentralcenter",
     "format": "SIN SUBTITULOS",
     "showings": {
-      "2026-03-07": [
+      "2026-03-24": [],
+      "2026-03-25": [],
+      "2026-03-26": [],
+      "2026-03-27": [],
+      "2026-03-28": [
+        {
+          "time": "16:45",
+          "format": "SIN SUBTITULOS"
+        },
         {
           "time": "19:00",
           "format": "SIN SUBTITULOS"
         },
         {
-          "time": "21:30",
+          "time": "21:00",
           "format": "SIN SUBTITULOS"
         }
       ],
-      "2026-03-08": [
+      "2026-03-29": [
         {
-          "time": "12:00",
+          "time": "16:45",
           "format": "SIN SUBTITULOS"
         },
         {
-          "time": "16:15",
+          "time": "19:00",
           "format": "SIN SUBTITULOS"
         },
         {
-          "time": "18:50",
-          "format": "SIN SUBTITULOS"
-        },
-        {
-          "time": "21:30",
+          "time": "21:00",
           "format": "SIN SUBTITULOS"
         }
       ],
-      "2026-03-09": [
+      "2026-03-30": [
         {
-          "time": "16:15",
+          "time": "16:45",
           "format": "SIN SUBTITULOS"
         },
         {
-          "time": "18:50",
+          "time": "19:00",
           "format": "SIN SUBTITULOS"
         },
         {
-          "time": "21:30",
+          "time": "21:00",
           "format": "SIN SUBTITULOS"
         }
       ],
-      "2026-03-10": [
+      "2026-03-31": [
         {
-          "time": "16:15",
+          "time": "16:45",
           "format": "SIN SUBTITULOS"
         },
         {
-          "time": "18:50",
+          "time": "19:00",
           "format": "SIN SUBTITULOS"
         },
         {
-          "time": "21:30",
-          "format": "SIN SUBTITULOS"
-        }
-      ],
-      "2026-03-11": [
-        {
-          "time": "16:15",
-          "format": "SIN SUBTITULOS"
-        },
-        {
-          "time": "18:50",
-          "format": "SIN SUBTITULOS"
-        },
-        {
-          "time": "21:30",
-          "format": "SIN SUBTITULOS"
-        }
-      ],
-      "2026-03-12": [
-        {
-          "time": "16:15",
-          "format": "SIN SUBTITULOS"
-        },
-        {
-          "time": "18:50",
-          "format": "SIN SUBTITULOS"
-        },
-        {
-          "time": "21:30",
+          "time": "21:00",
           "format": "SIN SUBTITULOS"
         }
       ]
@@ -449,6 +366,184 @@
     "directors": null,
     "genres": null,
     "synopsis": null,
-    "url": "https://kinetike.com:83/views/peliculas.aspx?s=INTERNETx51x0l23d875"
+    "url": "https://kinetike.com:83/views/peliculas.aspx?s=INTERNETudlndr2kc911"
+  },
+  {
+    "title": "TORRENTE PRESIDENTE",
+    "length": "100 min.",
+    "age": "16",
+    "theater": "zentralcenter",
+    "format": "SIN SUBTITULOS",
+    "showings": {
+      "2026-03-24": [
+        {
+          "time": "16:30",
+          "format": "SIN SUBTITULOS"
+        },
+        {
+          "time": "18:45",
+          "format": "SIN SUBTITULOS"
+        },
+        {
+          "time": "21:00",
+          "format": "SIN SUBTITULOS"
+        }
+      ],
+      "2026-03-25": [
+        {
+          "time": "16:30",
+          "format": "SIN SUBTITULOS"
+        },
+        {
+          "time": "18:45",
+          "format": "SIN SUBTITULOS"
+        },
+        {
+          "time": "21:00",
+          "format": "SIN SUBTITULOS"
+        }
+      ],
+      "2026-03-26": [
+        {
+          "time": "16:30",
+          "format": "SIN SUBTITULOS"
+        },
+        {
+          "time": "18:45",
+          "format": "SIN SUBTITULOS"
+        },
+        {
+          "time": "21:00",
+          "format": "SIN SUBTITULOS"
+        }
+      ],
+      "2026-03-27": [],
+      "2026-03-28": [
+        {
+          "time": "18:30",
+          "format": "SIN SUBTITULOS"
+        },
+        {
+          "time": "20:45",
+          "format": "SIN SUBTITULOS"
+        }
+      ],
+      "2026-03-29": [
+        {
+          "time": "18:30",
+          "format": "SIN SUBTITULOS"
+        },
+        {
+          "time": "20:45",
+          "format": "SIN SUBTITULOS"
+        }
+      ],
+      "2026-03-30": [
+        {
+          "time": "18:30",
+          "format": "SIN SUBTITULOS"
+        },
+        {
+          "time": "20:45",
+          "format": "SIN SUBTITULOS"
+        }
+      ],
+      "2026-03-31": [
+        {
+          "time": "18:30",
+          "format": "SIN SUBTITULOS"
+        },
+        {
+          "time": "20:45",
+          "format": "SIN SUBTITULOS"
+        }
+      ]
+    },
+    "actors": null,
+    "directors": null,
+    "genres": null,
+    "synopsis": null,
+    "url": "https://kinetike.com:83/views/peliculas.aspx?s=INTERNETudlndr2kc911"
+  },
+  {
+    "title": "WHISTLE EL SILBIDO DEL MAL",
+    "length": "97 min.",
+    "age": "16",
+    "theater": "zentralcenter",
+    "format": "SIN SUBTITULOS",
+    "showings": {
+      "2026-03-24": [
+        {
+          "time": "16:45",
+          "format": "SIN SUBTITULOS"
+        },
+        {
+          "time": "19:00",
+          "format": "SIN SUBTITULOS"
+        },
+        {
+          "time": "21:10",
+          "format": "SIN SUBTITULOS"
+        }
+      ],
+      "2026-03-25": [
+        {
+          "time": "16:45",
+          "format": "SIN SUBTITULOS"
+        },
+        {
+          "time": "19:00",
+          "format": "SIN SUBTITULOS"
+        },
+        {
+          "time": "21:10",
+          "format": "SIN SUBTITULOS"
+        }
+      ],
+      "2026-03-26": [
+        {
+          "time": "16:45",
+          "format": "SIN SUBTITULOS"
+        },
+        {
+          "time": "19:00",
+          "format": "SIN SUBTITULOS"
+        },
+        {
+          "time": "21:10",
+          "format": "SIN SUBTITULOS"
+        }
+      ],
+      "2026-03-27": [],
+      "2026-03-28": [
+        {
+          "time": "21:15",
+          "format": "SIN SUBTITULOS"
+        }
+      ],
+      "2026-03-29": [
+        {
+          "time": "21:15",
+          "format": "SIN SUBTITULOS"
+        }
+      ],
+      "2026-03-30": [
+        {
+          "time": "21:15",
+          "format": "SIN SUBTITULOS"
+        }
+      ],
+      "2026-03-31": [
+        {
+          "time": "21:15",
+          "format": "SIN SUBTITULOS"
+        }
+      ]
+    },
+    "actors": null,
+    "directors": null,
+    "genres": null,
+    "synopsis": null,
+    "url": "https://kinetike.com:83/views/peliculas.aspx?s=INTERNETudlndr2kc911"
   }
 ]

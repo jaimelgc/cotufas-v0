@@ -79,7 +79,7 @@ class Movie(models.Model):
 
         # Try preferred theaters in order
         for theater in preferred_theaters:
-            if self.all_synopsis[theater]:
+            if self.all_synopsis.get(theater):
                 return self.all_synopsis[theater]
 
         # Return any available synopsis

@@ -1,7 +1,7 @@
 """
-python manage.py load_cinema_data data/merged.json
-python manage.py load_cinema_data data/merged.json --clear
-python manage.py load_cinema_data data/merged.json --update-pricing
+python manage.py load_cinema_data movies/data/merged.json
+python manage.py load_cinema_data movies/data/merged.json --clear
+python manage.py load_cinema_data movies/data/merged.json --update-pricing
 """
 
 import json
@@ -13,7 +13,7 @@ from django.core.management.base import BaseCommand, CommandError
 from django.db import transaction
 from django.utils import timezone
 from django.utils.text import slugify
-from movies.models import Movie, Showing, Theater
+from ...models import Movie, Showing, Theater
 
 # Maps (theater, cinema) pairs from the JSON onto Theater slugs.
 # For theaters that are a single entity, cinema is None (wildcard).
@@ -158,6 +158,7 @@ class Command(BaseCommand):
         movie, created = Movie.objects.update_or_create(
             title=movie_data['title'],
             defaults={
+                'slug': slugify(movie_data['title']),
                 'length': movie_data.get('length'),
                 'age': movie_data.get('age', '0'),
                 'actors': movie_data.get('actors') or [],

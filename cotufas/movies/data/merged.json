@@ -1,5 +1,142 @@
 [
   {
+    "title": "Amarga Navidad",
+    "length": "110",
+    "age": "12",
+    "theaters": [
+      "yelmo-la-villa-de-orotava",
+      "yelmo-meridiano"
+    ],
+    "showings": [
+      {
+        "date": "2026-03-24",
+        "time": "18:05",
+        "theater": "yelmo-la-villa-de-orotava",
+        "format": "2D ESPAÑOL"
+      },
+      {
+        "date": "2026-03-24",
+        "time": "18:05",
+        "theater": "yelmo-meridiano",
+        "format": "2D ESPAÑOL"
+      },
+      {
+        "date": "2026-03-24",
+        "time": "20:25",
+        "theater": "yelmo-la-villa-de-orotava",
+        "format": "2D ESPAÑOL"
+      },
+      {
+        "date": "2026-03-24",
+        "time": "20:25",
+        "theater": "yelmo-meridiano",
+        "format": "2D ESPAÑOL"
+      },
+      {
+        "date": "2026-03-24",
+        "time": "22:45",
+        "theater": "yelmo-la-villa-de-orotava",
+        "format": "2D ESPAÑOL"
+      },
+      {
+        "date": "2026-03-24",
+        "time": "22:45",
+        "theater": "yelmo-meridiano",
+        "format": "2D ESPAÑOL"
+      },
+      {
+        "date": "2026-03-25",
+        "time": "18:05",
+        "theater": "yelmo-la-villa-de-orotava",
+        "format": "2D ESPAÑOL"
+      },
+      {
+        "date": "2026-03-25",
+        "time": "18:05",
+        "theater": "yelmo-meridiano",
+        "format": "2D ESPAÑOL"
+      },
+      {
+        "date": "2026-03-25",
+        "time": "20:25",
+        "theater": "yelmo-la-villa-de-orotava",
+        "format": "2D ESPAÑOL"
+      },
+      {
+        "date": "2026-03-25",
+        "time": "20:25",
+        "theater": "yelmo-meridiano",
+        "format": "2D ESPAÑOL"
+      },
+      {
+        "date": "2026-03-25",
+        "time": "22:45",
+        "theater": "yelmo-la-villa-de-orotava",
+        "format": "2D ESPAÑOL"
+      },
+      {
+        "date": "2026-03-25",
+        "time": "22:45",
+        "theater": "yelmo-meridiano",
+        "format": "2D ESPAÑOL"
+      },
+      {
+        "date": "2026-03-26",
+        "time": "18:05",
+        "theater": "yelmo-la-villa-de-orotava",
+        "format": "2D ESPAÑOL"
+      },
+      {
+        "date": "2026-03-26",
+        "time": "18:05",
+        "theater": "yelmo-meridiano",
+        "format": "2D ESPAÑOL"
+      },
+      {
+        "date": "2026-03-26",
+        "time": "20:25",
+        "theater": "yelmo-la-villa-de-orotava",
+        "format": "2D ESPAÑOL"
+      },
+      {
+        "date": "2026-03-26",
+        "time": "20:25",
+        "theater": "yelmo-meridiano",
+        "format": "2D ESPAÑOL"
+      },
+      {
+        "date": "2026-03-26",
+        "time": "22:45",
+        "theater": "yelmo-la-villa-de-orotava",
+        "format": "2D ESPAÑOL"
+      },
+      {
+        "date": "2026-03-26",
+        "time": "22:45",
+        "theater": "yelmo-meridiano",
+        "format": "2D ESPAÑOL"
+      }
+    ],
+    "actors": [
+      "Quim Gutiérrez",
+      "Leonardo Sbaraglia",
+      "Aitana Sánchez-Gijón",
+      "Bárbara Lennie",
+      "Milena Smit",
+      "Victoria Luengo"
+    ],
+    "directors": [
+      "Pedro Almodovar"
+    ],
+    "genres": [
+      "DRAMA"
+    ],
+    "synopsis": "Elsa es una directora de publicidad cuya madre muere durante un largo puente del mes de diciembre. Encuentra refugio en el trabajo, aunque es más bien una huida hacia adelante. Trabaja sin parar y, sin darse cuenta, no se concede el tiempo necesario para guardar el duelo por la ausencia materna. Hasta que una crisis de pánico la obliga a detenerse e imponerse un descanso. Su pareja, Bonifacio, es su tabla de salvación en esos momentos de crisis. Elsa decide viajar a la isla de Lanzarote acompañada por su amiga Patricia, que también necesita alejarse de Madrid, mientras que Bonifacio se queda en la ciudad.",
+    "all_synopsis": null,
+    "url": "https://www.yelmocines.es/sinopsis/amarga-navidad",
+    "all_urls": null
+  },
+  {
     "title": "Avatar: Fuego y ceniza",
     "length": "197",
     "age": "12",
@@ -8,58 +145,22 @@
     ],
     "showings": [
       {
-        "date": "2026-03-18",
-        "time": "20:20",
-        "theater": "yelmo-la-villa-de-orotava",
-        "format": "3D ESPAÑOL"
-      },
-      {
-        "date": "2026-03-19",
-        "time": "20:20",
-        "theater": "yelmo-la-villa-de-orotava",
-        "format": "3D ESPAÑOL"
-      },
-      {
-        "date": "2026-03-20",
-        "time": "20:00",
-        "theater": "yelmo-la-villa-de-orotava",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-03-21",
-        "time": "20:00",
-        "theater": "yelmo-la-villa-de-orotava",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-03-22",
-        "time": "20:00",
-        "theater": "yelmo-la-villa-de-orotava",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-03-23",
-        "time": "20:00",
-        "theater": "yelmo-la-villa-de-orotava",
-        "format": "2D ESPAÑOL"
-      },
-      {
         "date": "2026-03-24",
         "time": "20:00",
         "theater": "yelmo-la-villa-de-orotava",
-        "format": "2D ESPAÑOL"
+        "format": "3D ESPAÑOL"
       },
       {
         "date": "2026-03-25",
         "time": "20:00",
         "theater": "yelmo-la-villa-de-orotava",
-        "format": "2D ESPAÑOL"
+        "format": "3D ESPAÑOL"
       },
       {
         "date": "2026-03-26",
         "time": "20:00",
         "theater": "yelmo-la-villa-de-orotava",
-        "format": "2D ESPAÑOL"
+        "format": "3D ESPAÑOL"
       }
     ],
     "actors": [
@@ -92,60 +193,6 @@
       "yelmo-meridiano"
     ],
     "showings": [
-      {
-        "date": "2026-03-18",
-        "time": "17:50",
-        "theater": "yelmo-meridiano",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-03-18",
-        "time": "18:05",
-        "theater": "yelmo-la-villa-de-orotava",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-03-19",
-        "time": "17:50",
-        "theater": "yelmo-meridiano",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-03-19",
-        "time": "18:05",
-        "theater": "yelmo-la-villa-de-orotava",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-03-20",
-        "time": "22:45",
-        "theater": "yelmo-la-villa-de-orotava",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-03-21",
-        "time": "22:45",
-        "theater": "yelmo-la-villa-de-orotava",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-03-22",
-        "time": "22:45",
-        "theater": "yelmo-la-villa-de-orotava",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-03-23",
-        "time": "17:05",
-        "theater": "yelmo-meridiano",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-03-23",
-        "time": "22:45",
-        "theater": "yelmo-la-villa-de-orotava",
-        "format": "2D ESPAÑOL"
-      },
       {
         "date": "2026-03-24",
         "time": "17:05",
@@ -198,15 +245,9 @@
       "COMEDIA"
     ],
     "synopsis": "\"Aída y vuelta\", el largometraje, aborda el rodaje de un capítulo de la serie con tramas que transcurren tanto dentro de la ficción con los personajes de \"Aída\", como fuera de ella con los propios actores y sus relaciones, yendo más allá y dando pie a reflexionar sobre temas como los límites del humor, del trabajo del cómico y la fama.",
-    "all_synopsis": {
-      "yelmo-meridiano": "\"Aída y vuelta\", el largometraje, aborda el rodaje de un capítulo de la serie con tramas que transcurren tanto dentro de la ficción con los personajes de \"Aída\", como fuera de ella con los propios actores y sus relaciones, yendo más allá y dando pie a reflexionar sobre temas como los límites del humor, del trabajo del cómico y la fama.",
-      "yelmo-la-villa-de-orotava": "\"Aída y vuelta\", el largometraje, aborda el rodaje de un capítulo de la serie con tramas que transcurren tanto dentro de la ficción con los personajes de \"Aída\", como fuera de ella con los propios actores y sus relaciones, yendo más allá y dando pie a reflexionar sobre temas como los límites del humor, del trabajo del cómico y la fama."
-    },
+    "all_synopsis": null,
     "url": "https://www.yelmocines.es/sinopsis/aida-y-vuelta",
-    "all_urls": {
-      "yelmo-meridiano": "https://www.yelmocines.es/sinopsis/aida-y-vuelta",
-      "yelmo-la-villa-de-orotava": "https://www.yelmocines.es/sinopsis/aida-y-vuelta"
-    }
+    "all_urls": null
   },
   {
     "title": "Como cabras",
@@ -217,96 +258,6 @@
       "yelmo-meridiano"
     ],
     "showings": [
-      {
-        "date": "2026-03-18",
-        "time": "18:10",
-        "theater": "yelmo-la-villa-de-orotava",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-03-18",
-        "time": "18:15",
-        "theater": "yelmo-meridiano",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-03-19",
-        "time": "18:10",
-        "theater": "yelmo-la-villa-de-orotava",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-03-19",
-        "time": "18:15",
-        "theater": "yelmo-meridiano",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-03-20",
-        "time": "17:50",
-        "theater": "yelmo-meridiano",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-03-20",
-        "time": "18:10",
-        "theater": "yelmo-la-villa-de-orotava",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-03-21",
-        "time": "15:55",
-        "theater": "yelmo-la-villa-de-orotava",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-03-21",
-        "time": "17:50",
-        "theater": "yelmo-meridiano",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-03-21",
-        "time": "18:10",
-        "theater": "yelmo-la-villa-de-orotava",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-03-22",
-        "time": "12:15",
-        "theater": "yelmo-meridiano",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-03-22",
-        "time": "15:55",
-        "theater": "yelmo-la-villa-de-orotava",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-03-22",
-        "time": "17:50",
-        "theater": "yelmo-meridiano",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-03-22",
-        "time": "18:10",
-        "theater": "yelmo-la-villa-de-orotava",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-03-23",
-        "time": "17:50",
-        "theater": "yelmo-meridiano",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-03-23",
-        "time": "18:10",
-        "theater": "yelmo-la-villa-de-orotava",
-        "format": "2D ESPAÑOL"
-      },
       {
         "date": "2026-03-24",
         "time": "17:50",
@@ -363,15 +314,9 @@
       "ANIMACION"
     ],
     "synopsis": "Will es una pequeña cabra con grandes sueños que recibe una oportunidad única en la vida para unirse a los profesionales y jugar al rugebol, un deporte de alta intensidad, mixto y de contacto total dominado por los animales más rápidos y feroces del mundo. A los nuevos compañeros de equipo de Will no les entusiasma tener a una cabrita en su plantilla, pero Will está decidido a revolucionar el deporte y demostrar de una vez por todas que «¡los pequeños saben jugar!».",
-    "all_synopsis": {
-      "yelmo-meridiano": "Will es una pequeña cabra con grandes sueños que recibe una oportunidad única en la vida para unirse a los profesionales y jugar al rugebol, un deporte de alta intensidad, mixto y de contacto total dominado por los animales más rápidos y feroces del mundo. A los nuevos compañeros de equipo de Will no les entusiasma tener a una cabrita en su plantilla, pero Will está decidido a revolucionar el deporte y demostrar de una vez por todas que «¡los pequeños saben jugar!».",
-      "yelmo-la-villa-de-orotava": "Will es una pequeña cabra con grandes sueños que recibe una oportunidad única en la vida para unirse a los profesionales y jugar al rugebol, un deporte de alta intensidad, mixto y de contacto total dominado por los animales más rápidos y feroces del mundo. A los nuevos compañeros de equipo de Will no les entusiasma tener a una cabrita en su plantilla, pero Will está decidido a revolucionar el deporte y demostrar de una vez por todas que «¡los pequeños saben jugar!»."
-    },
+    "all_synopsis": null,
     "url": "https://www.yelmocines.es/sinopsis/como-cabras",
-    "all_urls": {
-      "yelmo-meridiano": "https://www.yelmocines.es/sinopsis/como-cabras",
-      "yelmo-la-villa-de-orotava": "https://www.yelmocines.es/sinopsis/como-cabras"
-    }
+    "all_urls": null
   },
   {
     "title": "Cumbres borrascosas",
@@ -382,210 +327,6 @@
       "yelmo-meridiano"
     ],
     "showings": [
-      {
-        "date": "2026-03-18",
-        "time": "17:00",
-        "theater": "yelmo-la-villa-de-orotava",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-03-18",
-        "time": "17:00",
-        "theater": "yelmo-meridiano",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-03-18",
-        "time": "19:40",
-        "theater": "yelmo-la-villa-de-orotava",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-03-18",
-        "time": "19:40",
-        "theater": "yelmo-meridiano",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-03-18",
-        "time": "22:20",
-        "theater": "yelmo-la-villa-de-orotava",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-03-18",
-        "time": "22:20",
-        "theater": "yelmo-meridiano",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-03-19",
-        "time": "17:00",
-        "theater": "yelmo-la-villa-de-orotava",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-03-19",
-        "time": "17:00",
-        "theater": "yelmo-meridiano",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-03-19",
-        "time": "19:40",
-        "theater": "yelmo-la-villa-de-orotava",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-03-19",
-        "time": "19:40",
-        "theater": "yelmo-meridiano",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-03-19",
-        "time": "22:20",
-        "theater": "yelmo-la-villa-de-orotava",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-03-19",
-        "time": "22:20",
-        "theater": "yelmo-meridiano",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-03-20",
-        "time": "16:50",
-        "theater": "yelmo-la-villa-de-orotava",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-03-20",
-        "time": "17:00",
-        "theater": "yelmo-meridiano",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-03-20",
-        "time": "19:35",
-        "theater": "yelmo-la-villa-de-orotava",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-03-20",
-        "time": "19:40",
-        "theater": "yelmo-meridiano",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-03-20",
-        "time": "22:20",
-        "theater": "yelmo-meridiano",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-03-21",
-        "time": "16:50",
-        "theater": "yelmo-la-villa-de-orotava",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-03-21",
-        "time": "17:00",
-        "theater": "yelmo-meridiano",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-03-21",
-        "time": "19:35",
-        "theater": "yelmo-la-villa-de-orotava",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-03-21",
-        "time": "19:40",
-        "theater": "yelmo-meridiano",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-03-21",
-        "time": "22:20",
-        "theater": "yelmo-meridiano",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-03-22",
-        "time": "12:40",
-        "theater": "yelmo-meridiano",
-        "format": "2D INGLÉS SUBTITULADO EN ESPAÑOL (VOSE)"
-      },
-      {
-        "date": "2026-03-22",
-        "time": "16:50",
-        "theater": "yelmo-la-villa-de-orotava",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-03-22",
-        "time": "17:00",
-        "theater": "yelmo-meridiano",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-03-22",
-        "time": "19:35",
-        "theater": "yelmo-la-villa-de-orotava",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-03-22",
-        "time": "19:40",
-        "theater": "yelmo-meridiano",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-03-22",
-        "time": "22:20",
-        "theater": "yelmo-meridiano",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-03-23",
-        "time": "17:00",
-        "theater": "yelmo-la-villa-de-orotava",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-03-23",
-        "time": "17:00",
-        "theater": "yelmo-meridiano",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-03-23",
-        "time": "19:40",
-        "theater": "yelmo-la-villa-de-orotava",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-03-23",
-        "time": "19:40",
-        "theater": "yelmo-meridiano",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-03-23",
-        "time": "22:20",
-        "theater": "yelmo-la-villa-de-orotava",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-03-23",
-        "time": "22:20",
-        "theater": "yelmo-meridiano",
-        "format": "2D ESPAÑOL"
-      },
       {
         "date": "2026-03-24",
         "time": "17:00",
@@ -711,15 +452,9 @@
       "DRAMA"
     ],
     "synopsis": "Una audaz y original reinterpretación de una de una de las historias de amor más grandes de todos los tiempos, “CUMBRES BORRASCOSAS” de Emerald Fennell está protagonizada por Margot Robbie como Cathy y Jacob Elordi como Heathcliff, cuya pasión prohibida se transforma de romántica a intoxicante en una épica historia de lujuria, amor y locura.",
-    "all_synopsis": {
-      "yelmo-meridiano": "Una audaz y original reinterpretación de una de una de las historias de amor más grandes de todos los tiempos, “CUMBRES BORRASCOSAS” de Emerald Fennell está protagonizada por Margot Robbie como Cathy y Jacob Elordi como Heathcliff, cuya pasión prohibida se transforma de romántica a intoxicante en una épica historia de lujuria, amor y locura.",
-      "yelmo-la-villa-de-orotava": "Una audaz y original reinterpretación de una de una de las historias de amor más grandes de todos los tiempos, “CUMBRES BORRASCOSAS” de Emerald Fennell está protagonizada por Margot Robbie como Cathy y Jacob Elordi como Heathcliff, cuya pasión prohibida se transforma de romántica a intoxicante en una épica historia de lujuria, amor y locura."
-    },
+    "all_synopsis": null,
     "url": "https://www.yelmocines.es/sinopsis/cumbres-borrascosas",
-    "all_urls": {
-      "yelmo-meridiano": "https://www.yelmocines.es/sinopsis/cumbres-borrascosas",
-      "yelmo-la-villa-de-orotava": "https://www.yelmocines.es/sinopsis/cumbres-borrascosas"
-    }
+    "all_urls": null
   },
   {
     "title": "El mago del Kremlin",
@@ -729,24 +464,6 @@
       "yelmo-meridiano"
     ],
     "showings": [
-      {
-        "date": "2026-03-18",
-        "time": "17:15",
-        "theater": "yelmo-meridiano",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-03-19",
-        "time": "17:15",
-        "theater": "yelmo-meridiano",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-03-23",
-        "time": "17:05",
-        "theater": "yelmo-meridiano",
-        "format": "2D ESPAÑOL"
-      },
       {
         "date": "2026-03-24",
         "time": "17:05",
@@ -787,60 +504,6 @@
     ],
     "showings": [
       {
-        "date": "2026-03-18",
-        "time": "17:10",
-        "theater": "yelmo-la-villa-de-orotava",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-03-18",
-        "time": "22:35",
-        "theater": "yelmo-meridiano",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-03-19",
-        "time": "17:10",
-        "theater": "yelmo-la-villa-de-orotava",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-03-19",
-        "time": "22:35",
-        "theater": "yelmo-meridiano",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-03-20",
-        "time": "22:20",
-        "theater": "yelmo-la-villa-de-orotava",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-03-21",
-        "time": "22:20",
-        "theater": "yelmo-la-villa-de-orotava",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-03-22",
-        "time": "22:20",
-        "theater": "yelmo-la-villa-de-orotava",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-03-23",
-        "time": "22:40",
-        "theater": "yelmo-la-villa-de-orotava",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-03-23",
-        "time": "22:40",
-        "theater": "yelmo-meridiano",
-        "format": "2D ESPAÑOL"
-      },
-      {
         "date": "2026-03-24",
         "time": "22:40",
         "theater": "yelmo-la-villa-de-orotava",
@@ -879,15 +542,9 @@
       "THRILLER"
     ],
     "synopsis": "Después de sobrevivir al fin del mundo por la caída de un cometa, Jeff Garrity, junto con su mujer Allison y su hijo Nathan, deciden abandonar el búnker que les ha mantenido a salvo cinco años para buscar una zona en Europa que podría ser habitable. Así, el último refugio es el principio de un nuevo comienzo. Juntos emprenderán un viaje donde los desastres naturales y los humanos que sobrevivieron han convertido el mundo en un auténtico infierno.",
-    "all_synopsis": {
-      "yelmo-meridiano": "Después de sobrevivir al fin del mundo por la caída de un cometa, Jeff Garrity, junto con su mujer Allison y su hijo Nathan, deciden abandonar el búnker que les ha mantenido a salvo cinco años para buscar una zona en Europa que podría ser habitable. Así, el último refugio es el principio de un nuevo comienzo. Juntos emprenderán un viaje donde los desastres naturales y los humanos que sobrevivieron han convertido el mundo en un auténtico infierno.",
-      "yelmo-la-villa-de-orotava": "Después de sobrevivir al fin del mundo por la caída de un cometa, Jeff Garrity, junto con su mujer Allison y su hijo Nathan, deciden abandonar el búnker que les ha mantenido a salvo cinco años para buscar una zona en Europa que podría ser habitable. Así, el último refugio es el principio de un nuevo comienzo. Juntos emprenderán un viaje donde los desastres naturales y los humanos que sobrevivieron han convertido el mundo en un auténtico infierno."
-    },
+    "all_synopsis": null,
     "url": "https://www.yelmocines.es/sinopsis/greenland-2",
-    "all_urls": {
-      "yelmo-meridiano": "https://www.yelmocines.es/sinopsis/greenland-2",
-      "yelmo-la-villa-de-orotava": "https://www.yelmocines.es/sinopsis/greenland-2"
-    }
+    "all_urls": null
   },
   {
     "title": "Hamnet",
@@ -898,60 +555,6 @@
       "yelmo-meridiano"
     ],
     "showings": [
-      {
-        "date": "2026-03-18",
-        "time": "20:05",
-        "theater": "yelmo-meridiano",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-03-18",
-        "time": "20:10",
-        "theater": "yelmo-la-villa-de-orotava",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-03-19",
-        "time": "20:05",
-        "theater": "yelmo-meridiano",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-03-19",
-        "time": "20:10",
-        "theater": "yelmo-la-villa-de-orotava",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-03-20",
-        "time": "19:25",
-        "theater": "yelmo-meridiano",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-03-21",
-        "time": "19:25",
-        "theater": "yelmo-meridiano",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-03-22",
-        "time": "19:25",
-        "theater": "yelmo-meridiano",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-03-23",
-        "time": "17:25",
-        "theater": "yelmo-la-villa-de-orotava",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-03-23",
-        "time": "19:15",
-        "theater": "yelmo-meridiano",
-        "format": "2D ESPAÑOL"
-      },
       {
         "date": "2026-03-24",
         "time": "17:25",
@@ -1002,22 +605,110 @@
       "DRAMA"
     ],
     "synopsis": "Narra la historia de Agnes, la esposa de William Shakespeare, en su lucha por superar la pérdida de su único hijo, Hamnet. Una historia humana y desgarradora como telón de fondo para la creación de la obra de Shakespeare, Hamlet.",
-    "all_synopsis": {
-      "yelmo-meridiano": "Narra la historia de Agnes, la esposa de William Shakespeare, en su lucha por superar la pérdida de su único hijo, Hamnet. Una historia humana y desgarradora como telón de fondo para la creación de la obra de Shakespeare, Hamlet.",
-      "yelmo-la-villa-de-orotava": "Narra la historia de Agnes, la esposa de William Shakespeare, en su lucha por superar la pérdida de su único hijo, Hamnet. Una historia humana y desgarradora como telón de fondo para la creación de la obra de Shakespeare, Hamlet."
-    },
+    "all_synopsis": null,
     "url": "https://www.yelmocines.es/sinopsis/hamnet",
-    "all_urls": {
-      "yelmo-meridiano": "https://www.yelmocines.es/sinopsis/hamnet",
-      "yelmo-la-villa-de-orotava": "https://www.yelmocines.es/sinopsis/hamnet"
-    }
+    "all_urls": null
   },
   {
     "title": "Hoppers",
     "length": "104",
     "age": "0",
-    "theaters": [],
-    "showings": [],
+    "theaters": [
+      "yelmo-la-villa-de-orotava",
+      "yelmo-meridiano"
+    ],
+    "showings": [
+      {
+        "date": "2026-03-24",
+        "time": "18:10",
+        "theater": "yelmo-meridiano",
+        "format": "2D ESPAÑOL"
+      },
+      {
+        "date": "2026-03-24",
+        "time": "18:15",
+        "theater": "yelmo-la-villa-de-orotava",
+        "format": "2D ESPAÑOL"
+      },
+      {
+        "date": "2026-03-24",
+        "time": "20:25",
+        "theater": "yelmo-meridiano",
+        "format": "2D INGLÉS SUBTITULADO EN ESPAÑOL (VOSE)"
+      },
+      {
+        "date": "2026-03-24",
+        "time": "20:30",
+        "theater": "yelmo-la-villa-de-orotava",
+        "format": "2D ESPAÑOL"
+      },
+      {
+        "date": "2026-03-24",
+        "time": "22:40",
+        "theater": "yelmo-meridiano",
+        "format": "2D ESPAÑOL"
+      },
+      {
+        "date": "2026-03-25",
+        "time": "18:10",
+        "theater": "yelmo-meridiano",
+        "format": "2D ESPAÑOL"
+      },
+      {
+        "date": "2026-03-25",
+        "time": "18:15",
+        "theater": "yelmo-la-villa-de-orotava",
+        "format": "2D ESPAÑOL"
+      },
+      {
+        "date": "2026-03-25",
+        "time": "20:25",
+        "theater": "yelmo-meridiano",
+        "format": "2D ESPAÑOL"
+      },
+      {
+        "date": "2026-03-25",
+        "time": "20:30",
+        "theater": "yelmo-la-villa-de-orotava",
+        "format": "2D ESPAÑOL"
+      },
+      {
+        "date": "2026-03-25",
+        "time": "22:40",
+        "theater": "yelmo-meridiano",
+        "format": "2D ESPAÑOL"
+      },
+      {
+        "date": "2026-03-26",
+        "time": "18:10",
+        "theater": "yelmo-meridiano",
+        "format": "2D ESPAÑOL"
+      },
+      {
+        "date": "2026-03-26",
+        "time": "18:15",
+        "theater": "yelmo-la-villa-de-orotava",
+        "format": "2D ESPAÑOL"
+      },
+      {
+        "date": "2026-03-26",
+        "time": "20:25",
+        "theater": "yelmo-meridiano",
+        "format": "2D ESPAÑOL"
+      },
+      {
+        "date": "2026-03-26",
+        "time": "20:30",
+        "theater": "yelmo-la-villa-de-orotava",
+        "format": "2D ESPAÑOL"
+      },
+      {
+        "date": "2026-03-26",
+        "time": "22:40",
+        "theater": "yelmo-meridiano",
+        "format": "2D ESPAÑOL"
+      }
+    ],
     "actors": [
       "Jon Hamm",
       "Bobby Moynihan",
@@ -1043,78 +734,6 @@
       "yelmo-meridiano"
     ],
     "showings": [
-      {
-        "date": "2026-03-18",
-        "time": "19:20",
-        "theater": "yelmo-la-villa-de-orotava",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-03-18",
-        "time": "20:10",
-        "theater": "yelmo-meridiano",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-03-19",
-        "time": "19:20",
-        "theater": "yelmo-la-villa-de-orotava",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-03-19",
-        "time": "20:10",
-        "theater": "yelmo-meridiano",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-03-20",
-        "time": "21:40",
-        "theater": "yelmo-la-villa-de-orotava",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-03-20",
-        "time": "22:05",
-        "theater": "yelmo-meridiano",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-03-21",
-        "time": "21:40",
-        "theater": "yelmo-la-villa-de-orotava",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-03-21",
-        "time": "22:05",
-        "theater": "yelmo-meridiano",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-03-22",
-        "time": "21:40",
-        "theater": "yelmo-la-villa-de-orotava",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-03-22",
-        "time": "22:05",
-        "theater": "yelmo-meridiano",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-03-23",
-        "time": "20:00",
-        "theater": "yelmo-la-villa-de-orotava",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-03-23",
-        "time": "20:00",
-        "theater": "yelmo-meridiano",
-        "format": "2D ESPAÑOL"
-      },
       {
         "date": "2026-03-24",
         "time": "20:00",
@@ -1165,61 +784,18 @@
       "THRILLER"
     ],
     "synopsis": "Millie es una joven que, tras perder su trabajo, acepta un puesto como sirvienta en la lujosa pero inquietante mansión de los Winchester. Pronto se da cuenta de que algo no está bien en la casa y con sus habitantes, especialmente con Nina, la dueña, que actúa de manera errática. Adaptación de la novela de Freida McFadden.",
-    "all_synopsis": {
-      "yelmo-meridiano": "Millie es una joven que, tras perder su trabajo, acepta un puesto como sirvienta en la lujosa pero inquietante mansión de los Winchester. Pronto se da cuenta de que algo no está bien en la casa y con sus habitantes, especialmente con Nina, la dueña, que actúa de manera errática. Adaptación de la novela de Freida McFadden.",
-      "yelmo-la-villa-de-orotava": "Millie es una joven que, tras perder su trabajo, acepta un puesto como sirvienta en la lujosa pero inquietante mansión de los Winchester. Pronto se da cuenta de que algo no está bien en la casa y con sus habitantes, especialmente con Nina, la dueña, que actúa de manera errática. Adaptación de la novela de Freida McFadden."
-    },
+    "all_synopsis": null,
     "url": "https://www.yelmocines.es/sinopsis/la-asistenta",
-    "all_urls": {
-      "yelmo-meridiano": "https://www.yelmocines.es/sinopsis/la-asistenta",
-      "yelmo-la-villa-de-orotava": "https://www.yelmocines.es/sinopsis/la-asistenta"
-    }
+    "all_urls": null
   },
   {
     "title": "Los domingos",
     "length": "116",
     "age": "12",
     "theaters": [
-      "yelmo-la-villa-de-orotava",
       "yelmo-meridiano"
     ],
     "showings": [
-      {
-        "date": "2026-03-18",
-        "time": "17:00",
-        "theater": "yelmo-meridiano",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-03-18",
-        "time": "17:20",
-        "theater": "yelmo-la-villa-de-orotava",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-03-19",
-        "time": "17:00",
-        "theater": "yelmo-meridiano",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-03-19",
-        "time": "17:20",
-        "theater": "yelmo-la-villa-de-orotava",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-03-22",
-        "time": "12:35",
-        "theater": "yelmo-meridiano",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-03-23",
-        "time": "17:10",
-        "theater": "yelmo-meridiano",
-        "format": "2D ESPAÑOL"
-      },
       {
         "date": "2026-03-24",
         "time": "17:10",
@@ -1248,118 +824,8 @@
       "DRAMA"
     ],
     "synopsis": "\"Los Domingos\" cuenta la historia de Ainara (Blanca Soroa), una joven idealista y brillante de 17 años que ha de decidir qué carrera universitaria estudiará. O, al menos, eso espera su familia que haga. Sin embargo, la joven manifiesta que se siente cada vez más cerca de Dios y que se plantea abrazar la vida de monja de clausura. La noticia pilla por sorpresa a toda la familia provocando un abismo y una prueba de fuego para todos.",
-    "all_synopsis": {
-      "yelmo-meridiano": "\"Los Domingos\" cuenta la historia de Ainara (Blanca Soroa), una joven idealista y brillante de 17 años que ha de decidir qué carrera universitaria estudiará. O, al menos, eso espera su familia que haga. Sin embargo, la joven manifiesta que se siente cada vez más cerca de Dios y que se plantea abrazar la vida de monja de clausura. La noticia pilla por sorpresa a toda la familia provocando un abismo y una prueba de fuego para todos.",
-      "yelmo-la-villa-de-orotava": "\"Los Domingos\" cuenta la historia de Ainara (Blanca Soroa), una joven idealista y brillante de 17 años que ha de decidir qué carrera universitaria estudiará. O, al menos, eso espera su familia que haga. Sin embargo, la joven manifiesta que se siente cada vez más cerca de Dios y que se plantea abrazar la vida de monja de clausura. La noticia pilla por sorpresa a toda la familia provocando un abismo y una prueba de fuego para todos."
-    },
-    "url": "https://www.yelmocines.es/sinopsis/los-domingos",
-    "all_urls": {
-      "yelmo-meridiano": "https://www.yelmocines.es/sinopsis/los-domingos",
-      "yelmo-la-villa-de-orotava": "https://www.yelmocines.es/sinopsis/los-domingos"
-    }
-  },
-  {
-    "title": "Marty Supreme",
-    "length": "149",
-    "age": "16",
-    "theaters": [
-      "yelmo-la-villa-de-orotava",
-      "yelmo-meridiano"
-    ],
-    "showings": [
-      {
-        "date": "2026-03-18",
-        "time": "21:55",
-        "theater": "yelmo-la-villa-de-orotava",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-03-18",
-        "time": "22:00",
-        "theater": "yelmo-meridiano",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-03-19",
-        "time": "21:55",
-        "theater": "yelmo-la-villa-de-orotava",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-03-19",
-        "time": "22:00",
-        "theater": "yelmo-meridiano",
-        "format": "2D ESPAÑOL"
-      }
-    ],
-    "actors": [
-      "Abel Ferrara",
-      "Timothée Chalamet",
-      "Odessa A’zion",
-      "Gwyneth Paltrow",
-      "Kevin O’Leary",
-      "Sandra Bernhard",
-      "Tyler Okonma",
-      "Fran Drescher"
-    ],
-    "directors": [
-      "Josh Safdie"
-    ],
-    "genres": [
-      "DRAMA"
-    ],
-    "synopsis": "La historia se centra en la apasionante carrera de Marty Reisman, interpretado por el dos veces nominado al Oscar© Timothée Chalamet (Call me by your name, A Complete Unknown), un pasante de apuestas que descubre su pasión por el tenis de mesa. Comenzando en clubes clandestinos, su estilo intrépido y carismático lo llevó a ganar 22 importantes títulos, representando además a Estados Unidos en torneos mundiales, siendo el campeón más veterano en este deporte con 67 años.",
-    "all_synopsis": {
-      "yelmo-meridiano": "La historia se centra en la apasionante carrera de Marty Reisman, interpretado por el dos veces nominado al Oscar© Timothée Chalamet (Call me by your name, A Complete Unknown), un pasante de apuestas que descubre su pasión por el tenis de mesa. Comenzando en clubes clandestinos, su estilo intrépido y carismático lo llevó a ganar 22 importantes títulos, representando además a Estados Unidos en torneos mundiales, siendo el campeón más veterano en este deporte con 67 años.",
-      "yelmo-la-villa-de-orotava": "La historia se centra en la apasionante carrera de Marty Reisman, interpretado por el dos veces nominado al Oscar© Timothée Chalamet (Call me by your name, A Complete Unknown), un pasante de apuestas que descubre su pasión por el tenis de mesa. Comenzando en clubes clandestinos, su estilo intrépido y carismático lo llevó a ganar 22 importantes títulos, representando además a Estados Unidos en torneos mundiales, siendo el campeón más veterano en este deporte con 67 años."
-    },
-    "url": "https://www.yelmocines.es/sinopsis/marty-supreme",
-    "all_urls": {
-      "yelmo-meridiano": "https://www.yelmocines.es/sinopsis/marty-supreme",
-      "yelmo-la-villa-de-orotava": "https://www.yelmocines.es/sinopsis/marty-supreme"
-    }
-  },
-  {
-    "title": "Ruta de escape",
-    "length": "140",
-    "age": "16",
-    "theaters": [
-      "yelmo-la-villa-de-orotava"
-    ],
-    "showings": [
-      {
-        "date": "2026-03-18",
-        "time": "19:55",
-        "theater": "yelmo-la-villa-de-orotava",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-03-19",
-        "time": "19:55",
-        "theater": "yelmo-la-villa-de-orotava",
-        "format": "2D ESPAÑOL"
-      }
-    ],
-    "actors": [
-      "Chris Hemsworth",
-      "Halle Berry",
-      "Mark Ruffalo",
-      "Corey Hawkins",
-      "Barry Keoghan",
-      "Nick Nolte",
-      "Monica Barbaro",
-      "Tate Donovan",
-      "Jennifer Jason Leigh"
-    ],
-    "directors": [
-      "Bart Layton"
-    ],
-    "genres": [
-      "THRILLER"
-    ],
-    "synopsis": "Davis (Chris Hemsworth) es un escurridizo ladrón cuyos atracos de alto riesgo tienen desconcertada a la policía. Davis está planeando su mayor golpe, con la esperanza de que sea el último, cuando se cruza en su camino Sharon (Halle Berry), una desilusionada ejecutiva de seguros con la que se ve obligado a trabajar, y Orman (Barry Keoghan) un ladrón rival, con métodos mucho más inquietantes que los de Davis. A medida que se acerca el golpe multimillonario, el implacable teniente Lubesnik (Mark Ruffalo) , se acerca a la operación, aumentando considerablemente el riesgo de lo que está en juego y difuminando la línea entre cazador y presa. Pronto, cada uno tendrá que aceptar el coste de sus decisiones asumiendo que no hay vuelta atrás.",
     "all_synopsis": null,
-    "url": "https://www.yelmocines.es/sinopsis/ruta-de-escape",
+    "url": "https://www.yelmocines.es/sinopsis/los-domingos",
     "all_urls": null
   },
   {
@@ -1371,216 +837,6 @@
       "yelmo-meridiano"
     ],
     "showings": [
-      {
-        "date": "2026-03-18",
-        "time": "17:10",
-        "theater": "yelmo-meridiano",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-03-18",
-        "time": "17:35",
-        "theater": "yelmo-la-villa-de-orotava",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-03-18",
-        "time": "19:30",
-        "theater": "yelmo-meridiano",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-03-18",
-        "time": "20:00",
-        "theater": "yelmo-la-villa-de-orotava",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-03-18",
-        "time": "22:05",
-        "theater": "yelmo-meridiano",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-03-18",
-        "time": "22:25",
-        "theater": "yelmo-la-villa-de-orotava",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-03-19",
-        "time": "17:10",
-        "theater": "yelmo-meridiano",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-03-19",
-        "time": "17:35",
-        "theater": "yelmo-la-villa-de-orotava",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-03-19",
-        "time": "19:30",
-        "theater": "yelmo-meridiano",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-03-19",
-        "time": "20:00",
-        "theater": "yelmo-la-villa-de-orotava",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-03-19",
-        "time": "22:05",
-        "theater": "yelmo-meridiano",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-03-19",
-        "time": "22:25",
-        "theater": "yelmo-la-villa-de-orotava",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-03-20",
-        "time": "17:10",
-        "theater": "yelmo-meridiano",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-03-20",
-        "time": "17:20",
-        "theater": "yelmo-la-villa-de-orotava",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-03-20",
-        "time": "19:35",
-        "theater": "yelmo-meridiano",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-03-20",
-        "time": "19:50",
-        "theater": "yelmo-la-villa-de-orotava",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-03-20",
-        "time": "21:55",
-        "theater": "yelmo-meridiano",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-03-20",
-        "time": "22:15",
-        "theater": "yelmo-la-villa-de-orotava",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-03-21",
-        "time": "17:10",
-        "theater": "yelmo-meridiano",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-03-21",
-        "time": "17:20",
-        "theater": "yelmo-la-villa-de-orotava",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-03-21",
-        "time": "19:35",
-        "theater": "yelmo-meridiano",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-03-21",
-        "time": "19:50",
-        "theater": "yelmo-la-villa-de-orotava",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-03-21",
-        "time": "21:55",
-        "theater": "yelmo-meridiano",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-03-21",
-        "time": "22:15",
-        "theater": "yelmo-la-villa-de-orotava",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-03-22",
-        "time": "17:10",
-        "theater": "yelmo-meridiano",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-03-22",
-        "time": "17:20",
-        "theater": "yelmo-la-villa-de-orotava",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-03-22",
-        "time": "19:35",
-        "theater": "yelmo-meridiano",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-03-22",
-        "time": "19:50",
-        "theater": "yelmo-la-villa-de-orotava",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-03-22",
-        "time": "21:55",
-        "theater": "yelmo-meridiano",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-03-22",
-        "time": "22:15",
-        "theater": "yelmo-la-villa-de-orotava",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-03-23",
-        "time": "17:20",
-        "theater": "yelmo-la-villa-de-orotava",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-03-23",
-        "time": "19:35",
-        "theater": "yelmo-meridiano",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-03-23",
-        "time": "19:50",
-        "theater": "yelmo-la-villa-de-orotava",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-03-23",
-        "time": "21:55",
-        "theater": "yelmo-meridiano",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-03-23",
-        "time": "22:15",
-        "theater": "yelmo-la-villa-de-orotava",
-        "format": "2D ESPAÑOL"
-      },
       {
         "date": "2026-03-24",
         "time": "17:20",
@@ -1703,15 +959,653 @@
       "TERROR"
     ],
     "synopsis": "Cuando un nuevo asesino Ghostface aparece en el tranquilo pueblo donde Sidney Prescott (Neve Campbell) ha construido una nueva vida, sus miedos más oscuros se hacen realidad cuando su hija (Isabel May) se convierte en el siguiente objetivo. Decidida a proteger a su familia, Sidney debe enfrentarse a los horrores de su pasado para poner fin al derramamiento de sangre de una vez por todas.",
-    "all_synopsis": {
-      "yelmo-meridiano": "Cuando un nuevo asesino Ghostface aparece en el tranquilo pueblo donde Sidney Prescott (Neve Campbell) ha construido una nueva vida, sus miedos más oscuros se hacen realidad cuando su hija (Isabel May) se convierte en el siguiente objetivo. Decidida a proteger a su familia, Sidney debe enfrentarse a los horrores de su pasado para poner fin al derramamiento de sangre de una vez por todas.",
-      "yelmo-la-villa-de-orotava": "Cuando un nuevo asesino Ghostface aparece en el tranquilo pueblo donde Sidney Prescott (Neve Campbell) ha construido una nueva vida, sus miedos más oscuros se hacen realidad cuando su hija (Isabel May) se convierte en el siguiente objetivo. Decidida a proteger a su familia, Sidney debe enfrentarse a los horrores de su pasado para poner fin al derramamiento de sangre de una vez por todas."
-    },
+    "all_synopsis": null,
     "url": "https://www.yelmocines.es/sinopsis/scream-7",
-    "all_urls": {
-      "yelmo-meridiano": "https://www.yelmocines.es/sinopsis/scream-7",
-      "yelmo-la-villa-de-orotava": "https://www.yelmocines.es/sinopsis/scream-7"
-    }
+    "all_urls": null
+  },
+  {
+    "title": "Tafiti y sus amigos",
+    "length": "81",
+    "age": "0",
+    "theaters": [
+      "yelmo-la-villa-de-orotava"
+    ],
+    "showings": [
+      {
+        "date": "2026-03-24",
+        "time": "17:50",
+        "theater": "yelmo-la-villa-de-orotava",
+        "format": "2D ESPAÑOL"
+      },
+      {
+        "date": "2026-03-25",
+        "time": "17:50",
+        "theater": "yelmo-la-villa-de-orotava",
+        "format": "2D ESPAÑOL"
+      },
+      {
+        "date": "2026-03-26",
+        "time": "17:50",
+        "theater": "yelmo-la-villa-de-orotava",
+        "format": "2D ESPAÑOL"
+      }
+    ],
+    "actors": [
+      "Steve Hudson",
+      "Cosima Henman",
+      "Kathleen Renish",
+      "Jeremiah Costello"
+    ],
+    "directors": [
+      "Nina Wels"
+    ],
+    "genres": [
+      "ANIMACION"
+    ],
+    "synopsis": "Cuando Tafiti, una joven suricata, conoce a Púas, el cerdo salvaje, sabe que no pueden ser amigos. “¡Las suricatas se quedan con los suyos!” es lo que siempre le ha dicho el abuelo, ya que, la vida en el desierto, está llena de peligros. Pero cuando Púas es atacado por un águila, es Tafiti quien corre a rescatarlo. En busca desesperada de un amigo, el divertido cerdo salvaje sigue a Tafiti hasta su casa, provocando sin querer un desafortunado accidente: el abuelo de Tafiti es mordido por una serpiente venenosa mortal. Sólo una mítica flor azul del desierto podrá salvarlo. Tafiti emprende un peligroso viaje para encontrar la flor, convencido de que debe hacerlo ella sola. ¡Depende de Púas demostrar que las aventuras siempre son mejores con amigos!",
+    "all_synopsis": null,
+    "url": "https://www.yelmocines.es/sinopsis/tafiti-y-sus-amigos",
+    "all_urls": null
+  },
+  {
+    "title": "Torrente presidente",
+    "length": "103",
+    "age": "16",
+    "theaters": [
+      "yelmo-la-villa-de-orotava",
+      "yelmo-meridiano"
+    ],
+    "showings": [
+      {
+        "date": "2026-03-24",
+        "time": "17:00",
+        "theater": "yelmo-la-villa-de-orotava",
+        "format": "2D ESPAÑOL"
+      },
+      {
+        "date": "2026-03-24",
+        "time": "17:00",
+        "theater": "yelmo-meridiano",
+        "format": "2D ESPAÑOL"
+      },
+      {
+        "date": "2026-03-24",
+        "time": "17:30",
+        "theater": "yelmo-la-villa-de-orotava",
+        "format": "2D ESPAÑOL"
+      },
+      {
+        "date": "2026-03-24",
+        "time": "17:30",
+        "theater": "yelmo-meridiano",
+        "format": "2D ESPAÑOL"
+      },
+      {
+        "date": "2026-03-24",
+        "time": "18:00",
+        "theater": "yelmo-la-villa-de-orotava",
+        "format": "2D ESPAÑOL"
+      },
+      {
+        "date": "2026-03-24",
+        "time": "18:00",
+        "theater": "yelmo-meridiano",
+        "format": "2D ESPAÑOL"
+      },
+      {
+        "date": "2026-03-24",
+        "time": "18:40",
+        "theater": "yelmo-la-villa-de-orotava",
+        "format": "2D ESPAÑOL"
+      },
+      {
+        "date": "2026-03-24",
+        "time": "19:15",
+        "theater": "yelmo-la-villa-de-orotava",
+        "format": "2D ESPAÑOL"
+      },
+      {
+        "date": "2026-03-24",
+        "time": "19:15",
+        "theater": "yelmo-meridiano",
+        "format": "2D ESPAÑOL"
+      },
+      {
+        "date": "2026-03-24",
+        "time": "19:45",
+        "theater": "yelmo-la-villa-de-orotava",
+        "format": "2D ESPAÑOL"
+      },
+      {
+        "date": "2026-03-24",
+        "time": "19:45",
+        "theater": "yelmo-meridiano",
+        "format": "2D ESPAÑOL"
+      },
+      {
+        "date": "2026-03-24",
+        "time": "20:15",
+        "theater": "yelmo-la-villa-de-orotava",
+        "format": "2D ESPAÑOL"
+      },
+      {
+        "date": "2026-03-24",
+        "time": "20:15",
+        "theater": "yelmo-meridiano",
+        "format": "2D ESPAÑOL"
+      },
+      {
+        "date": "2026-03-24",
+        "time": "20:55",
+        "theater": "yelmo-la-villa-de-orotava",
+        "format": "2D ESPAÑOL"
+      },
+      {
+        "date": "2026-03-24",
+        "time": "21:30",
+        "theater": "yelmo-la-villa-de-orotava",
+        "format": "2D ESPAÑOL"
+      },
+      {
+        "date": "2026-03-24",
+        "time": "21:30",
+        "theater": "yelmo-meridiano",
+        "format": "2D ESPAÑOL"
+      },
+      {
+        "date": "2026-03-24",
+        "time": "22:00",
+        "theater": "yelmo-la-villa-de-orotava",
+        "format": "2D ESPAÑOL"
+      },
+      {
+        "date": "2026-03-24",
+        "time": "22:00",
+        "theater": "yelmo-meridiano",
+        "format": "2D ESPAÑOL"
+      },
+      {
+        "date": "2026-03-24",
+        "time": "22:30",
+        "theater": "yelmo-la-villa-de-orotava",
+        "format": "2D ESPAÑOL"
+      },
+      {
+        "date": "2026-03-24",
+        "time": "22:30",
+        "theater": "yelmo-meridiano",
+        "format": "2D ESPAÑOL"
+      },
+      {
+        "date": "2026-03-25",
+        "time": "17:00",
+        "theater": "yelmo-la-villa-de-orotava",
+        "format": "2D ESPAÑOL"
+      },
+      {
+        "date": "2026-03-25",
+        "time": "17:00",
+        "theater": "yelmo-meridiano",
+        "format": "2D ESPAÑOL"
+      },
+      {
+        "date": "2026-03-25",
+        "time": "17:30",
+        "theater": "yelmo-la-villa-de-orotava",
+        "format": "2D ESPAÑOL"
+      },
+      {
+        "date": "2026-03-25",
+        "time": "17:30",
+        "theater": "yelmo-meridiano",
+        "format": "2D ESPAÑOL"
+      },
+      {
+        "date": "2026-03-25",
+        "time": "18:00",
+        "theater": "yelmo-la-villa-de-orotava",
+        "format": "2D ESPAÑOL"
+      },
+      {
+        "date": "2026-03-25",
+        "time": "18:00",
+        "theater": "yelmo-meridiano",
+        "format": "2D ESPAÑOL"
+      },
+      {
+        "date": "2026-03-25",
+        "time": "18:30",
+        "theater": "yelmo-meridiano",
+        "format": "2D ESPAÑOL"
+      },
+      {
+        "date": "2026-03-25",
+        "time": "18:40",
+        "theater": "yelmo-la-villa-de-orotava",
+        "format": "2D ESPAÑOL"
+      },
+      {
+        "date": "2026-03-25",
+        "time": "19:15",
+        "theater": "yelmo-la-villa-de-orotava",
+        "format": "2D ESPAÑOL"
+      },
+      {
+        "date": "2026-03-25",
+        "time": "19:15",
+        "theater": "yelmo-meridiano",
+        "format": "2D ESPAÑOL"
+      },
+      {
+        "date": "2026-03-25",
+        "time": "19:45",
+        "theater": "yelmo-la-villa-de-orotava",
+        "format": "2D ESPAÑOL"
+      },
+      {
+        "date": "2026-03-25",
+        "time": "19:45",
+        "theater": "yelmo-meridiano",
+        "format": "2D ESPAÑOL"
+      },
+      {
+        "date": "2026-03-25",
+        "time": "20:15",
+        "theater": "yelmo-la-villa-de-orotava",
+        "format": "2D ESPAÑOL"
+      },
+      {
+        "date": "2026-03-25",
+        "time": "20:15",
+        "theater": "yelmo-meridiano",
+        "format": "2D ESPAÑOL"
+      },
+      {
+        "date": "2026-03-25",
+        "time": "20:45",
+        "theater": "yelmo-meridiano",
+        "format": "2D ESPAÑOL"
+      },
+      {
+        "date": "2026-03-25",
+        "time": "20:55",
+        "theater": "yelmo-la-villa-de-orotava",
+        "format": "2D ESPAÑOL"
+      },
+      {
+        "date": "2026-03-25",
+        "time": "21:30",
+        "theater": "yelmo-la-villa-de-orotava",
+        "format": "2D ESPAÑOL"
+      },
+      {
+        "date": "2026-03-25",
+        "time": "21:30",
+        "theater": "yelmo-meridiano",
+        "format": "2D ESPAÑOL"
+      },
+      {
+        "date": "2026-03-25",
+        "time": "22:00",
+        "theater": "yelmo-la-villa-de-orotava",
+        "format": "2D ESPAÑOL"
+      },
+      {
+        "date": "2026-03-25",
+        "time": "22:00",
+        "theater": "yelmo-meridiano",
+        "format": "2D ESPAÑOL"
+      },
+      {
+        "date": "2026-03-25",
+        "time": "22:25",
+        "theater": "yelmo-meridiano",
+        "format": "2D ESPAÑOL"
+      },
+      {
+        "date": "2026-03-25",
+        "time": "22:30",
+        "theater": "yelmo-la-villa-de-orotava",
+        "format": "2D ESPAÑOL"
+      },
+      {
+        "date": "2026-03-26",
+        "time": "17:00",
+        "theater": "yelmo-la-villa-de-orotava",
+        "format": "2D ESPAÑOL"
+      },
+      {
+        "date": "2026-03-26",
+        "time": "17:00",
+        "theater": "yelmo-meridiano",
+        "format": "2D ESPAÑOL"
+      },
+      {
+        "date": "2026-03-26",
+        "time": "17:30",
+        "theater": "yelmo-la-villa-de-orotava",
+        "format": "2D ESPAÑOL"
+      },
+      {
+        "date": "2026-03-26",
+        "time": "17:30",
+        "theater": "yelmo-meridiano",
+        "format": "2D ESPAÑOL"
+      },
+      {
+        "date": "2026-03-26",
+        "time": "18:00",
+        "theater": "yelmo-la-villa-de-orotava",
+        "format": "2D ESPAÑOL"
+      },
+      {
+        "date": "2026-03-26",
+        "time": "18:00",
+        "theater": "yelmo-meridiano",
+        "format": "2D ESPAÑOL"
+      },
+      {
+        "date": "2026-03-26",
+        "time": "18:40",
+        "theater": "yelmo-la-villa-de-orotava",
+        "format": "2D ESPAÑOL"
+      },
+      {
+        "date": "2026-03-26",
+        "time": "19:15",
+        "theater": "yelmo-la-villa-de-orotava",
+        "format": "2D ESPAÑOL"
+      },
+      {
+        "date": "2026-03-26",
+        "time": "19:15",
+        "theater": "yelmo-meridiano",
+        "format": "2D ESPAÑOL"
+      },
+      {
+        "date": "2026-03-26",
+        "time": "19:45",
+        "theater": "yelmo-la-villa-de-orotava",
+        "format": "2D ESPAÑOL"
+      },
+      {
+        "date": "2026-03-26",
+        "time": "19:45",
+        "theater": "yelmo-meridiano",
+        "format": "2D ESPAÑOL"
+      },
+      {
+        "date": "2026-03-26",
+        "time": "20:15",
+        "theater": "yelmo-la-villa-de-orotava",
+        "format": "2D ESPAÑOL"
+      },
+      {
+        "date": "2026-03-26",
+        "time": "20:15",
+        "theater": "yelmo-meridiano",
+        "format": "2D ESPAÑOL"
+      },
+      {
+        "date": "2026-03-26",
+        "time": "20:55",
+        "theater": "yelmo-la-villa-de-orotava",
+        "format": "2D ESPAÑOL"
+      },
+      {
+        "date": "2026-03-26",
+        "time": "21:30",
+        "theater": "yelmo-la-villa-de-orotava",
+        "format": "2D ESPAÑOL"
+      },
+      {
+        "date": "2026-03-26",
+        "time": "21:30",
+        "theater": "yelmo-meridiano",
+        "format": "2D ESPAÑOL"
+      },
+      {
+        "date": "2026-03-26",
+        "time": "22:00",
+        "theater": "yelmo-la-villa-de-orotava",
+        "format": "2D ESPAÑOL"
+      },
+      {
+        "date": "2026-03-26",
+        "time": "22:00",
+        "theater": "yelmo-meridiano",
+        "format": "2D ESPAÑOL"
+      },
+      {
+        "date": "2026-03-26",
+        "time": "22:30",
+        "theater": "yelmo-la-villa-de-orotava",
+        "format": "2D ESPAÑOL"
+      },
+      {
+        "date": "2026-03-26",
+        "time": "22:30",
+        "theater": "yelmo-meridiano",
+        "format": "2D ESPAÑOL"
+      },
+      {
+        "date": "2026-03-27",
+        "time": "18:05",
+        "theater": "yelmo-la-villa-de-orotava",
+        "format": "2D ESPAÑOL"
+      },
+      {
+        "date": "2026-03-27",
+        "time": "18:05",
+        "theater": "yelmo-meridiano",
+        "format": "2D ESPAÑOL"
+      },
+      {
+        "date": "2026-03-27",
+        "time": "20:15",
+        "theater": "yelmo-la-villa-de-orotava",
+        "format": "2D ESPAÑOL"
+      },
+      {
+        "date": "2026-03-27",
+        "time": "20:15",
+        "theater": "yelmo-meridiano",
+        "format": "2D ESPAÑOL"
+      },
+      {
+        "date": "2026-03-27",
+        "time": "22:30",
+        "theater": "yelmo-la-villa-de-orotava",
+        "format": "2D ESPAÑOL"
+      },
+      {
+        "date": "2026-03-27",
+        "time": "22:30",
+        "theater": "yelmo-meridiano",
+        "format": "2D ESPAÑOL"
+      },
+      {
+        "date": "2026-03-28",
+        "time": "15:50",
+        "theater": "yelmo-la-villa-de-orotava",
+        "format": "2D ESPAÑOL"
+      },
+      {
+        "date": "2026-03-28",
+        "time": "15:50",
+        "theater": "yelmo-meridiano",
+        "format": "2D ESPAÑOL"
+      },
+      {
+        "date": "2026-03-28",
+        "time": "18:05",
+        "theater": "yelmo-la-villa-de-orotava",
+        "format": "2D ESPAÑOL"
+      },
+      {
+        "date": "2026-03-28",
+        "time": "18:05",
+        "theater": "yelmo-meridiano",
+        "format": "2D ESPAÑOL"
+      },
+      {
+        "date": "2026-03-28",
+        "time": "20:15",
+        "theater": "yelmo-la-villa-de-orotava",
+        "format": "2D ESPAÑOL"
+      },
+      {
+        "date": "2026-03-28",
+        "time": "20:15",
+        "theater": "yelmo-meridiano",
+        "format": "2D ESPAÑOL"
+      },
+      {
+        "date": "2026-03-28",
+        "time": "22:30",
+        "theater": "yelmo-la-villa-de-orotava",
+        "format": "2D ESPAÑOL"
+      },
+      {
+        "date": "2026-03-28",
+        "time": "22:30",
+        "theater": "yelmo-meridiano",
+        "format": "2D ESPAÑOL"
+      },
+      {
+        "date": "2026-03-29",
+        "time": "15:50",
+        "theater": "yelmo-la-villa-de-orotava",
+        "format": "2D ESPAÑOL"
+      },
+      {
+        "date": "2026-03-29",
+        "time": "15:50",
+        "theater": "yelmo-meridiano",
+        "format": "2D ESPAÑOL"
+      },
+      {
+        "date": "2026-03-29",
+        "time": "18:05",
+        "theater": "yelmo-la-villa-de-orotava",
+        "format": "2D ESPAÑOL"
+      },
+      {
+        "date": "2026-03-29",
+        "time": "18:05",
+        "theater": "yelmo-meridiano",
+        "format": "2D ESPAÑOL"
+      },
+      {
+        "date": "2026-03-29",
+        "time": "20:15",
+        "theater": "yelmo-la-villa-de-orotava",
+        "format": "2D ESPAÑOL"
+      },
+      {
+        "date": "2026-03-29",
+        "time": "20:15",
+        "theater": "yelmo-meridiano",
+        "format": "2D ESPAÑOL"
+      },
+      {
+        "date": "2026-03-29",
+        "time": "22:30",
+        "theater": "yelmo-la-villa-de-orotava",
+        "format": "2D ESPAÑOL"
+      },
+      {
+        "date": "2026-03-29",
+        "time": "22:30",
+        "theater": "yelmo-meridiano",
+        "format": "2D ESPAÑOL"
+      },
+      {
+        "date": "2026-03-30",
+        "time": "18:05",
+        "theater": "yelmo-la-villa-de-orotava",
+        "format": "2D ESPAÑOL"
+      },
+      {
+        "date": "2026-03-30",
+        "time": "18:05",
+        "theater": "yelmo-meridiano",
+        "format": "2D ESPAÑOL"
+      },
+      {
+        "date": "2026-03-30",
+        "time": "20:15",
+        "theater": "yelmo-meridiano",
+        "format": "2D ESPAÑOL"
+      },
+      {
+        "date": "2026-03-30",
+        "time": "20:20",
+        "theater": "yelmo-la-villa-de-orotava",
+        "format": "2D ESPAÑOL"
+      },
+      {
+        "date": "2026-03-30",
+        "time": "22:30",
+        "theater": "yelmo-la-villa-de-orotava",
+        "format": "2D ESPAÑOL"
+      },
+      {
+        "date": "2026-03-30",
+        "time": "22:30",
+        "theater": "yelmo-meridiano",
+        "format": "2D ESPAÑOL"
+      },
+      {
+        "date": "2026-03-31",
+        "time": "18:05",
+        "theater": "yelmo-la-villa-de-orotava",
+        "format": "2D ESPAÑOL"
+      },
+      {
+        "date": "2026-03-31",
+        "time": "18:05",
+        "theater": "yelmo-meridiano",
+        "format": "2D ESPAÑOL"
+      },
+      {
+        "date": "2026-03-31",
+        "time": "20:15",
+        "theater": "yelmo-meridiano",
+        "format": "2D ESPAÑOL"
+      },
+      {
+        "date": "2026-03-31",
+        "time": "20:20",
+        "theater": "yelmo-la-villa-de-orotava",
+        "format": "2D ESPAÑOL"
+      },
+      {
+        "date": "2026-03-31",
+        "time": "22:30",
+        "theater": "yelmo-la-villa-de-orotava",
+        "format": "2D ESPAÑOL"
+      },
+      {
+        "date": "2026-03-31",
+        "time": "22:30",
+        "theater": "yelmo-meridiano",
+        "format": "2D ESPAÑOL"
+      }
+    ],
+    "actors": [
+      "Santiago Segura"
+    ],
+    "directors": [
+      "Santiago Segura"
+    ],
+    "genres": [
+      "COMEDIA"
+    ],
+    "synopsis": "Han pasado años desde su última aventura, pero José Luis Torrente, el ex-policía más políticamente incorrecto de España, sigue viéndose a sí mismo como un héroe nacional.",
+    "all_synopsis": null,
+    "url": "https://www.yelmocines.es/sinopsis/torrente-presidente",
+    "all_urls": null
   },
   {
     "title": "Una batalla tras otra",
@@ -1723,117 +1617,9 @@
     ],
     "showings": [
       {
-        "date": "2026-03-18",
-        "time": "17:20",
-        "theater": "yelmo-meridiano",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-03-18",
-        "time": "17:25",
-        "theater": "yelmo-la-villa-de-orotava",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-03-18",
-        "time": "20:30",
-        "theater": "yelmo-meridiano",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-03-18",
-        "time": "20:40",
-        "theater": "yelmo-la-villa-de-orotava",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-03-19",
-        "time": "17:20",
-        "theater": "yelmo-meridiano",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-03-19",
-        "time": "17:25",
-        "theater": "yelmo-la-villa-de-orotava",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-03-19",
-        "time": "20:30",
-        "theater": "yelmo-meridiano",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-03-19",
-        "time": "20:40",
-        "theater": "yelmo-la-villa-de-orotava",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-03-20",
-        "time": "20:50",
-        "theater": "yelmo-la-villa-de-orotava",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-03-20",
-        "time": "20:50",
-        "theater": "yelmo-meridiano",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-03-21",
-        "time": "20:50",
-        "theater": "yelmo-la-villa-de-orotava",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-03-21",
-        "time": "20:50",
-        "theater": "yelmo-meridiano",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-03-22",
-        "time": "20:50",
-        "theater": "yelmo-la-villa-de-orotava",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-03-22",
-        "time": "20:50",
-        "theater": "yelmo-meridiano",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-03-23",
-        "time": "17:10",
-        "theater": "yelmo-la-villa-de-orotava",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-03-23",
-        "time": "20:40",
-        "theater": "yelmo-la-villa-de-orotava",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-03-23",
-        "time": "20:50",
-        "theater": "yelmo-meridiano",
-        "format": "2D ESPAÑOL"
-      },
-      {
         "date": "2026-03-24",
         "time": "17:00",
         "theater": "yelmo-meridiano",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-03-24",
-        "time": "17:10",
-        "theater": "yelmo-la-villa-de-orotava",
         "format": "2D ESPAÑOL"
       },
       {
@@ -1844,13 +1630,13 @@
       },
       {
         "date": "2026-03-24",
-        "time": "20:40",
+        "time": "20:50",
         "theater": "yelmo-la-villa-de-orotava",
         "format": "2D INGLÉS SUBTITULADO EN ESPAÑOL (VOSE)"
       },
       {
         "date": "2026-03-25",
-        "time": "20:40",
+        "time": "20:50",
         "theater": "yelmo-la-villa-de-orotava",
         "format": "2D ESPAÑOL"
       },
@@ -1862,13 +1648,7 @@
       },
       {
         "date": "2026-03-26",
-        "time": "17:10",
-        "theater": "yelmo-la-villa-de-orotava",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-03-26",
-        "time": "20:40",
+        "time": "20:50",
         "theater": "yelmo-la-villa-de-orotava",
         "format": "2D ESPAÑOL"
       },
@@ -1885,78 +1665,55 @@
       "DRAMA"
     ],
     "synopsis": "Versión moderna de la novela 'Vineland', de Thomas Pynchon, escrita en 1990, sobre los movimientos radicales de los años sesenta",
-    "all_synopsis": {
-      "yelmo-meridiano": "Versión moderna de la novela 'Vineland', de Thomas Pynchon, escrita en 1990, sobre los movimientos radicales de los años sesenta",
-      "yelmo-la-villa-de-orotava": "Versión moderna de la novela 'Vineland', de Thomas Pynchon, escrita en 1990, sobre los movimientos radicales de los años sesenta"
-    },
+    "all_synopsis": null,
     "url": "https://www.yelmocines.es/sinopsis/una-batalla-tras-otra",
-    "all_urls": {
-      "yelmo-meridiano": "https://www.yelmocines.es/sinopsis/una-batalla-tras-otra",
-      "yelmo-la-villa-de-orotava": "https://www.yelmocines.es/sinopsis/una-batalla-tras-otra"
-    }
+    "all_urls": null
   },
   {
-    "title": "Valor sentimental",
-    "length": "133",
-    "age": "12",
-    "theaters": [
-      "yelmo-la-villa-de-orotava",
-      "yelmo-meridiano"
-    ],
-    "showings": [
-      {
-        "date": "2026-03-18",
-        "time": "17:50",
-        "theater": "yelmo-la-villa-de-orotava",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-03-18",
-        "time": "20:30",
-        "theater": "yelmo-meridiano",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-03-19",
-        "time": "17:50",
-        "theater": "yelmo-la-villa-de-orotava",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-03-19",
-        "time": "20:30",
-        "theater": "yelmo-meridiano",
-        "format": "2D ESPAÑOL"
-      }
-    ],
+    "title": "Whistle: El silbido del mal",
+    "length": "100",
+    "age": "18",
+    "theaters": [],
+    "showings": [],
     "actors": [
-      "Elle Fanning",
-      "Renate Reinsve",
-      "Stellan Skarsgård"
+      "Sophie Nélisse",
+      "Nick Frost",
+      "Dafne Keen",
+      "Percy Hynes White",
+      "Ali Skovbye"
     ],
     "directors": [
-      "Joachim Trier"
+      "Corin Hardy"
     ],
     "genres": [
-      "DRAMA"
+      "TERROR"
     ],
-    "synopsis": "Las hermanas Nora y Agnes se reencuentran con su distanciado padre, el carismático Gustav, un antiguo director de renombre que le ofrece a su hija Nora, actriz de teatro, un papel en su próxima película. Nora lo rechaza y pronto descubre que le ha dado su papel a una joven y entusiasta estrella de Hollywood. De repente, las dos hermanas deben sortear su complicada relación con su padre y lidiar con una estrella estadounidense que se encuentra en medio de su compleja dinámica familiar.",
-    "all_synopsis": {
-      "yelmo-meridiano": "Las hermanas Nora y Agnes se reencuentran con su distanciado padre, el carismático Gustav, un antiguo director de renombre que le ofrece a su hija Nora, actriz de teatro, un papel en su próxima película. Nora lo rechaza y pronto descubre que le ha dado su papel a una joven y entusiasta estrella de Hollywood. De repente, las dos hermanas deben sortear su complicada relación con su padre y lidiar con una estrella estadounidense que se encuentra en medio de su compleja dinámica familiar.",
-      "yelmo-la-villa-de-orotava": "Las hermanas Nora y Agnes se reencuentran con su distanciado padre, el carismático Gustav, un antiguo director de renombre que le ofrece a su hija Nora, actriz de teatro, un papel en su próxima película. Nora lo rechaza y pronto descubre que le ha dado su papel a una joven y entusiasta estrella de Hollywood. De repente, las dos hermanas deben sortear su complicada relación con su padre y lidiar con una estrella estadounidense que se encuentra en medio de su compleja dinámica familiar."
-    },
-    "url": "https://www.yelmocines.es/sinopsis/valor-sentimental",
-    "all_urls": {
-      "yelmo-meridiano": "https://www.yelmocines.es/sinopsis/valor-sentimental",
-      "yelmo-la-villa-de-orotava": "https://www.yelmocines.es/sinopsis/valor-sentimental"
-    }
+    "synopsis": "Un grupo de estudiantes encuentra por accidente un objeto maldito: un antiguo silbato de la muerte azteca. Al soplarlo, descubren que el terrorífico sonido que produce invoca a sus propias muertes futuras para perseguirlos. Mientras las víctimas aumentan, los amigos intentan descubrir el origen del artefacto y detener la terrible cadena de sucesos que han provocado.",
+    "all_synopsis": null,
+    "url": "https://www.yelmocines.es/sinopsis/whistle-el-silbido-del-mal",
+    "all_urls": null
   },
   {
     "title": "¡La novia!",
     "length": "126",
     "age": "16",
-    "theaters": [],
-    "showings": [],
+    "theaters": [
+      "yelmo-meridiano"
+    ],
+    "showings": [
+      {
+        "date": "2026-03-24",
+        "time": "21:50",
+        "theater": "yelmo-meridiano",
+        "format": "2D INGLÉS SUBTITULADO EN ESPAÑOL (VOSE)"
+      },
+      {
+        "date": "2026-03-26",
+        "time": "21:50",
+        "theater": "yelmo-meridiano",
+        "format": "2D ESPAÑOL"
+      }
+    ],
     "actors": [
       "Christian Bale",
       "Jake Gyllenhaal",

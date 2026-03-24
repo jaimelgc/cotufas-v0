@@ -1,27 +1,119 @@
 [
   {
-    "title": "HELLBOY EL HOMBRE RETORCIDO",
-    "length": "102 minutos",
+    "title": "TORRENTE PRESIDENTE",
+    "length": "107 minutos",
     "age": "16",
     "theater": "xsur",
     "format": "Español",
     "showings": {
-      "2026-03-05": [
+      "2026-03-23": [
         {
-          "time": "22:30"
+          "time": "16:30"
+        },
+        {
+          "time": "18:10"
+        },
+        {
+          "time": "19:20"
+        },
+        {
+          "time": "20:15"
+        },
+        {
+          "time": "21:25"
+        },
+        {
+          "time": "22:40"
         }
       ],
-      "2026-03-08": [
+      "2026-03-24": [
         {
-          "time": "22:55"
+          "time": "16:30"
+        },
+        {
+          "time": "18:30"
+        },
+        {
+          "time": "19:30"
+        },
+        {
+          "time": "20:30"
+        },
+        {
+          "time": "21:35"
+        },
+        {
+          "time": "22:35"
+        }
+      ],
+      "2026-03-25": [
+        {
+          "time": "16:15"
+        },
+        {
+          "time": "18:15"
+        },
+        {
+          "time": "19:15"
+        },
+        {
+          "time": "20:00"
+        },
+        {
+          "time": "20:40"
+        },
+        {
+          "time": "21:45"
+        },
+        {
+          "time": "22:45"
+        }
+      ],
+      "2026-03-26": [
+        {
+          "time": "16:30"
+        },
+        {
+          "time": "18:30"
+        },
+        {
+          "time": "19:30"
+        },
+        {
+          "time": "20:30"
+        },
+        {
+          "time": "21:35"
+        },
+        {
+          "time": "22:35"
         }
       ]
     },
     "actors": null,
     "directors": null,
     "genres": null,
-    "synopsis": "Hellboy y un agente novato del BPRD se quedan varados en los Apalaches rurales de los años cincuenta. Allí descubren una pequeña comunidad embrujada, liderada por el Hombre Torcido.",
-    "url": "https://x-surcine.com/peliculas/hellboy-el-hombre-retorcido-3/"
+    "synopsis": "El ex policía más desastroso y gamberro del cine español, Torrente, vuelve a la carga en una nueva desventura rodeado de personajes de lo más desternillante. El actor y director Santiago Segura (Padre no hay más que uno) vuelve a meterse en la piel del personaje que más popularidad le ha otorgado.",
+    "url": "https://x-surcine.com/peliculas/torrente-presidente-3/"
+  },
+  {
+    "title": "¡LA NOVIA!",
+    "length": "130 minutos",
+    "age": "16",
+    "theater": "xsur",
+    "format": "Español",
+    "showings": {
+      "2026-03-25": [
+        {
+          "time": "22:20"
+        }
+      ]
+    },
+    "actors": null,
+    "directors": null,
+    "genres": null,
+    "synopsis": "En el Chicago de los años 30, Frankenstein pide ayuda al Dr. Euphronius para crear una compañera. Dan vida a una mujer asesinada como la Novia, lo que desencadena un romance, el interés de la policía y un cambio social radical. Remake de La novia de Frankenstein.",
+    "url": "https://x-surcine.com/peliculas/la-novia/"
   },
   {
     "title": "ZOOTRÓPOLIS 2",
@@ -30,25 +122,9 @@
     "theater": "xsur",
     "format": "Español",
     "showings": {
-      "2026-03-06": [
+      "2026-03-25": [
         {
-          "time": "16:10"
-        }
-      ],
-      "2026-03-07": [
-        {
-          "time": "12:00"
-        },
-        {
-          "time": "15:00"
-        }
-      ],
-      "2026-03-08": [
-        {
-          "time": "12:00"
-        },
-        {
-          "time": "15:00"
+          "time": "16:15"
         }
       ]
     },
@@ -56,7 +132,7 @@
     "directors": null,
     "genres": null,
     "synopsis": "Judy y Nick se encuentran tras la retorcida pista de un misterioso reptil que llega a Zootopia y pone patas arriba la metrópolis de los mamíferos. Para resolver el caso, Judy y Nick deben ir de incógnito a nuevas partes inesperadas de la ciudad, donde su creciente asociación se pone a prueba como nunca antes.",
-    "url": "https://x-surcine.com/peliculas/zootropolis-2-2/"
+    "url": "https://x-surcine.com/peliculas/zootropolis-2/"
   },
   {
     "title": "RUTA DE ESCAPE",
@@ -65,19 +141,14 @@
     "theater": "xsur",
     "format": "Español",
     "showings": {
-      "2026-03-05": [
+      "2026-03-24": [
         {
-          "time": "22:10"
+          "time": "22:00"
         }
       ],
-      "2026-03-06": [
+      "2026-03-26": [
         {
-          "time": "22:10"
-        }
-      ],
-      "2026-03-07": [
-        {
-          "time": "21:40"
+          "time": "22:05"
         }
       ]
     },
@@ -85,26 +156,7 @@
     "directors": null,
     "genres": null,
     "synopsis": "Davis (Chris Hemsworth) es un escurridizo ladrón cuyos atracos de alto riesgo tienen desconcertada a la policía. Davis está planeando su mayor golpe, con la esperanza de que sea el último, cuando se cruza en su camino Sharon (Halle Berry), una desilusionada ejecutiva de seguros con la que se ve obligado a trabajar, y Orman (Barry Keoghan) un ladrón rival, con métodos mucho más inquietantes que los de Davis. A medida que se acerca el golpe multimillonario, el implacable teniente Lubesnik (Mark Ruffalo), se acerca a la operación, aumentando considerablemente el riesgo de lo que está en juego y difuminando la línea entre cazador y presa. Pronto, cada uno tendrá que aceptar el coste de sus decisiones asumiendo que no hay vuelta atrás. Adaptación de las novelas de Don Winslow Rotos.",
-    "url": "https://x-surcine.com/peliculas/ruta-de-escape-2/"
-  },
-  {
-    "title": "PRIMATE",
-    "length": "92 minutos",
-    "age": "18",
-    "theater": "xsur",
-    "format": "Español",
-    "showings": {
-      "2026-03-07": [
-        {
-          "time": "23:00"
-        }
-      ]
-    },
-    "actors": null,
-    "directors": null,
-    "genres": null,
-    "synopsis": "Tras regresar de la universidad, Lucy se reúne con su familia, incluido el chimpancé Ben. Ben contrae la rabia durante una fiesta en la piscina y se vuelve muy agresivo. Lucy y sus amigos se atrincheran en la piscina e idean formas de sobrevivir al feroz chimpancé.",
-    "url": "https://x-surcine.com/peliculas/primate/"
+    "url": "https://x-surcine.com/peliculas/ruta-de-escape/"
   },
   {
     "title": "MARTY SUPREME",
@@ -113,9 +165,14 @@
     "theater": "xsur",
     "format": "Español",
     "showings": {
-      "2026-03-07": [
+      "2026-03-23": [
         {
-          "time": "15:20"
+          "time": "21:45"
+        }
+      ],
+      "2026-03-25": [
+        {
+          "time": "16:10"
         }
       ]
     },
@@ -126,44 +183,20 @@
     "url": "https://x-surcine.com/peliculas/marty-supreme/"
   },
   {
-    "title": "LA FIERA",
-    "length": "116 minutos",
-    "age": "12",
-    "theater": "xsur",
-    "format": "Español",
-    "showings": {
-      "2026-03-08": [
-        {
-          "time": "14:00"
-        }
-      ]
-    },
-    "actors": null,
-    "directors": null,
-    "genres": null,
-    "synopsis": "Cuenta la historia de Carlos Suárez, Darío Barrio y Álvaro Bultó, tres amigos a los que les unía su pasión por los deportes extremos, que descubren la experiencia más cercana a volar: el salto BASE con traje de alas.",
-    "url": "https://x-surcine.com/peliculas/la-fiera/"
-  },
-  {
     "title": "LA ASISTENTA",
     "length": "135 minutos",
     "age": "16",
     "theater": "xsur",
     "format": "Español",
     "showings": {
-      "2026-03-05": [
+      "2026-03-23": [
         {
-          "time": "22:15"
+          "time": "20:15"
         }
       ],
-      "2026-03-06": [
+      "2026-03-25": [
         {
-          "time": "22:15"
-        }
-      ],
-      "2026-03-08": [
-        {
-          "time": "21:40"
+          "time": "20:20"
         }
       ]
     },
@@ -174,42 +207,71 @@
     "url": "https://x-surcine.com/peliculas/la-asistenta/"
   },
   {
+    "title": "HOPPERS",
+    "length": "108 minutos",
+    "age": "0",
+    "theater": "xsur",
+    "format": "Español",
+    "showings": {
+      "2026-03-23": [
+        {
+          "time": "16:15"
+        },
+        {
+          "time": "18:05"
+        }
+      ],
+      "2026-03-24": [
+        {
+          "time": "16:30"
+        },
+        {
+          "time": "18:30"
+        }
+      ],
+      "2026-03-25": [
+        {
+          "time": "18:00"
+        },
+        {
+          "time": "20:00"
+        }
+      ],
+      "2026-03-26": [
+        {
+          "time": "16:30"
+        },
+        {
+          "time": "18:30"
+        }
+      ]
+    },
+    "actors": null,
+    "directors": null,
+    "genres": null,
+    "synopsis": "La historia sigue a una joven, Mabel, que puede transferir su mente a un castor robot con el objetivo de infiltrarse en el reino animal. Acaba haciéndose amiga de un castor regio, el Rey Jorge, y uniendo a los animales para luchar contra los planes de un promotor inmobiliario.",
+    "url": "https://x-surcine.com/peliculas/hoppers/"
+  },
+  {
     "title": "GREENLAND 2",
     "length": "101 minutos",
     "age": "16",
     "theater": "xsur",
     "format": "Español",
     "showings": {
-      "2026-03-05": [
+      "2026-03-23": [
         {
-          "time": "22:20"
+          "time": "19:50"
         }
       ],
-      "2026-03-06": [
+      "2026-03-24": [
         {
-          "time": "18:05"
-        },
-        {
-          "time": "22:55"
+          "time": "18:10"
         }
       ],
-      "2026-03-07": [
+      "2026-03-25": [
         {
-          "time": "14:00"
-        },
-        {
-          "time": "18:00"
-        },
-        {
-          "time": "22:10"
-        }
-      ],
-      "2026-03-08": [
-        {
-          "time": "18:00"
-        },
-        {
-          "time": "22:10"
+          "time": "19:30"
         }
       ]
     },
@@ -220,28 +282,38 @@
     "url": "https://x-surcine.com/peliculas/greenland-2/"
   },
   {
-    "title": "EVOLUTION",
-    "length": "98 minutos",
-    "age": "7",
+    "title": "EL MAGO DEL KREMLIN",
+    "length": "148 minutos",
+    "age": "12",
     "theater": "xsur",
     "format": "Español",
     "showings": {
-      "2026-03-07": [
+      "2026-03-23": [
         {
-          "time": "11:45"
+          "time": "16:10"
         }
       ],
-      "2026-03-08": [
+      "2026-03-24": [
         {
-          "time": "11:45"
+          "time": "16:10"
+        }
+      ],
+      "2026-03-25": [
+        {
+          "time": "22:00"
+        }
+      ],
+      "2026-03-26": [
+        {
+          "time": "16:10"
         }
       ]
     },
     "actors": null,
     "directors": null,
     "genres": null,
-    "synopsis": "Cuando una sustancia extraterrestre mezcla el ADN de Zoe con el de sus exóticas mascotas, empieza una divertidísima aventura donde los humanos se animalizan, los animales se humanizan y todos tienen que ponerse de acuerdo para salvar el mundo.",
-    "url": "https://x-surcine.com/peliculas/evolution/"
+    "synopsis": "En medio del caos postsoviético de los años 90, el joven Vadim Baranov (Paul Dano) empieza a labrarse un camino como artista y productor de televisión. Su elocuencia y conexión con las altas esferas le llevan a convertirse, de la noche a la mañana, en el asesor de un agente del KGB con un brillante porvenir: Vladimir Putin (Jude Law). Desde las entrañas del poder, ambos darán forma a la nueva Rusia, difuminando los límites entre la verdad y la mentira.",
+    "url": "https://x-surcine.com/peliculas/el-mago-del-kremlin/"
   },
   {
     "title": "CUMBRES BORRASCOSAS",
@@ -250,36 +322,36 @@
     "theater": "xsur",
     "format": "Español",
     "showings": {
-      "2026-03-05": [
+      "2026-03-23": [
         {
-          "time": "22:00"
+          "time": "16:45"
+        },
+        {
+          "time": "21:35"
         }
       ],
-      "2026-03-06": [
+      "2026-03-24": [
         {
           "time": "17:00"
         },
         {
-          "time": "19:35"
+          "time": "21:40"
+        }
+      ],
+      "2026-03-25": [
+        {
+          "time": "16:45"
         },
         {
           "time": "22:10"
         }
       ],
-      "2026-03-07": [
+      "2026-03-26": [
         {
-          "time": "15:40"
+          "time": "17:00"
         },
         {
-          "time": "22:15"
-        }
-      ],
-      "2026-03-08": [
-        {
-          "time": "15:40"
-        },
-        {
-          "time": "22:15"
+          "time": "21:30"
         }
       ]
     },
@@ -296,31 +368,24 @@
     "theater": "xsur",
     "format": "Español",
     "showings": {
-      "2026-03-06": [
+      "2026-03-23": [
         {
-          "time": "18:10"
+          "time": "17:45"
         }
       ],
-      "2026-03-07": [
+      "2026-03-24": [
         {
-          "time": "12:00"
-        },
-        {
-          "time": "15:50"
-        },
-        {
-          "time": "18:10"
+          "time": "17:50"
         }
       ],
-      "2026-03-08": [
+      "2026-03-25": [
         {
-          "time": "12:00"
-        },
+          "time": "17:40"
+        }
+      ],
+      "2026-03-26": [
         {
-          "time": "16:00"
-        },
-        {
-          "time": "18:10"
+          "time": "17:45"
         }
       ]
     },
@@ -331,55 +396,30 @@
     "url": "https://x-surcine.com/peliculas/como-cabras/"
   },
   {
-    "title": "BOB ESPONJA UNA AVENTURA PIRATA",
-    "length": "92 minutos",
-    "age": "0",
-    "theater": "xsur",
-    "format": "Español",
-    "showings": {
-      "2026-03-07": [
-        {
-          "time": "14:15"
-        }
-      ],
-      "2026-03-08": [
-        {
-          "time": "14:15"
-        }
-      ]
-    },
-    "actors": null,
-    "directors": null,
-    "genres": null,
-    "synopsis": "Desesperado por demostrar que es un tío grande, Bob Esponja decide demostrar su valentía ante el señor Cangrejo siguiendo al Holandés Errante, el misterioso legendario pirata fantasma. Así comienza una aventura marítima que lo lleva a las profundidades más remotas del océano, donde ninguna esponja ha llegado jamás.",
-    "url": "https://x-surcine.com/peliculas/bob-esponja-una-aventura-pirata/"
-  },
-  {
     "title": "AÍDA Y VUELTA",
     "length": "103 minutos",
     "age": "12",
     "theater": "xsur",
     "format": "Español",
     "showings": {
-      "2026-03-06": [
+      "2026-03-23": [
         {
-          "time": "16:10"
+          "time": "16:15"
         }
       ],
-      "2026-03-07": [
+      "2026-03-24": [
         {
-          "time": "13:30"
-        },
-        {
-          "time": "19:50"
+          "time": "16:15"
         }
       ],
-      "2026-03-08": [
+      "2026-03-25": [
         {
-          "time": "13:30"
-        },
+          "time": "22:40"
+        }
+      ],
+      "2026-03-26": [
         {
-          "time": "19:50"
+          "time": "20:15"
         }
       ]
     },
@@ -391,30 +431,24 @@
   },
   {
     "title": "AVATAR FUEGO Y CENIZA",
-    "length": "201 minutos",
+    "length": "200 minutos",
     "age": "12",
     "theater": "xsur",
     "format": "Español",
     "showings": {
-      "2026-03-06": [
+      "2026-03-24": [
         {
-          "time": "16:10"
+          "time": "18:20"
         }
       ],
-      "2026-03-07": [
+      "2026-03-25": [
         {
-          "time": "11:30"
-        },
-        {
-          "time": "16:00"
+          "time": "16:30"
         }
       ],
-      "2026-03-08": [
+      "2026-03-26": [
         {
-          "time": "11:30"
-        },
-        {
-          "time": "16:00"
+          "time": "18:20"
         }
       ]
     },
@@ -425,63 +459,15 @@
     "url": "https://x-surcine.com/peliculas/avatar-fuego-y-ceniza/"
   },
   {
-    "title": "ABUELA TREMENDA",
-    "length": "90 minutos",
-    "age": "12",
-    "theater": "xsur",
-    "format": "Español",
-    "showings": {
-      "2026-03-07": [
-        {
-          "time": "14:00"
-        }
-      ],
-      "2026-03-08": [
-        {
-          "time": "14:00"
-        }
-      ]
-    },
-    "actors": null,
-    "directors": null,
-    "genres": null,
-    "synopsis": "Toñi no es una abuela cualquiera. Es un torbellino, un alma libre que se mete siempre en líos. A su hija Daniela la trae un poco de cabeza, pero su nieta Alexia la adora. Por eso, cuando Daniela se lleva a Alexia a un retiro rural de su empresa, Toñi no duda en presentarse allí con su caravana para pasar tiempo con su nieta y animar el cotarro a toda costa. Toñi pondrá patas arriba el retiro y el trabajo de Daniela y, sin querer, también pondrá algunas cosas en su sitio.",
-    "url": "https://x-surcine.com/peliculas/abuela-tremenda/"
-  },
-  {
-    "title": "GOAT",
-    "length": "104 minutos",
-    "age": "0",
-    "theater": "xsur",
-    "format": "VOSE",
-    "showings": {
-      "2026-03-07": [
-        {
-          "time": "11:30"
-        }
-      ],
-      "2026-03-08": [
-        {
-          "time": "11:30"
-        }
-      ]
-    },
-    "actors": null,
-    "directors": null,
-    "genres": null,
-    "synopsis": "Will es una pequeña cabra con grandes sueños que recibe una oportunidad única en la vida para unirse a los profesionales y jugar al rugebol, un deporte de alta intensidad, mixto y de contacto total dominado por los animales más rápidos y feroces del mundo. A los nuevos compañeros de equipo de Will no les entusiasma tener a una cabrita en su plantilla, pero Will está decidido a revolucionar el deporte y demostrar de una vez por todas que  ¡los pequeños saben jugar! .",
-    "url": "https://x-surcine.com/peliculas/goat-english-version-3/"
-  },
-  {
     "title": "WUTHERING HEIGHTS",
     "length": "139 minutos",
     "age": "16",
     "theater": "xsur",
     "format": "VOSE",
     "showings": {
-      "2026-03-07": [
+      "2026-03-23": [
         {
-          "time": "19:20"
+          "time": "20:00"
         }
       ]
     },
@@ -489,228 +475,130 @@
     "directors": null,
     "genres": null,
     "synopsis": "Cumbres Borrascosas, dirigida por Emerald Fennell y protagonizada por Margot Robbie y Jacob Elordi, es una nueva adaptación del clásico de Emily Brontë. La historia sigue a Heathcliff, un hombre consumido por el rencor tras ser rechazado por su amor de juventud, quien eligió casarse con un hombre rico.  Su deseo de venganza lo llevará a desatar una tormenta de odio y sufrimiento sobre la familia de la mujer que lo traicionó, en un relato de pasión, obsesión y destrucción.",
-    "url": "https://x-surcine.com/peliculas/wuthering-heights-english-version-2/"
+    "url": "https://x-surcine.com/peliculas/wuthering-heights-english-version/"
   },
   {
-    "title": "THE BRIDE !",
-    "length": "130 minutos",
+    "title": "MARTY SUPREME",
+    "length": "153 minutos",
     "age": "16",
     "theater": "xsur",
     "format": "VOSE",
     "showings": {
-      "2026-03-06": [
+      "2026-03-24": [
         {
-          "time": "19:55"
-        }
-      ],
-      "2026-03-08": [
-        {
-          "time": "19:20"
+          "time": "20:00"
         }
       ]
     },
     "actors": null,
     "directors": null,
     "genres": null,
-    "synopsis": "En el Chicago de los años 30, Frankenstein pide ayuda al Dr. Euphronius para crear una compañera. Dan vida a una mujer asesinada como la Novia, lo que desencadena un romance, el interés de la policía y un cambio social radical. Remake de La novia de Frankenstein.",
-    "url": "https://x-surcine.com/peliculas/the-bride-english-version/"
+    "synopsis": "Biopic de Marty Reisman, un buscavidas convertido en campeón de ping pong, desde que empezó a jugar por apuestas en Manhattan hasta ganar 22 títulos importantes y convertirse en el más veterano en ganar una competición nacional de deportes de raqueta, con 67 años.",
+    "url": "https://x-surcine.com/peliculas/marty-supreme-english-version/"
   },
   {
-    "title": "HOPPERS",
-    "length": "108 minutos",
-    "age": "0",
+    "title": "ELEVATION",
+    "length": "95 minutos",
+    "age": "12",
     "theater": "xsur",
     "format": "VOSE",
     "showings": {
-      "2026-03-07": [
+      "2026-03-26": [
         {
-          "time": "16:50"
-        }
-      ],
-      "2026-03-08": [
-        {
-          "time": "16:50"
+          "time": "20:35"
         }
       ]
     },
     "actors": null,
     "directors": null,
     "genres": null,
-    "synopsis": "La historia sigue a una joven, Mabel, que puede transferir su mente a un castor robot con el objetivo de infiltrarse en el reino animal. Acaba haciéndose amiga de un castor regio, el Rey Jorge, y uniendo a los animales para luchar contra los planes de un promotor inmobiliario.",
-    "url": "https://x-surcine.com/peliculas/hoppers-english-version/"
+    "synopsis": "El mundo ha cambiado. El único lugar habitable que le queda a la humanidad se encuentra en las altas montañas, a más de 2500 metros de altura. Por debajo de esos 2500 metros, habitan las criaturas que exterminaron al 95% de la población humana hace menos de tres años. Para salvar la vida de su hijo pequeño, un padre (Anthony Mackie) se ve obligado a aventurarse bajo  La Línea  con una científica (Morena Baccarin) a la que desprecia, pero que podría tener la clave para derrotar a los monstruos, y una joven (Maddie Hasson) decidida a mantenerlos con vida el tiempo suficiente para salvar a la raza humana.",
+    "url": "https://x-surcine.com/peliculas/elevation-english-version/"
   },
   {
-    "title": "¡LA NOVIA!",
-    "length": "130 minutos",
-    "age": "16",
-    "theater": "xsur",
-    "format": "Español",
-    "showings": {
-      "2026-03-06": [
-        {
-          "time": "18:00"
-        },
-        {
-          "time": "20:15"
-        },
-        {
-          "time": "22:15"
-        }
-      ],
-      "2026-03-07": [
-        {
-          "time": "12:00"
-        },
-        {
-          "time": "17:00"
-        },
-        {
-          "time": "20:00"
-        },
-        {
-          "time": "22:00"
-        }
-      ],
-      "2026-03-08": [
-        {
-          "time": "12:00"
-        },
-        {
-          "time": "17:00"
-        },
-        {
-          "time": "20:00"
-        },
-        {
-          "time": "22:00"
-        }
-      ]
-    },
-    "actors": null,
-    "directors": null,
-    "genres": null,
-    "synopsis": "En el Chicago de los años 30, Frankenstein pide ayuda al Dr. Euphronius para crear una compañera. Dan vida a una mujer asesinada como la Novia, lo que desencadena un romance, el interés de la policía y un cambio social radical. Remake de La novia de Frankenstein.",
-    "url": "https://x-surcine.com/peliculas/la-novia/"
-  },
-  {
-    "title": "HOPPERS",
-    "length": "108 minutos",
+    "title": "TAFITI Y SUS AMIGOS",
+    "length": "84 minutos",
     "age": "0",
     "theater": "xsur",
     "format": "Español",
     "showings": {
-      "2026-03-06": [
+      "2026-03-23": [
+        {
+          "time": "16:15"
+        },
+        {
+          "time": "18:40"
+        }
+      ],
+      "2026-03-24": [
+        {
+          "time": "18:40"
+        }
+      ],
+      "2026-03-25": [
         {
           "time": "16:10"
         },
         {
-          "time": "17:00"
-        },
-        {
-          "time": "18:10"
-        },
-        {
-          "time": "19:00"
-        },
-        {
-          "time": "20:10"
-        },
-        {
-          "time": "21:00"
+          "time": "18:45"
         }
       ],
-      "2026-03-07": [
+      "2026-03-26": [
         {
-          "time": "11:30"
+          "time": "16:10"
         },
         {
-          "time": "13:35"
-        },
-        {
-          "time": "15:35"
-        },
-        {
-          "time": "17:40"
-        },
-        {
-          "time": "18:50"
-        },
-        {
-          "time": "19:50"
-        },
-        {
-          "time": "21:00"
-        }
-      ],
-      "2026-03-08": [
-        {
-          "time": "11:30"
-        },
-        {
-          "time": "13:35"
-        },
-        {
-          "time": "15:35"
-        },
-        {
-          "time": "17:40"
-        },
-        {
-          "time": "18:50"
-        },
-        {
-          "time": "19:50"
-        },
-        {
-          "time": "21:00"
+          "time": "18:40"
         }
       ]
     },
     "actors": null,
     "directors": null,
     "genres": null,
-    "synopsis": "La historia sigue a una joven, Mabel, que puede transferir su mente a un castor robot con el objetivo de infiltrarse en el reino animal. Acaba haciéndose amiga de un castor regio, el Rey Jorge, y uniendo a los animales para luchar contra los planes de un promotor inmobiliario.",
-    "url": "https://x-surcine.com/peliculas/hoppers/"
+    "synopsis": "Cuando Tafiti, una joven suricata, conoce a Bristles, el cerdo salvaje, sabe que no pueden ser amigos. Pero cuando Bristles es atacado por un águila, es Tafiti quien corre a rescatarlo. En busca desesperada de un amigo, el divertido cerdo salvaje sigue a Tafiti a su casa, provocando sin querer un desafortunado accidente: el abuelo de Tafiti es mordido por una serpiente venenosa mortal. Sólo una mítica flor del desierto podrá salvarlo. Tafiti emprende un peligroso viaje para encontrar la flor, convencido de que debe hacerlo sola.",
+    "url": "https://x-surcine.com/peliculas/tafiti-y-sus-amigos/"
   },
   {
-    "title": "EL MAGO DEL KREMLIN",
-    "length": "148 minutos",
+    "title": "LÍNEA DE EXTINCIÓN",
+    "length": "95 minutos",
     "age": "12",
     "theater": "xsur",
     "format": "Español",
     "showings": {
-      "2026-03-06": [
+      "2026-03-23": [
         {
-          "time": "19:35"
+          "time": "18:10"
         },
         {
-          "time": "22:05"
+          "time": "22:40"
         }
       ],
-      "2026-03-07": [
+      "2026-03-24": [
         {
-          "time": "19:30"
+          "time": "16:10"
         },
         {
-          "time": "21:50"
+          "time": "20:15"
         }
       ],
-      "2026-03-08": [
+      "2026-03-25": [
         {
-          "time": "15:20"
+          "time": "16:15"
         },
         {
-          "time": "19:30"
-        },
+          "time": "21:15"
+        }
+      ],
+      "2026-03-26": [
         {
-          "time": "21:40"
+          "time": "18:50"
         }
       ]
     },
     "actors": null,
     "directors": null,
     "genres": null,
-    "synopsis": "En medio del caos postsoviético de los años 90, el joven Vadim Baranov (Paul Dano) empieza a labrarse un camino como artista y productor de televisión. Su elocuencia y conexión con las altas esferas le llevan a convertirse, de la noche a la mañana, en el asesor de un agente del KGB con un brillante porvenir: Vladimir Putin (Jude Law). Desde las entrañas del poder, ambos darán forma a la nueva Rusia, difuminando los límites entre la verdad y la mentira.",
-    "url": "https://x-surcine.com/peliculas/el-mago-del-kremlin/"
+    "synopsis": "El mundo ha cambiado. El único lugar habitable que le queda a la humanidad se encuentra en las altas montañas, a más de 2500 metros de altura. Por debajo de esos 2500 metros, habitan las criaturas que exterminaron al 95% de la población humana hace menos de tres años. Para salvar la vida de su hijo pequeño, un padre (Anthony Mackie) se ve obligado a aventurarse bajo  La Línea  con una científica (Morena Baccarin) a la que desprecia, pero que podría tener la clave para derrotar a los monstruos, y una joven (Maddie Hasson) decidida a mantenerlos con vida el tiempo suficiente para salvar a la raza humana.",
+    "url": "https://x-surcine.com/peliculas/linea-de-extincion/"
   }
 ]

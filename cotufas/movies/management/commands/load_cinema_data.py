@@ -13,6 +13,7 @@ from django.core.management.base import BaseCommand, CommandError
 from django.db import transaction
 from django.utils import timezone
 from django.utils.text import slugify
+
 from ...models import Movie, Showing, Theater
 
 # Maps (theater, cinema) pairs from the JSON onto Theater slugs.
@@ -275,4 +276,5 @@ class Command(BaseCommand):
         self.stdout.write(f'   Theaters: {Theater.objects.count()}')
         self.stdout.write(f'   Movies: {Movie.objects.count()}')
         self.stdout.write(f'   Showings: {Showing.objects.count()}')
+        self.stdout.write('=' * 60)
         self.stdout.write('=' * 60)

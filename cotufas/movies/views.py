@@ -30,4 +30,4 @@ class ShowingViewSet(viewsets.ModelViewSet):
 
     filter_backends = [DjangoFilterBackend, filters.SearchFilter]
     filterset_backends = ['movie', 'theater', 'update']
-    search_fields = ['movie__slug']
+    search_fields = ['movie__slug', 'theater__slug']

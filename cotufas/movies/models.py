@@ -37,6 +37,7 @@ class Movie(models.Model):
     directors = models.JSONField(default=list, blank=True)
     producers = models.JSONField(default=list, blank=True)
     genres = models.JSONField(default=list, blank=True)
+    theaters = models.JSONField(default=list, blank=True)
 
     synopsis = models.TextField(blank=True, null=True, help_text="Primary synopsis to display")
     all_synopsis = models.JSONField(

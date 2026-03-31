@@ -162,6 +162,7 @@ class Command(BaseCommand):
                 'slug': slugify(movie_data['title']),
                 'length': movie_data.get('length'),
                 'age': movie_data.get('age', '0'),
+                'theaters': movie_data.get('theaters') or [],
                 'actors': movie_data.get('actors') or [],
                 'directors': movie_data.get('directors') or [],
                 'producers': movie_data.get('producers') or [],

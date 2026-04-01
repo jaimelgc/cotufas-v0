@@ -70,7 +70,7 @@ class Command(BaseCommand):
         """Create/update theaters with pricing information"""
         self.stdout.write('🎭 Setting up theaters with pricing...')
 
-        yelmo_prices = {'weekday': 10.70, 'wednesday': 7.40}
+        yelmo_prices = {'weekday': 10.7, 'wednesday': 7.4}
 
         theater_configs = {
             'yelmo-meridiano': {
@@ -78,30 +78,35 @@ class Command(BaseCommand):
                 'location': 'Av. Manuel Hermoso Rojas, 16, 38005 Santa Cruz de Tenerife',
                 'city': 'Santa Cruz de Tenerife',
                 'base_prices': yelmo_prices,
+                'website': 'https://yelmocines.es/cartelera/santa-cruz-tenerife/meridiano',
             },
             'yelmo-la-villa': {
                 'name': 'yelmo la villa',
                 'location': 'Centro Comercial La Villa, TF-5, s/n, 38300 La Orotava, Santa Cruz de Tenerife',
                 'city': 'La Orotava',
                 'base_prices': yelmo_prices,
+                'website': 'https://yelmocines.es/cartelera/santa-cruz-tenerife/la-villa-de-orotava',
             },
             'xsur': {
                 'name': 'xsur',
                 'location': 'X-Sur, C. Lisboa, centro comercial, 38660 Costa Adeje, Santa Cruz de Tenerife',
                 'city': 'Costa Adeje',
-                'base_prices': {'weekday': 6.50, 'weekend': 8.00, 'holiday': 8.50},
+                'base_prices': {'weekday': 5.5},
+                'website': 'https://x-surcine.com/',
             },
             'multicines': {
                 'name': 'multicines',
                 'location': 'CC ALCAMPO, Cam. la Hornera, S/N, 38296 La Laguna, Santa Cruz de Tenerife',
                 'city': 'La Laguna',
-                'base_prices': {'weekday': 7.00, 'weekend': 8.50, 'holiday': 9.00},
+                'base_prices': {'weekday': 7.9, 'reduced': 7.2, 'wednesday': 5.5},
+                'website': 'https://multicinestenerife.com/',
             },
             'zentralcenter': {
                 'name': 'zentralcenter',
                 'location': 'Centro Comercial Zentral Center, Av. Arquitecto Gómez Cuesta, 22, 38650 Arona, Santa Cruz de Tenerife',
                 'city': 'Arona',
-                'base_prices': {'weekday': 6.00, 'weekend': 7.50, 'holiday': 8.00},
+                'base_prices': {'weekday': 5},
+                'website': 'https://cinezentralcenter.com/',
             },
         }
 

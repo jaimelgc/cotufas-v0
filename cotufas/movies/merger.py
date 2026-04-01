@@ -181,6 +181,7 @@ class CinemaMerger:
                     for showing_item in showing_list:
                         if isinstance(showing_item, dict):
                             # Dict format
+                            theater_long = theater
                             if showing_item.get('cinema'):
                                 theater_long = f"{theater}-{showing_item.get('cinema')}"
                             movie.add_showing(

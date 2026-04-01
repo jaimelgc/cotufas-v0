@@ -5,7 +5,7 @@ from .models import Movie, Showing, Theater
 from .serializers import MovieSerializer, ShowingSerializer, TheaterSerializer
 
 
-class TheaterViewSet(viewsets.ModelViewSet):
+class TheaterViewSet(viewsets.ReadOnlyModelViewSet):
     queryset = Theater.objects.all()
     serializer_class = TheaterSerializer
     permission_classes = [permissions.AllowAny]
@@ -14,7 +14,7 @@ class TheaterViewSet(viewsets.ModelViewSet):
     search_fields = ['slug']
 
 
-class MovieViewSet(viewsets.ModelViewSet):
+class MovieViewSet(viewsets.ReadOnlyModelViewSet):
     queryset = Movie.objects.all()
     serializer_class = MovieSerializer
     permission_classes = [permissions.AllowAny]
@@ -23,7 +23,7 @@ class MovieViewSet(viewsets.ModelViewSet):
     search_fields = ['slug']
 
 
-class ShowingViewSet(viewsets.ModelViewSet):
+class ShowingViewSet(viewsets.ReadOnlyModelViewSet):
     queryset = Showing.objects.all()
     serializer_class = ShowingSerializer
     permission_classes = [permissions.AllowAny]

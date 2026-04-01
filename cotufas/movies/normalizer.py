@@ -190,7 +190,6 @@ class ZentralcenterNormalizer(CinemaNormalizer):
                         movies_by_title[movie_key]['showings'][date].append(
                             {
                                 'time': time,
-                                'format': language,
                             }
                         )
 

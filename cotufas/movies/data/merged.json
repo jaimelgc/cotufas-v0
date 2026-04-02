@@ -770,9 +770,15 @@
       "ANIMACION,CONTENIDO ALTERNATIVO"
     ],
     "synopsis": "Bluey at the Cinema: Colección Playdates with Friends es una hora de diversión que incluye ocho episodios de las tres temporadas de la serie, todos celebrando el juego y la imaginación con amigos y familia. La recopilación muestra algunos de los juegos favoritos de Bluey como Shadowlands yOctopus, y destaca momentos especiales de amistad en episodios como Circus ySlide , todos llenos de alegría y risas.",
-    "all_synopsis": null,
+    "all_synopsis": {
+      "yelmo-meridiano": "Bluey at the Cinema: Colección Playdates with Friends es una hora de diversión que incluye ocho episodios de las tres temporadas de la serie, todos celebrando el juego y la imaginación con amigos y familia. La recopilación muestra algunos de los juegos favoritos de Bluey como Shadowlands yOctopus, y destaca momentos especiales de amistad en episodios como Circus ySlide , todos llenos de alegría y risas.",
+      "yelmo-la-villa-de-orotava": "Bluey at the Cinema: Colección Playdates with Friends es una hora de diversión que incluye ocho episodios de las tres temporadas de la serie, todos celebrando el juego y la imaginación con amigos y familia. La recopilación muestra algunos de los juegos favoritos de Bluey como Shadowlands yOctopus, y destaca momentos especiales de amistad en episodios como Circus ySlide , todos llenos de alegría y risas."
+    },
     "url": "https://www.yelmocines.es/sinopsis/bluey-en-cines-coleccion-a-jugar-con-los-amigos",
-    "all_urls": null
+    "all_urls": {
+      "yelmo-meridiano": "https://www.yelmocines.es/sinopsis/bluey-en-cines-coleccion-a-jugar-con-los-amigos",
+      "yelmo-la-villa-de-orotava": "https://www.yelmocines.es/sinopsis/bluey-en-cines-coleccion-a-jugar-con-los-amigos"
+    }
   },
   {
     "title": "CUMBRES BORRASCOSAS",

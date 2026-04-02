@@ -16,7 +16,9 @@ cryptography==46.0.4
 cssselect==1.4.0
 defusedxml==0.7.1
 Django==5.2.11
+django-filter==25.2
 django-location-field==2.7.3
+djangorestframework==3.17.1
 docker==7.1.0
 filelock==3.20.3
 greenlet==3.3.1

@@ -14,30 +14,40 @@ import subprocess
 # ]
 
 theaters = ['multicines', 'xsur', 'zentralcenter', 'yelmo']
-load_pipeline = [
+data_pipeline = [
     ['python', 'normalizer.py'],
     ['python', 'merger.py'],
-    ['python', 'manage.py', 'load_cinema_data', 'movies/data/merged.json', '--clear'],
 ]
+loader = (['python', 'manage.py', 'load_cinema_data', 'movies/data/merged.json', '--clear'],)
 
 os.chdir('movies/cinemas/')
 
-for theater in theaters:
-    print(f'Scraping {theater}')
-    try:
-        subprocess.run(
-            ['scrapy', 'crawl', theater, '-O', f'../data_raw/{theater}_raw.json'], check=True
-        )
-    except subprocess.CalledProcessError:
-        print(f'Command failed: {theater}')
-        break
+# for theater in theaters:
+#     print(f'Scraping {theater}')
+#     try:
+#         subprocess.run(
+#             ['scrapy', 'crawl', theater, '-O', f'../data_raw/{theater}_raw.json'], check=True
+#         )
+#     except subprocess.CalledProcessError:
+#         print(f'Command failed: {theater}')
+#         break
 
-os.chdir('../..')
+os.chdir('..')
 
-for cmd in load_pipeline:
+for cmd in data_pipeline:
     print('Running:', cmd)
     try:
         subprocess.run(cmd, check=True)
     except subprocess.CalledProcessError:
         print(f'Command failed: {cmd}')
         break
+
+os.chdir('..')
+
+try:
+    subprocess.run(
+        ['python', 'manage.py', 'load_cinema_data', 'movies/data/merged.json', '--clear'],
+        check=True,
+    )
+except subprocess.CalledProcessError:
+    print(f'Command failed: {cmd}')

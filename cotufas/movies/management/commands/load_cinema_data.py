@@ -59,16 +59,15 @@ class Command(BaseCommand):
 
         self.stdout.write(f'   Found {len(movies_data)} movies\n')
 
-        if options['update_pricing']:
-            self.setup_theaters()
+        self.setup_theaters(force_update=options['update_pricing'])
 
         stats = self.load_movies(movies_data)
         self.print_statistics(stats)
         self.stdout.write(self.style.SUCCESS('\n✅ Data loading complete!'))
 
-    def setup_theaters(self):
-        """Create/update theaters with pricing information"""
-        self.stdout.write('🎭 Setting up theaters with pricing...')
+    def setup_theaters(self, force_update: bool = False):
+        """Create theaters (always) and update pricing (only when force_update=True or new)"""
+        self.stdout.write('🎭 Setting up theaters...')
 
         yelmo_prices = {'weekday': 10.7, 'wednesday': 7.4}
 
@@ -111,6 +110,12 @@ class Command(BaseCommand):
         }
 
         for slug, config in theater_configs.items():
+            existing = Theater.objects.filter(slug=slug).first()
+            if existing and not force_update:
+                # Theater already exists with real data; don't overwrite it
+                self.stdout.write(f'   Skipped (already configured): {slug}')
+                continue
+
             theater, created = Theater.objects.update_or_create(
                 slug=slug,
                 defaults={
@@ -118,6 +123,7 @@ class Command(BaseCommand):
                     'location': config['location'],
                     'city': config['city'],
                     'base_prices': config['base_prices'],
+                    'website': config['website'],
                 },
             )
             action = 'Created' if created else 'Updated'
@@ -159,12 +165,28 @@ class Command(BaseCommand):
 
         return stats
 
+    def _unique_slug(self, base_slug: str, title: str) -> str:
+        """
+        Return base_slug if no other movie uses it (or the one that does
+        is the same title).  Otherwise append -2, -3, … until unique.
+        """
+        qs = Movie.objects.filter(slug=base_slug).exclude(title=title)
+        if not qs.exists():
+            return base_slug
+        counter = 2
+        while Movie.objects.filter(slug=f"{base_slug}-{counter}").exclude(title=title).exists():
+            counter += 1
+        return f"{base_slug}-{counter}"
+
     def load_movie(self, movie_data: Dict[str, Any]) -> Dict[str, Any]:
         """Load a single movie and its showings"""
+        base_slug = slugify(movie_data['title'])
+        slug = self._unique_slug(base_slug, movie_data['title'])
+
         movie, created = Movie.objects.update_or_create(
             title=movie_data['title'],
             defaults={
-                'slug': slugify(movie_data['title']),
+                'slug': slug,
                 'length': movie_data.get('length'),
                 'age': movie_data.get('age', '0'),
                 'theaters': movie_data.get('theaters') or [],

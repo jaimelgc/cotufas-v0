@@ -7,7 +7,7 @@ class Theater(models.Model):
 
     name = models.CharField(max_length=50, unique=True)
     slug = models.SlugField(max_length=100, unique=True)
-    location = models.CharField(max_length=100)
+    location = models.CharField(max_length=200)
     city = models.CharField(max_length=100)
 
     # Base pricing by day type

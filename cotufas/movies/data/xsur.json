@@ -304,6 +304,58 @@
     "url": "https://x-surcine.com/peliculas/tafiti-y-sus-amigos/"
   },
   {
+    "title": "SCREAM 7",
+    "length": "",
+    "age": "0",
+    "theater": "xsur",
+    "format": "Español",
+    "showings": {
+      "2026-03-30": [
+        {
+          "time": "18:05"
+        },
+        {
+          "time": "22:35"
+        }
+      ],
+      "2026-03-31": [
+        {
+          "time": "19:55"
+        }
+      ],
+      "2026-04-01": [
+        {
+          "time": "17:40"
+        }
+      ],
+      "2026-04-02": [
+        {
+          "time": "19:40"
+        }
+      ],
+      "2026-04-03": [
+        {
+          "time": "22:20"
+        }
+      ],
+      "2026-04-04": [
+        {
+          "time": "19:40"
+        }
+      ],
+      "2026-04-05": [
+        {
+          "time": "17:40"
+        }
+      ]
+    },
+    "actors": null,
+    "directors": null,
+    "genres": null,
+    "synopsis": "Cuando un nuevo asesino Ghostface aparece en el tranquilo pueblo donde Sidney Prescott (Neve Campbell) ha construido una nueva vida, sus peores miedos se hacen realidad cuando su hija (Isabel May) se convierte en el siguiente objetivo. Decidida a proteger a su familia, Sidney debe enfrentarse a los horrores de su pasado para poner fin a la masacre de una vez por todas.",
+    "url": "https://x-surcine.com/peliculas/scream-7/"
+  },
+  {
     "title": "RUTA DE ESCAPE",
     "length": "143 minutos",
     "age": "16",
@@ -919,6 +971,30 @@
     "genres": null,
     "synopsis": "En una remota isla, un hombre que vive en el exilio (Jason Statham) rescata a una niña de una peligrosa tempestad, lo que desencadena una serie de eventos que los ponen a ambos en grave peligro. A medida que sus destinos se entrelazan, su misión será protegerla a toda costa, mientras se enfrenta a los enemigos de su pasado, en una trepidante odisea por sobrevivir.",
     "url": "https://x-surcine.com/peliculas/shelter-el-protector/"
+  },
+  {
+    "title": "DHURANDHAR THE REVENGE",
+    "length": "",
+    "age": "0",
+    "theater": "xsur",
+    "format": "Español",
+    "showings": {
+      "2026-03-30": [
+        {
+          "time": "18:30"
+        }
+      ],
+      "2026-03-31": [
+        {
+          "time": "20:30"
+        }
+      ]
+    },
+    "actors": null,
+    "directors": null,
+    "genres": null,
+    "synopsis": "Bajo la identidad de Hamza Ali Mazari, el espía de la inteligencia de la India Jaskirat Singh Rangi (Ranveer Singh) continúa su operación encubierta en el mundo criminal de Pakistán mientras sigue el rastro de Majo. Aún quedan muchos interrogantes por resolver. VERSION ORIGINAL HINDI SUBTITULOS ESPAÑOL",
+    "url": "https://x-surcine.com/peliculas/dhurandhar-the-revenge/"
   },
   {
     "title": "SUPER MARIO GALAXY LA PELÍCULA",

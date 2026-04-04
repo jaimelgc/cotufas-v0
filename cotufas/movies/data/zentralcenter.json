@@ -6,7 +6,7 @@
     "theater": "zentralcenter",
     "format": "SIN SUBTITULOS",
     "showings": {
-      "2026-04-03": [
+      "2026-04-04": [
         {
           "time": "16:30"
         },
@@ -15,9 +15,7 @@
         },
         {
           "time": "21:00"
-        }
-      ],
-      "2026-04-04": [
+        },
         {
           "time": "16:30"
         },
@@ -91,7 +89,7 @@
     "directors": null,
     "genres": null,
     "synopsis": null,
-    "url": "https://kinetike.com:83/views/peliculas.aspx?s=INTERNEThxbtk3z0x417"
+    "url": "https://kinetike.com:83/views/peliculas.aspx?s=INTERNET40apwtsgi276"
   },
   {
     "title": "PROYECTO SALVACIÓN",
@@ -100,12 +98,10 @@
     "theater": "zentralcenter",
     "format": "SIN SUBTITULOS",
     "showings": {
-      "2026-04-03": [
+      "2026-04-04": [
         {
           "time": "18:30"
-        }
-      ],
-      "2026-04-04": [
+        },
         {
           "time": "18:30"
         }
@@ -140,7 +136,7 @@
     "directors": null,
     "genres": null,
     "synopsis": null,
-    "url": "https://kinetike.com:83/views/peliculas.aspx?s=INTERNEThxbtk3z0x417"
+    "url": "https://kinetike.com:83/views/peliculas.aspx?s=INTERNET40apwtsgi276"
   },
   {
     "title": "SHELTER: EL PROTECTOR",
@@ -149,15 +145,13 @@
     "theater": "zentralcenter",
     "format": "SIN SUBTITULOS",
     "showings": {
-      "2026-04-03": [
+      "2026-04-04": [
         {
           "time": "16:15"
         },
         {
           "time": "21:30"
-        }
-      ],
-      "2026-04-04": [
+        },
         {
           "time": "16:15"
         },
@@ -213,7 +207,7 @@
     "directors": null,
     "genres": null,
     "synopsis": null,
-    "url": "https://kinetike.com:83/views/peliculas.aspx?s=INTERNEThxbtk3z0x417"
+    "url": "https://kinetike.com:83/views/peliculas.aspx?s=INTERNET40apwtsgi276"
   },
   {
     "title": "SUPER MARIO GALAXY LA PELÍCULA",
@@ -222,7 +216,7 @@
     "theater": "zentralcenter",
     "format": "SIN SUBTITULOS",
     "showings": {
-      "2026-04-03": [
+      "2026-04-04": [
         {
           "time": "16:30"
         },
@@ -231,9 +225,7 @@
         },
         {
           "time": "21:00"
-        }
-      ],
-      "2026-04-04": [
+        },
         {
           "time": "16:30"
         },
@@ -307,7 +299,7 @@
     "directors": null,
     "genres": null,
     "synopsis": null,
-    "url": "https://kinetike.com:83/views/peliculas.aspx?s=INTERNEThxbtk3z0x417"
+    "url": "https://kinetike.com:83/views/peliculas.aspx?s=INTERNET40apwtsgi276"
   },
   {
     "title": "TE VAN A MATAR",
@@ -316,12 +308,10 @@
     "theater": "zentralcenter",
     "format": "SIN SUBTITULOS",
     "showings": {
-      "2026-04-03": [
+      "2026-04-04": [
         {
           "time": "16:15"
-        }
-      ],
-      "2026-04-04": [
+        },
         {
           "time": "16:15"
         }
@@ -356,7 +346,7 @@
     "directors": null,
     "genres": null,
     "synopsis": null,
-    "url": "https://kinetike.com:83/views/peliculas.aspx?s=INTERNEThxbtk3z0x417"
+    "url": "https://kinetike.com:83/views/peliculas.aspx?s=INTERNET40apwtsgi276"
   },
   {
     "title": "TORRENTE PRESIDENTE",
@@ -365,15 +355,13 @@
     "theater": "zentralcenter",
     "format": "SIN SUBTITULOS",
     "showings": {
-      "2026-04-03": [
+      "2026-04-04": [
         {
           "time": "18:30"
         },
         {
           "time": "20:45"
-        }
-      ],
-      "2026-04-04": [
+        },
         {
           "time": "18:30"
         },
@@ -429,6 +417,6 @@
     "directors": null,
     "genres": null,
     "synopsis": null,
-    "url": "https://kinetike.com:83/views/peliculas.aspx?s=INTERNEThxbtk3z0x417"
+    "url": "https://kinetike.com:83/views/peliculas.aspx?s=INTERNET40apwtsgi276"
   }
 ]

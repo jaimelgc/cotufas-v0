@@ -18,19 +18,22 @@ data_pipeline = [
     ['python', 'normalizer.py'],
     ['python', 'merger.py'],
 ]
-loader = (['python', 'manage.py', 'load_cinema_data', 'movies/data/merged.json', '--clear'],)
+loader_tester = [
+    ['python', 'manage.py', 'load_cinema_data', 'movies/data/merged.json', '--clear'],
+    ['pytest', 'movies/tests/test_data_integrity.py', '--ds=cotufas.settings'],
+]
 
 os.chdir('movies/cinemas/')
 
-for theater in theaters:
-    print(f'Scraping {theater}')
-    try:
-        subprocess.run(
-            ['scrapy', 'crawl', theater, '-O', f'../data_raw/{theater}_raw.json'], check=True
-        )
-    except subprocess.CalledProcessError:
-        print(f'Command failed: {theater}')
-        break
+# for theater in theaters:
+#     print(f'Scraping {theater}')
+#     try:
+#         subprocess.run(
+#             ['scrapy', 'crawl', theater, '-O', f'../data_raw/{theater}_raw.json'], check=True
+#         )
+#     except subprocess.CalledProcessError:
+#         print(f'Command failed: {theater}')
+#         break
 
 os.chdir('..')
 
@@ -44,10 +47,8 @@ for cmd in data_pipeline:
 
 os.chdir('..')
 
-try:
-    subprocess.run(
-        ['python', 'manage.py', 'load_cinema_data', 'movies/data/merged.json', '--clear'],
-        check=True,
-    )
-except subprocess.CalledProcessError:
-    print(f'Command failed: {cmd}')
+for cmd in loader_tester:
+    try:
+        subprocess.run(cmd, check=True)
+    except subprocess.CalledProcessError:
+        print(f'Command failed: {cmd}')

@@ -16,8 +16,6 @@ from django.utils.text import slugify
 
 from ...models import Movie, Showing, Theater
 
-# Maps (theater, cinema) pairs from the JSON onto Theater slugs.
-# For theaters that are a single entity, cinema is None (wildcard).
 THEATER_CINEMA_MAP = {
     'yelmo-meridiano': 'yelmo-meridiano',
     'yelmo-la-villa-de-orotava': 'yelmo-la-villa',
@@ -253,17 +251,11 @@ class Command(BaseCommand):
         if date < timezone.now().date():
             return {'created': 0, 'skipped': 1, 'theater_missing': None}
 
-        # For split theaters (Yelmo) the cinema field now identifies the
-        # building, not a sub-screen, so we clear it to avoid storing
-        # redundant data (the Theater record already carries the location).
-        resolved_cinema = None if theater_name == 'yelmo' else cinema
-
         showing, created = Showing.objects.get_or_create(
             movie=movie,
             theater=theater,
             date=date,
             time=time,
-            cinema=resolved_cinema,
             format=showing_data.get('format'),
         )
 

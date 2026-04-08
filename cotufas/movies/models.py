@@ -118,10 +118,7 @@ class Showing(models.Model):
     time = models.TimeField()
 
     # Format details
-    format = models.CharField(max_length=50, blank=True, null=True)  # "2D ESPAÑOL", "3D", "VOSE"
-    cinema = models.CharField(
-        max_length=100, blank=True, null=True
-    )  # Specific location within theater
+    format = models.CharField(max_length=50, blank=True, null=True)
 
     class Meta:
         ordering = ['date', 'time']
@@ -131,7 +128,7 @@ class Showing(models.Model):
             models.Index(fields=['date', 'time']),
         ]
         # Include all relevant fields in unique constraint
-        unique_together = ['movie', 'theater', 'date', 'time', 'cinema', 'format']
+        unique_together = ['movie', 'theater', 'date', 'time', 'format']
 
     def __str__(self):
         return f"{self.movie.title} - {self.theater.name} - {self.date} {self.time}"

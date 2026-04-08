@@ -1,56 +1,36 @@
 [
   {
-    "title": "NOCHE DE BODAS 2",
-    "length": "108 min.",
-    "age": "18",
+    "title": "ATRAPANDO A UN MONSTRUO",
+    "length": "105 min.",
+    "age": "16",
     "theater": "zentralcenter",
     "format": "SIN SUBTITULOS",
     "showings": {
-      "2026-04-01": [
+      "2026-04-08": [],
+      "2026-04-09": [],
+      "2026-04-10": [
         {
           "time": "16:30"
         },
         {
-          "time": "18:45"
+          "time": "19:00"
         },
         {
-          "time": "21:00"
+          "time": "21:15"
         }
       ],
-      "2026-04-02": [
+      "2026-04-11": [
         {
           "time": "16:30"
         },
         {
-          "time": "18:45"
+          "time": "19:00"
         },
         {
-          "time": "21:00"
+          "time": "21:15"
         }
       ],
-      "2026-04-03": [
-        {
-          "time": "16:30"
-        },
-        {
-          "time": "18:45"
-        },
-        {
-          "time": "21:00"
-        }
-      ],
-      "2026-04-04": [
-        {
-          "time": "16:30"
-        },
-        {
-          "time": "18:45"
-        },
-        {
-          "time": "21:00"
-        }
-      ],
-      "2026-04-05": [
+      "2026-04-12": [
         {
           "time": "12:00"
         },
@@ -58,34 +38,166 @@
           "time": "16:30"
         },
         {
-          "time": "18:45"
+          "time": "19:00"
         },
         {
-          "time": "21:00"
+          "time": "21:15"
         }
       ],
-      "2026-04-06": [
+      "2026-04-13": [
         {
           "time": "16:30"
         },
         {
-          "time": "18:45"
+          "time": "19:00"
         },
         {
-          "time": "21:00"
+          "time": "21:15"
         }
       ],
-      "2026-04-07": [
+      "2026-04-14": [
         {
           "time": "16:30"
         },
         {
+          "time": "19:00"
+        },
+        {
+          "time": "21:15"
+        }
+      ],
+      "2026-04-15": [
+        {
+          "time": "16:30"
+        },
+        {
+          "time": "19:00"
+        },
+        {
+          "time": "21:15"
+        }
+      ]
+    },
+    "actors": null,
+    "directors": null,
+    "genres": null,
+    "synopsis": null,
+    "url": "https://kinetike.com:83/views/peliculas.aspx?s=INTERNET13aon1n0h617"
+  },
+  {
+    "title": "BOULEVARD",
+    "length": "115 min.",
+    "age": "12",
+    "theater": "zentralcenter",
+    "format": "SIN SUBTITULOS",
+    "showings": {
+      "2026-04-08": [],
+      "2026-04-09": [],
+      "2026-04-10": [
+        {
+          "time": "16:15"
+        },
+        {
           "time": "18:45"
         },
         {
-          "time": "21:00"
+          "time": "21:10"
         }
       ],
+      "2026-04-11": [
+        {
+          "time": "16:15"
+        },
+        {
+          "time": "18:45"
+        },
+        {
+          "time": "21:10"
+        }
+      ],
+      "2026-04-12": [
+        {
+          "time": "12:00"
+        },
+        {
+          "time": "16:15"
+        },
+        {
+          "time": "18:45"
+        },
+        {
+          "time": "21:10"
+        }
+      ],
+      "2026-04-13": [
+        {
+          "time": "16:15"
+        },
+        {
+          "time": "18:45"
+        },
+        {
+          "time": "21:10"
+        }
+      ],
+      "2026-04-14": [
+        {
+          "time": "16:15"
+        },
+        {
+          "time": "18:45"
+        },
+        {
+          "time": "21:10"
+        }
+      ],
+      "2026-04-15": [
+        {
+          "time": "16:15"
+        },
+        {
+          "time": "18:45"
+        },
+        {
+          "time": "21:10"
+        }
+      ]
+    },
+    "actors": null,
+    "directors": null,
+    "genres": null,
+    "synopsis": null,
+    "url": "https://kinetike.com:83/views/peliculas.aspx?s=INTERNET13aon1n0h617"
+  },
+  {
+    "title": "MICHAEL",
+    "length": "127 min.",
+    "age": "0",
+    "theater": "zentralcenter",
+    "format": "SIN SUBTITULOS",
+    "showings": {
+      "2026-04-08": [],
+      "2026-04-09": [],
+      "2026-04-10": [],
+      "2026-04-11": [],
+      "2026-04-12": [],
+      "2026-04-13": [],
+      "2026-04-14": [],
+      "2026-04-15": []
+    },
+    "actors": null,
+    "directors": null,
+    "genres": null,
+    "synopsis": null,
+    "url": "https://kinetike.com:83/views/peliculas.aspx?s=INTERNET13aon1n0h617"
+  },
+  {
+    "title": "NOCHE DE BODAS 2",
+    "length": "108 min.",
+    "age": "18",
+    "theater": "zentralcenter",
+    "format": "SIN SUBTITULOS",
+    "showings": {
       "2026-04-08": [
         {
           "time": "16:30"
@@ -96,13 +208,54 @@
         {
           "time": "21:00"
         }
+      ],
+      "2026-04-09": [
+        {
+          "time": "16:30"
+        },
+        {
+          "time": "18:45"
+        },
+        {
+          "time": "21:00"
+        }
+      ],
+      "2026-04-10": [
+        {
+          "time": "16:30"
+        }
+      ],
+      "2026-04-11": [
+        {
+          "time": "16:30"
+        }
+      ],
+      "2026-04-12": [
+        {
+          "time": "16:30"
+        }
+      ],
+      "2026-04-13": [
+        {
+          "time": "16:30"
+        }
+      ],
+      "2026-04-14": [
+        {
+          "time": "16:30"
+        }
+      ],
+      "2026-04-15": [
+        {
+          "time": "16:30"
+        }
       ]
     },
     "actors": null,
     "directors": null,
     "genres": null,
     "synopsis": null,
-    "url": "https://kinetike.com:83/views/peliculas.aspx?s=INTERNETtcyo2so3i697"
+    "url": "https://kinetike.com:83/views/peliculas.aspx?s=INTERNET13aon1n0h617"
   },
   {
     "title": "PROYECTO SALVACIÓN",
@@ -111,42 +264,12 @@
     "theater": "zentralcenter",
     "format": "SIN SUBTITULOS",
     "showings": {
-      "2026-04-01": [
-        {
-          "time": "18:30"
-        }
-      ],
-      "2026-04-02": [
-        {
-          "time": "18:30"
-        }
-      ],
-      "2026-04-03": [
-        {
-          "time": "18:30"
-        }
-      ],
-      "2026-04-04": [
-        {
-          "time": "18:30"
-        }
-      ],
-      "2026-04-05": [
-        {
-          "time": "18:30"
-        }
-      ],
-      "2026-04-06": [
-        {
-          "time": "18:30"
-        }
-      ],
-      "2026-04-07": [
-        {
-          "time": "18:30"
-        }
-      ],
       "2026-04-08": [
+        {
+          "time": "18:30"
+        }
+      ],
+      "2026-04-09": [
         {
           "time": "18:30"
         }
@@ -156,7 +279,7 @@
     "directors": null,
     "genres": null,
     "synopsis": null,
-    "url": "https://kinetike.com:83/views/peliculas.aspx?s=INTERNETtcyo2so3i697"
+    "url": "https://kinetike.com:83/views/peliculas.aspx?s=INTERNET13aon1n0h617"
   },
   {
     "title": "SHELTER: EL PROTECTOR",
@@ -165,66 +288,15 @@
     "theater": "zentralcenter",
     "format": "SIN SUBTITULOS",
     "showings": {
-      "2026-04-01": [
-        {
-          "time": "16:15"
-        },
-        {
-          "time": "21:30"
-        }
-      ],
-      "2026-04-02": [
-        {
-          "time": "16:15"
-        },
-        {
-          "time": "21:30"
-        }
-      ],
-      "2026-04-03": [
-        {
-          "time": "16:15"
-        },
-        {
-          "time": "21:30"
-        }
-      ],
-      "2026-04-04": [
-        {
-          "time": "16:15"
-        },
-        {
-          "time": "21:30"
-        }
-      ],
-      "2026-04-05": [
-        {
-          "time": "12:00"
-        },
-        {
-          "time": "16:15"
-        },
-        {
-          "time": "21:30"
-        }
-      ],
-      "2026-04-06": [
-        {
-          "time": "16:15"
-        },
-        {
-          "time": "21:30"
-        }
-      ],
-      "2026-04-07": [
-        {
-          "time": "16:15"
-        },
-        {
-          "time": "21:30"
-        }
-      ],
       "2026-04-08": [
+        {
+          "time": "16:15"
+        },
+        {
+          "time": "21:30"
+        }
+      ],
+      "2026-04-09": [
         {
           "time": "16:15"
         },
@@ -237,7 +309,7 @@
     "directors": null,
     "genres": null,
     "synopsis": null,
-    "url": "https://kinetike.com:83/views/peliculas.aspx?s=INTERNETtcyo2so3i697"
+    "url": "https://kinetike.com:83/views/peliculas.aspx?s=INTERNET13aon1n0h617"
   },
   {
     "title": "SUPER MARIO GALAXY LA PELÍCULA",
@@ -246,7 +318,7 @@
     "theater": "zentralcenter",
     "format": "SIN SUBTITULOS",
     "showings": {
-      "2026-04-01": [
+      "2026-04-08": [
         {
           "time": "16:30"
         },
@@ -257,7 +329,7 @@
           "time": "21:00"
         }
       ],
-      "2026-04-02": [
+      "2026-04-09": [
         {
           "time": "16:30"
         },
@@ -268,7 +340,7 @@
           "time": "21:00"
         }
       ],
-      "2026-04-03": [
+      "2026-04-10": [
         {
           "time": "16:30"
         },
@@ -279,7 +351,7 @@
           "time": "21:00"
         }
       ],
-      "2026-04-04": [
+      "2026-04-11": [
         {
           "time": "16:30"
         },
@@ -290,7 +362,7 @@
           "time": "21:00"
         }
       ],
-      "2026-04-05": [
+      "2026-04-12": [
         {
           "time": "12:00"
         },
@@ -304,7 +376,7 @@
           "time": "21:00"
         }
       ],
-      "2026-04-06": [
+      "2026-04-13": [
         {
           "time": "16:30"
         },
@@ -315,7 +387,7 @@
           "time": "21:00"
         }
       ],
-      "2026-04-07": [
+      "2026-04-14": [
         {
           "time": "16:30"
         },
@@ -326,7 +398,7 @@
           "time": "21:00"
         }
       ],
-      "2026-04-08": [
+      "2026-04-15": [
         {
           "time": "16:30"
         },
@@ -342,7 +414,7 @@
     "directors": null,
     "genres": null,
     "synopsis": null,
-    "url": "https://kinetike.com:83/views/peliculas.aspx?s=INTERNETtcyo2so3i697"
+    "url": "https://kinetike.com:83/views/peliculas.aspx?s=INTERNET13aon1n0h617"
   },
   {
     "title": "TE VAN A MATAR",
@@ -351,42 +423,12 @@
     "theater": "zentralcenter",
     "format": "SIN SUBTITULOS",
     "showings": {
-      "2026-04-01": [
-        {
-          "time": "16:15"
-        }
-      ],
-      "2026-04-02": [
-        {
-          "time": "16:15"
-        }
-      ],
-      "2026-04-03": [
-        {
-          "time": "16:15"
-        }
-      ],
-      "2026-04-04": [
-        {
-          "time": "16:15"
-        }
-      ],
-      "2026-04-05": [
-        {
-          "time": "16:15"
-        }
-      ],
-      "2026-04-06": [
-        {
-          "time": "16:15"
-        }
-      ],
-      "2026-04-07": [
-        {
-          "time": "16:15"
-        }
-      ],
       "2026-04-08": [
+        {
+          "time": "16:15"
+        }
+      ],
+      "2026-04-09": [
         {
           "time": "16:15"
         }
@@ -396,7 +438,7 @@
     "directors": null,
     "genres": null,
     "synopsis": null,
-    "url": "https://kinetike.com:83/views/peliculas.aspx?s=INTERNETtcyo2so3i697"
+    "url": "https://kinetike.com:83/views/peliculas.aspx?s=INTERNET13aon1n0h617"
   },
   {
     "title": "TORRENTE PRESIDENTE",
@@ -405,65 +447,6 @@
     "theater": "zentralcenter",
     "format": "SIN SUBTITULOS",
     "showings": {
-      "2026-04-01": [
-        {
-          "time": "18:30"
-        },
-        {
-          "time": "20:45"
-        }
-      ],
-      "2026-04-02": [
-        {
-          "time": "18:30"
-        },
-        {
-          "time": "20:45"
-        }
-      ],
-      "2026-04-03": [
-        {
-          "time": "18:30"
-        },
-        {
-          "time": "20:45"
-        }
-      ],
-      "2026-04-04": [
-        {
-          "time": "18:30"
-        },
-        {
-          "time": "20:45"
-        }
-      ],
-      "2026-04-05": [
-        {
-          "time": "12:00"
-        },
-        {
-          "time": "18:30"
-        },
-        {
-          "time": "20:45"
-        }
-      ],
-      "2026-04-06": [
-        {
-          "time": "18:30"
-        },
-        {
-          "time": "20:45"
-        }
-      ],
-      "2026-04-07": [
-        {
-          "time": "18:30"
-        },
-        {
-          "time": "20:45"
-        }
-      ],
       "2026-04-08": [
         {
           "time": "18:30"
@@ -471,12 +454,71 @@
         {
           "time": "20:45"
         }
+      ],
+      "2026-04-09": [
+        {
+          "time": "18:30"
+        },
+        {
+          "time": "20:45"
+        }
+      ],
+      "2026-04-10": [
+        {
+          "time": "19:00"
+        },
+        {
+          "time": "21:15"
+        }
+      ],
+      "2026-04-11": [
+        {
+          "time": "19:00"
+        },
+        {
+          "time": "21:15"
+        }
+      ],
+      "2026-04-12": [
+        {
+          "time": "12:00"
+        },
+        {
+          "time": "19:00"
+        },
+        {
+          "time": "21:15"
+        }
+      ],
+      "2026-04-13": [
+        {
+          "time": "19:00"
+        },
+        {
+          "time": "21:15"
+        }
+      ],
+      "2026-04-14": [
+        {
+          "time": "19:00"
+        },
+        {
+          "time": "21:15"
+        }
+      ],
+      "2026-04-15": [
+        {
+          "time": "19:00"
+        },
+        {
+          "time": "21:15"
+        }
       ]
     },
     "actors": null,
     "directors": null,
     "genres": null,
     "synopsis": null,
-    "url": "https://kinetike.com:83/views/peliculas.aspx?s=INTERNETtcyo2so3i697"
+    "url": "https://kinetike.com:83/views/peliculas.aspx?s=INTERNET13aon1n0h617"
   }
 ]

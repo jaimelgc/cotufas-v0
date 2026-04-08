@@ -9,10 +9,7 @@ class XsurSpider(scrapy.Spider):
         for movie_url in response.css('h4.mfn-woo-product-title > a::attr(href)').getall():
 
             if movie_url:
-                yield response.follow(
-                    movie_url,
-                    callback=self.parse_movie
-                )
+                yield response.follow(movie_url, callback=self.parse_movie)
 
     def parse_movie(self, response):
         data = [d.strip() for d in response.css('div.the_content_wrapper > h4::text').getall()]
@@ -20,8 +17,8 @@ class XsurSpider(scrapy.Spider):
         yield {
             'title': response.css('h3.page-title::text').get(),
             'synopsis': response.css('div.the_content_wrapper > p::text').getall()[0].strip(),
-            'length': data[0].split(': ')[1],
-            'age': data[1].split(':  ')[1],
+            'length': data[0].split(': ')[1] if ':  ' in data[1] else '',
+            'age': data[1].split(':  ')[1] if ':  ' in data[1] else '',
             'theater': 'xsur',
             'showings': data[3:],
             'url': response.url,

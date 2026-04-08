@@ -9,20 +9,21 @@ data_pipeline = [
 load_pipeline = [
     ['python', 'manage.py', 'load_cinema_data', 'movies/data/merged.json', '--clear'],
     ['python', 'manage.py', 'clean_cinema_data'],
+    ['pytest', 'movies/tests'],
 ]
-tests = []
+# tests = ['test_data_integrity.py', 'test_loader.py', 'test_models.py']
 
 os.chdir('movies/cinemas/')
 
-for theater in theaters:
-    print(f'Scraping {theater}')
-    try:
-        subprocess.run(
-            ['scrapy', 'crawl', theater, '-O', f'../data_raw/{theater}_raw.json'], check=True
-        )
-    except subprocess.CalledProcessError:
-        print(f'Command failed: {theater}')
-        break
+# for theater in theaters:
+#     print(f'Scraping {theater}')
+#     try:
+#         subprocess.run(
+#             ['scrapy', 'crawl', theater, '-O', f'../data_raw/{theater}_raw.json'], check=True
+#         )
+#     except subprocess.CalledProcessError:
+#         print(f'Command failed: {theater}')
+#         break
 
 os.chdir('..')
 
@@ -39,10 +40,7 @@ os.chdir('..')
 for cmd in load_pipeline:
     print('Running:', cmd)
     try:
-        subprocess.run(
-            ['python', 'manage.py', 'load_cinema_data', 'movies/data/merged.json', '--clear'],
-            check=True,
-        )
+        subprocess.run(cmd, check=True)
     except subprocess.CalledProcessError:
         print(f'Command failed: {cmd}')
         break

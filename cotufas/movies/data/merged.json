@@ -2444,15 +2444,9 @@
       "ACCION,CONTENIDO ALTERNATIVO"
     ],
     "synopsis": "Tras más de dos décadas de espera, el Volumen 1 y el Volumen 2 de \"Kill Bill\" en una única película, presentada tal y como Quentin Tarantino la concibió desde el principio, con una nueva secuencia de anime nunca antes vista. Uma Thurman interpreta a La Novia, dada por muerta después de que su antiguo jefe y amante, Bill, organizase una masacre durante el ensayo de su boda, disparándole en la cabeza y arrebatándole a su hija nonata. Al despertar del coma, emprende una implacable venganza contra los miembros del Escuadrón de Asesinato de las Víboras Mortales, decidida a ajustar cuentas uno a uno hasta llegar al propio Bill.",
-    "all_synopsis": {
-      "yelmo-meridiano": "Tras más de dos décadas de espera, el Volumen 1 y el Volumen 2 de \"Kill Bill\" en una única película, presentada tal y como Quentin Tarantino la concibió desde el principio, con una nueva secuencia de anime nunca antes vista. Uma Thurman interpreta a La Novia, dada por muerta después de que su antiguo jefe y amante, Bill, organizase una masacre durante el ensayo de su boda, disparándole en la cabeza y arrebatándole a su hija nonata. Al despertar del coma, emprende una implacable venganza contra los miembros del Escuadrón de Asesinato de las Víboras Mortales, decidida a ajustar cuentas uno a uno hasta llegar al propio Bill.",
-      "yelmo-la-villa-de-orotava": "Tras más de dos décadas de espera, el Volumen 1 y el Volumen 2 de \"Kill Bill\" en una única película, presentada tal y como Quentin Tarantino la concibió desde el principio, con una nueva secuencia de anime nunca antes vista. Uma Thurman interpreta a La Novia, dada por muerta después de que su antiguo jefe y amante, Bill, organizase una masacre durante el ensayo de su boda, disparándole en la cabeza y arrebatándole a su hija nonata. Al despertar del coma, emprende una implacable venganza contra los miembros del Escuadrón de Asesinato de las Víboras Mortales, decidida a ajustar cuentas uno a uno hasta llegar al propio Bill."
-    },
+    "all_synopsis": null,
     "url": "https://www.yelmocines.es/sinopsis/kill-bill-the-whole-bloody-affair",
-    "all_urls": {
-      "yelmo-meridiano": "https://www.yelmocines.es/sinopsis/kill-bill-the-whole-bloody-affair",
-      "yelmo-la-villa-de-orotava": "https://www.yelmocines.es/sinopsis/kill-bill-the-whole-bloody-affair"
-    }
+    "all_urls": null
   },
   {
     "title": "Kill Bill: The Whole Bloody Affair (VOSE)",
@@ -5862,9 +5856,15 @@
       "TERROR"
     ],
     "synopsis": "Una mujer acepta un trabajo como ama de llaves en un rascacielos de Nueva York, sin conocer el historial de desapariciones del edificio. Pronto se da cuenta de que la comunidad está rodeada de misterio.",
-    "all_synopsis": null,
+    "all_synopsis": {
+      "yelmo-la-villa-de-orotava": "Una mujer acepta un trabajo como ama de llaves en un rascacielos de Nueva York, sin conocer el historial de desapariciones del edificio. Pronto se da cuenta de que la comunidad está rodeada de misterio.",
+      "yelmo-meridiano": "Una mujer acepta un trabajo como ama de llaves en un rascacielos de Nueva York, sin conocer el historial de desapariciones del edificio. Pronto se da cuenta de que la comunidad está rodeada de misterio."
+    },
     "url": "https://www.yelmocines.es/sinopsis/te-van-a-matar",
-    "all_urls": null
+    "all_urls": {
+      "yelmo-la-villa-de-orotava": "https://www.yelmocines.es/sinopsis/te-van-a-matar",
+      "yelmo-meridiano": "https://www.yelmocines.es/sinopsis/te-van-a-matar"
+    }
   },
   {
     "title": "Torrente Presidente",

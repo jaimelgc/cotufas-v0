@@ -5,6 +5,7 @@ Run against a real loaded database:
 """
 
 import pytest
+
 from ..models import Movie, Showing, Theater
 
 THEATER_SLUGS = {
@@ -89,4 +90,5 @@ class TestShowingIntegrity:
             .annotate(c=Count("id"))
             .filter(c__gt=1)
         )
+        assert not dupes.exists(), f"Duplicate showings: {list(dupes)}"
         assert not dupes.exists(), f"Duplicate showings: {list(dupes)}"

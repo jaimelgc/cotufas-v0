@@ -1,103 +1,11 @@
 [
   {
-    "title": "Avatar: Fuego y ceniza (2D HFR)",
-    "length": "",
-    "age": "0",
-    "theater": "multicines",
-    "format": "Español",
-    "showings": {
-      "2026-04-08": [
-        {
-          "time": "18:40"
-        }
-      ],
-      "2026-04-09": [
-        {
-          "time": "18:40"
-        }
-      ]
-    },
-    "actors": [
-      "Zoe Saldana",
-      "Kate Winslet",
-      "Sigourney Weaver"
-    ],
-    "directors": [
-      "James Cameron"
-    ],
-    "genres": [
-      "Adventure",
-      "Fantasy",
-      "Próximamente",
-      "Estrenos y destacados",
-      "En cartelera",
-      "Action"
-    ],
-    "synopsis": "En «Avatar: Fuego y ceniza», la familia Sully se enfrenta a una nueva y violenta amenaza de los «Ash People», una tribu Na’vi liderada por Varang, mientras lidian con el duelo por la muerte de Neteyam. La película profundiza en los lazos familiares y los vínculos rotos, explorando los dilemas morales que surgen al expandirse los conflictos en Pandora.",
-    "url": "https://multicinestenerife.com/pelicula/avatar-fuego-y-ceniza-2d-hfr/"
-  },
-  {
-    "title": "Aida y vuelta",
-    "length": "01 horas 38 minutos",
-    "age": "12",
-    "theater": "multicines",
-    "format": "Español",
-    "showings": {
-      "2026-04-08": [
-        {
-          "time": "22:30"
-        }
-      ],
-      "2026-04-09": [
-        {
-          "time": "22:30"
-        }
-      ]
-    },
-    "actors": [
-      "Carmen Machi",
-      "Mario Mayo",
-      "Canco Rodríguez",
-      "Paco León",
-      "Secun De La Rosa",
-      "Pepe Viyuela",
-      "Miren Ibaguren",
-      "Mariano Peña",
-      "Eduardo Casanova",
-      "Melani Olivares",
-      "Marisol Ayuso",
-      "Pepa Rus",
-      "Óscar Reyes",
-      "Adrián Gordillo",
-      "Jacobo Martos"
-    ],
-    "directors": [
-      "Paco León"
-    ],
-    "genres": [
-      "Comedy",
-      "En cartelera"
-    ],
-    "synopsis": "Aída y vuelta aborda el rodaje de un capítulo de la serie con tramas que transcurren tanto dentro de la ficción con los personajes de Aída como fuera de ella con los propios actores y sus relaciones, que dan pie a reflexionar sobre temas como los límites del humor, del trabajo del cómico y la fama",
-    "url": "https://multicinestenerife.com/pelicula/aida-y-vuelta/"
-  },
-  {
     "title": "Como cabras",
     "length": "01 horas 39 minutos",
     "age": "0",
     "theater": "multicines",
     "format": "Español",
     "showings": {
-      "2026-04-08": [
-        {
-          "time": "16:45"
-        }
-      ],
-      "2026-04-09": [
-        {
-          "time": "16:45"
-        }
-      ],
       "2026-04-10": [
         {
           "time": "17:00"
@@ -165,16 +73,6 @@
     "theater": "multicines",
     "format": "Español",
     "showings": {
-      "2026-04-08": [
-        {
-          "time": "17:00"
-        }
-      ],
-      "2026-04-09": [
-        {
-          "time": "17:00"
-        }
-      ],
       "2026-04-10": [
         {
           "time": "17:00"
@@ -242,46 +140,6 @@
     "theater": "multicines",
     "format": "Español",
     "showings": {
-      "2026-04-08": [
-        {
-          "time": "16:30"
-        },
-        {
-          "time": "17:45"
-        },
-        {
-          "time": "19:10"
-        },
-        {
-          "time": "20:15"
-        },
-        {
-          "time": "21:30"
-        },
-        {
-          "time": "22:30"
-        }
-      ],
-      "2026-04-09": [
-        {
-          "time": "16:30"
-        },
-        {
-          "time": "17:45"
-        },
-        {
-          "time": "19:10"
-        },
-        {
-          "time": "20:15"
-        },
-        {
-          "time": "21:30"
-        },
-        {
-          "time": "22:30"
-        }
-      ],
       "2026-04-10": [
         {
           "time": "16:30"
@@ -307,7 +165,7 @@
           "time": "21:30"
         },
         {
-          "time": "22:15"
+          "time": "22:30"
         }
       ],
       "2026-04-12": [
@@ -396,62 +254,12 @@
     "url": "https://multicinestenerife.com/pelicula/torrente-presidente/"
   },
   {
-    "title": "Whistle: El silbido del mal",
-    "length": "01 horas 40 minutos",
-    "age": "0",
-    "theater": "multicines",
-    "format": "Español",
-    "showings": {
-      "2026-04-08": [
-        {
-          "time": "16:30"
-        }
-      ],
-      "2026-04-09": [
-        {
-          "time": "16:30"
-        }
-      ]
-    },
-    "actors": [
-      "Sophie Nélisse",
-      "Dafne Keen",
-      "Sky Yang"
-    ],
-    "directors": [
-      "Corin Hardy"
-    ],
-    "genres": [
-      "Horror",
-      "Estrenos y destacados",
-      "En cartelera"
-    ],
-    "synopsis": "Un grupo de estudiantes inadaptados encuentra por accidente un objeto maldito: un antiguo silbato de la muerte azteca. Al soplarlo, descubren que el terrorífico sonido que produce invoca a sus propias muertes futuras para perseguirlos. Mientras las víctimas aumentan, los amigos intentan descubrir el origen del artefacto y detener la terrible cadena de sucesos que han provocado.",
-    "url": "https://multicinestenerife.com/pelicula/whistle-el-silbido-del-mal/"
-  },
-  {
     "title": "Amarga navidad",
     "length": "01 horas 51 minutos",
     "age": "12",
     "theater": "multicines",
     "format": "Español",
     "showings": {
-      "2026-04-08": [
-        {
-          "time": "19:15"
-        },
-        {
-          "time": "21:45"
-        }
-      ],
-      "2026-04-09": [
-        {
-          "time": "19:15"
-        },
-        {
-          "time": "21:45"
-        }
-      ],
       "2026-04-10": [
         {
           "time": "19:15"
@@ -533,144 +341,12 @@
     "url": "https://multicinestenerife.com/pelicula/amarga-navidad/"
   },
   {
-    "title": "Altas capacidades",
-    "length": "01 horas 41 minutos",
-    "age": "0",
-    "theater": "multicines",
-    "format": "Español",
-    "showings": {
-      "2026-04-08": [
-        {
-          "time": "16:45"
-        }
-      ],
-      "2026-04-09": [
-        {
-          "time": "16:45"
-        }
-      ]
-    },
-    "actors": [
-      "Israel Elejalde",
-      "Marian Álvarez",
-      "Pilar Castro",
-      "Juan Diego Gotto",
-      "Natalia Reyes"
-    ],
-    "directors": [
-      "Víctor García León"
-    ],
-    "genres": [
-      "Comedy",
-      "Estrenos y destacados",
-      "En cartelera"
-    ],
-    "synopsis": "Alicia y Gonzalo, una pareja de clase media, se encuentran con la oportunidad de matricular a su hijo Fer en un colegio laico de élite. Para los padres supone asomar la cabeza en la clase alta, nuevas amistades, mayores ingresos, ventajas incontables. Dicen hacerlo por su hijo. En esta maravillosa contradicción entre los miedos y los principios morales, las aspiraciones de la pareja se llevarán por delante lo que, hasta entonces, creían incuestionable.",
-    "url": "https://multicinestenerife.com/pelicula/altas-capacidades/"
-  },
-  {
-    "title": "Te van a matar",
-    "length": "01 horas 34 minutos",
-    "age": "16",
-    "theater": "multicines",
-    "format": "Español",
-    "showings": {
-      "2026-04-08": [
-        {
-          "time": "22:30"
-        }
-      ],
-      "2026-04-09": [
-        {
-          "time": "22:30"
-        }
-      ],
-      "2026-04-10": [
-        {
-          "time": "12:15"
-        },
-        {
-          "time": "22:30"
-        }
-      ],
-      "2026-04-11": [
-        {
-          "time": "12:15"
-        },
-        {
-          "time": "22:30"
-        }
-      ],
-      "2026-04-12": [
-        {
-          "time": "12:15"
-        },
-        {
-          "time": "22:30"
-        }
-      ],
-      "2026-04-13": [
-        {
-          "time": "22:30"
-        }
-      ],
-      "2026-04-14": [
-        {
-          "time": "22:30"
-        }
-      ],
-      "2026-04-15": [
-        {
-          "time": "22:30"
-        }
-      ],
-      "2026-04-16": [
-        {
-          "time": "22:30"
-        }
-      ]
-    },
-    "actors": [
-      "Zazie Beetz",
-      "Patricia Arquette",
-      "Tom Felton"
-    ],
-    "directors": [
-      "Kirill Sokolov"
-    ],
-    "genres": [
-      "Comedy",
-      "Horror",
-      "Estrenos y destacados",
-      "En cartelera",
-      "Action"
-    ],
-    "synopsis": "Una mujer acepta un trabajo como ama de llaves en un rascacielos de Nueva York, sin conocer el historial de desapariciones del edificio. Pronto se da cuenta de que la comunidad está rodeada de misterio.",
-    "url": "https://multicinestenerife.com/pelicula/te-van-a-matar/"
-  },
-  {
     "title": "Shelter: El protector",
     "length": "01 horas 47 minutos",
     "age": "16",
     "theater": "multicines",
     "format": "Español",
     "showings": {
-      "2026-04-08": [
-        {
-          "time": "16:30"
-        },
-        {
-          "time": "21:30"
-        }
-      ],
-      "2026-04-09": [
-        {
-          "time": "16:30"
-        },
-        {
-          "time": "21:30"
-        }
-      ],
       "2026-04-10": [
         {
           "time": "17:00"
@@ -759,22 +435,6 @@
     "theater": "multicines",
     "format": "Español",
     "showings": {
-      "2026-04-08": [
-        {
-          "time": "17:45"
-        },
-        {
-          "time": "21:00"
-        }
-      ],
-      "2026-04-09": [
-        {
-          "time": "17:45"
-        },
-        {
-          "time": "21:00"
-        }
-      ],
       "2026-04-10": [
         {
           "time": "17:45"
@@ -865,28 +525,6 @@
     "theater": "multicines",
     "format": "Español",
     "showings": {
-      "2026-04-08": [
-        {
-          "time": "16:45"
-        },
-        {
-          "time": "19:10"
-        },
-        {
-          "time": "21:30"
-        }
-      ],
-      "2026-04-09": [
-        {
-          "time": "16:45"
-        },
-        {
-          "time": "19:10"
-        },
-        {
-          "time": "21:30"
-        }
-      ],
       "2026-04-10": [
         {
           "time": "16:45"
@@ -936,102 +574,12 @@
     "url": "https://multicinestenerife.com/pelicula/calle-malaga/"
   },
   {
-    "title": "Noise (Ruidos)",
-    "length": "01 horas 33 minutos",
-    "age": "16",
-    "theater": "multicines",
-    "format": "Español",
-    "showings": {
-      "2026-04-08": [
-        {
-          "time": "19:10"
-        },
-        {
-          "time": "21:30"
-        }
-      ],
-      "2026-04-09": [
-        {
-          "time": "19:10"
-        },
-        {
-          "time": "21:30"
-        }
-      ]
-    },
-    "actors": [
-      "Lee Sun-Bin",
-      "Ryu Kyung-Soo",
-      "Jeon Ik-ryeong",
-      "Han Su-ah",
-      "Baek Joo-Hee",
-      "Kim Min-suk",
-      "Lee Hyoung-hoon",
-      "Han Soo-a"
-    ],
-    "directors": [
-      "Kim Soo-jin"
-    ],
-    "genres": [
-      "Horror",
-      "Estrenos y destacados",
-      "En cartelera"
-    ],
-    "synopsis": "Una mujer con dificultades auditivas se ve perseguida por sonidos relacionados con la desaparición de su hermana y la presencia de un espíritu malévolo. Esto conduce a un oscuro secreto y a la revelación de una misteriosa entidad.",
-    "url": "https://multicinestenerife.com/pelicula/noise-ruidos/"
-  },
-  {
-    "title": "La Grazia (VOSE)",
-    "length": "02 horas 13 minutos",
-    "age": "12",
-    "theater": "multicines",
-    "format": "Español",
-    "showings": {
-      "2026-04-08": [
-        {
-          "time": "21:45"
-        }
-      ],
-      "2026-04-09": [
-        {
-          "time": "21:45"
-        }
-      ]
-    },
-    "actors": [
-      "Toni Servillo",
-      "Anna Ferzetti",
-      "Orlando Cinque"
-    ],
-    "directors": [
-      "Paolo Sorrentino"
-    ],
-    "genres": [
-      "Drama",
-      "Estrenos y destacados",
-      "VOSE",
-      "En cartelera"
-    ],
-    "synopsis": "Mariano De Santis, Presidente (ficiticio) de la República italiana, es un veterano político demócrata, humanista y cristiano, pero de repente comienza a dudar sobre varias importantes decisiones que debe tomar, en especial sobre si aprueba o no una ley de eutanasia, planteándose un gran dilema moral.",
-    "url": "https://multicinestenerife.com/pelicula/la-grazia-vose/"
-  },
-  {
     "title": "La Grazia",
     "length": "02 horas 13 minutos",
     "age": "12",
     "theater": "multicines",
     "format": "Español",
     "showings": {
-      "2026-04-08": [
-        {
-          "time": "19:00"
-        }
-      ],
-      "2026-04-09": [
-        {
-          "time": "19:00"
-        }
-      ],
       "2026-04-10": [
         {
           "time": "19:30"
@@ -1094,28 +642,6 @@
     "theater": "multicines",
     "format": "Español",
     "showings": {
-      "2026-04-08": [
-        {
-          "time": "16:30"
-        },
-        {
-          "time": "18:30"
-        },
-        {
-          "time": "20:30"
-        }
-      ],
-      "2026-04-09": [
-        {
-          "time": "16:30"
-        },
-        {
-          "time": "18:30"
-        },
-        {
-          "time": "20:30"
-        }
-      ],
       "2026-04-10": [
         {
           "time": "16:30"
@@ -1204,28 +730,6 @@
     "theater": "multicines",
     "format": "Español",
     "showings": {
-      "2026-04-08": [
-        {
-          "time": "17:30"
-        },
-        {
-          "time": "20:00"
-        },
-        {
-          "time": "22:15"
-        }
-      ],
-      "2026-04-09": [
-        {
-          "time": "17:30"
-        },
-        {
-          "time": "20:00"
-        },
-        {
-          "time": "22:15"
-        }
-      ],
       "2026-04-10": [
         {
           "time": "16:30"
@@ -1323,92 +827,12 @@
     "url": "https://multicinestenerife.com/pelicula/noche-de-bodas-2/"
   },
   {
-    "title": "Super Mario Galaxy: La película 3D",
-    "length": "01 horas 38 minutos",
-    "age": "0",
-    "theater": "multicines",
-    "format": "Español",
-    "showings": {
-      "2026-04-08": [
-        {
-          "time": "19:00"
-        }
-      ],
-      "2026-04-09": [
-        {
-          "time": "19:00"
-        }
-      ]
-    },
-    "actors": [
-      "Anya Taylor-Joy",
-      "Chris Pratt",
-      "Benny Safdie"
-    ],
-    "directors": [
-      "Aaron Horvath",
-      "Michael Jelenic"
-    ],
-    "genres": [
-      "Adventure",
-      "Animation",
-      "Comedy",
-      "Estrenos y destacados",
-      "En cartelera",
-      "Venta anticipada",
-      "3D",
-      "venta anticipada banner"
-    ],
-    "synopsis": "La película tiene lugar después de los acontecimientos de la primera, en la que dos hermanos, Mario y Luigi, y la princesa Peach emprenden una aventura hasta los confines del espacio y a través de la galaxia. Secuela de Super Mario Bros: La película, basada en la saga Mario Galaxy.",
-    "url": "https://multicinestenerife.com/pelicula/super-mario-galaxy-la-pelicula-3d/"
-  },
-  {
     "title": "Super Mario Galaxy: La película",
     "length": "01 horas 38 minutos",
     "age": "0",
     "theater": "multicines",
     "format": "Español",
     "showings": {
-      "2026-04-08": [
-        {
-          "time": "16:30"
-        },
-        {
-          "time": "17:30"
-        },
-        {
-          "time": "18:45"
-        },
-        {
-          "time": "19:45"
-        },
-        {
-          "time": "21:00"
-        },
-        {
-          "time": "22:00"
-        }
-      ],
-      "2026-04-09": [
-        {
-          "time": "16:30"
-        },
-        {
-          "time": "17:30"
-        },
-        {
-          "time": "18:45"
-        },
-        {
-          "time": "19:45"
-        },
-        {
-          "time": "21:00"
-        },
-        {
-          "time": "22:00"
-        }
-      ],
       "2026-04-10": [
         {
           "time": "16:30"

@@ -5,30 +5,6 @@
     "age": "12",
     "theater": "yelmo",
     "showings": {
-      "2026-04-08": [
-        {
-          "time": "17:25",
-          "cinema": "meridiano",
-          "format": "2D ESPAÑOL"
-        },
-        {
-          "time": "17:50",
-          "cinema": "la-villa-de-orotava",
-          "format": "2D ESPAÑOL"
-        }
-      ],
-      "2026-04-09": [
-        {
-          "time": "17:25",
-          "cinema": "meridiano",
-          "format": "2D ESPAÑOL"
-        },
-        {
-          "time": "17:50",
-          "cinema": "la-villa-de-orotava",
-          "format": "2D ESPAÑOL"
-        }
-      ],
       "2026-04-10": [
         {
           "time": "17:40",
@@ -40,6 +16,11 @@
         {
           "time": "17:40",
           "cinema": "meridiano",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "15:15",
+          "cinema": "la-villa-de-orotava",
           "format": "2D ESPAÑOL"
         }
       ],
@@ -117,43 +98,443 @@
     "url": "https://www.yelmocines.es/sinopsis/amarga-navidad"
   },
   {
-    "title": "Bluey en cines: Colección ¡A jugar con los amigos!",
-    "length": "54",
-    "age": "0",
+    "title": "Atrapando a un monstruo",
+    "length": "105",
+    "age": "16",
     "theater": "yelmo",
     "showings": {
-      "2026-04-08": [
-        {
-          "time": "17:40",
-          "cinema": "meridiano",
-          "format": "CA ESPAÑOL"
-        },
+      "2026-04-10": [
         {
           "time": "17:10",
           "cinema": "la-villa-de-orotava",
-          "format": "CA ESPAÑOL"
+          "format": "2D ESPAÑOL"
         }
       ],
-      "2026-04-09": [
-        {
-          "time": "17:40",
-          "cinema": "meridiano",
-          "format": "CA ESPAÑOL"
-        },
+      "2026-04-11": [
         {
           "time": "17:10",
           "cinema": "la-villa-de-orotava",
-          "format": "CA ESPAÑOL"
+          "format": "2D ESPAÑOL"
+        }
+      ],
+      "2026-04-12": [
+        {
+          "time": "17:10",
+          "cinema": "la-villa-de-orotava",
+          "format": "2D ESPAÑOL"
+        }
+      ],
+      "2026-04-13": [
+        {
+          "time": "17:40",
+          "cinema": "la-villa-de-orotava",
+          "format": "2D ESPAÑOL"
+        }
+      ],
+      "2026-04-14": [
+        {
+          "time": "17:40",
+          "cinema": "la-villa-de-orotava",
+          "format": "2D ESPAÑOL"
+        }
+      ],
+      "2026-04-15": [
+        {
+          "time": "17:40",
+          "cinema": "la-villa-de-orotava",
+          "format": "2D ESPAÑOL"
+        }
+      ],
+      "2026-04-16": [
+        {
+          "time": "17:40",
+          "cinema": "la-villa-de-orotava",
+          "format": "2D ESPAÑOL"
         }
       ]
     },
-    "actors": null,
-    "directors": null,
-    "genres": [
-      "ANIMACION,CONTENIDO ALTERNATIVO"
+    "actors": [
+      "Mads Mikkelsen",
+      "Sigourney Weaver",
+      "David Dastmalchian",
+      "Sophie Sloan"
     ],
-    "synopsis": "Bluey at the Cinema: Colección Playdates with Friends es una hora de diversión que incluye ocho episodios de las tres temporadas de la serie, todos celebrando el juego y la imaginación con amigos y familia. La recopilación muestra algunos de los juegos favoritos de Bluey como Shadowlands yOctopus, y destaca momentos especiales de amistad en episodios como Circus ySlide , todos llenos de alegría y risas.",
-    "url": "https://www.yelmocines.es/sinopsis/bluey-en-cines-coleccion-a-jugar-con-los-amigos"
+    "directors": [
+      "Bryan Fuller"
+    ],
+    "genres": [
+      "TERROR"
+    ],
+    "synopsis": "Aurora, una niña de 10 años, está convencida de que el monstruo que vive bajo su cama se ha comido a su familia. Cuando descubre que su vecino (Mads Mikkelsen) es un asesino a sueldo, decide contratarlo para cazar a la criatura. Para protegerla, el sicario tendrá que abrirse paso entre una oleada de matones liderados por Sigourney Weaver y asumir que, a veces, los monstruos existen de verdad.",
+    "url": "https://www.yelmocines.es/sinopsis/atrapando-a-un-monstruo"
+  },
+  {
+    "title": "Boulevard",
+    "length": "112",
+    "age": "0",
+    "theater": "yelmo",
+    "showings": {
+      "2026-04-10": [
+        {
+          "time": "18:05",
+          "cinema": "la-villa-de-orotava",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "20:25",
+          "cinema": "la-villa-de-orotava",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "22:45",
+          "cinema": "la-villa-de-orotava",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "17:20",
+          "cinema": "meridiano",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "19:40",
+          "cinema": "meridiano",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "22:05",
+          "cinema": "meridiano",
+          "format": "2D ESPAÑOL"
+        }
+      ],
+      "2026-04-11": [
+        {
+          "time": "15:45",
+          "cinema": "la-villa-de-orotava",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "18:05",
+          "cinema": "la-villa-de-orotava",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "20:25",
+          "cinema": "la-villa-de-orotava",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "22:45",
+          "cinema": "la-villa-de-orotava",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "12:15",
+          "cinema": "meridiano",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "14:50",
+          "cinema": "meridiano",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "17:20",
+          "cinema": "meridiano",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "19:40",
+          "cinema": "meridiano",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "22:05",
+          "cinema": "meridiano",
+          "format": "2D ESPAÑOL"
+        }
+      ],
+      "2026-04-12": [
+        {
+          "time": "15:45",
+          "cinema": "la-villa-de-orotava",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "18:05",
+          "cinema": "la-villa-de-orotava",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "20:25",
+          "cinema": "la-villa-de-orotava",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "22:45",
+          "cinema": "la-villa-de-orotava",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "12:20",
+          "cinema": "meridiano",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "14:50",
+          "cinema": "meridiano",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "17:20",
+          "cinema": "meridiano",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "19:40",
+          "cinema": "meridiano",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "22:05",
+          "cinema": "meridiano",
+          "format": "2D ESPAÑOL"
+        }
+      ],
+      "2026-04-13": [
+        {
+          "time": "18:05",
+          "cinema": "la-villa-de-orotava",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "20:25",
+          "cinema": "la-villa-de-orotava",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "22:45",
+          "cinema": "la-villa-de-orotava",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "17:30",
+          "cinema": "meridiano",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "19:50",
+          "cinema": "meridiano",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "22:15",
+          "cinema": "meridiano",
+          "format": "2D ESPAÑOL"
+        }
+      ],
+      "2026-04-14": [
+        {
+          "time": "18:05",
+          "cinema": "la-villa-de-orotava",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "20:25",
+          "cinema": "la-villa-de-orotava",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "22:45",
+          "cinema": "la-villa-de-orotava",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "17:30",
+          "cinema": "meridiano",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "19:50",
+          "cinema": "meridiano",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "22:15",
+          "cinema": "meridiano",
+          "format": "2D ESPAÑOL"
+        }
+      ],
+      "2026-04-15": [
+        {
+          "time": "18:05",
+          "cinema": "la-villa-de-orotava",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "20:25",
+          "cinema": "la-villa-de-orotava",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "22:45",
+          "cinema": "la-villa-de-orotava",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "17:30",
+          "cinema": "meridiano",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "19:50",
+          "cinema": "meridiano",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "22:15",
+          "cinema": "meridiano",
+          "format": "2D ESPAÑOL"
+        }
+      ],
+      "2026-04-16": [
+        {
+          "time": "18:05",
+          "cinema": "la-villa-de-orotava",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "20:25",
+          "cinema": "la-villa-de-orotava",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "22:45",
+          "cinema": "la-villa-de-orotava",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "17:30",
+          "cinema": "meridiano",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "19:50",
+          "cinema": "meridiano",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "22:15",
+          "cinema": "meridiano",
+          "format": "2D ESPAÑOL"
+        }
+      ]
+    },
+    "actors": [
+      "Luis Zahera",
+      "Christian Checa",
+      "Esther Acebo",
+      "Najwa Khliwa",
+      "Pepe Barroso",
+      "Biel Antón",
+      "Enzo Oliver"
+    ],
+    "directors": [
+      "Sonia Méndez"
+    ],
+    "genres": [
+      "DRAMA"
+    ],
+    "synopsis": "Cuando Hasley (Eve Ryan) se muda a una nueva ciudad con su madre, lo último que espera es cruzarse con Luke (Mikel Niso), un joven envuelto en un aura peligrosa y un pasado trágico. Atrapado en sus propios demonios, Luke es todo lo que Hasley debería temer... pero a lo que se siente irremediablemente atraída. A pesar de las sombras que lo rodean, Hasley descubre en Luke una vulnerabilidad y un mundo interior apasionante. Juntos, crearán su propio boulevard: un refugio escondido donde poder ser ellos mismos, cumplir sueños imposibles, atreverse a amar a pesar de los prejuicios, el dolor y las cicatrices que arrastran, y demostrar que el amor es capaz de florecer incluso en los corazones más insospechados.",
+    "url": "https://www.yelmocines.es/sinopsis/boulevard"
+  },
+  {
+    "title": "Buena suerte, pásalo bien, no mueras",
+    "length": "134",
+    "age": "16",
+    "theater": "yelmo",
+    "showings": {
+      "2026-04-10": [
+        {
+          "time": "17:05",
+          "cinema": "la-villa-de-orotava",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "22:10",
+          "cinema": "la-villa-de-orotava",
+          "format": "2D ESPAÑOL"
+        }
+      ],
+      "2026-04-11": [
+        {
+          "time": "16:50",
+          "cinema": "la-villa-de-orotava",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "22:10",
+          "cinema": "la-villa-de-orotava",
+          "format": "2D ESPAÑOL"
+        }
+      ],
+      "2026-04-12": [
+        {
+          "time": "16:50",
+          "cinema": "la-villa-de-orotava",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "22:10",
+          "cinema": "la-villa-de-orotava",
+          "format": "2D ESPAÑOL"
+        }
+      ],
+      "2026-04-13": [
+        {
+          "time": "17:05",
+          "cinema": "la-villa-de-orotava",
+          "format": "2D ESPAÑOL"
+        }
+      ],
+      "2026-04-15": [
+        {
+          "time": "17:05",
+          "cinema": "la-villa-de-orotava",
+          "format": "2D ESPAÑOL"
+        }
+      ],
+      "2026-04-16": [
+        {
+          "time": "17:05",
+          "cinema": "la-villa-de-orotava",
+          "format": "2D ESPAÑOL"
+        }
+      ],
+      "2026-04-14": [
+        {
+          "time": "17:05",
+          "cinema": "la-villa-de-orotava",
+          "format": "2D INGLÉS SUBTITULADO EN ESPAÑOL (VOSE)"
+        }
+      ]
+    },
+    "actors": [
+      "Sam Rockwell",
+      "Juno Temple",
+      "Haley Lu Richardson",
+      "Michael Peña",
+      "Zazie Beetz",
+      "Asim Chaudhry",
+      "Tom Taylor"
+    ],
+    "directors": [
+      "Gore Verbinski"
+    ],
+    "genres": [
+      "COMEDIA"
+    ],
+    "synopsis": "Una noche oscura. Un restaurante abarrotado. Un hombre con un detonador (Sam Rockwell) irrumpe proclamando que viene del futuro. Es la 117.ª vez que regresa con la misma misión. Antes de que se acabe el tiempo, debe reclutar a un grupo de clientes del restaurante claramente no cualificados (Haley Lu Richardson, Michael Peña, Zazie Beetz, Asim Chaudhry y Juno Temple) para detener el inminente apocalipsis de la inteligencia artificial y salvar a la humanidad de los peligros de las redes sociales. ¿El problema? Todo está en su contra, desde extraños escépticos y adolescentes con el cerebro podrido hasta monstruosidades algorítmicas que escapan a su control. Pero si este improbable grupo lo consigue, el mundo podría salir adelante. ¿O no?",
+    "url": "https://www.yelmocines.es/sinopsis/buena-suerte-pasalo-bien-no-mueras"
   },
   {
     "title": "Como cabras",
@@ -161,20 +542,6 @@
     "age": "0",
     "theater": "yelmo",
     "showings": {
-      "2026-04-08": [
-        {
-          "time": "17:40",
-          "cinema": "la-villa-de-orotava",
-          "format": "2D ESPAÑOL"
-        }
-      ],
-      "2026-04-09": [
-        {
-          "time": "17:40",
-          "cinema": "la-villa-de-orotava",
-          "format": "2D ESPAÑOL"
-        }
-      ],
       "2026-04-10": [
         {
           "time": "17:50",
@@ -235,97 +602,34 @@
     "url": "https://www.yelmocines.es/sinopsis/como-cabras"
   },
   {
-    "title": "Cumbres borrascosas",
-    "length": "136",
-    "age": "16",
-    "theater": "yelmo",
-    "showings": {
-      "2026-04-08": [
-        {
-          "time": "19:50",
-          "cinema": "meridiano",
-          "format": "2D ESPAÑOL"
-        },
-        {
-          "time": "20:00",
-          "cinema": "la-villa-de-orotava",
-          "format": "2D ESPAÑOL"
-        }
-      ],
-      "2026-04-09": [
-        {
-          "time": "19:50",
-          "cinema": "meridiano",
-          "format": "2D ESPAÑOL"
-        },
-        {
-          "time": "20:00",
-          "cinema": "la-villa-de-orotava",
-          "format": "2D ESPAÑOL"
-        }
-      ]
-    },
-    "actors": [
-      "Margot Robbie",
-      "Shazad Latif",
-      "Jacob Elordi",
-      "Hong Chau",
-      "Alison Oliver",
-      "Martin Clunes",
-      "Ewan Mitchell"
-    ],
-    "directors": [
-      "Emerald Fennell"
-    ],
-    "genres": [
-      "DRAMA"
-    ],
-    "synopsis": "Una audaz y original reinterpretación de una de una de las historias de amor más grandes de todos los tiempos, “CUMBRES BORRASCOSAS” de Emerald Fennell está protagonizada por Margot Robbie como Cathy y Jacob Elordi como Heathcliff, cuya pasión prohibida se transforma de romántica a intoxicante en una épica historia de lujuria, amor y locura.",
-    "url": "https://www.yelmocines.es/sinopsis/cumbres-borrascosas"
-  },
-  {
     "title": "Hoppers",
     "length": "104",
     "age": "0",
     "theater": "yelmo",
     "showings": {
-      "2026-04-08": [
-        {
-          "time": "17:45",
-          "cinema": "meridiano",
-          "format": "2D ESPAÑOL"
-        },
-        {
-          "time": "18:10",
-          "cinema": "la-villa-de-orotava",
-          "format": "2D ESPAÑOL"
-        }
-      ],
-      "2026-04-09": [
-        {
-          "time": "17:45",
-          "cinema": "meridiano",
-          "format": "2D ESPAÑOL"
-        },
-        {
-          "time": "18:10",
-          "cinema": "la-villa-de-orotava",
-          "format": "2D ESPAÑOL"
-        }
-      ],
       "2026-04-10": [
         {
-          "time": "17:45",
-          "cinema": "meridiano",
+          "time": "18:10",
+          "cinema": "la-villa-de-orotava",
           "format": "2D ESPAÑOL"
         },
         {
-          "time": "18:10",
-          "cinema": "la-villa-de-orotava",
+          "time": "17:45",
+          "cinema": "meridiano",
           "format": "2D ESPAÑOL"
         }
       ],
       "2026-04-11": [
+        {
+          "time": "16:00",
+          "cinema": "la-villa-de-orotava",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "18:10",
+          "cinema": "la-villa-de-orotava",
+          "format": "2D ESPAÑOL"
+        },
         {
           "time": "12:20",
           "cinema": "meridiano",
@@ -340,7 +644,9 @@
           "time": "17:45",
           "cinema": "meridiano",
           "format": "2D ESPAÑOL"
-        },
+        }
+      ],
+      "2026-04-12": [
         {
           "time": "16:00",
           "cinema": "la-villa-de-orotava",
@@ -350,9 +656,7 @@
           "time": "18:10",
           "cinema": "la-villa-de-orotava",
           "format": "2D ESPAÑOL"
-        }
-      ],
-      "2026-04-12": [
+        },
         {
           "time": "12:15",
           "cinema": "meridiano",
@@ -367,63 +671,53 @@
           "time": "17:45",
           "cinema": "meridiano",
           "format": "2D ESPAÑOL"
-        },
-        {
-          "time": "16:00",
-          "cinema": "la-villa-de-orotava",
-          "format": "2D ESPAÑOL"
-        },
-        {
-          "time": "18:10",
-          "cinema": "la-villa-de-orotava",
-          "format": "2D ESPAÑOL"
         }
       ],
       "2026-04-13": [
         {
-          "time": "17:45",
-          "cinema": "meridiano",
+          "time": "17:50",
+          "cinema": "la-villa-de-orotava",
           "format": "2D ESPAÑOL"
         },
         {
-          "time": "17:50",
-          "cinema": "la-villa-de-orotava",
+          "time": "17:45",
+          "cinema": "meridiano",
           "format": "2D ESPAÑOL"
         }
       ],
       "2026-04-14": [
         {
-          "time": "17:45",
-          "cinema": "meridiano",
+          "time": "17:50",
+          "cinema": "la-villa-de-orotava",
           "format": "2D ESPAÑOL"
         },
         {
-          "time": "17:50",
-          "cinema": "la-villa-de-orotava",
+          "time": "17:45",
+          "cinema": "meridiano",
           "format": "2D ESPAÑOL"
         }
       ],
       "2026-04-15": [
         {
-          "time": "17:45",
-          "cinema": "meridiano",
+          "time": "17:50",
+          "cinema": "la-villa-de-orotava",
           "format": "2D ESPAÑOL"
         },
         {
-          "time": "17:50",
-          "cinema": "la-villa-de-orotava",
+          "time": "17:45",
+          "cinema": "meridiano",
           "format": "2D ESPAÑOL"
         }
       ],
       "2026-04-16": [
         {
-          "time": "17:45",
-          "cinema": "meridiano",
+          "time": "17:50",
+          "cinema": "la-villa-de-orotava",
           "format": "2D ESPAÑOL"
         },
         {
-          "time": "17:50",
-          "cinema": "la-villa-de-orotava",
+          "time": "17:45",
+          "cinema": "meridiano",
           "format": "2D ESPAÑOL"
         }
       ]
@@ -443,35 +737,284 @@
     "url": "https://www.yelmocines.es/sinopsis/hoppers"
   },
   {
+    "title": "Incontrolable (I Swear)",
+    "length": "120",
+    "age": "12",
+    "theater": "yelmo",
+    "showings": {
+      "2026-04-10": [
+        {
+          "time": "17:00",
+          "cinema": "meridiano",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "19:30",
+          "cinema": "meridiano",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "22:00",
+          "cinema": "meridiano",
+          "format": "2D ESPAÑOL"
+        }
+      ],
+      "2026-04-11": [
+        {
+          "time": "16:50",
+          "cinema": "meridiano",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "19:30",
+          "cinema": "meridiano",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "22:00",
+          "cinema": "meridiano",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "11:45",
+          "cinema": "meridiano",
+          "format": "2D INGLÉS SUBTITULADO EN ESPAÑOL (VOSE)"
+        }
+      ],
+      "2026-04-12": [
+        {
+          "time": "16:50",
+          "cinema": "meridiano",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "19:25",
+          "cinema": "meridiano",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "22:10",
+          "cinema": "meridiano",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "12:00",
+          "cinema": "meridiano",
+          "format": "2D INGLÉS SUBTITULADO EN ESPAÑOL (VOSE)"
+        }
+      ],
+      "2026-04-13": [
+        {
+          "time": "17:00",
+          "cinema": "meridiano",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "19:30",
+          "cinema": "meridiano",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "22:00",
+          "cinema": "meridiano",
+          "format": "2D ESPAÑOL"
+        }
+      ],
+      "2026-04-14": [
+        {
+          "time": "17:00",
+          "cinema": "meridiano",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "22:00",
+          "cinema": "meridiano",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "19:30",
+          "cinema": "meridiano",
+          "format": "2D INGLÉS SUBTITULADO EN ESPAÑOL (VOSE)"
+        }
+      ],
+      "2026-04-15": [
+        {
+          "time": "17:00",
+          "cinema": "meridiano",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "19:30",
+          "cinema": "meridiano",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "22:00",
+          "cinema": "meridiano",
+          "format": "2D ESPAÑOL"
+        }
+      ],
+      "2026-04-16": [
+        {
+          "time": "17:00",
+          "cinema": "meridiano",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "19:30",
+          "cinema": "meridiano",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "22:00",
+          "cinema": "meridiano",
+          "format": "2D ESPAÑOL"
+        }
+      ]
+    },
+    "actors": [
+      "Maxine Peake",
+      "Steven Cree",
+      "Sanjeev Kohli",
+      "Robert Aramayo",
+      "Shirley Henderson",
+      "Peter Mullan",
+      "Adam McNamara",
+      "Paul Donnelly"
+    ],
+    "directors": [
+      "Kirk Jones"
+    ],
+    "genres": [
+      "DRAMA"
+    ],
+    "synopsis": "La historia real de John Davidson. Diagnosticado con Tourette a los 15 años, señalado como loco por sus compañeros, luchó con una condición que pocos habían presenciado. Ya adulto, hizo campaña en favor del síndrome de Tourette.",
+    "url": "https://www.yelmocines.es/sinopsis/incontrolable-i-swear"
+  },
+  {
+    "title": "Kill Bill: The Whole Bloody Affair",
+    "length": "275",
+    "age": "0",
+    "theater": "yelmo",
+    "showings": {
+      "2026-04-10": [
+        {
+          "time": "20:00",
+          "cinema": "la-villa-de-orotava",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "20:00",
+          "cinema": "meridiano",
+          "format": "2D ESPAÑOL"
+        }
+      ],
+      "2026-04-11": [
+        {
+          "time": "20:00",
+          "cinema": "la-villa-de-orotava",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "20:00",
+          "cinema": "meridiano",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "12:30",
+          "cinema": "meridiano",
+          "format": "2D INGLÉS SUBTITULADO EN ESPAÑOL (VOSE)"
+        }
+      ],
+      "2026-04-12": [
+        {
+          "time": "20:00",
+          "cinema": "la-villa-de-orotava",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "20:00",
+          "cinema": "meridiano",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "12:30",
+          "cinema": "meridiano",
+          "format": "2D INGLÉS SUBTITULADO EN ESPAÑOL (VOSE)"
+        }
+      ],
+      "2026-04-13": [
+        {
+          "time": "20:00",
+          "cinema": "la-villa-de-orotava",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "20:00",
+          "cinema": "meridiano",
+          "format": "2D ESPAÑOL"
+        }
+      ],
+      "2026-04-15": [
+        {
+          "time": "20:00",
+          "cinema": "la-villa-de-orotava",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "20:00",
+          "cinema": "meridiano",
+          "format": "2D ESPAÑOL"
+        }
+      ],
+      "2026-04-16": [
+        {
+          "time": "20:00",
+          "cinema": "la-villa-de-orotava",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "20:00",
+          "cinema": "meridiano",
+          "format": "2D ESPAÑOL"
+        }
+      ],
+      "2026-04-14": [
+        {
+          "time": "20:00",
+          "cinema": "la-villa-de-orotava",
+          "format": "2D INGLÉS SUBTITULADO EN ESPAÑOL (VOSE)"
+        },
+        {
+          "time": "20:00",
+          "cinema": "meridiano",
+          "format": "2D INGLÉS SUBTITULADO EN ESPAÑOL (VOSE)"
+        }
+      ]
+    },
+    "actors": [
+      "Uma Thurman",
+      "Lucy Liu",
+      "Vivica A. Fox",
+      "Daryl Hannah",
+      "David Carradine",
+      "Michael Madsen"
+    ],
+    "directors": [
+      "Quentin Tarantino"
+    ],
+    "genres": [
+      "ACCION,CONTENIDO ALTERNATIVO"
+    ],
+    "synopsis": "Tras más de dos décadas de espera, el Volumen 1 y el Volumen 2 de \"Kill Bill\" en una única película, presentada tal y como Quentin Tarantino la concibió desde el principio, con una nueva secuencia de anime nunca antes vista. Uma Thurman interpreta a La Novia, dada por muerta después de que su antiguo jefe y amante, Bill, organizase una masacre durante el ensayo de su boda, disparándole en la cabeza y arrebatándole a su hija nonata. Al despertar del coma, emprende una implacable venganza contra los miembros del Escuadrón de Asesinato de las Víboras Mortales, decidida a ajustar cuentas uno a uno hasta llegar al propio Bill.",
+    "url": "https://www.yelmocines.es/sinopsis/kill-bill-the-whole-bloody-affair"
+  },
+  {
     "title": "Lapönia",
     "length": "89",
     "age": "12",
     "theater": "yelmo",
     "showings": {
-      "2026-04-08": [
-        {
-          "time": "20:10",
-          "cinema": "la-villa-de-orotava",
-          "format": "2D ESPAÑOL"
-        },
-        {
-          "time": "22:10",
-          "cinema": "la-villa-de-orotava",
-          "format": "2D ESPAÑOL"
-        }
-      ],
-      "2026-04-09": [
-        {
-          "time": "20:10",
-          "cinema": "la-villa-de-orotava",
-          "format": "2D ESPAÑOL"
-        },
-        {
-          "time": "22:10",
-          "cinema": "la-villa-de-orotava",
-          "format": "2D ESPAÑOL"
-        }
-      ],
       "2026-04-10": [
         {
           "time": "17:00",
@@ -512,75 +1055,279 @@
     "url": "https://www.yelmocines.es/sinopsis/laponia"
   },
   {
+    "title": "No te olvidaré",
+    "length": "114",
+    "age": "12",
+    "theater": "yelmo",
+    "showings": {
+      "2026-04-10": [
+        {
+          "time": "17:20",
+          "cinema": "la-villa-de-orotava",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "19:50",
+          "cinema": "la-villa-de-orotava",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "22:20",
+          "cinema": "la-villa-de-orotava",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "17:50",
+          "cinema": "meridiano",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "20:25",
+          "cinema": "meridiano",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "22:50",
+          "cinema": "meridiano",
+          "format": "2D ESPAÑOL"
+        }
+      ],
+      "2026-04-11": [
+        {
+          "time": "17:20",
+          "cinema": "la-villa-de-orotava",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "19:50",
+          "cinema": "la-villa-de-orotava",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "22:20",
+          "cinema": "la-villa-de-orotava",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "15:15",
+          "cinema": "meridiano",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "17:50",
+          "cinema": "meridiano",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "20:25",
+          "cinema": "meridiano",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "22:50",
+          "cinema": "meridiano",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "12:10",
+          "cinema": "meridiano",
+          "format": "2D INGLÉS SUBTITULADO EN ESPAÑOL (VOSE)"
+        }
+      ],
+      "2026-04-12": [
+        {
+          "time": "17:20",
+          "cinema": "la-villa-de-orotava",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "19:50",
+          "cinema": "la-villa-de-orotava",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "22:20",
+          "cinema": "la-villa-de-orotava",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "14:35",
+          "cinema": "meridiano",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "17:05",
+          "cinema": "meridiano",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "19:30",
+          "cinema": "meridiano",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "21:55",
+          "cinema": "meridiano",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "12:10",
+          "cinema": "meridiano",
+          "format": "2D INGLÉS SUBTITULADO EN ESPAÑOL (VOSE)"
+        }
+      ],
+      "2026-04-13": [
+        {
+          "time": "17:20",
+          "cinema": "la-villa-de-orotava",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "19:50",
+          "cinema": "la-villa-de-orotava",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "22:20",
+          "cinema": "la-villa-de-orotava",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "17:15",
+          "cinema": "meridiano",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "19:40",
+          "cinema": "meridiano",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "22:05",
+          "cinema": "meridiano",
+          "format": "2D ESPAÑOL"
+        }
+      ],
+      "2026-04-14": [
+        {
+          "time": "17:20",
+          "cinema": "la-villa-de-orotava",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "22:20",
+          "cinema": "la-villa-de-orotava",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "19:50",
+          "cinema": "la-villa-de-orotava",
+          "format": "2D INGLÉS SUBTITULADO EN ESPAÑOL (VOSE)"
+        },
+        {
+          "time": "17:15",
+          "cinema": "meridiano",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "22:05",
+          "cinema": "meridiano",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "19:40",
+          "cinema": "meridiano",
+          "format": "2D INGLÉS SUBTITULADO EN ESPAÑOL (VOSE)"
+        }
+      ],
+      "2026-04-15": [
+        {
+          "time": "17:20",
+          "cinema": "la-villa-de-orotava",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "19:50",
+          "cinema": "la-villa-de-orotava",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "22:20",
+          "cinema": "la-villa-de-orotava",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "17:15",
+          "cinema": "meridiano",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "19:40",
+          "cinema": "meridiano",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "22:05",
+          "cinema": "meridiano",
+          "format": "2D ESPAÑOL"
+        }
+      ],
+      "2026-04-16": [
+        {
+          "time": "17:20",
+          "cinema": "la-villa-de-orotava",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "19:50",
+          "cinema": "la-villa-de-orotava",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "22:20",
+          "cinema": "la-villa-de-orotava",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "17:15",
+          "cinema": "meridiano",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "19:40",
+          "cinema": "meridiano",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "22:05",
+          "cinema": "meridiano",
+          "format": "2D ESPAÑOL"
+        }
+      ]
+    },
+    "actors": [
+      "Maika Monroe",
+      "Tyriq Withers",
+      "Rudy Pankow",
+      "Lainey Wilson",
+      "Lauren Graham",
+      "Bradley Whitford"
+    ],
+    "directors": [
+      "Vanessa Caswill"
+    ],
+    "genres": [
+      "ROMANCE"
+    ],
+    "synopsis": "Tras salir de la cárcel, Kenna intenta volver a conectar con su hija pequeña, pero se enfrenta a la resistencia de todo el mundo, excepto del dueño de un bar que tiene vínculos con su hija. A medida que se acercan, Kenna debe enfrentarse a sus errores del pasado para construir un futuro esperanzador.",
+    "url": "https://www.yelmocines.es/sinopsis/no-te-olvidare"
+  },
+  {
     "title": "Noche de bodas 2",
     "length": "108",
     "age": "18",
     "theater": "yelmo",
     "showings": {
-      "2026-04-08": [
-        {
-          "time": "17:45",
-          "cinema": "la-villa-de-orotava",
-          "format": "2D ESPAÑOL"
-        },
-        {
-          "time": "20:05",
-          "cinema": "la-villa-de-orotava",
-          "format": "2D ESPAÑOL"
-        },
-        {
-          "time": "22:25",
-          "cinema": "la-villa-de-orotava",
-          "format": "2D ESPAÑOL"
-        },
-        {
-          "time": "18:10",
-          "cinema": "meridiano",
-          "format": "2D ESPAÑOL"
-        },
-        {
-          "time": "20:25",
-          "cinema": "meridiano",
-          "format": "2D ESPAÑOL"
-        },
-        {
-          "time": "22:40",
-          "cinema": "meridiano",
-          "format": "2D ESPAÑOL"
-        }
-      ],
-      "2026-04-09": [
-        {
-          "time": "17:45",
-          "cinema": "la-villa-de-orotava",
-          "format": "2D ESPAÑOL"
-        },
-        {
-          "time": "20:05",
-          "cinema": "la-villa-de-orotava",
-          "format": "2D ESPAÑOL"
-        },
-        {
-          "time": "22:25",
-          "cinema": "la-villa-de-orotava",
-          "format": "2D ESPAÑOL"
-        },
-        {
-          "time": "18:10",
-          "cinema": "meridiano",
-          "format": "2D ESPAÑOL"
-        },
-        {
-          "time": "20:25",
-          "cinema": "meridiano",
-          "format": "2D ESPAÑOL"
-        },
-        {
-          "time": "22:40",
-          "cinema": "meridiano",
-          "format": "2D ESPAÑOL"
-        }
-      ],
       "2026-04-10": [
         {
           "time": "21:55",
@@ -686,95 +1433,58 @@
     "age": "0",
     "theater": "yelmo",
     "showings": {
-      "2026-04-08": [
+      "2026-04-10": [
+        {
+          "time": "18:55",
+          "cinema": "la-villa-de-orotava",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "20:25",
+          "cinema": "la-villa-de-orotava",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "22:00",
+          "cinema": "la-villa-de-orotava",
+          "format": "2D ESPAÑOL"
+        },
         {
           "time": "19:00",
           "cinema": "meridiano",
-          "format": "2D INGLÉS SUBTITULADO EN ESPAÑOL (VOSE)"
+          "format": "2D ESPAÑOL"
         },
         {
-          "time": "17:20",
+          "time": "20:05",
           "cinema": "meridiano",
           "format": "2D ESPAÑOL"
         },
         {
-          "time": "20:35",
+          "time": "22:10",
           "cinema": "meridiano",
-          "format": "2D ESPAÑOL"
-        },
-        {
-          "time": "22:05",
-          "cinema": "meridiano",
-          "format": "2D ESPAÑOL"
-        },
-        {
-          "time": "18:40",
-          "cinema": "la-villa-de-orotava",
-          "format": "2D INGLÉS SUBTITULADO EN ESPAÑOL (VOSE)"
-        },
-        {
-          "time": "17:10",
-          "cinema": "la-villa-de-orotava",
-          "format": "2D ESPAÑOL"
-        },
-        {
-          "time": "20:20",
-          "cinema": "la-villa-de-orotava",
-          "format": "2D ESPAÑOL"
-        },
-        {
-          "time": "21:45",
-          "cinema": "la-villa-de-orotava",
-          "format": "2D ESPAÑOL"
-        }
-      ],
-      "2026-04-09": [
-        {
-          "time": "19:00",
-          "cinema": "meridiano",
-          "format": "2D INGLÉS SUBTITULADO EN ESPAÑOL (VOSE)"
-        },
-        {
-          "time": "17:20",
-          "cinema": "meridiano",
-          "format": "2D ESPAÑOL"
-        },
-        {
-          "time": "20:35",
-          "cinema": "meridiano",
-          "format": "2D ESPAÑOL"
-        },
-        {
-          "time": "22:05",
-          "cinema": "meridiano",
-          "format": "2D ESPAÑOL"
-        },
-        {
-          "time": "18:40",
-          "cinema": "la-villa-de-orotava",
-          "format": "2D INGLÉS SUBTITULADO EN ESPAÑOL (VOSE)"
-        },
-        {
-          "time": "17:10",
-          "cinema": "la-villa-de-orotava",
-          "format": "2D ESPAÑOL"
-        },
-        {
-          "time": "20:20",
-          "cinema": "la-villa-de-orotava",
-          "format": "2D ESPAÑOL"
-        },
-        {
-          "time": "21:45",
-          "cinema": "la-villa-de-orotava",
           "format": "2D ESPAÑOL"
         }
       ],
       "2026-04-11": [
         {
-          "time": "13:30",
-          "cinema": "meridiano",
-          "format": "2D INGLÉS SUBTITULADO EN ESPAÑOL (VOSE)"
+          "time": "15:50",
+          "cinema": "la-villa-de-orotava",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "18:55",
+          "cinema": "la-villa-de-orotava",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "20:25",
+          "cinema": "la-villa-de-orotava",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "22:00",
+          "cinema": "la-villa-de-orotava",
+          "format": "2D ESPAÑOL"
         },
         {
           "time": "12:25",
@@ -802,6 +1512,13 @@
           "format": "2D ESPAÑOL"
         },
         {
+          "time": "13:30",
+          "cinema": "meridiano",
+          "format": "2D INGLÉS SUBTITULADO EN ESPAÑOL (VOSE)"
+        }
+      ],
+      "2026-04-12": [
+        {
           "time": "15:50",
           "cinema": "la-villa-de-orotava",
           "format": "2D ESPAÑOL"
@@ -820,13 +1537,6 @@
           "time": "22:00",
           "cinema": "la-villa-de-orotava",
           "format": "2D ESPAÑOL"
-        }
-      ],
-      "2026-04-12": [
-        {
-          "time": "14:25",
-          "cinema": "meridiano",
-          "format": "2D INGLÉS SUBTITULADO EN ESPAÑOL (VOSE)"
         },
         {
           "time": "12:35",
@@ -854,30 +1564,42 @@
           "format": "2D ESPAÑOL"
         },
         {
-          "time": "15:50",
+          "time": "14:25",
+          "cinema": "meridiano",
+          "format": "2D INGLÉS SUBTITULADO EN ESPAÑOL (VOSE)"
+        }
+      ],
+      "2026-04-13": [
+        {
+          "time": "17:30",
           "cinema": "la-villa-de-orotava",
           "format": "2D ESPAÑOL"
         },
         {
-          "time": "18:55",
+          "time": "20:40",
           "cinema": "la-villa-de-orotava",
           "format": "2D ESPAÑOL"
         },
         {
-          "time": "20:25",
-          "cinema": "la-villa-de-orotava",
+          "time": "17:25",
+          "cinema": "meridiano",
           "format": "2D ESPAÑOL"
         },
         {
-          "time": "22:00",
-          "cinema": "la-villa-de-orotava",
+          "time": "20:35",
+          "cinema": "meridiano",
           "format": "2D ESPAÑOL"
         }
       ],
       "2026-04-14": [
         {
-          "time": "20:35",
-          "cinema": "meridiano",
+          "time": "17:30",
+          "cinema": "la-villa-de-orotava",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "20:40",
+          "cinema": "la-villa-de-orotava",
           "format": "2D INGLÉS SUBTITULADO EN ESPAÑOL (VOSE)"
         },
         {
@@ -886,82 +1608,13 @@
           "format": "2D ESPAÑOL"
         },
         {
-          "time": "20:40",
-          "cinema": "la-villa-de-orotava",
-          "format": "2D INGLÉS SUBTITULADO EN ESPAÑOL (VOSE)"
-        },
-        {
-          "time": "17:30",
-          "cinema": "la-villa-de-orotava",
-          "format": "2D ESPAÑOL"
-        }
-      ],
-      "2026-04-10": [
-        {
-          "time": "19:00",
-          "cinema": "meridiano",
-          "format": "2D ESPAÑOL"
-        },
-        {
-          "time": "20:05",
-          "cinema": "meridiano",
-          "format": "2D ESPAÑOL"
-        },
-        {
-          "time": "22:10",
-          "cinema": "meridiano",
-          "format": "2D ESPAÑOL"
-        },
-        {
-          "time": "18:55",
-          "cinema": "la-villa-de-orotava",
-          "format": "2D ESPAÑOL"
-        },
-        {
-          "time": "20:25",
-          "cinema": "la-villa-de-orotava",
-          "format": "2D ESPAÑOL"
-        },
-        {
-          "time": "22:00",
-          "cinema": "la-villa-de-orotava",
-          "format": "2D ESPAÑOL"
-        }
-      ],
-      "2026-04-13": [
-        {
-          "time": "17:25",
-          "cinema": "meridiano",
-          "format": "2D ESPAÑOL"
-        },
-        {
           "time": "20:35",
           "cinema": "meridiano",
-          "format": "2D ESPAÑOL"
-        },
-        {
-          "time": "17:30",
-          "cinema": "la-villa-de-orotava",
-          "format": "2D ESPAÑOL"
-        },
-        {
-          "time": "20:40",
-          "cinema": "la-villa-de-orotava",
-          "format": "2D ESPAÑOL"
+          "format": "2D INGLÉS SUBTITULADO EN ESPAÑOL (VOSE)"
         }
       ],
       "2026-04-15": [
         {
-          "time": "17:25",
-          "cinema": "meridiano",
-          "format": "2D ESPAÑOL"
-        },
-        {
-          "time": "20:35",
-          "cinema": "meridiano",
-          "format": "2D ESPAÑOL"
-        },
-        {
           "time": "17:30",
           "cinema": "la-villa-de-orotava",
           "format": "2D ESPAÑOL"
@@ -969,21 +1622,21 @@
         {
           "time": "20:40",
           "cinema": "la-villa-de-orotava",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "17:25",
+          "cinema": "meridiano",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "20:35",
+          "cinema": "meridiano",
           "format": "2D ESPAÑOL"
         }
       ],
       "2026-04-16": [
         {
-          "time": "17:25",
-          "cinema": "meridiano",
-          "format": "2D ESPAÑOL"
-        },
-        {
-          "time": "20:35",
-          "cinema": "meridiano",
-          "format": "2D ESPAÑOL"
-        },
-        {
           "time": "17:30",
           "cinema": "la-villa-de-orotava",
           "format": "2D ESPAÑOL"
@@ -991,6 +1644,16 @@
         {
           "time": "20:40",
           "cinema": "la-villa-de-orotava",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "17:25",
+          "cinema": "meridiano",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "20:35",
+          "cinema": "meridiano",
           "format": "2D ESPAÑOL"
         }
       ]
@@ -1018,111 +1681,87 @@
     "age": "16",
     "theater": "yelmo",
     "showings": {
-      "2026-04-08": [
-        {
-          "time": "20:00",
-          "cinema": "meridiano",
-          "format": "2D ESPAÑOL"
-        },
-        {
-          "time": "20:25",
-          "cinema": "la-villa-de-orotava",
-          "format": "2D ESPAÑOL"
-        }
-      ],
-      "2026-04-09": [
-        {
-          "time": "20:00",
-          "cinema": "meridiano",
-          "format": "2D ESPAÑOL"
-        },
-        {
-          "time": "20:25",
-          "cinema": "la-villa-de-orotava",
-          "format": "2D ESPAÑOL"
-        }
-      ],
       "2026-04-10": [
-        {
-          "time": "22:20",
-          "cinema": "meridiano",
-          "format": "2D ESPAÑOL"
-        },
         {
           "time": "19:55",
           "cinema": "la-villa-de-orotava",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "22:20",
+          "cinema": "meridiano",
           "format": "2D ESPAÑOL"
         }
       ],
       "2026-04-11": [
         {
-          "time": "22:20",
-          "cinema": "meridiano",
+          "time": "19:55",
+          "cinema": "la-villa-de-orotava",
           "format": "2D ESPAÑOL"
         },
         {
-          "time": "19:55",
-          "cinema": "la-villa-de-orotava",
+          "time": "22:20",
+          "cinema": "meridiano",
           "format": "2D ESPAÑOL"
         }
       ],
       "2026-04-12": [
         {
-          "time": "22:15",
-          "cinema": "meridiano",
+          "time": "19:55",
+          "cinema": "la-villa-de-orotava",
           "format": "2D ESPAÑOL"
         },
         {
-          "time": "19:55",
-          "cinema": "la-villa-de-orotava",
+          "time": "22:15",
+          "cinema": "meridiano",
           "format": "2D ESPAÑOL"
         }
       ],
       "2026-04-13": [
         {
-          "time": "20:05",
-          "cinema": "meridiano",
+          "time": "19:55",
+          "cinema": "la-villa-de-orotava",
           "format": "2D ESPAÑOL"
         },
         {
-          "time": "19:55",
-          "cinema": "la-villa-de-orotava",
+          "time": "20:05",
+          "cinema": "meridiano",
           "format": "2D ESPAÑOL"
         }
       ],
       "2026-04-14": [
         {
-          "time": "20:05",
-          "cinema": "meridiano",
+          "time": "19:55",
+          "cinema": "la-villa-de-orotava",
           "format": "2D ESPAÑOL"
         },
         {
-          "time": "19:55",
-          "cinema": "la-villa-de-orotava",
+          "time": "20:05",
+          "cinema": "meridiano",
           "format": "2D ESPAÑOL"
         }
       ],
       "2026-04-15": [
         {
-          "time": "20:05",
-          "cinema": "meridiano",
+          "time": "19:55",
+          "cinema": "la-villa-de-orotava",
           "format": "2D ESPAÑOL"
         },
         {
-          "time": "19:55",
-          "cinema": "la-villa-de-orotava",
+          "time": "20:05",
+          "cinema": "meridiano",
           "format": "2D ESPAÑOL"
         }
       ],
       "2026-04-16": [
         {
-          "time": "20:05",
-          "cinema": "meridiano",
+          "time": "19:55",
+          "cinema": "la-villa-de-orotava",
           "format": "2D ESPAÑOL"
         },
         {
-          "time": "19:55",
-          "cinema": "la-villa-de-orotava",
+          "time": "20:05",
+          "cinema": "meridiano",
           "format": "2D ESPAÑOL"
         }
       ]
@@ -1149,235 +1788,56 @@
     "age": "7",
     "theater": "yelmo",
     "showings": {
-      "2026-04-08": [
-        {
-          "time": "17:30",
-          "cinema": "meridiano",
-          "format": "3D ESPAÑOL"
-        },
-        {
-          "time": "17:00",
-          "cinema": "meridiano",
-          "format": "2D ESPAÑOL"
-        },
-        {
-          "time": "18:00",
-          "cinema": "meridiano",
-          "format": "2D ESPAÑOL"
-        },
-        {
-          "time": "18:45",
-          "cinema": "meridiano",
-          "format": "2D ESPAÑOL"
-        },
-        {
-          "time": "19:15",
-          "cinema": "meridiano",
-          "format": "2D ESPAÑOL"
-        },
-        {
-          "time": "19:45",
-          "cinema": "meridiano",
-          "format": "2D ESPAÑOL"
-        },
-        {
-          "time": "20:15",
-          "cinema": "meridiano",
-          "format": "2D ESPAÑOL"
-        },
-        {
-          "time": "21:30",
-          "cinema": "meridiano",
-          "format": "2D ESPAÑOL"
-        },
-        {
-          "time": "22:00",
-          "cinema": "meridiano",
-          "format": "2D ESPAÑOL"
-        },
-        {
-          "time": "22:30",
-          "cinema": "meridiano",
-          "format": "2D ESPAÑOL"
-        },
-        {
-          "time": "21:00",
-          "cinema": "meridiano",
-          "format": "2D INGLÉS SUBTITULADO EN ESPAÑOL (VOSE)"
-        },
-        {
-          "time": "17:00",
-          "cinema": "la-villa-de-orotava",
-          "format": "2D ESPAÑOL"
-        },
-        {
-          "time": "18:00",
-          "cinema": "la-villa-de-orotava",
-          "format": "2D ESPAÑOL"
-        },
-        {
-          "time": "18:45",
-          "cinema": "la-villa-de-orotava",
-          "format": "2D ESPAÑOL"
-        },
-        {
-          "time": "19:15",
-          "cinema": "la-villa-de-orotava",
-          "format": "2D ESPAÑOL"
-        },
-        {
-          "time": "19:45",
-          "cinema": "la-villa-de-orotava",
-          "format": "2D ESPAÑOL"
-        },
-        {
-          "time": "20:15",
-          "cinema": "la-villa-de-orotava",
-          "format": "2D ESPAÑOL"
-        },
-        {
-          "time": "21:30",
-          "cinema": "la-villa-de-orotava",
-          "format": "2D ESPAÑOL"
-        },
-        {
-          "time": "22:00",
-          "cinema": "la-villa-de-orotava",
-          "format": "2D ESPAÑOL"
-        },
-        {
-          "time": "22:30",
-          "cinema": "la-villa-de-orotava",
-          "format": "2D ESPAÑOL"
-        },
-        {
-          "time": "21:00",
-          "cinema": "la-villa-de-orotava",
-          "format": "2D INGLÉS SUBTITULADO EN ESPAÑOL (VOSE)"
-        },
-        {
-          "time": "17:30",
-          "cinema": "la-villa-de-orotava",
-          "format": "3D ESPAÑOL"
-        }
-      ],
-      "2026-04-09": [
-        {
-          "time": "17:30",
-          "cinema": "meridiano",
-          "format": "3D ESPAÑOL"
-        },
-        {
-          "time": "17:00",
-          "cinema": "meridiano",
-          "format": "2D ESPAÑOL"
-        },
-        {
-          "time": "18:00",
-          "cinema": "meridiano",
-          "format": "2D ESPAÑOL"
-        },
-        {
-          "time": "18:45",
-          "cinema": "meridiano",
-          "format": "2D ESPAÑOL"
-        },
-        {
-          "time": "19:15",
-          "cinema": "meridiano",
-          "format": "2D ESPAÑOL"
-        },
-        {
-          "time": "19:45",
-          "cinema": "meridiano",
-          "format": "2D ESPAÑOL"
-        },
-        {
-          "time": "20:15",
-          "cinema": "meridiano",
-          "format": "2D ESPAÑOL"
-        },
-        {
-          "time": "21:30",
-          "cinema": "meridiano",
-          "format": "2D ESPAÑOL"
-        },
-        {
-          "time": "22:00",
-          "cinema": "meridiano",
-          "format": "2D ESPAÑOL"
-        },
-        {
-          "time": "22:30",
-          "cinema": "meridiano",
-          "format": "2D ESPAÑOL"
-        },
-        {
-          "time": "21:00",
-          "cinema": "meridiano",
-          "format": "2D INGLÉS SUBTITULADO EN ESPAÑOL (VOSE)"
-        },
-        {
-          "time": "17:00",
-          "cinema": "la-villa-de-orotava",
-          "format": "2D ESPAÑOL"
-        },
-        {
-          "time": "18:00",
-          "cinema": "la-villa-de-orotava",
-          "format": "2D ESPAÑOL"
-        },
-        {
-          "time": "18:45",
-          "cinema": "la-villa-de-orotava",
-          "format": "2D ESPAÑOL"
-        },
-        {
-          "time": "19:15",
-          "cinema": "la-villa-de-orotava",
-          "format": "2D ESPAÑOL"
-        },
-        {
-          "time": "19:45",
-          "cinema": "la-villa-de-orotava",
-          "format": "2D ESPAÑOL"
-        },
-        {
-          "time": "20:15",
-          "cinema": "la-villa-de-orotava",
-          "format": "2D ESPAÑOL"
-        },
-        {
-          "time": "21:30",
-          "cinema": "la-villa-de-orotava",
-          "format": "2D ESPAÑOL"
-        },
-        {
-          "time": "22:00",
-          "cinema": "la-villa-de-orotava",
-          "format": "2D ESPAÑOL"
-        },
-        {
-          "time": "22:30",
-          "cinema": "la-villa-de-orotava",
-          "format": "2D ESPAÑOL"
-        },
-        {
-          "time": "21:00",
-          "cinema": "la-villa-de-orotava",
-          "format": "2D INGLÉS SUBTITULADO EN ESPAÑOL (VOSE)"
-        },
-        {
-          "time": "17:30",
-          "cinema": "la-villa-de-orotava",
-          "format": "3D ESPAÑOL"
-        }
-      ],
       "2026-04-10": [
         {
+          "time": "17:00",
+          "cinema": "la-villa-de-orotava",
+          "format": "2D ESPAÑOL"
+        },
+        {
           "time": "17:30",
-          "cinema": "meridiano",
-          "format": "3D ESPAÑOL"
+          "cinema": "la-villa-de-orotava",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "18:00",
+          "cinema": "la-villa-de-orotava",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "18:45",
+          "cinema": "la-villa-de-orotava",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "19:15",
+          "cinema": "la-villa-de-orotava",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "19:45",
+          "cinema": "la-villa-de-orotava",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "20:15",
+          "cinema": "la-villa-de-orotava",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "21:00",
+          "cinema": "la-villa-de-orotava",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "21:30",
+          "cinema": "la-villa-de-orotava",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "22:30",
+          "cinema": "la-villa-de-orotava",
+          "format": "2D ESPAÑOL"
         },
         {
           "time": "17:00",
@@ -1430,6 +1890,18 @@
           "format": "2D ESPAÑOL"
         },
         {
+          "time": "17:30",
+          "cinema": "meridiano",
+          "format": "3D ESPAÑOL"
+        }
+      ],
+      "2026-04-11": [
+        {
+          "time": "15:45",
+          "cinema": "la-villa-de-orotava",
+          "format": "2D ESPAÑOL"
+        },
+        {
           "time": "17:00",
           "cinema": "la-villa-de-orotava",
           "format": "2D ESPAÑOL"
@@ -1445,7 +1917,7 @@
           "format": "2D ESPAÑOL"
         },
         {
-          "time": "18:45",
+          "time": "19:10",
           "cinema": "la-villa-de-orotava",
           "format": "2D ESPAÑOL"
         },
@@ -1465,7 +1937,7 @@
           "format": "2D ESPAÑOL"
         },
         {
-          "time": "21:00",
+          "time": "21:25",
           "cinema": "la-villa-de-orotava",
           "format": "2D ESPAÑOL"
         },
@@ -1478,9 +1950,7 @@
           "time": "22:30",
           "cinema": "la-villa-de-orotava",
           "format": "2D ESPAÑOL"
-        }
-      ],
-      "2026-04-11": [
+        },
         {
           "time": "12:00",
           "cinema": "meridiano",
@@ -1550,7 +2020,9 @@
           "time": "23:15",
           "cinema": "meridiano",
           "format": "2D ESPAÑOL"
-        },
+        }
+      ],
+      "2026-04-12": [
         {
           "time": "15:45",
           "cinema": "la-villa-de-orotava",
@@ -1572,7 +2044,7 @@
           "format": "2D ESPAÑOL"
         },
         {
-          "time": "19:10",
+          "time": "18:45",
           "cinema": "la-villa-de-orotava",
           "format": "2D ESPAÑOL"
         },
@@ -1592,7 +2064,7 @@
           "format": "2D ESPAÑOL"
         },
         {
-          "time": "21:25",
+          "time": "21:00",
           "cinema": "la-villa-de-orotava",
           "format": "2D ESPAÑOL"
         },
@@ -1605,9 +2077,12 @@
           "time": "22:30",
           "cinema": "la-villa-de-orotava",
           "format": "2D ESPAÑOL"
-        }
-      ],
-      "2026-04-12": [
+        },
+        {
+          "time": "16:25",
+          "cinema": "la-villa-de-orotava",
+          "format": "3D ESPAÑOL"
+        },
         {
           "time": "12:15",
           "cinema": "meridiano",
@@ -1687,313 +2162,253 @@
           "time": "22:30",
           "cinema": "meridiano",
           "format": "2D ESPAÑOL"
-        },
-        {
-          "time": "15:45",
-          "cinema": "la-villa-de-orotava",
-          "format": "2D ESPAÑOL"
-        },
-        {
-          "time": "17:00",
-          "cinema": "la-villa-de-orotava",
-          "format": "2D ESPAÑOL"
-        },
-        {
-          "time": "17:30",
-          "cinema": "la-villa-de-orotava",
-          "format": "2D ESPAÑOL"
-        },
-        {
-          "time": "18:00",
-          "cinema": "la-villa-de-orotava",
-          "format": "2D ESPAÑOL"
-        },
-        {
-          "time": "18:45",
-          "cinema": "la-villa-de-orotava",
-          "format": "2D ESPAÑOL"
-        },
-        {
-          "time": "19:15",
-          "cinema": "la-villa-de-orotava",
-          "format": "2D ESPAÑOL"
-        },
-        {
-          "time": "19:45",
-          "cinema": "la-villa-de-orotava",
-          "format": "2D ESPAÑOL"
-        },
-        {
-          "time": "20:15",
-          "cinema": "la-villa-de-orotava",
-          "format": "2D ESPAÑOL"
-        },
-        {
-          "time": "21:00",
-          "cinema": "la-villa-de-orotava",
-          "format": "2D ESPAÑOL"
-        },
-        {
-          "time": "21:30",
-          "cinema": "la-villa-de-orotava",
-          "format": "2D ESPAÑOL"
-        },
-        {
-          "time": "22:30",
-          "cinema": "la-villa-de-orotava",
-          "format": "2D ESPAÑOL"
-        },
-        {
-          "time": "16:25",
-          "cinema": "la-villa-de-orotava",
-          "format": "3D ESPAÑOL"
         }
       ],
       "2026-04-13": [
         {
           "time": "17:00",
-          "cinema": "meridiano",
+          "cinema": "la-villa-de-orotava",
           "format": "2D ESPAÑOL"
         },
         {
           "time": "18:00",
-          "cinema": "meridiano",
+          "cinema": "la-villa-de-orotava",
           "format": "2D ESPAÑOL"
         },
         {
           "time": "19:15",
-          "cinema": "meridiano",
+          "cinema": "la-villa-de-orotava",
           "format": "2D ESPAÑOL"
         },
         {
           "time": "20:15",
-          "cinema": "meridiano",
+          "cinema": "la-villa-de-orotava",
           "format": "2D ESPAÑOL"
         },
         {
           "time": "21:30",
-          "cinema": "meridiano",
+          "cinema": "la-villa-de-orotava",
           "format": "2D ESPAÑOL"
         },
         {
           "time": "22:30",
-          "cinema": "meridiano",
+          "cinema": "la-villa-de-orotava",
           "format": "2D ESPAÑOL"
         },
         {
           "time": "17:00",
-          "cinema": "la-villa-de-orotava",
+          "cinema": "meridiano",
           "format": "2D ESPAÑOL"
         },
         {
           "time": "18:00",
-          "cinema": "la-villa-de-orotava",
+          "cinema": "meridiano",
           "format": "2D ESPAÑOL"
         },
         {
           "time": "19:15",
-          "cinema": "la-villa-de-orotava",
+          "cinema": "meridiano",
           "format": "2D ESPAÑOL"
         },
         {
           "time": "20:15",
-          "cinema": "la-villa-de-orotava",
+          "cinema": "meridiano",
           "format": "2D ESPAÑOL"
         },
         {
           "time": "21:30",
-          "cinema": "la-villa-de-orotava",
+          "cinema": "meridiano",
           "format": "2D ESPAÑOL"
         },
         {
           "time": "22:30",
-          "cinema": "la-villa-de-orotava",
+          "cinema": "meridiano",
           "format": "2D ESPAÑOL"
         }
       ],
       "2026-04-14": [
         {
           "time": "17:00",
-          "cinema": "meridiano",
+          "cinema": "la-villa-de-orotava",
           "format": "2D ESPAÑOL"
         },
         {
           "time": "18:00",
-          "cinema": "meridiano",
+          "cinema": "la-villa-de-orotava",
           "format": "2D ESPAÑOL"
         },
         {
           "time": "19:15",
-          "cinema": "meridiano",
+          "cinema": "la-villa-de-orotava",
           "format": "2D ESPAÑOL"
         },
         {
           "time": "21:30",
-          "cinema": "meridiano",
+          "cinema": "la-villa-de-orotava",
           "format": "2D ESPAÑOL"
         },
         {
           "time": "22:30",
-          "cinema": "meridiano",
+          "cinema": "la-villa-de-orotava",
           "format": "2D ESPAÑOL"
         },
         {
           "time": "20:15",
-          "cinema": "meridiano",
+          "cinema": "la-villa-de-orotava",
           "format": "2D INGLÉS SUBTITULADO EN ESPAÑOL (VOSE)"
         },
         {
           "time": "17:00",
-          "cinema": "la-villa-de-orotava",
+          "cinema": "meridiano",
           "format": "2D ESPAÑOL"
         },
         {
           "time": "18:00",
-          "cinema": "la-villa-de-orotava",
+          "cinema": "meridiano",
           "format": "2D ESPAÑOL"
         },
         {
           "time": "19:15",
-          "cinema": "la-villa-de-orotava",
+          "cinema": "meridiano",
           "format": "2D ESPAÑOL"
         },
         {
           "time": "21:30",
-          "cinema": "la-villa-de-orotava",
+          "cinema": "meridiano",
           "format": "2D ESPAÑOL"
         },
         {
           "time": "22:30",
-          "cinema": "la-villa-de-orotava",
+          "cinema": "meridiano",
           "format": "2D ESPAÑOL"
         },
         {
           "time": "20:15",
-          "cinema": "la-villa-de-orotava",
+          "cinema": "meridiano",
           "format": "2D INGLÉS SUBTITULADO EN ESPAÑOL (VOSE)"
         }
       ],
       "2026-04-15": [
         {
           "time": "17:00",
-          "cinema": "meridiano",
+          "cinema": "la-villa-de-orotava",
           "format": "2D ESPAÑOL"
         },
         {
           "time": "18:00",
-          "cinema": "meridiano",
+          "cinema": "la-villa-de-orotava",
           "format": "2D ESPAÑOL"
         },
         {
           "time": "19:15",
-          "cinema": "meridiano",
+          "cinema": "la-villa-de-orotava",
           "format": "2D ESPAÑOL"
         },
         {
           "time": "20:15",
-          "cinema": "meridiano",
+          "cinema": "la-villa-de-orotava",
           "format": "2D ESPAÑOL"
         },
         {
           "time": "21:30",
-          "cinema": "meridiano",
+          "cinema": "la-villa-de-orotava",
           "format": "2D ESPAÑOL"
         },
         {
           "time": "22:30",
-          "cinema": "meridiano",
+          "cinema": "la-villa-de-orotava",
           "format": "2D ESPAÑOL"
         },
         {
           "time": "17:00",
-          "cinema": "la-villa-de-orotava",
+          "cinema": "meridiano",
           "format": "2D ESPAÑOL"
         },
         {
           "time": "18:00",
-          "cinema": "la-villa-de-orotava",
+          "cinema": "meridiano",
           "format": "2D ESPAÑOL"
         },
         {
           "time": "19:15",
-          "cinema": "la-villa-de-orotava",
+          "cinema": "meridiano",
           "format": "2D ESPAÑOL"
         },
         {
           "time": "20:15",
-          "cinema": "la-villa-de-orotava",
+          "cinema": "meridiano",
           "format": "2D ESPAÑOL"
         },
         {
           "time": "21:30",
-          "cinema": "la-villa-de-orotava",
+          "cinema": "meridiano",
           "format": "2D ESPAÑOL"
         },
         {
           "time": "22:30",
-          "cinema": "la-villa-de-orotava",
+          "cinema": "meridiano",
           "format": "2D ESPAÑOL"
         }
       ],
       "2026-04-16": [
         {
           "time": "17:00",
-          "cinema": "meridiano",
+          "cinema": "la-villa-de-orotava",
           "format": "2D ESPAÑOL"
         },
         {
           "time": "18:00",
-          "cinema": "meridiano",
+          "cinema": "la-villa-de-orotava",
           "format": "2D ESPAÑOL"
         },
         {
           "time": "19:15",
-          "cinema": "meridiano",
+          "cinema": "la-villa-de-orotava",
           "format": "2D ESPAÑOL"
         },
         {
           "time": "20:15",
-          "cinema": "meridiano",
+          "cinema": "la-villa-de-orotava",
           "format": "2D ESPAÑOL"
         },
         {
           "time": "21:30",
-          "cinema": "meridiano",
+          "cinema": "la-villa-de-orotava",
           "format": "2D ESPAÑOL"
         },
         {
           "time": "22:30",
-          "cinema": "meridiano",
+          "cinema": "la-villa-de-orotava",
           "format": "2D ESPAÑOL"
         },
         {
           "time": "17:00",
-          "cinema": "la-villa-de-orotava",
+          "cinema": "meridiano",
           "format": "2D ESPAÑOL"
         },
         {
           "time": "18:00",
-          "cinema": "la-villa-de-orotava",
+          "cinema": "meridiano",
           "format": "2D ESPAÑOL"
         },
         {
           "time": "19:15",
-          "cinema": "la-villa-de-orotava",
+          "cinema": "meridiano",
           "format": "2D ESPAÑOL"
         },
         {
           "time": "20:15",
-          "cinema": "la-villa-de-orotava",
+          "cinema": "meridiano",
           "format": "2D ESPAÑOL"
         },
         {
           "time": "21:30",
-          "cinema": "la-villa-de-orotava",
+          "cinema": "meridiano",
           "format": "2D ESPAÑOL"
         },
         {
           "time": "22:30",
-          "cinema": "la-villa-de-orotava",
+          "cinema": "meridiano",
           "format": "2D ESPAÑOL"
         }
       ]
@@ -2024,30 +2439,6 @@
     "age": "18",
     "theater": "yelmo",
     "showings": {
-      "2026-04-08": [
-        {
-          "time": "22:20",
-          "cinema": "meridiano",
-          "format": "2D ESPAÑOL"
-        },
-        {
-          "time": "22:40",
-          "cinema": "la-villa-de-orotava",
-          "format": "2D ESPAÑOL"
-        }
-      ],
-      "2026-04-09": [
-        {
-          "time": "22:20",
-          "cinema": "meridiano",
-          "format": "2D ESPAÑOL"
-        },
-        {
-          "time": "22:40",
-          "cinema": "la-villa-de-orotava",
-          "format": "2D ESPAÑOL"
-        }
-      ],
       "2026-04-10": [
         {
           "time": "17:00",
@@ -2106,122 +2497,33 @@
     "age": "16",
     "theater": "yelmo",
     "showings": {
-      "2026-04-08": [
-        {
-          "time": "18:20",
-          "cinema": "meridiano",
-          "format": "2D ESPAÑOL"
-        },
-        {
-          "time": "19:30",
-          "cinema": "meridiano",
-          "format": "2D ESPAÑOL"
-        },
-        {
-          "time": "20:30",
-          "cinema": "meridiano",
-          "format": "2D ESPAÑOL"
-        },
-        {
-          "time": "21:45",
-          "cinema": "meridiano",
-          "format": "2D ESPAÑOL"
-        },
-        {
-          "time": "22:40",
-          "cinema": "meridiano",
-          "format": "2D ESPAÑOL"
-        },
-        {
-          "time": "17:15",
-          "cinema": "la-villa-de-orotava",
-          "format": "2D ESPAÑOL"
-        },
-        {
-          "time": "18:15",
-          "cinema": "la-villa-de-orotava",
-          "format": "2D ESPAÑOL"
-        },
-        {
-          "time": "19:30",
-          "cinema": "la-villa-de-orotava",
-          "format": "2D ESPAÑOL"
-        },
-        {
-          "time": "20:30",
-          "cinema": "la-villa-de-orotava",
-          "format": "2D ESPAÑOL"
-        },
-        {
-          "time": "21:45",
-          "cinema": "la-villa-de-orotava",
-          "format": "2D ESPAÑOL"
-        },
-        {
-          "time": "22:45",
-          "cinema": "la-villa-de-orotava",
-          "format": "2D ESPAÑOL"
-        }
-      ],
-      "2026-04-09": [
-        {
-          "time": "18:20",
-          "cinema": "meridiano",
-          "format": "2D ESPAÑOL"
-        },
-        {
-          "time": "19:30",
-          "cinema": "meridiano",
-          "format": "2D ESPAÑOL"
-        },
-        {
-          "time": "20:30",
-          "cinema": "meridiano",
-          "format": "2D ESPAÑOL"
-        },
-        {
-          "time": "21:45",
-          "cinema": "meridiano",
-          "format": "2D ESPAÑOL"
-        },
-        {
-          "time": "22:40",
-          "cinema": "meridiano",
-          "format": "2D ESPAÑOL"
-        },
-        {
-          "time": "17:15",
-          "cinema": "la-villa-de-orotava",
-          "format": "2D ESPAÑOL"
-        },
-        {
-          "time": "18:15",
-          "cinema": "la-villa-de-orotava",
-          "format": "2D ESPAÑOL"
-        },
-        {
-          "time": "19:30",
-          "cinema": "la-villa-de-orotava",
-          "format": "2D ESPAÑOL"
-        },
-        {
-          "time": "20:30",
-          "cinema": "la-villa-de-orotava",
-          "format": "2D ESPAÑOL"
-        },
-        {
-          "time": "21:45",
-          "cinema": "la-villa-de-orotava",
-          "format": "2D ESPAÑOL"
-        },
-        {
-          "time": "22:45",
-          "cinema": "la-villa-de-orotava",
-          "format": "2D ESPAÑOL"
-        }
-      ],
       "2026-04-10": [
         {
+          "time": "18:20",
+          "cinema": "la-villa-de-orotava",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "19:25",
+          "cinema": "la-villa-de-orotava",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "20:30",
+          "cinema": "la-villa-de-orotava",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "21:40",
+          "cinema": "la-villa-de-orotava",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "22:40",
+          "cinema": "la-villa-de-orotava",
+          "format": "2D ESPAÑOL"
+        },
+        {
           "time": "18:15",
           "cinema": "meridiano",
           "format": "2D ESPAÑOL"
@@ -2234,6 +2536,13 @@
         {
           "time": "22:45",
           "cinema": "meridiano",
+          "format": "2D ESPAÑOL"
+        }
+      ],
+      "2026-04-11": [
+        {
+          "time": "16:10",
+          "cinema": "la-villa-de-orotava",
           "format": "2D ESPAÑOL"
         },
         {
@@ -2260,9 +2569,7 @@
           "time": "22:40",
           "cinema": "la-villa-de-orotava",
           "format": "2D ESPAÑOL"
-        }
-      ],
-      "2026-04-11": [
+        },
         {
           "time": "12:35",
           "cinema": "meridiano",
@@ -2287,7 +2594,9 @@
           "time": "22:45",
           "cinema": "meridiano",
           "format": "2D ESPAÑOL"
-        },
+        }
+      ],
+      "2026-04-12": [
         {
           "time": "16:10",
           "cinema": "la-villa-de-orotava",
@@ -2317,9 +2626,7 @@
           "time": "22:40",
           "cinema": "la-villa-de-orotava",
           "format": "2D ESPAÑOL"
-        }
-      ],
-      "2026-04-12": [
+        },
         {
           "time": "12:05",
           "cinema": "meridiano",
@@ -2344,19 +2651,11 @@
           "time": "22:35",
           "cinema": "meridiano",
           "format": "2D ESPAÑOL"
-        },
-        {
-          "time": "16:10",
-          "cinema": "la-villa-de-orotava",
-          "format": "2D ESPAÑOL"
-        },
+        }
+      ],
+      "2026-04-13": [
         {
           "time": "18:20",
-          "cinema": "la-villa-de-orotava",
-          "format": "2D ESPAÑOL"
-        },
-        {
-          "time": "19:25",
           "cinema": "la-villa-de-orotava",
           "format": "2D ESPAÑOL"
         },
@@ -2366,17 +2665,10 @@
           "format": "2D ESPAÑOL"
         },
         {
-          "time": "21:40",
-          "cinema": "la-villa-de-orotava",
-          "format": "2D ESPAÑOL"
-        },
-        {
           "time": "22:40",
           "cinema": "la-villa-de-orotava",
           "format": "2D ESPAÑOL"
-        }
-      ],
-      "2026-04-13": [
+        },
         {
           "time": "18:15",
           "cinema": "meridiano",
@@ -2390,41 +2682,11 @@
         {
           "time": "22:35",
           "cinema": "meridiano",
-          "format": "2D ESPAÑOL"
-        },
-        {
-          "time": "18:20",
-          "cinema": "la-villa-de-orotava",
-          "format": "2D ESPAÑOL"
-        },
-        {
-          "time": "20:30",
-          "cinema": "la-villa-de-orotava",
-          "format": "2D ESPAÑOL"
-        },
-        {
-          "time": "22:40",
-          "cinema": "la-villa-de-orotava",
           "format": "2D ESPAÑOL"
         }
       ],
       "2026-04-14": [
         {
-          "time": "18:15",
-          "cinema": "meridiano",
-          "format": "2D ESPAÑOL"
-        },
-        {
-          "time": "20:25",
-          "cinema": "meridiano",
-          "format": "2D ESPAÑOL"
-        },
-        {
-          "time": "22:35",
-          "cinema": "meridiano",
-          "format": "2D ESPAÑOL"
-        },
-        {
           "time": "18:20",
           "cinema": "la-villa-de-orotava",
           "format": "2D ESPAÑOL"
@@ -2437,26 +2699,26 @@
         {
           "time": "22:40",
           "cinema": "la-villa-de-orotava",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "18:15",
+          "cinema": "meridiano",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "20:25",
+          "cinema": "meridiano",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "22:35",
+          "cinema": "meridiano",
           "format": "2D ESPAÑOL"
         }
       ],
       "2026-04-15": [
         {
-          "time": "18:15",
-          "cinema": "meridiano",
-          "format": "2D ESPAÑOL"
-        },
-        {
-          "time": "20:25",
-          "cinema": "meridiano",
-          "format": "2D ESPAÑOL"
-        },
-        {
-          "time": "22:35",
-          "cinema": "meridiano",
-          "format": "2D ESPAÑOL"
-        },
-        {
           "time": "18:20",
           "cinema": "la-villa-de-orotava",
           "format": "2D ESPAÑOL"
@@ -2469,26 +2731,26 @@
         {
           "time": "22:40",
           "cinema": "la-villa-de-orotava",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "18:15",
+          "cinema": "meridiano",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "20:25",
+          "cinema": "meridiano",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "22:35",
+          "cinema": "meridiano",
           "format": "2D ESPAÑOL"
         }
       ],
       "2026-04-16": [
         {
-          "time": "18:15",
-          "cinema": "meridiano",
-          "format": "2D ESPAÑOL"
-        },
-        {
-          "time": "20:25",
-          "cinema": "meridiano",
-          "format": "2D ESPAÑOL"
-        },
-        {
-          "time": "22:35",
-          "cinema": "meridiano",
-          "format": "2D ESPAÑOL"
-        },
-        {
           "time": "18:20",
           "cinema": "la-villa-de-orotava",
           "format": "2D ESPAÑOL"
@@ -2501,6 +2763,21 @@
         {
           "time": "22:40",
           "cinema": "la-villa-de-orotava",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "18:15",
+          "cinema": "meridiano",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "20:25",
+          "cinema": "meridiano",
+          "format": "2D ESPAÑOL"
+        },
+        {
+          "time": "22:35",
+          "cinema": "meridiano",
           "format": "2D ESPAÑOL"
         }
       ]
@@ -2516,82 +2793,5 @@
     ],
     "synopsis": "Han pasado años desde su última aventura, pero José Luis Torrente, el ex-policía más políticamente incorrecto de España, sigue viéndose a sí mismo como un héroe nacional.",
     "url": "https://www.yelmocines.es/sinopsis/torrente-presidente"
-  },
-  {
-    "title": "Whistle: El silbido del mal",
-    "length": "100",
-    "age": "18",
-    "theater": "yelmo",
-    "showings": {
-      "2026-04-08": [
-        {
-          "time": "22:35",
-          "cinema": "meridiano",
-          "format": "2D ESPAÑOL"
-        }
-      ],
-      "2026-04-09": [
-        {
-          "time": "22:35",
-          "cinema": "meridiano",
-          "format": "2D ESPAÑOL"
-        }
-      ]
-    },
-    "actors": [
-      "Sophie Nélisse",
-      "Nick Frost",
-      "Dafne Keen",
-      "Percy Hynes White",
-      "Ali Skovbye"
-    ],
-    "directors": [
-      "Corin Hardy"
-    ],
-    "genres": [
-      "TERROR"
-    ],
-    "synopsis": "Un grupo de estudiantes encuentra por accidente un objeto maldito: un antiguo silbato de la muerte azteca. Al soplarlo, descubren que el terrorífico sonido que produce invoca a sus propias muertes futuras para perseguirlos. Mientras las víctimas aumentan, los amigos intentan descubrir el origen del artefacto y detener la terrible cadena de sucesos que han provocado.",
-    "url": "https://www.yelmocines.es/sinopsis/whistle-el-silbido-del-mal"
-  },
-  {
-    "title": "Your Name (10º Aniversario)",
-    "length": "107",
-    "age": "0",
-    "theater": "yelmo",
-    "showings": {
-      "2026-04-08": [
-        {
-          "time": "17:10",
-          "cinema": "meridiano",
-          "format": "2D JAPONÉS SUBTITULADO EN ESPAÑOL (VOSE)"
-        }
-      ],
-      "2026-04-09": [
-        {
-          "time": "17:10",
-          "cinema": "meridiano",
-          "format": "2D JAPONÉS SUBTITULADO EN ESPAÑOL (VOSE)"
-        }
-      ]
-    },
-    "actors": [
-      "Nobunaga Shimazaki",
-      "Ryûnosuke Kamiki",
-      "Mone Kamishiraishi",
-      "Ryô Narita",
-      "Aoi Yuki",
-      "Kaito Ishikawa",
-      "Kanon Tani",
-      "Masaki Terasoma"
-    ],
-    "directors": [
-      "Makoto Shinkai"
-    ],
-    "genres": [
-      "ANIMACION,CONTENIDO ALTERNATIVO"
-    ],
-    "synopsis": "Ha pasado un mes desde que un cometa que visita la Tierra cada mil años se avistara desde Japón. Mitsuha es una estudiante que se lamenta de su vida en el campo junto a su hermana pequeña, su abuela y su padre, un político al que nunca ve. Detesta las pintorescas costumbres de su familia y sueña con el maravilloso estilo de vida de los habitantes de Tokio. Por su parte, Taki es un estudiante que vive en Tokio, tiene un trabajo a tiempo parcial en un restaurante italiano y necesita alejarse de su familia. Una noche, Mitsuha sueña que es un chico de Tokio y Taki sueña que es una chica que vive en el campo. ¿Cuál es el secreto que se oculta tras los sueños de dos personas que a pesar de que no se conocen de nada parecen buscarse desesperadamente?",
-    "url": "https://www.yelmocines.es/sinopsis/your-name-10o-aniversario"
   }
 ]

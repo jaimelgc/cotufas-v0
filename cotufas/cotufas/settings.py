@@ -1,4 +1,3 @@
-import sys
 from pathlib import Path
 
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
@@ -73,14 +72,6 @@ DATABASES = {
         'PORT': '5432',
     }
 }
-
-if "pytest" in sys.modules:
-    DATABASES = {
-        "default": {
-            "ENGINE": "django.db.backends.sqlite3",
-            "NAME": ":memory:",
-        }
-    }
 
 
 # Password validation

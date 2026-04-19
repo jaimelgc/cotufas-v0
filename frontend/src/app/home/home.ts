@@ -1,12 +1,18 @@
-import { Component, signal } from '@angular/core';
-import { MovieItem } from '../components/movie-item/movie-item';
+import { Component, inject } from '@angular/core';
+import { CommonModule } from '@angular/common';
+import { RouterLink } from '@angular/router';
+import { CinemaService } from '../services/cinema.service';
+import { toSignal } from '@angular/core/rxjs-interop';
 
 @Component({
   selector: 'app-home',
-  imports: [MovieItem],
-  templateUrl: './home.html',
-  styleUrl: './home.css',
+  standalone: true,
+  imports: [CommonModule, RouterLink],
+  templateUrl: './home.component.html',
+  styleUrl: './home.component.scss',
 })
-export class Home {
-  title = signal('ese')
+export class HomeComponent {
+  cinema = inject(CinemaService);
+  featured = toSignal(this.cinema.getFeaturedMovies(), { initialValue: [] });
+  theaters = toSignal(this.cinema.getTheaters(), { initialValue: [] });
 }

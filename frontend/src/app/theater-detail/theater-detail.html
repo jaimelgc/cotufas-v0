@@ -1,0 +1,46 @@
+<div class="page">
+  @if (theater(); as t) {
+    <div class="theater-hero" [style.background-image]="t.imageUrl ? 'url(' + t.imageUrl + ')' : ''">
+      <div class="hero-overlay">
+        <div class="container">
+          <p class="breadcrumb"><a routerLink="/home">Home</a> / Theatres</p>
+          <h1 class="theater-name">{{ t.name }}</h1>
+          <p class="theater-address">{{ t.address }}</p>
+        </div>
+      </div>
+    </div>
+  }
+
+  <div class="container page-content">
+    <h2 class="section-label">Now Showing</h2>
+
+    <div class="screening-list">
+      @for (item of movieShowings(); track item.movie.id) {
+        <div class="screening-row">
+          <a [routerLink]="['/movies', item.movie.id]" class="screening-poster-link">
+            <img [src]="item.movie.posterUrl" [alt]="item.movie.title" class="screening-poster" />
+          </a>
+          <div class="screening-info">
+            <a [routerLink]="['/movies', item.movie.id]" class="screening-title">
+              {{ item.movie.title }}
+            </a>
+            <p class="screening-meta">{{ item.movie.genre }} · {{ item.movie.duration }} min · {{ item.movie.rating }}</p>
+            <div class="showtime-row">
+              @for (s of item.showings; track s.id) {
+                <div class="showtime-block">
+                  <p class="showtime-date">{{ formatDate(s.datetime) }}</p>
+                  <a [href]="s.purchaseUrl" target="_blank" rel="noopener" class="showtime-link">
+                    {{ formatTime(s.datetime) }}
+                    @if (s.format) { <span class="format-tag">{{ s.format }}</span> }
+                  </a>
+                </div>
+              }
+            </div>
+          </div>
+        </div>
+      } @empty {
+        <p class="empty-state">No screenings available at this time.</p>
+      }
+    </div>
+  </div>
+</div>

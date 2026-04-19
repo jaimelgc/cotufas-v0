@@ -1,48 +1,14 @@
 [
   {
-    "title": "TAFITI Y SUS AMIGOS",
-    "length": "84 minutos",
-    "age": "0",
-    "theater": "xsur",
-    "format": "Español",
-    "showings": {
-      "2026-04-11": [
-        {
-          "time": "13:30"
-        }
-      ],
-      "2026-04-12": [
-        {
-          "time": "13:30"
-        }
-      ]
-    },
-    "actors": null,
-    "directors": null,
-    "genres": null,
-    "synopsis": "Cuando Tafiti, una joven suricata, conoce a Bristles, el cerdo salvaje, sabe que no pueden ser amigos. Pero cuando Bristles es atacado por un águila, es Tafiti quien corre a rescatarlo. En busca desesperada de un amigo, el divertido cerdo salvaje sigue a Tafiti a su casa, provocando sin querer un desafortunado accidente: el abuelo de Tafiti es mordido por una serpiente venenosa mortal. Sólo una mítica flor del desierto podrá salvarlo. Tafiti emprende un peligroso viaje para encontrar la flor, convencido de que debe hacerlo sola.",
-    "url": "https://x-surcine.com/peliculas/tafiti-y-sus-amigos-3/"
-  },
-  {
     "title": "WHISTLE EL SILBIDO DEL MAL",
-    "length": "100 minutos",
+    "length": "103 minutos",
     "age": "18",
     "theater": "xsur",
     "format": "Español",
     "showings": {
-      "2026-04-10": [
+      "2026-04-16": [
         {
-          "time": "22:50"
-        }
-      ],
-      "2026-04-11": [
-        {
-          "time": "19:40"
-        }
-      ],
-      "2026-04-12": [
-        {
-          "time": "19:20"
+          "time": "20:20"
         },
         {
           "time": "22:50"
@@ -62,49 +28,48 @@
     "theater": "xsur",
     "format": "Español",
     "showings": {
-      "2026-04-10": [
+      "2026-04-16": [
         {
           "time": "18:30"
         },
         {
-          "time": "20:30"
+          "time": "20:50"
         },
         {
-          "time": "22:30"
+          "time": "22:45"
         }
       ],
-      "2026-04-11": [
+      "2026-04-17": [
         {
-          "time": "14:00"
+          "time": "18:25"
         },
         {
-          "time": "16:00"
+          "time": "20:20"
         },
         {
-          "time": "18:00"
-        },
-        {
-          "time": "20:00"
-        },
-        {
-          "time": "22:00"
+          "time": "22:45"
         }
       ],
-      "2026-04-12": [
+      "2026-04-18": [
         {
-          "time": "14:00"
+          "time": "14:50"
         },
         {
-          "time": "15:50"
+          "time": "17:40"
         },
         {
-          "time": "17:50"
+          "time": "22:45"
+        }
+      ],
+      "2026-04-19": [
+        {
+          "time": "14:50"
         },
         {
-          "time": "20:10"
+          "time": "17:30"
         },
         {
-          "time": "22:35"
+          "time": "22:45"
         }
       ]
     },
@@ -115,13 +80,37 @@
     "url": "https://x-surcine.com/peliculas/torrente-presidente/"
   },
   {
+    "title": "TAFITI Y SUS AMIGOS",
+    "length": "84 minutos",
+    "age": "0",
+    "theater": "xsur",
+    "format": "Español",
+    "showings": {
+      "2026-04-18": [
+        {
+          "time": "13:45"
+        }
+      ],
+      "2026-04-19": [
+        {
+          "time": "14:25"
+        }
+      ]
+    },
+    "actors": null,
+    "directors": null,
+    "genres": null,
+    "synopsis": "Cuando Tafiti, una joven suricata, conoce a Bristles, el cerdo salvaje, sabe que no pueden ser amigos. Pero cuando Bristles es atacado por un águila, es Tafiti quien corre a rescatarlo. En busca desesperada de un amigo, el divertido cerdo salvaje sigue a Tafiti a su casa, provocando sin querer un desafortunado accidente: el abuelo de Tafiti es mordido por una serpiente venenosa mortal. Sólo una mítica flor del desierto podrá salvarlo. Tafiti emprende un peligroso viaje para encontrar la flor, convencido de que debe hacerlo sola.",
+    "url": "https://x-surcine.com/peliculas/tafiti-y-sus-amigos-2/"
+  },
+  {
     "title": "SUPER MARIO GALAXY LA PELÍCULA",
     "length": "100 minutos",
     "age": "7",
     "theater": "xsur",
     "format": "Español",
     "showings": {
-      "2026-04-10": [
+      "2026-04-16": [
         {
           "time": "16:10"
         },
@@ -133,29 +122,31 @@
         },
         {
           "time": "20:00"
-        },
-        {
-          "time": "21:00"
         }
       ],
-      "2026-04-11": [
+      "2026-04-17": [
         {
-          "time": "11:30"
+          "time": "16:10"
         },
         {
-          "time": "12:30"
+          "time": "18:00"
+        },
+        {
+          "time": "19:00"
+        },
+        {
+          "time": "20:00"
+        }
+      ],
+      "2026-04-18": [
+        {
+          "time": "11:30"
         },
         {
           "time": "13:35"
         },
         {
-          "time": "14:30"
-        },
-        {
           "time": "15:30"
-        },
-        {
-          "time": "16:30"
         },
         {
           "time": "17:30"
@@ -164,30 +155,24 @@
           "time": "18:30"
         },
         {
+          "time": "19:35"
+        },
+        {
           "time": "20:35"
         },
         {
-          "time": "21:40"
+          "time": "22:30"
         }
       ],
-      "2026-04-12": [
+      "2026-04-19": [
         {
           "time": "11:30"
-        },
-        {
-          "time": "12:30"
         },
         {
           "time": "13:35"
         },
         {
-          "time": "14:30"
-        },
-        {
           "time": "15:30"
-        },
-        {
-          "time": "16:30"
         },
         {
           "time": "17:30"
@@ -216,31 +201,36 @@
     "theater": "xsur",
     "format": "Español",
     "showings": {
-      "2026-04-10": [
+      "2026-04-16": [
         {
-          "time": "18:05"
+          "time": "16:15"
         },
         {
-          "time": "22:45"
+          "time": "20:20"
         }
       ],
-      "2026-04-11": [
+      "2026-04-17": [
         {
-          "time": "14:20"
+          "time": "20:35"
         },
         {
-          "time": "18:20"
-        },
-        {
-          "time": "22:40"
+          "time": "22:30"
         }
       ],
-      "2026-04-12": [
+      "2026-04-18": [
         {
-          "time": "18:20"
+          "time": "19:30"
         },
         {
-          "time": "22:40"
+          "time": "22:15"
+        }
+      ],
+      "2026-04-19": [
+        {
+          "time": "19:30"
+        },
+        {
+          "time": "22:30"
         }
       ]
     },
@@ -248,7 +238,7 @@
     "directors": null,
     "genres": null,
     "synopsis": "En una remota isla, un hombre que vive en el exilio (Jason Statham) rescata a una niña de una peligrosa tempestad, lo que desencadena una serie de eventos que los ponen a ambos en grave peligro. A medida que sus destinos se entrelazan, su misión será protegerla a toda costa, mientras se enfrenta a los enemigos de su pasado, en una trepidante odisea por sobrevivir.",
-    "url": "https://x-surcine.com/peliculas/shelter-el-protector/"
+    "url": "https://x-surcine.com/peliculas/shelter-el-protector-2/"
   },
   {
     "title": "SCREAM 7",
@@ -257,19 +247,19 @@
     "theater": "xsur",
     "format": "Español",
     "showings": {
-      "2026-04-10": [
+      "2026-04-16": [
         {
-          "time": "22:20"
+          "time": "16:10"
         }
       ],
-      "2026-04-11": [
+      "2026-04-17": [
         {
-          "time": "21:35"
+          "time": "16:10"
         }
       ],
-      "2026-04-12": [
+      "2026-04-19": [
         {
-          "time": "15:15"
+          "time": "21:30"
         }
       ]
     },
@@ -280,49 +270,79 @@
     "url": "https://x-surcine.com/peliculas/scream-7/"
   },
   {
+    "title": "RUTA DE ESCAPE",
+    "length": "143 minutos",
+    "age": "16",
+    "theater": "xsur",
+    "format": "Español",
+    "showings": {
+      "2026-04-16": [
+        {
+          "time": "22:10"
+        }
+      ]
+    },
+    "actors": null,
+    "directors": null,
+    "genres": null,
+    "synopsis": "Davis (Chris Hemsworth) es un escurridizo ladrón cuyos atracos de alto riesgo tienen desconcertada a la policía. Davis está planeando su mayor golpe, con la esperanza de que sea el último, cuando se cruza en su camino Sharon (Halle Berry), una desilusionada ejecutiva de seguros con la que se ve obligado a trabajar, y Orman (Barry Keoghan) un ladrón rival, con métodos mucho más inquietantes que los de Davis. A medida que se acerca el golpe multimillonario, el implacable teniente Lubesnik (Mark Ruffalo), se acerca a la operación, aumentando considerablemente el riesgo de lo que está en juego y difuminando la línea entre cazador y presa. Pronto, cada uno tendrá que aceptar el coste de sus decisiones asumiendo que no hay vuelta atrás. Adaptación de las novelas de Don Winslow Rotos.",
+    "url": "https://x-surcine.com/peliculas/ruta-de-escape/"
+  },
+  {
     "title": "PROYECTO SALVACIÓN",
     "length": "158 minutos",
     "age": "7",
     "theater": "xsur",
     "format": "Español",
     "showings": {
-      "2026-04-10": [
+      "2026-04-16": [
         {
-          "time": "16:45"
+          "time": "18:00"
         },
         {
-          "time": "19:30"
-        },
-        {
-          "time": "21:50"
-        }
-      ],
-      "2026-04-11": [
-        {
-          "time": "11:30"
-        },
-        {
-          "time": "15:30"
-        },
-        {
-          "time": "19:00"
+          "time": "20:00"
         },
         {
           "time": "21:50"
         }
       ],
-      "2026-04-12": [
+      "2026-04-17": [
         {
-          "time": "11:30"
+          "time": "16:15"
         },
         {
-          "time": "15:30"
+          "time": "19:10"
         },
         {
-          "time": "19:00"
+          "time": "21:50"
+        }
+      ],
+      "2026-04-18": [
+        {
+          "time": "12:00"
         },
         {
-          "time": "21:45"
+          "time": "17:00"
+        },
+        {
+          "time": "19:50"
+        },
+        {
+          "time": "21:40"
+        }
+      ],
+      "2026-04-19": [
+        {
+          "time": "12:00"
+        },
+        {
+          "time": "17:00"
+        },
+        {
+          "time": "19:50"
+        },
+        {
+          "time": "21:40"
         }
       ]
     },
@@ -330,7 +350,7 @@
     "directors": null,
     "genres": null,
     "synopsis": "El profesor de ciencias Ryland Grace (Ryan Gosling) se despierta en una nave espacial a años luz de casa sin recordar quién es ni cómo ha llegado hasta allí. A medida que recupera la memoria, empieza a descubrir su misión: resolver el enigma de la misteriosa sustancia que provoca la extinción del sol. Deberá recurrir a sus conocimientos científicos y a sus ideas poco ortodoxas para salvar todo lo que hay en la Tierra de la extinción… pero una amistad inesperada significa que quizá no tenga que hacerlo solo.",
-    "url": "https://x-surcine.com/peliculas/proyecto-salvacion/"
+    "url": "https://x-surcine.com/peliculas/proyecto-salvacion-2/"
   },
   {
     "title": "NOCHE DE BODAS 2",
@@ -339,31 +359,30 @@
     "theater": "xsur",
     "format": "Español",
     "showings": {
-      "2026-04-10": [
+      "2026-04-16": [
         {
-          "time": "16:30"
-        },
-        {
-          "time": "20:20"
+          "time": "18:10"
         }
       ],
-      "2026-04-11": [
+      "2026-04-17": [
         {
-          "time": "17:40"
-        },
-        {
-          "time": "22:15"
+          "time": "22:35"
         }
       ],
-      "2026-04-12": [
+      "2026-04-18": [
         {
-          "time": "14:20"
+          "time": "15:15"
         },
+        {
+          "time": "21:30"
+        }
+      ],
+      "2026-04-19": [
         {
           "time": "17:20"
         },
         {
-          "time": "21:50"
+          "time": "22:15"
         }
       ]
     },
@@ -374,15 +393,70 @@
     "url": "https://x-surcine.com/peliculas/noche-de-bodas-2/"
   },
   {
+    "title": "NO TE OLVIDARÉ",
+    "length": "117 minutos",
+    "age": "12",
+    "theater": "xsur",
+    "format": "Español",
+    "showings": {
+      "2026-04-16": [
+        {
+          "time": "16:30"
+        },
+        {
+          "time": "20:45"
+        },
+        {
+          "time": "22:20"
+        }
+      ],
+      "2026-04-17": [
+        {
+          "time": "18:35"
+        },
+        {
+          "time": "22:35"
+        }
+      ],
+      "2026-04-18": [
+        {
+          "time": "17:20"
+        },
+        {
+          "time": "20:05"
+        },
+        {
+          "time": "22:35"
+        }
+      ],
+      "2026-04-19": [
+        {
+          "time": "15:15"
+        },
+        {
+          "time": "20:05"
+        },
+        {
+          "time": "22:35"
+        }
+      ]
+    },
+    "actors": null,
+    "directors": null,
+    "genres": null,
+    "synopsis": "Tras salir de la cárcel, Kenna intenta volver a conectar con su hija pequeña, pero se enfrenta a la resistencia de todo el mundo, excepto del dueño de un bar que tiene vínculos con su hija. A medida que se acercan, Kenna debe enfrentarse a sus errores del pasado para construir un futuro esperanzador… Adaptación del libro de Colleen Hoover, autora de Romper el círculo.",
+    "url": "https://x-surcine.com/peliculas/no-te-olvidare-2/"
+  },
+  {
     "title": "LÍNEA DE EXTINCIÓN",
     "length": "95 minutos",
     "age": "12",
     "theater": "xsur",
     "format": "Español",
     "showings": {
-      "2026-04-12": [
+      "2026-04-16": [
         {
-          "time": "21:10"
+          "time": "22:45"
         }
       ]
     },
@@ -399,14 +473,19 @@
     "theater": "xsur",
     "format": "Español",
     "showings": {
-      "2026-04-10": [
+      "2026-04-16": [
         {
-          "time": "16:10"
+          "time": "17:55"
         }
       ],
-      "2026-04-12": [
+      "2026-04-17": [
         {
           "time": "22:15"
+        }
+      ],
+      "2026-04-18": [
+        {
+          "time": "14:00"
         }
       ]
     },
@@ -423,25 +502,30 @@
     "theater": "xsur",
     "format": "Español",
     "showings": {
-      "2026-04-10": [
+      "2026-04-16": [
         {
-          "time": "16:15"
+          "time": "17:00"
         }
       ],
-      "2026-04-11": [
+      "2026-04-17": [
+        {
+          "time": "16:30"
+        }
+      ],
+      "2026-04-18": [
         {
           "time": "12:00"
         },
         {
-          "time": "18:15"
+          "time": "16:20"
         }
       ],
-      "2026-04-12": [
+      "2026-04-19": [
         {
           "time": "12:00"
         },
         {
-          "time": "18:15"
+          "time": "16:25"
         }
       ]
     },
@@ -458,14 +542,9 @@
     "theater": "xsur",
     "format": "Español",
     "showings": {
-      "2026-04-10": [
+      "2026-04-16": [
         {
-          "time": "18:30"
-        }
-      ],
-      "2026-04-11": [
-        {
-          "time": "13:45"
+          "time": "16:10"
         }
       ]
     },
@@ -476,39 +555,25 @@
     "url": "https://x-surcine.com/peliculas/greenland-2/"
   },
   {
-    "title": "FIVE NIGHTS AT FREDDY S 2",
-    "length": "108 minutos",
-    "age": "12",
-    "theater": "xsur",
-    "format": "Español",
-    "showings": {
-      "2026-04-12": [
-        {
-          "time": "13:40"
-        }
-      ]
-    },
-    "actors": null,
-    "directors": null,
-    "genres": null,
-    "synopsis": "Ha transcurrido un año desde la pesadilla sobrenatural en la pizzería de Freddy Fazbear. La historia de lo que ocurrió allí ha ido adquiriendo la talla de leyenda local, e incluso ha dado pie al primer  Faszfest . El exguarda de seguridad Mike y la agente de policía Vanessa han ocultado la verdad a Abby, la hermana de 11 años de Mike, acerca del destino de sus amigos animatrónicos. Pero cuando Abby decide reconectar con Freddy, Bonnie, Chica y Foxy, desatará una serie de acontecimientos aterradores que revelarán oscuros secretos sobre el verdadero origen de Freddy s, desencadenando un horror que llevaba décadas escondido y olvidado.",
-    "url": "https://x-surcine.com/peliculas/five-nights-at-freddy-s-2/"
-  },
-  {
     "title": "CUMBRES BORRASCOSAS",
     "length": "139 minutos",
     "age": "16",
     "theater": "xsur",
     "format": "Español",
     "showings": {
-      "2026-04-10": [
+      "2026-04-16": [
         {
-          "time": "22:15"
+          "time": "22:10"
         }
       ],
-      "2026-04-11": [
+      "2026-04-17": [
         {
-          "time": "15:15"
+          "time": "16:10"
+        }
+      ],
+      "2026-04-19": [
+        {
+          "time": "14:00"
         }
       ]
     },
@@ -525,12 +590,12 @@
     "theater": "xsur",
     "format": "Español",
     "showings": {
-      "2026-04-10": [
+      "2026-04-16": [
         {
           "time": "16:15"
         }
       ],
-      "2026-04-11": [
+      "2026-04-18": [
         {
           "time": "11:30"
         },
@@ -538,7 +603,7 @@
           "time": "15:05"
         }
       ],
-      "2026-04-12": [
+      "2026-04-19": [
         {
           "time": "11:30"
         },
@@ -560,12 +625,12 @@
     "theater": "xsur",
     "format": "Español",
     "showings": {
-      "2026-04-11": [
+      "2026-04-18": [
         {
           "time": "11:45"
         }
       ],
-      "2026-04-12": [
+      "2026-04-19": [
         {
           "time": "11:45"
         }
@@ -584,25 +649,30 @@
     "theater": "xsur",
     "format": "Español",
     "showings": {
-      "2026-04-10": [
+      "2026-04-16": [
         {
-          "time": "17:00"
+          "time": "18:10"
         }
       ],
-      "2026-04-11": [
+      "2026-04-17": [
+        {
+          "time": "17:15"
+        }
+      ],
+      "2026-04-18": [
         {
           "time": "11:45"
         },
         {
-          "time": "17:00"
+          "time": "16:40"
         }
       ],
-      "2026-04-12": [
+      "2026-04-19": [
         {
-          "time": "11:45"
+          "time": "13:10"
         },
         {
-          "time": "17:00"
+          "time": "16:40"
         }
       ]
     },
@@ -610,16 +680,16 @@
     "directors": null,
     "genres": null,
     "synopsis": "La película tiene lugar después de los acontecimientos de la primera, en la que dos hermanos, Mario y Luigi, y la princesa Peach emprenden una aventura hasta los confines del espacio y a través de la galaxia. Secuela de Super Mario Bros: La película, basada en la saga Mario Galaxy.",
-    "url": "https://x-surcine.com/peliculas/the-super-mario-galaxy-movie-2/"
+    "url": "https://x-surcine.com/peliculas/the-super-mario-galaxy-movie/"
   },
   {
-    "title": "REMINDERS OF HIM",
-    "length": "117 minutos",
-    "age": "12",
+    "title": "SHELTER",
+    "length": "110 minutos",
+    "age": "16",
     "theater": "xsur",
     "format": "VOSE",
     "showings": {
-      "2026-04-11": [
+      "2026-04-16": [
         {
           "time": "20:10"
         }
@@ -628,8 +698,8 @@
     "actors": null,
     "directors": null,
     "genres": null,
-    "synopsis": "Tras salir de la cárcel, Kenna intenta volver a conectar con su hija pequeña, pero se enfrenta a la resistencia de todo el mundo, excepto del dueño de un bar que tiene vínculos con su hija. A medida que se acercan, Kenna debe enfrentarse a sus errores del pasado para construir un futuro esperanzador… Adaptación del libro de Colleen Hoover, autora de Romper el círculo.",
-    "url": "https://x-surcine.com/peliculas/reminders-of-him-english-version-2/"
+    "synopsis": "En una remota isla, un hombre que vive en el exilio (Jason Statham) rescata a una niña de una peligrosa tempestad, lo que desencadena una serie de eventos que los ponen a ambos en grave peligro. A medida que sus destinos se entrelazan, su misión será protegerla a toda costa, mientras se enfrenta a los enemigos de su pasado, en una trepidante odisea por sobrevivir.",
+    "url": "https://x-surcine.com/peliculas/shelter-english-version/"
   },
   {
     "title": "PROJECT HAIL MARY",
@@ -638,14 +708,22 @@
     "theater": "xsur",
     "format": "VOSE",
     "showings": {
-      "2026-04-10": [
-        {
-          "time": "20:00"
-        }
-      ],
-      "2026-04-12": [
+      "2026-04-17": [
         {
           "time": "19:50"
+        }
+      ],
+      "2026-04-18": [
+        {
+          "time": "13:10"
+        }
+      ],
+      "2026-04-19": [
+        {
+          "time": "11:35"
+        },
+        {
+          "time": "19:25"
         }
       ]
     },
@@ -653,53 +731,131 @@
     "directors": null,
     "genres": null,
     "synopsis": "El profesor de ciencias Ryland Grace (Ryan Gosling) se despierta en una nave espacial a años luz de casa sin recordar quién es ni cómo ha llegado hasta allí. A medida que recupera la memoria, empieza a descubrir su misión: resolver el enigma de la misteriosa sustancia que provoca la extinción del sol. Deberá recurrir a sus conocimientos científicos y a sus ideas poco ortodoxas para salvar todo lo que hay en la Tierra de la extinción… pero una amistad inesperada significa que quizá no tenga que hacerlo solo.",
-    "url": "https://x-surcine.com/peliculas/project-hail-mary-english-version-2/"
+    "url": "https://x-surcine.com/peliculas/project-hail-mary-english-version/"
   },
   {
-    "title": "NO TE OLVIDARÉ",
-    "length": "117 minutos",
-    "age": "12",
+    "title": "LEE CRONINS THE MUMMY",
+    "length": "",
+    "age": "0",
     "theater": "xsur",
-    "format": "Español",
+    "format": "VOSE",
     "showings": {
-      "2026-04-10": [
+      "2026-04-18": [
         {
-          "time": "18:10"
-        },
-        {
-          "time": "20:15"
-        },
-        {
-          "time": "22:20"
-        }
-      ],
-      "2026-04-11": [
-        {
-          "time": "16:15"
-        },
-        {
-          "time": "20:20"
-        },
-        {
-          "time": "22:25"
-        }
-      ],
-      "2026-04-12": [
-        {
-          "time": "16:15"
-        },
-        {
-          "time": "20:20"
-        },
-        {
-          "time": "22:25"
+          "time": "19:40"
         }
       ]
     },
     "actors": null,
     "directors": null,
     "genres": null,
-    "synopsis": "Tras salir de la cárcel, Kenna intenta volver a conectar con su hija pequeña, pero se enfrenta a la resistencia de todo el mundo, excepto del dueño de un bar que tiene vínculos con su hija. A medida que se acercan, Kenna debe enfrentarse a sus errores del pasado para construir un futuro esperanzador… Adaptación del libro de Colleen Hoover, autora de Romper el círculo.",
-    "url": "https://x-surcine.com/peliculas/no-te-olvidare/"
+    "synopsis": "Nueva versión del clásico La momia. La joven hija de un periodista desaparece en el desierto sin dejar rastro. Ocho años más tarde, la familia rota se conmociona cuando ella es devuelta a ellos, y lo que debiera haber sido una reunión jubilosa se convierte en una auténtica pesadilla.",
+    "url": "https://x-surcine.com/peliculas/lee-cronins-the-mummy-english-version/"
+  },
+  {
+    "title": "LA MOMIA DE LEE CRONIN",
+    "length": "",
+    "age": "0",
+    "theater": "xsur",
+    "format": "Español",
+    "showings": {
+      "2026-04-17": [
+        {
+          "time": "17:50"
+        },
+        {
+          "time": "20:15"
+        },
+        {
+          "time": "22:00"
+        }
+      ],
+      "2026-04-18": [
+        {
+          "time": "15:15"
+        },
+        {
+          "time": "17:45"
+        },
+        {
+          "time": "20:15"
+        },
+        {
+          "time": "22:10"
+        }
+      ],
+      "2026-04-19": [
+        {
+          "time": "15:05"
+        },
+        {
+          "time": "17:45"
+        },
+        {
+          "time": "20:15"
+        },
+        {
+          "time": "22:10"
+        }
+      ]
+    },
+    "actors": null,
+    "directors": null,
+    "genres": null,
+    "synopsis": "Nueva versión del clásico La momia. La joven hija de un periodista desaparece en el desierto sin dejar rastro. Ocho años más tarde, la familia rota se conmociona cuando ella es devuelta a ellos, y lo que debiera haber sido una reunión jubilosa se convierte en una auténtica pesadilla.",
+    "url": "https://x-surcine.com/peliculas/la-momia-de-lee-cronin/"
+  },
+  {
+    "title": "LA FAMILIA BENETÓN +2",
+    "length": "90 minutos",
+    "age": "0",
+    "theater": "xsur",
+    "format": "Español",
+    "showings": {
+      "2026-04-17": [
+        {
+          "time": "16:15"
+        },
+        {
+          "time": "18:10"
+        },
+        {
+          "time": "20:50"
+        }
+      ],
+      "2026-04-18": [
+        {
+          "time": "11:30"
+        },
+        {
+          "time": "13:30"
+        },
+        {
+          "time": "16:00"
+        },
+        {
+          "time": "18:20"
+        }
+      ],
+      "2026-04-19": [
+        {
+          "time": "11:30"
+        },
+        {
+          "time": "13:30"
+        },
+        {
+          "time": "16:00"
+        },
+        {
+          "time": "18:25"
+        }
+      ]
+    },
+    "actors": null,
+    "directors": null,
+    "genres": null,
+    "synopsis": "Secuela de  La familia Benetón  (2024). Cuando Toni Benetón (Leo Harlem) cree que tiene todo bajo control en su entrañable y divertida familia multicultural, la llegada de dos nuevos bebés pondrá patas arriba la casa y a toda la familia. Los problemas crecen por partida doble pero las aventuras también.",
+    "url": "https://x-surcine.com/peliculas/la-familia-beneton-2/"
   }
 ]

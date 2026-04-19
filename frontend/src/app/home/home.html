@@ -1,1 +1,62 @@
-<app-movie-item>
+<main class="home">
+
+  <!-- Hero -->
+  <section class="hero">
+    <div class="container">
+      <p class="hero-eyebrow">Now Showing</p>
+      <h1 class="hero-title">The finest cinema,<br>in five locations.</h1>
+    </div>
+  </section>
+
+  <!-- Featured Movies -->
+  <section class="section">
+    <div class="container">
+      <h2 class="section-title">Featured Films</h2>
+      <div class="movie-grid">
+        @for (movie of featured(); track movie.id) {
+          <a [routerLink]="['/movies', movie.id]" class="movie-card card">
+            <div class="poster-wrap">
+              <img [src]="movie.posterUrl" [alt]="movie.title" class="poster" loading="lazy" />
+              <div class="poster-overlay">
+                <span class="rating-badge">{{ movie.rating }}</span>
+                <span class="duration">{{ movie.duration }} min</span>
+              </div>
+            </div>
+            <div class="movie-info">
+              <p class="genre">{{ movie.genre }}</p>
+              <h3 class="movie-title">{{ movie.title }}</h3>
+            </div>
+          </a>
+        } @empty {
+          @for (i of [1,2,3,4]; track i) {
+            <div class="movie-card skeleton-card">
+              <div class="poster-wrap skeleton"></div>
+            </div>
+          }
+        }
+      </div>
+    </div>
+  </section>
+
+  <!-- Theater Links -->
+  <section class="section theaters-section">
+    <div class="container">
+      <h2 class="section-title">Our Theatres</h2>
+      <div class="theater-grid">
+        @for (t of theaters(); track t.id) {
+          <a [routerLink]="['/theaters', t.id]" class="theater-card card">
+            @if (t.imageUrl) {
+              <img [src]="t.imageUrl" [alt]="t.name" class="theater-img" />
+            }
+            <div class="theater-info">
+              <h3 class="theater-name">{{ t.name }}</h3>
+              <p class="theater-address">{{ t.address }}</p>
+              <span class="theater-cta">View screenings →</span>
+            </div>
+          </a>
+        }
+      </div>
+    </div>
+  </section>
+
+</main>

@@ -1,0 +1,100 @@
+.theater-hero {
+  height: 280px;
+  background-size: cover;
+  background-position: center;
+  background-color: var(--surface-2);
+  .hero-overlay {
+    height: 100%;
+    background: linear-gradient(to top, rgba(10,10,12,1) 0%, rgba(10,10,12,0.5) 100%);
+    display: flex;
+    align-items: flex-end;
+    padding-bottom: 2rem;
+  }
+}
+
+.breadcrumb {
+  font-size: 0.75rem;
+  color: var(--muted);
+  margin-bottom: 0.5rem;
+  a { color: var(--muted); transition: color var(--transition); &:hover { color: var(--text); } }
+}
+
+.theater-name { font-size: clamp(1.8rem, 4vw, 2.8rem); margin-bottom: 4px; }
+.theater-address { color: var(--muted); font-size: 0.9rem; }
+
+.page-content { padding: 3rem 0 4rem; }
+
+.section-label {
+  font-size: 0.72rem;
+  text-transform: uppercase;
+  letter-spacing: 0.14em;
+  color: var(--gold);
+  margin-bottom: 2rem;
+}
+
+.screening-list { display: flex; flex-direction: column; gap: 0; }
+
+.screening-row {
+  display: flex;
+  gap: 1.5rem;
+  align-items: flex-start;
+  padding: 2rem 0;
+  border-bottom: 1px solid var(--border);
+  &:last-child { border-bottom: none; }
+}
+
+.screening-poster-link { flex-shrink: 0; }
+.screening-poster {
+  width: 80px;
+  height: 120px;
+  object-fit: cover;
+  border-radius: var(--radius);
+}
+
+.screening-info { flex: 1; }
+
+.screening-title {
+  font-family: var(--font-display);
+  font-size: 1.3rem;
+  display: block;
+  margin-bottom: 4px;
+  transition: color var(--transition);
+  &:hover { color: var(--gold); }
+}
+
+.screening-meta {
+  font-size: 0.78rem;
+  color: var(--muted);
+  margin-bottom: 1rem;
+  letter-spacing: 0.02em;
+}
+
+.showtime-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+  align-items: flex-start;
+}
+
+.showtime-block {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  .showtime-date {
+    font-size: 0.65rem;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    color: var(--muted);
+  }
+}
+
+.format-tag {
+  font-size: 0.6rem;
+  color: var(--muted);
+  margin-left: 6px;
+  border: 1px solid var(--border);
+  padding: 1px 5px;
+  border-radius: 2px;
+}
+
+.empty-state { color: var(--muted); font-size: 0.9rem; padding: 2rem 0; }

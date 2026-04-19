@@ -1,1 +1,42 @@
-<p>header works!</p>
+<header class="site-header">
+  <div class="container header-inner">
+
+    <a routerLink="/home" class="logo">
+      <span class="logo-mark">✦</span>
+      <span class="logo-text">CINEPLEX</span>
+    </a>
+
+    <nav class="theater-nav">
+      @for (t of theaters(); track t.id) {
+        <a [routerLink]="['/theaters', t.id]" routerLinkActive="active" class="nav-link">
+          {{ t.name }}
+        </a>
+      }
+    </nav>
+
+    <div class="search-wrap">
+      <input
+        class="search-input"
+        type="text"
+        placeholder="Search films & theatres…"
+        [value]="search.query()"
+        (input)="onInput($event)"
+        (focus)="open.set(search.query().length > 0)"
+        autocomplete="off"
+      />
+      <svg class="search-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/></svg>
+
+      @if (open() && results().length) {
+        <div class="search-dropdown">
+          @for (r of results(); track r.id) {
+            <button class="search-result" (click)="pick(r)">
+              <span class="result-type">{{ r.type }}</span>
+              {{ r.label }}
+            </button>
+          }
+        </div>
+      }
+    </div>
+
+  </div>
+</header>

@@ -1,183 +1,49 @@
 [
   {
-    "title": "ATRAPANDO A UN MONSTRUO",
-    "length": "105 min.",
-    "age": "16",
-    "theater": "zentralcenter",
-    "format": "SIN SUBTITULOS",
-    "showings": {
-      "2026-04-10": [
-        {
-          "time": "16:30"
-        },
-        {
-          "time": "19:00"
-        },
-        {
-          "time": "21:15"
-        }
-      ],
-      "2026-04-11": [
-        {
-          "time": "16:30"
-        },
-        {
-          "time": "19:00"
-        },
-        {
-          "time": "21:15"
-        }
-      ],
-      "2026-04-12": [
-        {
-          "time": "12:00"
-        },
-        {
-          "time": "16:30"
-        },
-        {
-          "time": "19:00"
-        },
-        {
-          "time": "21:15"
-        }
-      ],
-      "2026-04-13": [
-        {
-          "time": "16:30"
-        },
-        {
-          "time": "19:00"
-        },
-        {
-          "time": "21:15"
-        }
-      ],
-      "2026-04-14": [
-        {
-          "time": "16:30"
-        },
-        {
-          "time": "19:00"
-        },
-        {
-          "time": "21:15"
-        }
-      ],
-      "2026-04-15": [
-        {
-          "time": "16:30"
-        },
-        {
-          "time": "19:00"
-        },
-        {
-          "time": "21:15"
-        }
-      ],
-      "2026-04-16": [
-        {
-          "time": "16:30"
-        },
-        {
-          "time": "19:00"
-        },
-        {
-          "time": "21:15"
-        }
-      ]
-    },
-    "actors": null,
-    "directors": null,
-    "genres": null,
-    "synopsis": null,
-    "url": "https://kinetike.com:83/views/peliculas.aspx?s=INTERNETuj0t0pp2f041"
-  },
-  {
     "title": "BOULEVARD",
     "length": "115 min.",
     "age": "12",
     "theater": "zentralcenter",
     "format": "SIN SUBTITULOS",
     "showings": {
-      "2026-04-10": [
+      "2026-04-19": [
         {
           "time": "16:15"
         },
         {
           "time": "18:45"
-        },
-        {
-          "time": "21:10"
         }
       ],
-      "2026-04-11": [
+      "2026-04-20": [
         {
           "time": "16:15"
         },
         {
           "time": "18:45"
-        },
-        {
-          "time": "21:10"
         }
       ],
-      "2026-04-12": [
+      "2026-04-21": [
         {
-          "time": "12:00"
+          "time": "16:35"
         },
         {
-          "time": "16:15"
-        },
-        {
-          "time": "18:45"
-        },
-        {
-          "time": "21:10"
+          "time": "19:00"
         }
       ],
-      "2026-04-13": [
+      "2026-04-22": [
         {
-          "time": "16:15"
+          "time": "16:30"
         },
         {
-          "time": "18:45"
-        },
-        {
-          "time": "21:10"
+          "time": "21:15"
         }
       ],
-      "2026-04-14": [
+      "2026-04-23": [
         {
-          "time": "16:15"
+          "time": "16:30"
         },
         {
-          "time": "18:45"
-        },
-        {
-          "time": "21:10"
-        }
-      ],
-      "2026-04-15": [
-        {
-          "time": "16:15"
-        },
-        {
-          "time": "18:45"
-        },
-        {
-          "time": "21:10"
-        }
-      ],
-      "2026-04-16": [
-        {
-          "time": "16:15"
-        },
-        {
-          "time": "18:45"
-        },
-        {
-          "time": "21:10"
+          "time": "21:15"
         }
       ]
     },
@@ -185,7 +51,218 @@
     "directors": null,
     "genres": null,
     "synopsis": null,
-    "url": "https://kinetike.com:83/views/peliculas.aspx?s=INTERNETuj0t0pp2f041"
+    "url": "https://kinetike.com:83/views/peliculas.aspx?s=INTERNETlaemqanaw093"
+  },
+  {
+    "title": "LA FAMILIA BENETÓN + 2",
+    "length": "87 min.",
+    "age": "0",
+    "theater": "zentralcenter",
+    "format": "SIN SUBTITULOS",
+    "showings": {
+      "2026-04-19": [
+        {
+          "time": "12:00"
+        },
+        {
+          "time": "16:45"
+        },
+        {
+          "time": "18:45"
+        },
+        {
+          "time": "21:15"
+        }
+      ],
+      "2026-04-20": [
+        {
+          "time": "16:45"
+        },
+        {
+          "time": "18:45"
+        },
+        {
+          "time": "20:45"
+        }
+      ],
+      "2026-04-21": [
+        {
+          "time": "16:45"
+        },
+        {
+          "time": "18:45"
+        },
+        {
+          "time": "20:45"
+        }
+      ],
+      "2026-04-22": [
+        {
+          "time": "19:30"
+        },
+        {
+          "time": "21:30"
+        },
+        {
+          "time": "16:30"
+        }
+      ],
+      "2026-04-23": [
+        {
+          "time": "19:30"
+        },
+        {
+          "time": "21:30"
+        },
+        {
+          "time": "16:30"
+        }
+      ],
+      "2026-04-24": [
+        {
+          "time": "21:15"
+        },
+        {
+          "time": "17:00"
+        }
+      ],
+      "2026-04-25": [
+        {
+          "time": "21:15"
+        },
+        {
+          "time": "17:00"
+        }
+      ],
+      "2026-04-26": [
+        {
+          "time": "21:15"
+        },
+        {
+          "time": "17:00"
+        }
+      ]
+    },
+    "actors": null,
+    "directors": null,
+    "genres": null,
+    "synopsis": null,
+    "url": "https://kinetike.com:83/views/peliculas.aspx?s=INTERNETlaemqanaw093"
+  },
+  {
+    "title": "LA MOMIA DE LEE CRONIN",
+    "length": "134 min.",
+    "age": "16",
+    "theater": "zentralcenter",
+    "format": "SIN SUBTITULOS",
+    "showings": {
+      "2026-04-19": [
+        {
+          "time": "12:00"
+        },
+        {
+          "time": "17:15"
+        },
+        {
+          "time": "20:30"
+        }
+      ],
+      "2026-04-20": [
+        {
+          "time": "17:15"
+        },
+        {
+          "time": "20:30"
+        }
+      ],
+      "2026-04-21": [
+        {
+          "time": "17:15"
+        },
+        {
+          "time": "20:30"
+        }
+      ],
+      "2026-04-22": [
+        {
+          "time": "21:00"
+        },
+        {
+          "time": "18:30"
+        }
+      ],
+      "2026-04-23": [
+        {
+          "time": "21:00"
+        },
+        {
+          "time": "18:30"
+        }
+      ],
+      "2026-04-24": [
+        {
+          "time": "21:15"
+        }
+      ],
+      "2026-04-25": [
+        {
+          "time": "21:15"
+        }
+      ],
+      "2026-04-26": [
+        {
+          "time": "21:15"
+        }
+      ]
+    },
+    "actors": null,
+    "directors": null,
+    "genres": null,
+    "synopsis": null,
+    "url": "https://kinetike.com:83/views/peliculas.aspx?s=INTERNETlaemqanaw093"
+  },
+  {
+    "title": "MARACUDA",
+    "length": "89 min.",
+    "age": "0",
+    "theater": "zentralcenter",
+    "format": "SIN SUBTITULOS",
+    "showings": {
+      "2026-04-19": [],
+      "2026-04-20": [],
+      "2026-04-21": [],
+      "2026-04-22": [],
+      "2026-04-23": [],
+      "2026-04-24": [
+        {
+          "time": "16:30"
+        },
+        {
+          "time": "19:00"
+        }
+      ],
+      "2026-04-25": [
+        {
+          "time": "16:30"
+        },
+        {
+          "time": "19:00"
+        }
+      ],
+      "2026-04-26": [
+        {
+          "time": "16:30"
+        },
+        {
+          "time": "19:00"
+        }
+      ]
+    },
+    "actors": null,
+    "directors": null,
+    "genres": null,
+    "synopsis": null,
+    "url": "https://kinetike.com:83/views/peliculas.aspx?s=INTERNETlaemqanaw093"
   },
   {
     "title": "MICHAEL",
@@ -194,57 +271,62 @@
     "theater": "zentralcenter",
     "format": "SIN SUBTITULOS",
     "showings": {
-      "2026-04-10": [],
-      "2026-04-11": [],
-      "2026-04-12": [],
-      "2026-04-13": [],
-      "2026-04-14": [],
-      "2026-04-15": [],
-      "2026-04-16": [],
-      "2026-04-17": []
-    },
-    "actors": null,
-    "directors": null,
-    "genres": null,
-    "synopsis": null,
-    "url": "https://kinetike.com:83/views/peliculas.aspx?s=INTERNETuj0t0pp2f041"
-  },
-  {
-    "title": "NOCHE DE BODAS 2",
-    "length": "108 min.",
-    "age": "18",
-    "theater": "zentralcenter",
-    "format": "SIN SUBTITULOS",
-    "showings": {
-      "2026-04-10": [],
-      "2026-04-11": [
+      "2026-04-19": [],
+      "2026-04-20": [],
+      "2026-04-21": [],
+      "2026-04-22": [
         {
-          "time": "16:30"
+          "time": "18:30"
+        },
+        {
+          "time": "21:15"
+        },
+        {
+          "time": "16:45"
         }
       ],
-      "2026-04-12": [
+      "2026-04-23": [
         {
-          "time": "16:30"
+          "time": "18:30"
+        },
+        {
+          "time": "21:15"
+        },
+        {
+          "time": "16:45"
         }
       ],
-      "2026-04-13": [
+      "2026-04-24": [
+        {
+          "time": "18:30"
+        },
         {
           "time": "16:30"
+        },
+        {
+          "time": "21:00"
         }
       ],
-      "2026-04-14": [
+      "2026-04-25": [
         {
-          "time": "16:30"
+          "time": "18:30"
+        },
+        {
+          "time": "16:20"
+        },
+        {
+          "time": "21:00"
         }
       ],
-      "2026-04-15": [
+      "2026-04-26": [
         {
-          "time": "16:30"
-        }
-      ],
-      "2026-04-16": [
+          "time": "18:30"
+        },
         {
-          "time": "16:30"
+          "time": "16:20"
+        },
+        {
+          "time": "21:00"
         }
       ]
     },
@@ -252,7 +334,7 @@
     "directors": null,
     "genres": null,
     "synopsis": null,
-    "url": "https://kinetike.com:83/views/peliculas.aspx?s=INTERNETuj0t0pp2f041"
+    "url": "https://kinetike.com:83/views/peliculas.aspx?s=INTERNETlaemqanaw093"
   },
   {
     "title": "SUPER MARIO GALAXY LA PELÍCULA",
@@ -261,19 +343,7 @@
     "theater": "zentralcenter",
     "format": "SIN SUBTITULOS",
     "showings": {
-      "2026-04-10": [],
-      "2026-04-11": [
-        {
-          "time": "16:30"
-        },
-        {
-          "time": "18:45"
-        },
-        {
-          "time": "21:00"
-        }
-      ],
-      "2026-04-12": [
+      "2026-04-19": [
         {
           "time": "12:00"
         },
@@ -287,7 +357,7 @@
           "time": "21:00"
         }
       ],
-      "2026-04-13": [
+      "2026-04-20": [
         {
           "time": "16:30"
         },
@@ -298,7 +368,7 @@
           "time": "21:00"
         }
       ],
-      "2026-04-14": [
+      "2026-04-21": [
         {
           "time": "16:30"
         },
@@ -309,26 +379,29 @@
           "time": "21:00"
         }
       ],
-      "2026-04-15": [
+      "2026-04-22": [
         {
-          "time": "16:30"
-        },
-        {
-          "time": "18:45"
-        },
-        {
-          "time": "21:00"
+          "time": "16:15"
         }
       ],
-      "2026-04-16": [
+      "2026-04-23": [
         {
-          "time": "16:30"
-        },
+          "time": "16:15"
+        }
+      ],
+      "2026-04-24": [
         {
-          "time": "18:45"
-        },
+          "time": "19:00"
+        }
+      ],
+      "2026-04-25": [
         {
-          "time": "21:00"
+          "time": "19:00"
+        }
+      ],
+      "2026-04-26": [
+        {
+          "time": "19:00"
         }
       ]
     },
@@ -336,7 +409,7 @@
     "directors": null,
     "genres": null,
     "synopsis": null,
-    "url": "https://kinetike.com:83/views/peliculas.aspx?s=INTERNETuj0t0pp2f041"
+    "url": "https://kinetike.com:83/views/peliculas.aspx?s=INTERNETlaemqanaw093"
   },
   {
     "title": "TORRENTE PRESIDENTE",
@@ -345,63 +418,25 @@
     "theater": "zentralcenter",
     "format": "SIN SUBTITULOS",
     "showings": {
-      "2026-04-10": [
+      "2026-04-19": [
         {
-          "time": "19:00"
-        },
-        {
-          "time": "21:15"
+          "time": "21:10"
         }
       ],
-      "2026-04-11": [
+      "2026-04-20": [
         {
-          "time": "19:00"
-        },
-        {
-          "time": "21:15"
+          "time": "21:10"
         }
       ],
-      "2026-04-12": [
+      "2026-04-21": [],
+      "2026-04-22": [
         {
-          "time": "12:00"
-        },
-        {
-          "time": "19:00"
-        },
-        {
-          "time": "21:15"
+          "time": "18:50"
         }
       ],
-      "2026-04-13": [
+      "2026-04-23": [
         {
-          "time": "19:00"
-        },
-        {
-          "time": "21:15"
-        }
-      ],
-      "2026-04-14": [
-        {
-          "time": "19:00"
-        },
-        {
-          "time": "21:15"
-        }
-      ],
-      "2026-04-15": [
-        {
-          "time": "19:00"
-        },
-        {
-          "time": "21:15"
-        }
-      ],
-      "2026-04-16": [
-        {
-          "time": "19:00"
-        },
-        {
-          "time": "21:15"
+          "time": "18:50"
         }
       ]
     },
@@ -409,6 +444,31 @@
     "directors": null,
     "genres": null,
     "synopsis": null,
-    "url": "https://kinetike.com:83/views/peliculas.aspx?s=INTERNETuj0t0pp2f041"
+    "url": "https://kinetike.com:83/views/peliculas.aspx?s=INTERNETlaemqanaw093"
+  },
+  {
+    "title": "V.O - BHOOTH BANGLA - V.O",
+    "length": "170 min.",
+    "age": "16",
+    "theater": "zentralcenter",
+    "format": "SIN SUBTITULOS",
+    "showings": {
+      "2026-04-19": [
+        {
+          "time": "12:00"
+        }
+      ],
+      "2026-04-20": [],
+      "2026-04-21": [
+        {
+          "time": "21:30"
+        }
+      ]
+    },
+    "actors": null,
+    "directors": null,
+    "genres": null,
+    "synopsis": null,
+    "url": "https://kinetike.com:83/views/peliculas.aspx?s=INTERNETlaemqanaw093"
   }
 ]

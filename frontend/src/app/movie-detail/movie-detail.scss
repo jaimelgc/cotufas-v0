@@ -1,0 +1,154 @@
+.movie-hero {
+  min-height: 420px;
+  background-size: cover;
+  background-position: center top;
+  background-color: var(--surface-2);
+  .hero-overlay {
+    min-height: 420px;
+    background: linear-gradient(to right, rgba(10,10,12,0.98) 40%, rgba(10,10,12,0.6) 100%);
+    display: flex;
+    align-items: flex-end;
+    padding-bottom: 3rem;
+  }
+}
+
+.breadcrumb {
+  font-size: 0.75rem;
+  color: var(--muted);
+  margin-bottom: 1.5rem;
+  a { color: var(--muted); transition: color var(--transition); &:hover { color: var(--text); } }
+}
+
+.hero-body {
+  display: flex;
+  gap: 2.5rem;
+  align-items: flex-end;
+}
+
+.hero-poster {
+  width: 140px;
+  height: 210px;
+  object-fit: cover;
+  border-radius: var(--radius);
+  flex-shrink: 0;
+  box-shadow: 0 20px 60px rgba(0,0,0,0.6);
+}
+
+.hero-text { flex: 1; max-width: 560px; }
+
+.genre-label {
+  font-size: 0.7rem;
+  text-transform: uppercase;
+  letter-spacing: 0.14em;
+  color: var(--gold);
+  margin-bottom: 0.5rem;
+}
+
+.movie-title {
+  font-size: clamp(2rem, 5vw, 3.2rem);
+  margin-bottom: 1rem;
+}
+
+.meta-row {
+  display: flex;
+  gap: 0.5rem;
+  margin-bottom: 1rem;
+}
+
+.meta-pill {
+  font-size: 0.72rem;
+  font-weight: 500;
+  padding: 3px 10px;
+  border: 1px solid var(--border);
+  border-radius: 2px;
+  color: var(--muted);
+  letter-spacing: 0.05em;
+}
+
+.synopsis {
+  font-size: 0.9rem;
+  color: var(--muted);
+  line-height: 1.7;
+  max-width: 480px;
+}
+
+.page-content { padding: 3rem 0 5rem; }
+
+.section-label {
+  font-size: 0.72rem;
+  text-transform: uppercase;
+  letter-spacing: 0.14em;
+  color: var(--gold);
+  margin-bottom: 2rem;
+}
+
+/* 5-column grid for the 5 theaters */
+.theater-showings-grid {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  gap: 1rem;
+  @media (max-width: 1100px) { grid-template-columns: repeat(3, 1fr); }
+  @media (max-width: 700px)  { grid-template-columns: repeat(2, 1fr); }
+  @media (max-width: 480px)  { grid-template-columns: 1fr; }
+}
+
+.theater-column { display: flex; flex-direction: column; }
+
+.theater-col-header {
+  padding: 16px;
+  border-bottom: 1px solid var(--border);
+}
+
+.theater-col-name {
+  font-family: var(--font-display);
+  font-size: 0.95rem;
+  display: block;
+  margin-bottom: 2px;
+  transition: color var(--transition);
+  &:hover { color: var(--gold); }
+}
+
+.theater-col-address {
+  font-size: 0.7rem;
+  color: var(--muted);
+}
+
+.showtime-list {
+  padding: 12px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.showtime-item {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
+
+.showtime-meta {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  .showtime-date {
+    font-size: 0.65rem;
+    text-transform: uppercase;
+    letter-spacing: 0.07em;
+    color: var(--muted);
+  }
+}
+
+.format-tag {
+  font-size: 0.6rem;
+  border: 1px solid var(--border);
+  padding: 1px 5px;
+  border-radius: 2px;
+  color: var(--muted);
+}
+
+.no-showings {
+  padding: 16px;
+  font-size: 0.78rem;
+  color: var(--muted);
+  font-style: italic;
+}

@@ -1,27 +1,38 @@
 export interface Theater {
   id: number;
   name: string;
-  address: string;
-  imageUrl?: string;
+  slug: string;
+  location: string;
+  city: string;
+  base_prices: Record<string, number>;
+  website: string;
 }
 
 export interface Movie {
   id: number;
   title: string;
+  slug: string;
+  length: number;
+  age: number;
+  actors: string[];
+  directors: string[];
+  producers: string[];
+  genres: string[];
+  theaters: string[];
   synopsis: string;
-  posterUrl: string;
-  backdropUrl?: string;
-  genre: string;
-  duration: number; // minutes
-  rating: string;   // e.g. "PG-13"
+  all_synopsis: Record<string, string>;
+  all_urls: Record<string, string>;
+  created_at: string;
+  updated_at: string;
   featured?: boolean;
 }
 
 export interface Showing {
   id: number;
-  movieId: number;
-  theaterId: number;
-  datetime: string; // ISO string
-  purchaseUrl: string;
-  format?: string;  // e.g. "IMAX", "4DX", "Standard"
+  movie: number;
+  theater: number;
+  date: string;
+  time: string;
+  format: string;
+  purchaseUrl?: string; //add to back
 }

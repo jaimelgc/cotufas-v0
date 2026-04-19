@@ -1,0 +1,60 @@
+<div class="page">
+  @if (movie(); as m) {
+    <!-- Backdrop hero -->
+    <div class="movie-hero" [style.background-image]="m.backdropUrl ? 'url(' + m.backdropUrl + ')' : ''">
+      <div class="hero-overlay">
+        <div class="container hero-content">
+          <p class="breadcrumb"><a routerLink="/home">Home</a> / Films</p>
+          <div class="hero-body">
+            <img [src]="m.posterUrl" [alt]="m.title" class="hero-poster" />
+            <div class="hero-text">
+              <p class="genre-label">{{ m.genre }}</p>
+              <h1 class="movie-title">{{ m.title }}</h1>
+              <div class="meta-row">
+                <span class="meta-pill">{{ m.rating }}</span>
+                <span class="meta-pill">{{ m.duration }} min</span>
+              </div>
+              <p class="synopsis">{{ m.synopsis }}</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Showings Grid -->
+    <div class="container page-content">
+      <h2 class="section-label">Showtimes — All Theatres</h2>
+
+      <div class="theater-showings-grid">
+        @for (ts of theaterShowings(); track ts.theater.id) {
+          <div class="theater-column card">
+            <div class="theater-col-header">
+              <a [routerLink]="['/theaters', ts.theater.id]" class="theater-col-name">
+                {{ ts.theater.name }}
+              </a>
+              <p class="theater-col-address">{{ ts.theater.address }}</p>
+            </div>
+
+            @if (ts.showings.length) {
+              <div class="showtime-list">
+                @for (s of ts.showings; track s.id) {
+                  <div class="showtime-item">
+                    <div class="showtime-meta">
+                      <span class="showtime-date">{{ formatDate(s.datetime) }}</span>
+                      @if (s.format) { <span class="format-tag">{{ s.format }}</span> }
+                    </div>
+                    <a [href]="s.purchaseUrl" target="_blank" rel="noopener" class="showtime-link">
+                      {{ formatTime(s.datetime) }}
+                    </a>
+                  </div>
+                }
+              </div>
+            } @else {
+              <p class="no-showings">No upcoming showings</p>
+            }
+          </div>
+        }
+      </div>
+    </div>
+  }
+</div>

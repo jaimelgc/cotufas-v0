@@ -8,8 +8,8 @@ import { toSignal } from '@angular/core/rxjs-interop';
   selector: 'app-home',
   standalone: true,
   imports: [CommonModule, RouterLink],
-  templateUrl: './home.component.html',
-  styleUrl: './home.component.scss',
+  templateUrl: './home.html',
+  styleUrl: './home.scss',
 })
 export class HomeComponent {
   cinema = inject(CinemaService);

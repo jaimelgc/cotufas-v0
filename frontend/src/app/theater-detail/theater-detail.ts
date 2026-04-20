@@ -4,13 +4,14 @@ import { ActivatedRoute, RouterLink } from '@angular/router';
 import { CinemaService } from '../services/cinema.service';
 import { toSignal } from '@angular/core/rxjs-interop';
 import { switchMap } from 'rxjs';
+import { Movie, Theater, Showing } from '../models/cinema.models';
 
 @Component({
   selector: 'app-theater-detail',
   standalone: true,
   imports: [CommonModule, RouterLink],
-  templateUrl: './theater-detail.component.html',
-  styleUrl: './theater-detail.component.scss',
+  templateUrl: './theater-detail.html',
+  styleUrl: './theater-detail.scss',
 })
 export class TheaterDetailComponent {
   private route = inject(ActivatedRoute);
@@ -37,11 +38,13 @@ export class TheaterDetailComponent {
 
   // Group showings by movie
   movieShowings = computed(() => {
-    const showingMap = new Map<number, typeof this.showings()[0][]>();
+    const showingMap = new Map<number, Showing[]>();
+
     for (const s of this.showings()) {
       if (!showingMap.has(s.movie)) showingMap.set(s.movie, []);
       showingMap.get(s.movie)!.push(s);
     }
+
     return this.movies()
       .filter(m => showingMap.has(m.id))
       .map(m => ({ movie: m, showings: showingMap.get(m.id)! }));

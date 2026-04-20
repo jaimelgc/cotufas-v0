@@ -9,8 +9,8 @@ import { switchMap } from 'rxjs';
   selector: 'app-movie-detail',
   standalone: true,
   imports: [CommonModule, RouterLink],
-  templateUrl: './movie-detail.component.html',
-  styleUrl: './movie-detail.component.scss',
+  templateUrl: './movie-detail.html',
+  styleUrl: './movie-detail.scss',
 })
 export class MovieDetailComponent {
   private route = inject(ActivatedRoute);

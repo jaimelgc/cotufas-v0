@@ -16,14 +16,14 @@
         @for (movie of featured(); track movie.id) {
           <a [routerLink]="['/movies', movie.id]" class="movie-card card">
             <div class="poster-wrap">
-              <img [src]="movie.posterUrl" [alt]="movie.title" class="poster" loading="lazy" />
+              <img [src]="movie.title" [alt]="movie.title" class="poster" loading="lazy" />
               <div class="poster-overlay">
-                <span class="rating-badge">{{ movie.rating }}</span>
-                <span class="duration">{{ movie.duration }} min</span>
+                <span class="rating-badge">{{ movie.age }}</span>
+                <span class="duration">{{ movie.length }} min</span>
               </div>
             </div>
             <div class="movie-info">
-              <p class="genre">{{ movie.genre }}</p>
+              <p class="genre">{{ movie.genres }}</p>
               <h3 class="movie-title">{{ movie.title }}</h3>
             </div>
           </a>
@@ -45,12 +45,12 @@
       <div class="theater-grid">
         @for (t of theaters(); track t.id) {
           <a [routerLink]="['/theaters', t.id]" class="theater-card card">
-            @if (t.imageUrl) {
-              <img [src]="t.imageUrl" [alt]="t.name" class="theater-img" />
+            @if (t.name) {
+              <img [src]="t.name" [alt]="t.name" class="theater-img" />
             }
             <div class="theater-info">
               <h3 class="theater-name">{{ t.name }}</h3>
-              <p class="theater-address">{{ t.address }}</p>
+              <p class="theater-address">{{ t.location }}</p>
               <span class="theater-cta">View screenings →</span>
             </div>
           </a>

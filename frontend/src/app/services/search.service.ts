@@ -51,8 +51,8 @@ export class SearchService {
 
   navigate(result: SearchResult) {
     const path = result.type === 'movie'
-      ? ['/movies', result.id]
-      : ['/theaters', result.id];
+      ? ['/movies', result]
+      : ['/theaters', result];
     this.router.navigate(path);
     this.query.set('');
     this.query$.next('');

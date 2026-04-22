@@ -5,6 +5,7 @@ import { CinemaService } from '../services/cinema.service';
 import { toSignal } from '@angular/core/rxjs-interop';
 import { switchMap } from 'rxjs';
 import { Movie, Theater, Showing } from '../models/cinema.models';
+import { formatShowtime, formatShowdate } from '../utils/date.utils';
 
 @Component({
   selector: 'app-theater-detail',
@@ -16,6 +17,8 @@ import { Movie, Theater, Showing } from '../models/cinema.models';
 export class TheaterDetailComponent {
   private route = inject(ActivatedRoute);
   private cinema = inject(CinemaService);
+  protected formatShowtime = formatShowtime;
+  protected formatShowdate = formatShowdate;
 
   private id$ = this.route.paramMap.pipe(
     switchMap(p => [Number(p.get('id'))])
@@ -50,11 +53,7 @@ export class TheaterDetailComponent {
       .map(m => ({ movie: m, showings: showingMap.get(m.id)! }));
   });
 
-  formatTime(iso: string) {
-    return new Date(iso).toLocaleTimeString([], { hour: '2-digit', minute: '2-digit' });
-  }
-
-  formatDate(iso: string) {
-    return new Date(iso).toLocaleDateString([], { weekday: 'short', month: 'short', day: 'numeric' });
+  formatGenres(genres: string[]): string {
+    return genres.join(", ")
   }
 }

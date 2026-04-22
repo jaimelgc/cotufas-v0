@@ -4,6 +4,7 @@ import { ActivatedRoute, RouterLink } from '@angular/router';
 import { CinemaService } from '../services/cinema.service';
 import { toSignal } from '@angular/core/rxjs-interop';
 import { switchMap } from 'rxjs';
+import { formatShowtime, formatShowdate } from '../utils/date.utils';
 
 @Component({
   selector: 'app-movie-detail',
@@ -15,6 +16,8 @@ import { switchMap } from 'rxjs';
 export class MovieDetailComponent {
   private route = inject(ActivatedRoute);
   private cinema = inject(CinemaService);
+  protected formatShowtime = formatShowtime;
+  protected formatShowdate = formatShowdate;
 
   movie = toSignal(
     this.route.paramMap.pipe(
@@ -29,11 +32,7 @@ export class MovieDetailComponent {
     { initialValue: [] }
   );
 
-  formatTime(iso: string) {
-    return new Date(iso).toLocaleTimeString([], { hour: '2-digit', minute: '2-digit' });
-  }
-
-  formatDate(iso: string) {
-    return new Date(iso).toLocaleDateString([], { weekday: 'short', month: 'short', day: 'numeric' });
+  formatGenres(genres: string[]): string {
+    return genres.join(", ")
   }
 }

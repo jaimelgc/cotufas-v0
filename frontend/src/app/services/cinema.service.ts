@@ -9,32 +9,32 @@ export class CinemaService {
   private base = 'http://127.0.0.1:8000/api';
 
   getTheaters(): Observable<Theater[]> {
-    return this.http.get<Theater[]>(`${this.base}/theaters`);
+    return this.http.get<Theater[]>(`${this.base}/theaters/`);
   }
 
   getTheater(id: number): Observable<Theater> {
-    return this.http.get<Theater>(`${this.base}/theaters/${id}`);
+    return this.http.get<Theater>(`${this.base}/theaters/${id}/`);
   }
 
   getMovies(): Observable<Movie[]> {
-    return this.http.get<Movie[]>(`${this.base}/movies`);
+    return this.http.get<Movie[]>(`${this.base}/movie/`);
   }
 
   getFeaturedMovies(): Observable<Movie[]> {
-    return this.http.get<Movie[]>(`${this.base}/movies`).pipe(
+    return this.http.get<Movie[]>(`${this.base}/movies/`).pipe(
       map(movies => movies.filter(m => m.featured).slice(0, 4))
     );
   }
 
   getMovie(id: number): Observable<Movie> {
-    return this.http.get<Movie>(`${this.base}/movies/${id}`);
+    return this.http.get<Movie>(`${this.base}/movies/${id}/`);
   }
 
   getShowings(filters: { movieId?: number; theaterId?: number } = {}): Observable<Showing[]> {
     const params: any = {};
     if (filters.movieId)   params['movieId']   = filters.movieId;
     if (filters.theaterId) params['theaterId'] = filters.theaterId;
-    return this.http.get<Showing[]>(`${this.base}/showings`, { params });
+    return this.http.get<Showing[]>(`${this.base}/showings/`, { params });
   }
 
   // Utility: showings for a movie grouped by theater
@@ -48,7 +48,11 @@ export class CinemaService {
           theater,
           showings: showings
             .filter(s => s.theater === theater.id)
-            .sort((a, b) => new Date(a.datetime).getTime() - new Date(b.datetime).getTime()),
+           .sort((a, b) => {
+            const da = new Date(`${a.date}T${a.time}`);
+            const db = new Date(`${b.date}T${b.time}`);
+            return da.getTime() - db.getTime();
+          })
         }))
       )
     );

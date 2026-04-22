@@ -9,8 +9,8 @@ import { toSignal } from '@angular/core/rxjs-interop';
   selector: 'app-header',
   standalone: true,
   imports: [CommonModule, RouterLink, RouterLinkActive],
-  templateUrl: './header.component.html',
-  styleUrl: './header.component.scss',
+  templateUrl: './header.html',
+  styleUrl: './header.scss',
 })
 export class HeaderComponent {
   private el = inject(ElementRef);

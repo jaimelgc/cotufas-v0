@@ -1,19 +1,19 @@
 <main class="home">
 
   <!-- Hero -->
-  <section class="hero">
+  <!-- <section class="hero">
     <div class="container">
       <p class="hero-eyebrow">Now Showing</p>
-      <h1 class="hero-title">The finest cinema,<br>in five locations.</h1>
+      <h1 class="hero-title">Los cines de tenerife en una plataforma</h1>
     </div>
-  </section>
+  </section> -->
 
   <!-- Featured Movies -->
   <section class="section">
     <div class="container">
-      <h2 class="section-title">Featured Films</h2>
+      <h2 class="section-title">Tendencias</h2>
       <div class="movie-grid">
-        @for (movie of featured(); track movie.id) {
+        @for (movie of featured().slice(0, 4); track movie.id) {
           <a [routerLink]="['/movies', movie.id]" class="movie-card card">
             <div class="poster-wrap">
               <img [src]="movie.title" [alt]="movie.title" class="poster" loading="lazy" />

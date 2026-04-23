@@ -17,13 +17,11 @@ export class CinemaService {
   }
 
   getMovies(): Observable<Movie[]> {
-    return this.http.get<Movie[]>(`${this.base}/movie/`);
+    return this.http.get<Movie[]>(`${this.base}/movies/`);
   }
 
   getFeaturedMovies(): Observable<Movie[]> {
-    return this.http.get<Movie[]>(`${this.base}/movies/`).pipe(
-      map(movies => movies.filter(m => m.featured).slice(0, 4))
-    );
+    return this.http.get<Movie[]>(`${this.base}/movies/`);
   }
 
   getMovie(id: number): Observable<Movie> {

@@ -6,32 +6,34 @@
     "theater": "multicines",
     "format": "Español",
     "showings": {
-      "2026-04-19": [
-        {
-          "time": "12:15"
-        },
-        {
-          "time": "17:00"
-        }
-      ],
-      "2026-04-20": [
-        {
-          "time": "17:00"
-        }
-      ],
-      "2026-04-21": [
-        {
-          "time": "17:00"
-        }
-      ],
-      "2026-04-22": [
-        {
-          "time": "17:00"
-        }
-      ],
       "2026-04-23": [
         {
           "time": "17:00"
+        }
+      ],
+      "2026-04-25": [
+        {
+          "time": "19:45"
+        }
+      ],
+      "2026-04-26": [
+        {
+          "time": "19:45"
+        }
+      ],
+      "2026-04-27": [
+        {
+          "time": "19:45"
+        }
+      ],
+      "2026-04-28": [
+        {
+          "time": "19:45"
+        }
+      ],
+      "2026-04-29": [
+        {
+          "time": "19:45"
         }
       ]
     },
@@ -60,7 +62,17 @@
     "theater": "multicines",
     "format": "Español",
     "showings": {
-      "2026-04-19": [
+      "2026-04-23": [
+        {
+          "time": "17:00"
+        }
+      ],
+      "2026-04-24": [
+        {
+          "time": "17:00"
+        }
+      ],
+      "2026-04-25": [
         {
           "time": "12:15"
         },
@@ -68,22 +80,30 @@
           "time": "17:00"
         }
       ],
-      "2026-04-20": [
+      "2026-04-26": [
+        {
+          "time": "12:15"
+        },
         {
           "time": "17:00"
         }
       ],
-      "2026-04-21": [
+      "2026-04-27": [
         {
           "time": "17:00"
         }
       ],
-      "2026-04-22": [
+      "2026-04-28": [
         {
           "time": "17:00"
         }
       ],
-      "2026-04-23": [
+      "2026-04-29": [
+        {
+          "time": "17:00"
+        }
+      ],
+      "2026-04-30": [
         {
           "time": "17:00"
         }
@@ -114,7 +134,29 @@
     "theater": "multicines",
     "format": "Español",
     "showings": {
-      "2026-04-19": [
+      "2026-04-23": [
+        {
+          "time": "17:00"
+        },
+        {
+          "time": "19:30"
+        },
+        {
+          "time": "22:00"
+        }
+      ],
+      "2026-04-24": [
+        {
+          "time": "17:00"
+        },
+        {
+          "time": "19:30"
+        },
+        {
+          "time": "22:00"
+        }
+      ],
+      "2026-04-25": [
         {
           "time": "12:15"
         },
@@ -128,7 +170,10 @@
           "time": "22:00"
         }
       ],
-      "2026-04-20": [
+      "2026-04-26": [
+        {
+          "time": "12:15"
+        },
         {
           "time": "17:00"
         },
@@ -139,7 +184,7 @@
           "time": "22:00"
         }
       ],
-      "2026-04-21": [
+      "2026-04-27": [
         {
           "time": "17:00"
         },
@@ -150,7 +195,7 @@
           "time": "22:00"
         }
       ],
-      "2026-04-22": [
+      "2026-04-28": [
         {
           "time": "17:00"
         },
@@ -161,7 +206,18 @@
           "time": "22:00"
         }
       ],
-      "2026-04-23": [
+      "2026-04-29": [
+        {
+          "time": "17:00"
+        },
+        {
+          "time": "19:30"
+        },
+        {
+          "time": "22:00"
+        }
+      ],
+      "2026-04-30": [
         {
           "time": "17:00"
         },
@@ -188,141 +244,75 @@
     "url": "https://multicinestenerife.com/pelicula/torrente-presidente/"
   },
   {
-    "title": "Amarga navidad",
-    "length": "01 horas 51 minutos",
-    "age": "12",
-    "theater": "multicines",
-    "format": "Español",
-    "showings": {
-      "2026-04-19": [
-        {
-          "time": "19:15"
-        }
-      ],
-      "2026-04-20": [
-        {
-          "time": "19:15"
-        }
-      ],
-      "2026-04-21": [
-        {
-          "time": "19:15"
-        }
-      ]
-    },
-    "actors": [
-      "Aitana Sánchez-Gijón",
-      "Rossy de Palma",
-      "Quim Gutiérrez",
-      "Carmen Machi",
-      "Patrick Criado",
-      "Bárbara Lennie",
-      "Victoria Luengo",
-      "Antonio Araque",
-      "Gloria Muñoz",
-      "Leonardo Sbaragalia",
-      "Milena Smit",
-      "Antonio Romero",
-      "Samuel López",
-      "Laura Ledesma",
-      "Tusti de las Heras",
-      "Nourdin Batan"
-    ],
-    "directors": [
-      "Pedro Almodóvar"
-    ],
-    "genres": [
-      "Drama",
-      "Estrenos y destacados",
-      "En cartelera"
-    ],
-    "synopsis": "Elsa es una directora de publicidad cuya madre muere durante un largo puente del mes de diciembre. Encuentra refugio en el trabajo, aunque es más bien una huida hacia adelante. Trabaja sin parar y, sin darse cuenta, no se concede el tiempo necesario para guardar el duelo por la ausencia materna. Hasta que una crisis de pánico la obliga a detenerse e imponerse un descanso. Su pareja, Bonifacio, es su tabla de salvación en esos momentos de crisis. Elsa decide viajar a la isla de Lanzarote acompañada por su amiga Patricia, que también necesita alejarse de Madrid, mientras que Bonifacio se queda en la ciudad. La historia de estos tres personajes, y algunos más, se narran paralelamente a la del guionista y director de cine Raúl Durán, entremezclando ficción y realidad.",
-    "url": "https://multicinestenerife.com/pelicula/amarga-navidad/"
-  },
-  {
-    "title": "Shelter: El protector",
-    "length": "01 horas 47 minutos",
-    "age": "16",
-    "theater": "multicines",
-    "format": "Español",
-    "showings": {
-      "2026-04-19": [
-        {
-          "time": "21:30"
-        }
-      ],
-      "2026-04-20": [
-        {
-          "time": "21:30"
-        }
-      ],
-      "2026-04-21": [
-        {
-          "time": "21:30"
-        }
-      ]
-    },
-    "actors": [
-      "Jason Statham",
-      "Bodhi Rae Breathnach",
-      "Michael Shaeffer"
-    ],
-    "directors": [
-      "Ric Roman Waugh"
-    ],
-    "genres": [
-      "Destacado",
-      "Thriller",
-      "Estrenos y destacados",
-      "En cartelera",
-      "Action"
-    ],
-    "synopsis": "En una remota isla, un hombre que vive en el exilio (Jason Statham) rescata a una niña de una peligrosa tempestad, lo que desencadena una serie de eventos que los ponen a ambos en grave peligro. A medida que sus destinos se entrelazan, su misión será protegerla a toda costa, mientras se enfrenta a los enemigos de su pasado, en una trepidante odisea por sobrevivir.",
-    "url": "https://multicinestenerife.com/pelicula/shelter-el-protector/"
-  },
-  {
     "title": "Proyecto Salvación",
     "length": "02 horas 36 minutos",
     "age": "7",
     "theater": "multicines",
     "format": "Español",
     "showings": {
-      "2026-04-19": [
-        {
-          "time": "12:00"
-        },
-        {
-          "time": "17:45"
-        },
-        {
-          "time": "21:00"
-        }
-      ],
-      "2026-04-20": [
-        {
-          "time": "17:45"
-        },
-        {
-          "time": "21:00"
-        }
-      ],
-      "2026-04-21": [
-        {
-          "time": "16:30"
-        },
-        {
-          "time": "21:00"
-        }
-      ],
-      "2026-04-22": [
-        {
-          "time": "17:45"
-        },
-        {
-          "time": "21:00"
-        }
-      ],
       "2026-04-23": [
+        {
+          "time": "17:45"
+        },
+        {
+          "time": "21:00"
+        }
+      ],
+      "2026-04-24": [
+        {
+          "time": "17:45"
+        },
+        {
+          "time": "21:00"
+        }
+      ],
+      "2026-04-25": [
+        {
+          "time": "12:15"
+        },
+        {
+          "time": "17:45"
+        },
+        {
+          "time": "21:00"
+        }
+      ],
+      "2026-04-26": [
+        {
+          "time": "12:15"
+        },
+        {
+          "time": "17:45"
+        },
+        {
+          "time": "21:00"
+        }
+      ],
+      "2026-04-27": [
+        {
+          "time": "17:45"
+        },
+        {
+          "time": "21:00"
+        }
+      ],
+      "2026-04-28": [
+        {
+          "time": "17:45"
+        },
+        {
+          "time": "21:00"
+        }
+      ],
+      "2026-04-29": [
+        {
+          "time": "17:45"
+        },
+        {
+          "time": "21:00"
+        }
+      ],
+      "2026-04-30": [
         {
           "time": "17:45"
         },
@@ -352,214 +342,12 @@
     "url": "https://multicinestenerife.com/pelicula/proyecto-salvacion/"
   },
   {
-    "title": "Calle Málaga",
-    "length": "01 horas 56 minutos",
-    "age": "12",
-    "theater": "multicines",
-    "format": "Español",
-    "showings": {
-      "2026-04-19": [
-        {
-          "time": "16:45"
-        }
-      ],
-      "2026-04-20": [
-        {
-          "time": "16:45"
-        }
-      ],
-      "2026-04-21": [
-        {
-          "time": "16:45"
-        }
-      ],
-      "2026-04-22": [
-        {
-          "time": "16:45"
-        }
-      ]
-    },
-    "actors": [
-      "Carmen Maura",
-      "Marta Etura",
-      "María Alfonsa Rosso"
-    ],
-    "directors": [
-      "Maryam Touzani"
-    ],
-    "genres": [
-      "Drama",
-      "Romance",
-      "Estrenos y destacados",
-      "En cartelera"
-    ],
-    "synopsis": "María Ángeles (Carmen Maura) es una española de 79 años que vive sola en Tánger, en el norte de Marruecos, donde disfruta de su ciudad y de su vida diaria. Su vida da un giro cuando su hija Clara (Marta Etura) llega desde Madrid para vender el apartamento en el que siempre ha vivido. Decidida a quedarse en la ciudad que la vio crecer, hará todo lo posible para mantener su hogar y recuperar los objetos de toda una vida. Por el camino, redescubre, contra todo pronóstico, el amor y el deseo. Coproducción hispano-franco-marroquí seleccionada por Marruecos como candidata al Oscar 2026 a Mejor Película Internacional.Preestreno: Festival de Venecia 2025Estreno en cines España: marzo 2026",
-    "url": "https://multicinestenerife.com/pelicula/calle-malaga/"
-  },
-  {
-    "title": "La Grazia",
-    "length": "02 horas 13 minutos",
-    "age": "12",
-    "theater": "multicines",
-    "format": "Español",
-    "showings": {
-      "2026-04-19": [
-        {
-          "time": "12:00"
-        },
-        {
-          "time": "19:15"
-        }
-      ],
-      "2026-04-20": [
-        {
-          "time": "19:15"
-        }
-      ],
-      "2026-04-21": [
-        {
-          "time": "19:15"
-        }
-      ]
-    },
-    "actors": [
-      "Toni Servillo",
-      "Anna Ferzetti",
-      "Orlando Cinque"
-    ],
-    "directors": [
-      "Paolo Sorrentino"
-    ],
-    "genres": [
-      "Drama",
-      "Estrenos y destacados",
-      "En cartelera"
-    ],
-    "synopsis": "Mariano De Santis, Presidente (ficiticio) de la República italiana, es un veterano político demócrata, humanista y cristiano, pero de repente comienza a dudar sobre varias importantes decisiones que debe tomar, en especial sobre si aprueba o no una ley de eutanasia, planteándose un gran dilema moral.",
-    "url": "https://multicinestenerife.com/pelicula/la-grazia/"
-  },
-  {
-    "title": "Noche de bodas 2",
-    "length": "01 horas 48 minutos",
-    "age": "18",
-    "theater": "multicines",
-    "format": "Español",
-    "showings": {
-      "2026-04-19": [
-        {
-          "time": "17:00"
-        },
-        {
-          "time": "22:00"
-        }
-      ],
-      "2026-04-20": [
-        {
-          "time": "17:00"
-        },
-        {
-          "time": "22:00"
-        }
-      ],
-      "2026-04-21": [
-        {
-          "time": "17:00"
-        },
-        {
-          "time": "22:00"
-        }
-      ]
-    },
-    "actors": [
-      "Samara Weaving",
-      "Elijah Wood",
-      "Shawn Hatosy"
-    ],
-    "directors": [
-      "N/A"
-    ],
-    "genres": [
-      "Comedy",
-      "Horror",
-      "Thriller",
-      "Estrenos y destacados",
-      "En cartelera"
-    ],
-    "synopsis": "Momentos después de sobrevivir a un ataque de la familia Le Domas, Grace descubre que ha alcanzado el siguiente nivel del juego, y esta vez acompañada por su hermana Faith, con quien mantiene una relación distante. Grace tiene una oportunidad para sobrevivir, mantener con vida a su hermana y reclamar el Alto Trono del Consejo que controla el mundo. Cuatro familias rivales la persiguen para hacerse con el trono, y quien gane lo gobernará todo.",
-    "url": "https://multicinestenerife.com/pelicula/noche-de-bodas-2/"
-  },
-  {
     "title": "Super Mario Galaxy: La película",
     "length": "01 horas 38 minutos",
     "age": "0",
     "theater": "multicines",
     "format": "Español",
     "showings": {
-      "2026-04-19": [
-        {
-          "time": "12:15"
-        },
-        {
-          "time": "16:30"
-        },
-        {
-          "time": "17:45"
-        },
-        {
-          "time": "18:45"
-        },
-        {
-          "time": "20:00"
-        },
-        {
-          "time": "21:00"
-        }
-      ],
-      "2026-04-20": [
-        {
-          "time": "16:30"
-        },
-        {
-          "time": "17:45"
-        },
-        {
-          "time": "18:45"
-        },
-        {
-          "time": "20:00"
-        },
-        {
-          "time": "21:00"
-        }
-      ],
-      "2026-04-21": [
-        {
-          "time": "16:30"
-        },
-        {
-          "time": "18:45"
-        },
-        {
-          "time": "21:00"
-        }
-      ],
-      "2026-04-22": [
-        {
-          "time": "16:30"
-        },
-        {
-          "time": "18:45"
-        },
-        {
-          "time": "19:45"
-        },
-        {
-          "time": "21:00"
-        },
-        {
-          "time": "22:00"
-        }
-      ],
       "2026-04-23": [
         {
           "time": "16:30"
@@ -575,6 +363,110 @@
         },
         {
           "time": "22:00"
+        }
+      ],
+      "2026-04-24": [
+        {
+          "time": "16:30"
+        },
+        {
+          "time": "17:30"
+        },
+        {
+          "time": "18:45"
+        },
+        {
+          "time": "21:00"
+        }
+      ],
+      "2026-04-25": [
+        {
+          "time": "12:15"
+        },
+        {
+          "time": "16:30"
+        },
+        {
+          "time": "17:30"
+        },
+        {
+          "time": "18:45"
+        },
+        {
+          "time": "21:00"
+        }
+      ],
+      "2026-04-26": [
+        {
+          "time": "12:15"
+        },
+        {
+          "time": "16:30"
+        },
+        {
+          "time": "17:30"
+        },
+        {
+          "time": "18:45"
+        },
+        {
+          "time": "21:00"
+        }
+      ],
+      "2026-04-27": [
+        {
+          "time": "16:30"
+        },
+        {
+          "time": "17:30"
+        },
+        {
+          "time": "18:45"
+        },
+        {
+          "time": "21:00"
+        }
+      ],
+      "2026-04-28": [
+        {
+          "time": "16:30"
+        },
+        {
+          "time": "17:30"
+        },
+        {
+          "time": "18:45"
+        },
+        {
+          "time": "21:00"
+        }
+      ],
+      "2026-04-29": [
+        {
+          "time": "16:30"
+        },
+        {
+          "time": "17:30"
+        },
+        {
+          "time": "18:45"
+        },
+        {
+          "time": "21:00"
+        }
+      ],
+      "2026-04-30": [
+        {
+          "time": "16:30"
+        },
+        {
+          "time": "17:30"
+        },
+        {
+          "time": "18:45"
+        },
+        {
+          "time": "21:00"
         }
       ]
     },
@@ -607,38 +499,6 @@
     "theater": "multicines",
     "format": "Español",
     "showings": {
-      "2026-04-19": [
-        {
-          "time": "12:15"
-        },
-        {
-          "time": "17:00"
-        },
-        {
-          "time": "21:45"
-        }
-      ],
-      "2026-04-20": [
-        {
-          "time": "17:00"
-        },
-        {
-          "time": "21:45"
-        }
-      ],
-      "2026-04-21": [
-        {
-          "time": "17:00"
-        },
-        {
-          "time": "21:45"
-        }
-      ],
-      "2026-04-22": [
-        {
-          "time": "22:30"
-        }
-      ],
       "2026-04-23": [
         {
           "time": "22:30"
@@ -656,46 +516,72 @@
     "genres": [
       "Drama",
       "Romance",
-      "Estrenos y destacados",
       "En cartelera"
     ],
     "synopsis": "Tras salir de la cárcel, Kenna intenta volver a conectar con su hija pequeña, pero se enfrenta a la resistencia de todo el mundo, excepto del dueño de un bar que tiene vínculos con su hija. A medida que se acercan, Kenna debe enfrentarse a sus errores del pasado para construir un futuro esperanzador… Adaptación del libro de Colleen Hoover, autora de Romper el círculo.",
     "url": "https://multicinestenerife.com/pelicula/reminders-of-him/"
   },
   {
-    "title": "A una isla de ti",
-    "length": "01 horas 42 minutos",
+    "title": "Incontrolable (I Swear) – VOSE",
+    "length": "02 horas 00 minutos",
     "age": "12",
     "theater": "multicines",
     "format": "Español",
     "showings": {
-      "2026-04-19": [
+      "2026-04-24": [
         {
-          "time": "19:15"
+          "time": "21:40"
         }
       ],
-      "2026-04-20": [
+      "2026-04-25": [
         {
-          "time": "19:15"
+          "time": "21:40"
         }
       ],
-      "2026-04-21": [
+      "2026-04-26": [
         {
-          "time": "19:15"
+          "time": "21:40"
+        }
+      ],
+      "2026-04-27": [
+        {
+          "time": "21:40"
+        }
+      ],
+      "2026-04-28": [
+        {
+          "time": "21:40"
+        }
+      ],
+      "2026-04-29": [
+        {
+          "time": "21:40"
+        }
+      ],
+      "2026-04-30": [
+        {
+          "time": "21:40"
         }
       ]
     },
-    "actors": [],
+    "actors": [
+      "Robert Aramayo",
+      "Peter Mullan",
+      "Maxine Peake"
+    ],
     "directors": [
-      "Alexis Morante"
+      "Kirk Jones"
     ],
     "genres": [
-      "Comedy",
+      "Drama",
+      "History",
+      "Biography",
       "Estrenos y destacados",
+      "VOSE",
       "En cartelera"
     ],
-    "synopsis": "Harry es un chef algo estirado al que le acaban de romper el corazón en el altar, por lo que se deja convencer por Yaiza, su mejor amiga, para pasar unas vacaciones en su tierra natal, Gran Canaria. Allí, Harry se enamora de la isla, de su gente, de sus playas y de su comida… pero lo que no esperaba era enamorarse de Iván, el padre de su amiga.",
-    "url": "https://multicinestenerife.com/pelicula/a-una-isla-de-ti/"
+    "synopsis": "La historia real de John Davidson. Diagnosticado con Tourette a los 15 años, señalado como loco por sus compañeros, luchó con una condición que pocos habían presenciado. Ya adulto, hizo campaña en favor del síndrome de Tourette.",
+    "url": "https://multicinestenerife.com/pelicula/incontrolable-i-swear-vose/"
   },
   {
     "title": "Incontrolable (I Swear)",
@@ -704,27 +590,42 @@
     "theater": "multicines",
     "format": "Español",
     "showings": {
-      "2026-04-19": [
-        {
-          "time": "19:20"
-        }
-      ],
-      "2026-04-20": [
-        {
-          "time": "19:20"
-        }
-      ],
-      "2026-04-21": [
-        {
-          "time": "19:20"
-        }
-      ],
-      "2026-04-22": [
-        {
-          "time": "19:20"
-        }
-      ],
       "2026-04-23": [
+        {
+          "time": "19:20"
+        }
+      ],
+      "2026-04-24": [
+        {
+          "time": "19:20"
+        }
+      ],
+      "2026-04-25": [
+        {
+          "time": "19:20"
+        }
+      ],
+      "2026-04-26": [
+        {
+          "time": "19:20"
+        }
+      ],
+      "2026-04-27": [
+        {
+          "time": "19:20"
+        }
+      ],
+      "2026-04-28": [
+        {
+          "time": "19:20"
+        }
+      ],
+      "2026-04-29": [
+        {
+          "time": "19:20"
+        }
+      ],
+      "2026-04-30": [
         {
           "time": "19:20"
         }
@@ -749,82 +650,12 @@
     "url": "https://multicinestenerife.com/pelicula/incontrolable-i-swear/"
   },
   {
-    "title": "Solos",
-    "length": "01 horas 23 minutos",
-    "age": "16",
-    "theater": "multicines",
-    "format": "Español",
-    "showings": {
-      "2026-04-19": [
-        {
-          "time": "12:00"
-        },
-        {
-          "time": "19:15"
-        }
-      ],
-      "2026-04-20": [
-        {
-          "time": "19:15"
-        }
-      ],
-      "2026-04-21": [
-        {
-          "time": "19:15"
-        }
-      ]
-    },
-    "actors": [],
-    "directors": [
-      "Guillermo Ríos Bordón"
-    ],
-    "genres": [
-      "Comedy",
-      "Estrenos y destacados",
-      "En cartelera"
-    ],
-    "synopsis": "Cuatro amigos se reúnen en una agradable cena con el único fin de disfrutar de su vida, acompañados de una copa de vino y alejados de los problemas personales. Sin embargo, las insatisfacciones comienzan a llegar según avanza la noche y surgen temas que les inquietan, como el miedo, la pareja, la amistad, el sexo, el trabajo, la complicidad o la muerte",
-    "url": "https://multicinestenerife.com/pelicula/solos/"
-  },
-  {
     "title": "Boulevard",
     "length": "01 horas 39 minutos",
     "age": "0",
     "theater": "multicines",
     "format": "Español",
     "showings": {
-      "2026-04-19": [
-        {
-          "time": "12:15"
-        },
-        {
-          "time": "16:30"
-        },
-        {
-          "time": "21:45"
-        }
-      ],
-      "2026-04-20": [
-        {
-          "time": "16:30"
-        },
-        {
-          "time": "21:45"
-        }
-      ],
-      "2026-04-21": [
-        {
-          "time": "16:30"
-        },
-        {
-          "time": "21:45"
-        }
-      ],
-      "2026-04-22": [
-        {
-          "time": "16:30"
-        }
-      ],
       "2026-04-23": [
         {
           "time": "16:30"
@@ -841,54 +672,10 @@
     ],
     "genres": [
       "Drama",
-      "Estrenos y destacados",
       "En cartelera"
     ],
     "synopsis": "Cuando Hasley (Eve Ryan) se muda a una nueva ciudad con su madre, lo último que espera es cruzarse con Luke (Mikel Niso), un joven envuelto en un aura peligrosa y un pasado trágico. Atrapado en sus propios demonios, Luke es todo lo que Hasley debería temer… pero a lo que se siente irremediablemente atraída. A pesar de las sombras que lo rodean, Hasley descubre en Luke una vulnerabilidad y un mundo interior apasionante. Juntos, crearán su propio boulevard: un refugio escondido donde poder ser ellos mismos, cumplir sueños imposibles, atreverse a amar a pesar de los prejuicios, el dolor y las cicatrices que arrastran, y demostrar que el amor es capaz de florecer incluso en los corazones más insospechados.",
     "url": "https://multicinestenerife.com/pelicula/boulevard/"
-  },
-  {
-    "title": "Kill Bill: The Whole Bloody Affair (VOSE)",
-    "length": "04 horas 07 minutos",
-    "age": "0",
-    "theater": "multicines",
-    "format": "Español",
-    "showings": {
-      "2026-04-19": [
-        {
-          "time": "19:00"
-        }
-      ],
-      "2026-04-20": [
-        {
-          "time": "19:00"
-        }
-      ],
-      "2026-04-21": [
-        {
-          "time": "19:00"
-        }
-      ]
-    },
-    "actors": [
-      "Uma Thurman",
-      "Lucy Liu",
-      "Vivica A. Fox"
-    ],
-    "directors": [
-      "Quentin Tarantino"
-    ],
-    "genres": [
-      "Destacado",
-      "Crime",
-      "Thriller",
-      "Estrenos y destacados",
-      "VOSE",
-      "En cartelera",
-      "Action"
-    ],
-    "synopsis": "Kill Bill: The Whole Bloody Affair reúne el Volumen 1 y el Volumen 2 en una única y colosal película, presentada tal y como Quentin Tarantino la concibió, con una nueva secuencia de anime nunca antes vista.",
-    "url": "https://multicinestenerife.com/pelicula/kill-bill-the-whole-bloody-affair-vose/"
   },
   {
     "title": "La partitura del cosmos",
@@ -897,26 +684,6 @@
     "theater": "multicines",
     "format": "Español",
     "showings": {
-      "2026-04-19": [
-        {
-          "time": "17:15"
-        }
-      ],
-      "2026-04-20": [
-        {
-          "time": "17:15"
-        }
-      ],
-      "2026-04-21": [
-        {
-          "time": "17:15"
-        }
-      ],
-      "2026-04-22": [
-        {
-          "time": "17:15"
-        }
-      ],
       "2026-04-23": [
         {
           "time": "17:15"
@@ -926,7 +693,6 @@
     "actors": [],
     "directors": [],
     "genres": [
-      "Estrenos y destacados",
       "En cartelera"
     ],
     "synopsis": null,
@@ -939,38 +705,6 @@
     "theater": "multicines",
     "format": "Español",
     "showings": {
-      "2026-04-19": [
-        {
-          "time": "16:45"
-        },
-        {
-          "time": "21:40"
-        }
-      ],
-      "2026-04-20": [
-        {
-          "time": "16:45"
-        },
-        {
-          "time": "21:40"
-        }
-      ],
-      "2026-04-21": [
-        {
-          "time": "16:45"
-        },
-        {
-          "time": "21:40"
-        }
-      ],
-      "2026-04-22": [
-        {
-          "time": "16:45"
-        },
-        {
-          "time": "21:40"
-        }
-      ],
       "2026-04-23": [
         {
           "time": "16:45"
@@ -990,7 +724,6 @@
     ],
     "genres": [
       "Drama",
-      "Estrenos y destacados",
       "En cartelera"
     ],
     "synopsis": "1942, Ucrania. Hugo tiene 12 años cuando el nazismo ocupa su tierra. Para salvarlo de la deportación, su madre lo confía a su amiga de la infancia, Mariana, una prostituta que vive en un burdel en las afueras de la ciudad. Escondido en el armario de la habitación de Mariana, toda su existencia está suspendida de los ruidos que lo rodean y de las escenas que adivina a través del armario. Mientras la guerra continúa fuera Hugo y Mariana forjan un vínculo íntimo y complejo de amor, lealtad y devoción mutua, que cambiará sus vidas para siempre.",
@@ -1003,41 +736,44 @@
     "theater": "multicines",
     "format": "Español",
     "showings": {
-      "2026-04-19": [
-        {
-          "time": "19:10"
-        },
-        {
-          "time": "21:40"
-        }
-      ],
-      "2026-04-20": [
-        {
-          "time": "19:10"
-        },
-        {
-          "time": "21:40"
-        }
-      ],
-      "2026-04-21": [
-        {
-          "time": "19:10"
-        },
-        {
-          "time": "21:40"
-        }
-      ],
-      "2026-04-22": [
-        {
-          "time": "19:10"
-        },
-        {
-          "time": "21:40"
-        }
-      ],
       "2026-04-23": [
         {
           "time": "20:00"
+        }
+      ],
+      "2026-04-24": [
+        {
+          "time": "16:45"
+        }
+      ],
+      "2026-04-25": [
+        {
+          "time": "16:45"
+        }
+      ],
+      "2026-04-26": [
+        {
+          "time": "16:45"
+        }
+      ],
+      "2026-04-27": [
+        {
+          "time": "16:45"
+        }
+      ],
+      "2026-04-28": [
+        {
+          "time": "16:45"
+        }
+      ],
+      "2026-04-29": [
+        {
+          "time": "16:45"
+        }
+      ],
+      "2026-04-30": [
+        {
+          "time": "16:45"
         }
       ]
     },
@@ -1065,47 +801,47 @@
     "theater": "multicines",
     "format": "Español",
     "showings": {
-      "2026-04-19": [
-        {
-          "time": "12:15"
-        },
-        {
-          "time": "19:45"
-        },
-        {
-          "time": "22:00"
-        }
-      ],
-      "2026-04-20": [
-        {
-          "time": "19:45"
-        },
-        {
-          "time": "22:00"
-        }
-      ],
-      "2026-04-21": [
-        {
-          "time": "19:45"
-        },
-        {
-          "time": "22:00"
-        }
-      ],
-      "2026-04-22": [
-        {
-          "time": "19:45"
-        },
-        {
-          "time": "22:00"
-        }
-      ],
       "2026-04-23": [
         {
           "time": "19:45"
         },
         {
           "time": "22:00"
+        }
+      ],
+      "2026-04-24": [
+        {
+          "time": "21:30"
+        }
+      ],
+      "2026-04-25": [
+        {
+          "time": "21:30"
+        }
+      ],
+      "2026-04-26": [
+        {
+          "time": "21:30"
+        }
+      ],
+      "2026-04-27": [
+        {
+          "time": "21:30"
+        }
+      ],
+      "2026-04-28": [
+        {
+          "time": "21:30"
+        }
+      ],
+      "2026-04-29": [
+        {
+          "time": "21:30"
+        }
+      ],
+      "2026-04-30": [
+        {
+          "time": "21:30"
         }
       ]
     },
@@ -1134,7 +870,29 @@
     "theater": "multicines",
     "format": "Español",
     "showings": {
-      "2026-04-19": [
+      "2026-04-23": [
+        {
+          "time": "16:30"
+        },
+        {
+          "time": "19:10"
+        },
+        {
+          "time": "22:00"
+        }
+      ],
+      "2026-04-24": [
+        {
+          "time": "16:30"
+        },
+        {
+          "time": "19:10"
+        },
+        {
+          "time": "22:00"
+        }
+      ],
+      "2026-04-25": [
         {
           "time": "12:00"
         },
@@ -1148,7 +906,10 @@
           "time": "22:00"
         }
       ],
-      "2026-04-20": [
+      "2026-04-26": [
+        {
+          "time": "12:00"
+        },
         {
           "time": "16:30"
         },
@@ -1159,7 +920,7 @@
           "time": "22:00"
         }
       ],
-      "2026-04-21": [
+      "2026-04-27": [
         {
           "time": "16:30"
         },
@@ -1170,7 +931,7 @@
           "time": "22:00"
         }
       ],
-      "2026-04-22": [
+      "2026-04-28": [
         {
           "time": "16:30"
         },
@@ -1181,7 +942,18 @@
           "time": "22:00"
         }
       ],
-      "2026-04-23": [
+      "2026-04-29": [
+        {
+          "time": "16:30"
+        },
+        {
+          "time": "19:10"
+        },
+        {
+          "time": "22:00"
+        }
+      ],
+      "2026-04-30": [
         {
           "time": "16:30"
         },
@@ -1217,62 +989,6 @@
     "theater": "multicines",
     "format": "Español",
     "showings": {
-      "2026-04-19": [
-        {
-          "time": "12:15"
-        },
-        {
-          "time": "16:30"
-        },
-        {
-          "time": "18:30"
-        },
-        {
-          "time": "20:30"
-        },
-        {
-          "time": "22:30"
-        }
-      ],
-      "2026-04-20": [
-        {
-          "time": "16:30"
-        },
-        {
-          "time": "18:30"
-        },
-        {
-          "time": "20:30"
-        },
-        {
-          "time": "22:30"
-        }
-      ],
-      "2026-04-21": [
-        {
-          "time": "16:30"
-        },
-        {
-          "time": "19:30"
-        },
-        {
-          "time": "21:30"
-        }
-      ],
-      "2026-04-22": [
-        {
-          "time": "16:30"
-        },
-        {
-          "time": "18:30"
-        },
-        {
-          "time": "20:30"
-        },
-        {
-          "time": "22:30"
-        }
-      ],
       "2026-04-23": [
         {
           "time": "16:30"
@@ -1285,6 +1001,89 @@
         },
         {
           "time": "22:30"
+        }
+      ],
+      "2026-04-24": [
+        {
+          "time": "16:30"
+        },
+        {
+          "time": "18:30"
+        },
+        {
+          "time": "21:50"
+        }
+      ],
+      "2026-04-25": [
+        {
+          "time": "12:15"
+        },
+        {
+          "time": "16:30"
+        },
+        {
+          "time": "18:30"
+        },
+        {
+          "time": "21:50"
+        }
+      ],
+      "2026-04-26": [
+        {
+          "time": "12:15"
+        },
+        {
+          "time": "16:30"
+        },
+        {
+          "time": "18:30"
+        },
+        {
+          "time": "21:50"
+        }
+      ],
+      "2026-04-27": [
+        {
+          "time": "16:30"
+        },
+        {
+          "time": "18:30"
+        },
+        {
+          "time": "21:50"
+        }
+      ],
+      "2026-04-28": [
+        {
+          "time": "16:30"
+        },
+        {
+          "time": "18:30"
+        },
+        {
+          "time": "21:50"
+        }
+      ],
+      "2026-04-29": [
+        {
+          "time": "16:30"
+        },
+        {
+          "time": "18:30"
+        },
+        {
+          "time": "21:50"
+        }
+      ],
+      "2026-04-30": [
+        {
+          "time": "16:30"
+        },
+        {
+          "time": "18:30"
+        },
+        {
+          "time": "21:50"
         }
       ]
     },
@@ -1316,80 +1115,13 @@
     "url": "https://multicinestenerife.com/pelicula/la-familia-beneton-2/"
   },
   {
-    "title": "El 47",
-    "length": "01 horas 50 minutos",
-    "age": "7",
-    "theater": "multicines",
-    "format": "Español",
-    "showings": {
-      "2026-04-21": [
-        {
-          "time": "18:30"
-        }
-      ]
-    },
-    "actors": [
-      "Clara Segura",
-      "Eduard Fernández",
-      "Zoe Bonafonte"
-    ],
-    "directors": [
-      "Marcel Barrena"
-    ],
-    "genres": [
-      "Drama",
-      "Biography",
-      "Estrenos y destacados",
-      "Eventos",
-      "En cartelera",
-      "Goya2025"
-    ],
-    "synopsis": "El 47 cuenta la historia de un acto de disidencia pacífica y el movimiento vecinal de base que en 1978 transformó Barcelona y cambió la imagen de sus suburbios para siempre. Manolo Vital, un conductor de autobús que se adueñaba del bus de la línea 47 para desmontar una mentira que el Ayuntamiento se empeñaba en repetir: los autobuses no podían subir las cuestas del distrito de Torre Baró. Un acto de rebeldía que demostró ser un catalizador para el cambio, de que las personas se enorgullecen de sus raíces, de una lucha del vecindario, de la clase trabajadora que ayudó a crear la Barcelona moderna de los años 70.",
-    "url": "https://multicinestenerife.com/pelicula/el47/"
-  },
-  {
-    "title": "La flauta mágica",
-    "length": "03 horas 30 minutos",
-    "age": "0",
-    "theater": "multicines",
-    "format": "Español",
-    "showings": {
-      "2026-04-21": [
-        {
-          "time": "18:45"
-        }
-      ]
-    },
-    "actors": [
-      "JULIA BULLOCK",
-      "AMITAI PATI",
-      "HUW MONTAGUE RENDALL",
-      "KATHRYN LEWEK"
-    ],
-    "directors": [
-      "Directora musical – MARIE JACQUOT",
-      "Dirección escénica – DAVID MCVICAR"
-    ],
-    "genres": [
-      "Próximamente",
-      "Estrenos y destacados",
-      "Eventos",
-      "En cartelera",
-      "Venta anticipada",
-      "Ópera25/26",
-      "Ópera en directo"
-    ],
-    "synopsis": "La princesa Pamina ha sido capturada. Su madre, la Reina de la Noche, encomienda al joven príncipe Tamino la misión de rescatarla. Pero cuando Tamino y su simpático acompañante Papageno emprenden la aventura, pronto descubren que, cuando se trata de buscar el amor, nada es lo que parece. Guiados por una flauta mágica, se enfrentan a monstruos, villanos y una misteriosa hermandad de sabios… aunque la ayuda, al final, llega de donde menos se la esperan.",
-    "url": "https://multicinestenerife.com/pelicula/la-flauta-magica-2/"
-  },
-  {
     "title": "Turno de noche",
     "length": "01 horas 39 minutos",
     "age": "16",
     "theater": "multicines",
     "format": "Español",
     "showings": {
-      "2026-04-22": [
+      "2026-04-23": [
         {
           "time": "19:15"
         },
@@ -1397,12 +1129,49 @@
           "time": "21:45"
         }
       ],
-      "2026-04-23": [
+      "2026-04-24": [
         {
           "time": "19:15"
         },
         {
           "time": "21:45"
+        }
+      ],
+      "2026-04-25": [
+        {
+          "time": "19:15"
+        },
+        {
+          "time": "21:45"
+        }
+      ],
+      "2026-04-26": [
+        {
+          "time": "19:15"
+        },
+        {
+          "time": "21:45"
+        }
+      ],
+      "2026-04-27": [
+        {
+          "time": "19:15"
+        },
+        {
+          "time": "21:45"
+        }
+      ],
+      "2026-04-28": [
+        {
+          "time": "19:15"
+        },
+        {
+          "time": "21:45"
+        }
+      ],
+      "2026-04-29": [
+        {
+          "time": "22:15"
         }
       ]
     },
@@ -1431,7 +1200,7 @@
     "theater": "multicines",
     "format": "Español",
     "showings": {
-      "2026-04-22": [
+      "2026-04-23": [
         {
           "time": "16:30"
         },
@@ -1445,7 +1214,80 @@
           "time": "22:30"
         }
       ],
-      "2026-04-23": [
+      "2026-04-24": [
+        {
+          "time": "16:30"
+        },
+        {
+          "time": "19:45"
+        },
+        {
+          "time": "22:30"
+        }
+      ],
+      "2026-04-25": [
+        {
+          "time": "12:00"
+        },
+        {
+          "time": "16:30"
+        },
+        {
+          "time": "18:30"
+        },
+        {
+          "time": "20:30"
+        },
+        {
+          "time": "22:30"
+        }
+      ],
+      "2026-04-26": [
+        {
+          "time": "12:00"
+        },
+        {
+          "time": "16:30"
+        },
+        {
+          "time": "18:30"
+        },
+        {
+          "time": "20:30"
+        },
+        {
+          "time": "22:30"
+        }
+      ],
+      "2026-04-27": [
+        {
+          "time": "16:30"
+        },
+        {
+          "time": "18:30"
+        },
+        {
+          "time": "20:30"
+        },
+        {
+          "time": "22:30"
+        }
+      ],
+      "2026-04-28": [
+        {
+          "time": "16:30"
+        },
+        {
+          "time": "18:30"
+        },
+        {
+          "time": "20:30"
+        },
+        {
+          "time": "22:30"
+        }
+      ],
+      "2026-04-29": [
         {
           "time": "16:30"
         },
@@ -1473,20 +1315,417 @@
     "url": "https://multicinestenerife.com/pelicula/la-ahorcada/"
   },
   {
+    "title": "Maracuda",
+    "length": "01 horas 30 minutos",
+    "age": "0",
+    "theater": "multicines",
+    "format": "Español",
+    "showings": {
+      "2026-04-24": [
+        {
+          "time": "16:30"
+        }
+      ],
+      "2026-04-25": [
+        {
+          "time": "12:15"
+        },
+        {
+          "time": "16:30"
+        }
+      ],
+      "2026-04-26": [
+        {
+          "time": "12:15"
+        },
+        {
+          "time": "16:30"
+        }
+      ],
+      "2026-04-27": [
+        {
+          "time": "16:30"
+        }
+      ],
+      "2026-04-28": [
+        {
+          "time": "16:30"
+        }
+      ],
+      "2026-04-29": [
+        {
+          "time": "16:30"
+        }
+      ],
+      "2026-04-30": [
+        {
+          "time": "16:30"
+        }
+      ]
+    },
+    "actors": [
+      "Prokhor Chekhovskoy",
+      "Peter Ivaschenko",
+      "Marina Lisovets"
+    ],
+    "directors": [
+      "Viktor Glukhushin"
+    ],
+    "genres": [
+      "Adventure",
+      "Animation",
+      "Comedy",
+      "Estrenos y destacados",
+      "En cartelera"
+    ],
+    "synopsis": "Maracuda, hijo de un respetado líder tribal, lucha por estar a la altura de las expectativas de su padre. Se aventura en un bosque misterioso para probarse a sí mismo y se encuentra con Tink, un pájaro extraterrestre mágico, y juntos se embarcan en increíbles aventuras en el bosque de la Edad de Piedra habitado por ardillas dientes de sable, adorables suricatos e incluso dinosaurios. En medio de sus aventuras, Tink transforma involuntariamente al padre de Maracuda en una pequeña criatura, lo que lleva al niño a enseñarle a Tink cómo controlar sus poderes.",
+    "url": "https://multicinestenerife.com/pelicula/the-myth-of-marakuda/"
+  },
+  {
+    "title": "Kraken. El libro negro de las horas",
+    "length": "01 horas 51 minutos",
+    "age": "0",
+    "theater": "multicines",
+    "format": "Español",
+    "showings": {
+      "2026-04-24": [
+        {
+          "time": "19:40"
+        },
+        {
+          "time": "22:15"
+        }
+      ],
+      "2026-04-25": [
+        {
+          "time": "12:00"
+        },
+        {
+          "time": "19:40"
+        },
+        {
+          "time": "22:15"
+        }
+      ],
+      "2026-04-26": [
+        {
+          "time": "12:00"
+        },
+        {
+          "time": "19:40"
+        },
+        {
+          "time": "22:15"
+        }
+      ],
+      "2026-04-27": [
+        {
+          "time": "19:40"
+        },
+        {
+          "time": "22:15"
+        }
+      ],
+      "2026-04-28": [
+        {
+          "time": "19:40"
+        },
+        {
+          "time": "22:15"
+        }
+      ],
+      "2026-04-29": [
+        {
+          "time": "19:40"
+        },
+        {
+          "time": "22:15"
+        }
+      ],
+      "2026-04-30": [
+        {
+          "time": "19:40"
+        },
+        {
+          "time": "22:15"
+        }
+      ]
+    },
+    "actors": [
+      "Maggie Civantos",
+      "Sofia Castañon",
+      "Aitziber Luma"
+    ],
+    "directors": [
+      "Manuel Sanabria",
+      "Joaquín Llamas"
+    ],
+    "genres": [
+      "Thriller",
+      "Estrenos y destacados",
+      "En cartelera"
+    ],
+    "synopsis": "Vitoria, 2022. Unai López de Ayala, conocido como Kraken (Alejo Sauras), antiguo inspector y experto en perfiles criminales, recibe una misteriosa llamada que sacude sus certezas sobre su historia familiar: dispone de solo siete días para localizar el mítico Libro negro de las horas, una de las siete piezas bibliográficas más valiosas del mundo, o su madre, a quien creía fallecida hace décadas, pagará con su vida. Obligado a salir de su retiro, Unai se une a Esti (Maggie Civantos) en una frenética y angustiosa carrera contrarreloj que los lleva desde las calles de Vitoria hasta el corazón de Madrid, entre coleccionistas obsesivos y bibliófilos peligrosos. Cada pista y cada sospechoso lo obligan a trazar el perfil criminal más complejo de su carrera, uno que podría alterar por completo los recuerdos y secretos que guardaba sobre su propia familia.",
+    "url": "https://multicinestenerife.com/pelicula/kraken-el-libro-negro-de-las-horas/"
+  },
+  {
+    "title": "El sonido de la caída",
+    "length": "02 horas 29 minutos",
+    "age": "16",
+    "theater": "multicines",
+    "format": "Español",
+    "showings": {
+      "2026-04-24": [
+        {
+          "time": "16:30"
+        },
+        {
+          "time": "20:30"
+        }
+      ],
+      "2026-04-25": [
+        {
+          "time": "12:00"
+        },
+        {
+          "time": "16:30"
+        },
+        {
+          "time": "20:30"
+        }
+      ],
+      "2026-04-26": [
+        {
+          "time": "12:00"
+        },
+        {
+          "time": "16:30"
+        },
+        {
+          "time": "20:30"
+        }
+      ],
+      "2026-04-27": [
+        {
+          "time": "16:30"
+        },
+        {
+          "time": "20:30"
+        }
+      ],
+      "2026-04-28": [
+        {
+          "time": "16:30"
+        },
+        {
+          "time": "20:30"
+        }
+      ],
+      "2026-04-29": [
+        {
+          "time": "20:30"
+        }
+      ]
+    },
+    "actors": [
+      "Hanna Heckt",
+      "Lena Urzendowsky",
+      "Susanne Wuest"
+    ],
+    "directors": [
+      "Mascha Schilinski"
+    ],
+    "genres": [
+      "Drama",
+      "Estrenos y destacados",
+      "En cartelera"
+    ],
+    "synopsis": "Cuatro niñas, Alma, Erika, Angelika y Lenka, pasan su juventud en la misma granja del norte de Alemania. A medida que la casa evoluciona a lo largo de un siglo, los ecos del pasado perduran en sus paredes. Aunque separadas por el tiempo, sus vidas empiezan a reflejarse.",
+    "url": "https://multicinestenerife.com/pelicula/el-sonido-de-la-caida/"
+  },
+  {
+    "title": "Zona 3",
+    "length": "01 horas 40 minutos",
+    "age": "0",
+    "theater": "multicines",
+    "format": "Español",
+    "showings": {
+      "2026-04-24": [
+        {
+          "time": "16:45"
+        }
+      ],
+      "2026-04-25": [
+        {
+          "time": "16:45"
+        }
+      ],
+      "2026-04-26": [
+        {
+          "time": "16:45"
+        }
+      ],
+      "2026-04-27": [
+        {
+          "time": "16:45"
+        }
+      ],
+      "2026-04-28": [
+        {
+          "time": "16:45"
+        }
+      ],
+      "2026-04-29": [
+        {
+          "time": "16:45"
+        }
+      ],
+      "2026-04-30": [
+        {
+          "time": "16:45"
+        }
+      ]
+    },
+    "actors": [
+      "Gilles Lellouche"
+    ],
+    "directors": [
+      "Cédric Jimenez"
+    ],
+    "genres": [
+      "Sci-fi",
+      "Thriller",
+      "Estrenos y destacados",
+      "En cartelera"
+    ],
+    "synopsis": "París, 2045. La población de la capital está controlada por una inteligencia artificial llamada Alma, y dividida en tres zonas. Cada zona agrupa a la misma clase social. Un día, el creador de la IA es asesinado. La investigación se confía a Salia, una mujer policía de la zona 2, y a Zem, un policía de la zona 3.",
+    "url": "https://multicinestenerife.com/pelicula/zona-3/"
+  },
+  {
+    "title": "Después de Kim",
+    "length": "01 horas 47 minutos",
+    "age": "12",
+    "theater": "multicines",
+    "format": "Español",
+    "showings": {
+      "2026-04-24": [
+        {
+          "time": "19:20"
+        },
+        {
+          "time": "21:40"
+        }
+      ],
+      "2026-04-25": [
+        {
+          "time": "19:20"
+        },
+        {
+          "time": "21:40"
+        }
+      ],
+      "2026-04-26": [
+        {
+          "time": "19:20"
+        },
+        {
+          "time": "21:40"
+        }
+      ],
+      "2026-04-27": [
+        {
+          "time": "19:20"
+        },
+        {
+          "time": "21:40"
+        }
+      ],
+      "2026-04-28": [
+        {
+          "time": "19:20"
+        },
+        {
+          "time": "21:40"
+        }
+      ],
+      "2026-04-29": [
+        {
+          "time": "19:20"
+        },
+        {
+          "time": "21:40"
+        }
+      ],
+      "2026-04-30": [
+        {
+          "time": "19:20"
+        },
+        {
+          "time": "21:40"
+        }
+      ]
+    },
+    "actors": [
+      "Adriana Ozores",
+      "Darío Grandinetti",
+      "Gloria March"
+    ],
+    "directors": [
+      "Ángeles González-Sinde"
+    ],
+    "genres": [
+      "Drama",
+      "Estrenos y destacados",
+      "En cartelera"
+    ],
+    "synopsis": "Juan (Dario Grandinetti) y Gloria (Adriana Ozores), divorciados y distanciados desde hace veinte años, viajan desde Buenos Aires a España tras recibir la noticia de que su hija Kim, con la que hace tiempo perdieron el contacto, ha aparecido muerta. Allí descubren que ella ha dejado un hijo que está en paradero desconocido. Esta sorpresa les lleva a quedarse en España para encontrar a su nieto. Hacer ese camino juntos sin caer en los enfrentamientos del pasado será su desafío.",
+    "url": "https://multicinestenerife.com/pelicula/despues-de-kim/"
+  },
+  {
     "title": "Michael (VOSE)",
     "length": "01 horas 39 minutos",
     "age": "0",
     "theater": "multicines",
     "format": "Español",
     "showings": {
-      "2026-04-22": [
+      "2026-04-23": [
         {
           "time": "20:00"
         }
       ],
-      "2026-04-23": [
+      "2026-04-24": [
         {
-          "time": "20:00"
+          "time": "18:45"
+        }
+      ],
+      "2026-04-25": [
+        {
+          "time": "18:45"
+        }
+      ],
+      "2026-04-26": [
+        {
+          "time": "18:45"
+        }
+      ],
+      "2026-04-27": [
+        {
+          "time": "18:45"
+        }
+      ],
+      "2026-04-28": [
+        {
+          "time": "18:45"
+        }
+      ],
+      "2026-04-29": [
+        {
+          "time": "18:45"
+        }
+      ],
+      "2026-04-30": [
+        {
+          "time": "18:45"
         }
       ]
     },
@@ -1519,7 +1758,7 @@
     "theater": "multicines",
     "format": "Español",
     "showings": {
-      "2026-04-22": [
+      "2026-04-23": [
         {
           "time": "16:30"
         },
@@ -1536,7 +1775,115 @@
           "time": "22:00"
         }
       ],
-      "2026-04-23": [
+      "2026-04-24": [
+        {
+          "time": "16:30"
+        },
+        {
+          "time": "18:00"
+        },
+        {
+          "time": "19:15"
+        },
+        {
+          "time": "20:45"
+        },
+        {
+          "time": "22:00"
+        }
+      ],
+      "2026-04-25": [
+        {
+          "time": "12:00"
+        },
+        {
+          "time": "16:30"
+        },
+        {
+          "time": "18:00"
+        },
+        {
+          "time": "19:15"
+        },
+        {
+          "time": "20:45"
+        },
+        {
+          "time": "22:00"
+        }
+      ],
+      "2026-04-26": [
+        {
+          "time": "12:00"
+        },
+        {
+          "time": "16:30"
+        },
+        {
+          "time": "18:00"
+        },
+        {
+          "time": "19:15"
+        },
+        {
+          "time": "20:45"
+        },
+        {
+          "time": "22:00"
+        }
+      ],
+      "2026-04-27": [
+        {
+          "time": "16:30"
+        },
+        {
+          "time": "18:00"
+        },
+        {
+          "time": "19:15"
+        },
+        {
+          "time": "20:45"
+        },
+        {
+          "time": "22:00"
+        }
+      ],
+      "2026-04-28": [
+        {
+          "time": "16:30"
+        },
+        {
+          "time": "18:00"
+        },
+        {
+          "time": "19:15"
+        },
+        {
+          "time": "20:45"
+        },
+        {
+          "time": "22:00"
+        }
+      ],
+      "2026-04-29": [
+        {
+          "time": "16:30"
+        },
+        {
+          "time": "18:00"
+        },
+        {
+          "time": "19:15"
+        },
+        {
+          "time": "20:45"
+        },
+        {
+          "time": "22:00"
+        }
+      ],
+      "2026-04-30": [
         {
           "time": "16:30"
         },
@@ -1575,5 +1922,71 @@
     ],
     "synopsis": "Michael profundizará en el legado de la superestrella fallecida en 2009 a los 50 años, a través de algunas de sus recreaciones más emblemáticas.",
     "url": "https://multicinestenerife.com/pelicula/michael/"
+  },
+  {
+    "title": "Perfect Days",
+    "length": "02 horas 03 minutos",
+    "age": "7",
+    "theater": "multicines",
+    "format": "Español",
+    "showings": {
+      "2026-04-28": [
+        {
+          "time": "18:30"
+        }
+      ]
+    },
+    "actors": [
+      "Kôji Yakusho",
+      "Tokio Emoto",
+      "Arisa Nakano"
+    ],
+    "directors": [
+      "Wim Wenders"
+    ],
+    "genres": [
+      "Drama",
+      "Estrenos y destacados",
+      "En cartelera"
+    ],
+    "synopsis": "Hirayama parece totalmente satisfecho con su sencilla vida de limpiador de retretes en Tokio. Fuera de su estructurada rutina diaria, disfruta de su pasión por la música y los libros. Le encantan los árboles y les hace fotos. Una serie de encuentros inesperados revelan poco a poco más de su pasado.",
+    "url": "https://multicinestenerife.com/pelicula/perfect-days/"
+  },
+  {
+    "title": "Charlas de Cine:  El cristal oscuro",
+    "length": "01 horas 33 minutos",
+    "age": "7",
+    "theater": "multicines",
+    "format": "Español",
+    "showings": {
+      "2026-04-24": [
+        {
+          "time": "19:00"
+        }
+      ]
+    },
+    "actors": [
+      "Jim Henson",
+      "Kathryn Mullen",
+      "Frank Oz"
+    ],
+    "directors": [
+      "Jim Henson",
+      "Frank Oz"
+    ],
+    "genres": [
+      "Adventure",
+      "Fantasy",
+      "Próximamente",
+      "Family",
+      "Estrenos y destacados",
+      "Charlas de cine",
+      "Eventos",
+      "En cartelera",
+      "Venta anticipada",
+      "venta anticipada banner"
+    ],
+    "synopsis": "En otro mundo, en otro tiempo, en la era de la maravilla, hace mil años el Cristal Oscuro se quebró. El caos y la confusión se extendieron por todo el planeta Thra. Así empezó la profecía y aparecieron dos nuevas razas: los crueles skekses y los apacibles místicos. Si nadie repara el cristal, los skekses dominarán Thra hasta el fin de los tiempos. Será Jen, el último superviviente de los Gelfings, quien intente restaurar el cristal y acabar con el mal para siempre. ",
+    "url": "https://multicinestenerife.com/pelicula/charlas-de-cine-el-cristal-oscuro/"
   }
 ]

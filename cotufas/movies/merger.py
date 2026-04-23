@@ -89,7 +89,7 @@ class Movie:
             'all_synopsis': self.all_synopsis if len(self.all_synopsis) > 1 else None,
             'url': self.url,
             'all_urls': self.all_urls if len(self.all_urls) > 1 else None,
-            'cover_url': self.cover_url
+            'cover_url': self.cover_url,
         }
 
     def add_showing(self, showing: Showing) -> None:
@@ -172,6 +172,7 @@ class CinemaMerger:
                 genres=item.get('genres'),
                 synopsis=item.get('synopsis'),
                 url=item.get('url'),
+                cover_url=item.get('cover_url'),
             )
 
             # Parse showings based on structure
@@ -264,6 +265,7 @@ class CinemaMerger:
                     genres=movie.genres,
                     synopsis=movie.synopsis,
                     url=movie.url,
+                    cover_url=movie.cover_url,
                 )
 
                 # Initialize collections

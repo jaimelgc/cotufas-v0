@@ -22,6 +22,7 @@ export interface Movie {
   synopsis: string;
   all_synopsis: Record<string, string>;
   all_urls: Record<string, string>;
+  cover_url: string;
   created_at: string;
   updated_at: string;
   featured?: boolean;

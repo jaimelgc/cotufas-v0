@@ -6,13 +6,17 @@
         <div class="container hero-content">
           <p class="breadcrumb"><a routerLink="/home">Home</a> / Films</p>
           <div class="hero-body">
-            <img [src]="m.title" [alt]="m.title" class="hero-poster" />
+            <img [src]="m.cover_url" [alt]="m.title" class="hero-poster" />
             <div class="hero-text">
               <p class="genre-label">{{ formatGenres(m.genres) }}</p>
               <h1 class="movie-title">{{ m.title }}</h1>
               <div class="meta-row">
-                <span class="meta-pill">{{ m.age }}</span>
-                <span class="meta-pill">{{ m.length }} min</span>
+                @if (m.age == 0) {
+                  <span class="meta-pill">Para todos los públicos</span>
+                } @else {
+                  <span class="meta-pill">{{ m.age }}</span>
+                }
+                <span class="meta-pill">{{ m.length }}</span>
               </div>
               <p class="synopsis">{{ m.synopsis }}</p>
             </div>

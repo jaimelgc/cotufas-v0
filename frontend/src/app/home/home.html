@@ -16,7 +16,7 @@
         @for (movie of featured().slice(0, 4); track movie.id) {
           <a [routerLink]="['/movies', movie.id]" class="movie-card card">
             <div class="poster-wrap">
-              <img [src]="movie.title" [alt]="movie.title" class="poster" loading="lazy" />
+              <img [src]="movie.cover_url" [alt]="movie.title" class="poster" loading="lazy" />
               <div class="poster-overlay">
                 <span class="rating-badge">{{ movie.age }}</span>
                 <span class="duration">{{ movie.length }} min</span>

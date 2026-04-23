@@ -65,6 +65,7 @@ class Movie:
     genres: Optional[List[str]] = None
     synopsis: Optional[str] = None
     url: Optional[str] = None
+    cover_url: Optional[str] = None
 
     # Additional fields for merged movies
     theaters: Set[str] = field(default_factory=set)  # All theaters showing this
@@ -88,6 +89,7 @@ class Movie:
             'all_synopsis': self.all_synopsis if len(self.all_synopsis) > 1 else None,
             'url': self.url,
             'all_urls': self.all_urls if len(self.all_urls) > 1 else None,
+            'cover_url': self.cover_url
         }
 
     def add_showing(self, showing: Showing) -> None:

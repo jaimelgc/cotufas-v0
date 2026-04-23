@@ -50,6 +50,8 @@ class Movie(models.Model):
         blank=True,
     )
 
+    cover_url = models.URLField(blank=True)
+
     created_at = models.DateTimeField(auto_now_add=True)
     updated_at = models.DateTimeField(auto_now=True)
 

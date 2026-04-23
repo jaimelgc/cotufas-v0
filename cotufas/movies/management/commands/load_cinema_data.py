@@ -195,6 +195,7 @@ class Command(BaseCommand):
                 'synopsis': movie_data.get('synopsis'),
                 'all_synopsis': movie_data.get('all_synopsis') or {},
                 'all_urls': movie_data.get('all_urls') or {},
+                'cover_url': movie_data.get('cover_url') or '',
             },
         )
 

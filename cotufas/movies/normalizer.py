@@ -106,6 +106,7 @@ class YelmoNormalizer(CinemaNormalizer):
                     'genres': [detail.get('genres')] if detail.get('genres') else None,
                     'synopsis': detail.get('synopsis'),
                     'url': detail.get('url'),
+                    'cover_url': detail.get('cover_url'),
                 }
 
             # Parse showings
@@ -178,6 +179,7 @@ class ZentralcenterNormalizer(CinemaNormalizer):
                             'genres': None,
                             'synopsis': None,
                             'url': movie.get('url'),
+                            'cover_url': movie.get('cover_url'),
                         }
                     )
 
@@ -209,6 +211,7 @@ class ZentralcenterNormalizer(CinemaNormalizer):
                     'genres': movie_data['genres'],
                     'synopsis': movie_data['synopsis'],
                     'url': movie_data['url'],
+                    'cover_url': movie_data['cover_url'],
                 }
             )
 
@@ -304,6 +307,7 @@ class XsurNormalizer(CinemaNormalizer):
                     'genres': None,
                     'synopsis': synopsis if synopsis else None,
                     'url': movie.get('url'),
+                    'cover_url': movie.get('cover_url'),
                 }
             )
 
@@ -348,6 +352,7 @@ class MulticinesNormalizer(CinemaNormalizer):
                     'genres': movie.get('genres'),
                     'synopsis': movie.get('synopsis'),
                     'url': movie.get('url'),
+                    'cover_url': movie.get('cover_url'),
                 }
             )
 

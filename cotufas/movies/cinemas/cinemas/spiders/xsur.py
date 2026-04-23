@@ -7,7 +7,6 @@ class XsurSpider(scrapy.Spider):
 
     def parse(self, response):
         for movie_url in response.css('h4.mfn-woo-product-title > a::attr(href)').getall():
-
             if movie_url:
                 yield response.follow(movie_url, callback=self.parse_movie)
 
@@ -22,4 +21,5 @@ class XsurSpider(scrapy.Spider):
             'theater': 'xsur',
             'showings': data[3:],
             'url': response.url,
+            'cover_url': response.css('img.wp-post-image::attr(src)').get(),
         }

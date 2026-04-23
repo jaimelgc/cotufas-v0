@@ -64,6 +64,7 @@ class YelmoSpider(scrapy.Spider):
                 'details': details,
                 'synopsis': synopsis,
                 'url': response.url,
+                'cover_url': response.css('div.imgPelicula > img::attr(src)').get(),
             }
 
             # Wait a bit for the page to fully settle

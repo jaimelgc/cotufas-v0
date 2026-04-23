@@ -7,14 +7,11 @@ class MulticinesSpider(scrapy.Spider):
 
     def parse(self, response):
         for movie_url in response.css(
-                    'div.amy-movie-item-inner div.amy-movie-item-poster > a::attr(href)'
-                ).getall():
+            'div.amy-movie-item-inner div.amy-movie-item-poster > a::attr(href)'
+        ).getall():
 
             if movie_url:
-                yield response.follow(
-                    movie_url,
-                    callback=self.parse_movie
-                )
+                yield response.follow(movie_url, callback=self.parse_movie)
 
     def parse_movie(self, response):
         actors = []
@@ -23,6 +20,8 @@ class MulticinesSpider(scrapy.Spider):
         showings = {}
 
         title_raw = response.css('a.u-url.url::text').get()
+
+        cover_url = response.css('div.entry-poster > img::attr(src)').get()
 
         synopsis = (
             response.css('div.entry-content.e-content > p > span::text').get()
@@ -47,20 +46,15 @@ class MulticinesSpider(scrapy.Spider):
             elif 'género' in label:
                 genres.extend(names)
 
-        showings_raw = (
-            response.css(
-                'div.showtime-item.single-cinema.__web-inspector-hide-shortcut__ > div.st-item'
-                )
-            or response.css(
-                'div.showtime-item.single-cinema > div.st-item'
-                )
-        )
+        showings_raw = response.css(
+            'div.showtime-item.single-cinema.__web-inspector-hide-shortcut__ > div.st-item'
+        ) or response.css('div.showtime-item.single-cinema > div.st-item')
 
         for showing in showings_raw:
             if showing.css('div.st-title > label::text').get():
                 showings[showing.css('div.st-title > label::text').get()] = showing.css(
                     'ul > li::text'
-                    ).getall()
+                ).getall()
 
         yield {
             'title': title_raw.strip(),
@@ -73,4 +67,5 @@ class MulticinesSpider(scrapy.Spider):
             'genres': genres,
             'synopsis': synopsis,
             'url': response.url,
+            'cover_url': cover_url,
         }

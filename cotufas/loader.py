@@ -15,15 +15,15 @@ load_pipeline = [
 
 os.chdir('movies/cinemas/')
 
-# for theater in theaters:
-#     print(f'Scraping {theater}')
-#     try:
-#         subprocess.run(
-#             ['scrapy', 'crawl', theater, '-O', f'../data_raw/{theater}_raw.json'], check=True
-#         )
-#     except subprocess.CalledProcessError:
-#         print(f'Command failed: {theater}')
-#         break
+for theater in theaters:
+    print(f'Scraping {theater}')
+    try:
+        subprocess.run(
+            ['scrapy', 'crawl', theater, '-O', f'../data_raw/{theater}_raw.json'], check=True
+        )
+    except subprocess.CalledProcessError:
+        print(f'Command failed: {theater}')
+        break
 
 os.chdir('..')
 

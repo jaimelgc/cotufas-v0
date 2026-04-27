@@ -1,117 +1,60 @@
 [
   {
-    "title": "AVATAR FUEGO Y CENIZA",
-    "length": "200 minutos",
+    "title": "Amarga Navidad",
+    "length": "110",
     "age": "12",
     "theaters": [
-      "xsur"
+      "yelmo-meridiano"
     ],
     "showings": [
       {
-        "date": "2026-04-25",
-        "time": "13:25",
-        "theater": "xsur",
-        "format": "Español"
+        "date": "2026-04-27",
+        "time": "17:10",
+        "theater": "yelmo-meridiano",
+        "format": "2D ESPAÑOL"
       },
       {
-        "date": "2026-04-26",
-        "time": "13:25",
-        "theater": "xsur",
-        "format": "Español"
+        "date": "2026-04-28",
+        "time": "17:10",
+        "theater": "yelmo-meridiano",
+        "format": "2D ESPAÑOL"
+      },
+      {
+        "date": "2026-04-29",
+        "time": "17:10",
+        "theater": "yelmo-meridiano",
+        "format": "2D ESPAÑOL"
       }
     ],
-    "actors": null,
-    "directors": null,
-    "genres": null,
-    "synopsis": "Tercera entrega de la saga Avatar. Presenta al Pueblo de las Cenizas, un clan Na vi no tan pacífico que utilizará la violencia si lo necesita para conseguir sus objetivos, aunque sea contra otros clanes.",
+    "actors": [
+      "Quim Gutiérrez",
+      "Leonardo Sbaraglia",
+      "Aitana Sánchez-Gijón",
+      "Bárbara Lennie",
+      "Milena Smit",
+      "Victoria Luengo"
+    ],
+    "directors": [
+      "Pedro Almodovar"
+    ],
+    "genres": [
+      "DRAMA"
+    ],
+    "synopsis": "Elsa es una directora de publicidad cuya madre muere durante un largo puente del mes de diciembre. Encuentra refugio en el trabajo, aunque es más bien una huida hacia adelante. Trabaja sin parar y, sin darse cuenta, no se concede el tiempo necesario para guardar el duelo por la ausencia materna. Hasta que una crisis de pánico la obliga a detenerse e imponerse un descanso. Su pareja, Bonifacio, es su tabla de salvación en esos momentos de crisis. Elsa decide viajar a la isla de Lanzarote acompañada por su amiga Patricia, que también necesita alejarse de Madrid, mientras que Bonifacio se queda en la ciudad.",
     "all_synopsis": null,
-    "url": "https://x-surcine.com/peliculas/avatar-fuego-y-ceniza/",
+    "url": "https://www.yelmocines.es/sinopsis/amarga-navidad",
     "all_urls": null,
-    "cover_url": "https://x-surcine.com/wp-content/uploads/2026/04/JPg000th-4.jpg"
+    "cover_url": "https://eu-static.yelmocines.es/content/img/movies/posters/6822/1/1/6822.jpg"
   },
   {
     "title": "Boulevard",
-    "length": "01 horas 39 minutos",
-    "age": "0",
+    "length": "112",
+    "age": "16",
     "theaters": [
-      "multicines",
       "yelmo-la-villa-de-orotava",
-      "yelmo-meridiano",
-      "zentralcenter"
+      "yelmo-meridiano"
     ],
     "showings": [
-      {
-        "date": "2026-04-23",
-        "time": "16:30",
-        "theater": "multicines",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-23",
-        "time": "16:30",
-        "theater": "zentralcenter",
-        "format": "SIN SUBTITULOS"
-      },
-      {
-        "date": "2026-04-23",
-        "time": "17:30",
-        "theater": "yelmo-la-villa-de-orotava",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-23",
-        "time": "17:30",
-        "theater": "yelmo-meridiano",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-23",
-        "time": "21:15",
-        "theater": "zentralcenter",
-        "format": "SIN SUBTITULOS"
-      },
-      {
-        "date": "2026-04-23",
-        "time": "22:00",
-        "theater": "yelmo-meridiano",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-24",
-        "time": "17:30",
-        "theater": "yelmo-la-villa-de-orotava",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-24",
-        "time": "22:00",
-        "theater": "yelmo-meridiano",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-25",
-        "time": "17:15",
-        "theater": "yelmo-la-villa-de-orotava",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-25",
-        "time": "22:00",
-        "theater": "yelmo-meridiano",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-26",
-        "time": "17:15",
-        "theater": "yelmo-la-villa-de-orotava",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-26",
-        "time": "22:00",
-        "theater": "yelmo-meridiano",
-        "format": "2D ESPAÑOL"
-      },
       {
         "date": "2026-04-27",
         "time": "17:30",
@@ -151,155 +94,30 @@
     ],
     "actors": [
       "Luis Zahera",
-      "Eve Ryan",
-      "Pepe Barroso"
+      "Christian Checa",
+      "Esther Acebo",
+      "Najwa Khliwa",
+      "Pepe Barroso",
+      "Biel Antón",
+      "Enzo Oliver"
     ],
     "directors": [
       "Sonia Méndez"
     ],
     "genres": [
-      "Drama",
-      "En cartelera"
+      "DRAMA"
     ],
-    "synopsis": "Cuando Hasley (Eve Ryan) se muda a una nueva ciudad con su madre, lo último que espera es cruzarse con Luke (Mikel Niso), un joven envuelto en un aura peligrosa y un pasado trágico. Atrapado en sus propios demonios, Luke es todo lo que Hasley debería temer… pero a lo que se siente irremediablemente atraída. A pesar de las sombras que lo rodean, Hasley descubre en Luke una vulnerabilidad y un mundo interior apasionante. Juntos, crearán su propio boulevard: un refugio escondido donde poder ser ellos mismos, cumplir sueños imposibles, atreverse a amar a pesar de los prejuicios, el dolor y las cicatrices que arrastran, y demostrar que el amor es capaz de florecer incluso en los corazones más insospechados.",
+    "synopsis": "Cuando Hasley (Eve Ryan) se muda a una nueva ciudad con su madre, lo último que espera es cruzarse con Luke (Mikel Niso), un joven envuelto en un aura peligrosa y un pasado trágico. Atrapado en sus propios demonios, Luke es todo lo que Hasley debería temer... pero a lo que se siente irremediablemente atraída. A pesar de las sombras que lo rodean, Hasley descubre en Luke una vulnerabilidad y un mundo interior apasionante. Juntos, crearán su propio boulevard: un refugio escondido donde poder ser ellos mismos, cumplir sueños imposibles, atreverse a amar a pesar de los prejuicios, el dolor y las cicatrices que arrastran, y demostrar que el amor es capaz de florecer incluso en los corazones más insospechados.",
     "all_synopsis": {
-      "multicines": "Cuando Hasley (Eve Ryan) se muda a una nueva ciudad con su madre, lo último que espera es cruzarse con Luke (Mikel Niso), un joven envuelto en un aura peligrosa y un pasado trágico. Atrapado en sus propios demonios, Luke es todo lo que Hasley debería temer… pero a lo que se siente irremediablemente atraída. A pesar de las sombras que lo rodean, Hasley descubre en Luke una vulnerabilidad y un mundo interior apasionante. Juntos, crearán su propio boulevard: un refugio escondido donde poder ser ellos mismos, cumplir sueños imposibles, atreverse a amar a pesar de los prejuicios, el dolor y las cicatrices que arrastran, y demostrar que el amor es capaz de florecer incluso en los corazones más insospechados.",
+      "yelmo-meridiano": "Cuando Hasley (Eve Ryan) se muda a una nueva ciudad con su madre, lo último que espera es cruzarse con Luke (Mikel Niso), un joven envuelto en un aura peligrosa y un pasado trágico. Atrapado en sus propios demonios, Luke es todo lo que Hasley debería temer... pero a lo que se siente irremediablemente atraída. A pesar de las sombras que lo rodean, Hasley descubre en Luke una vulnerabilidad y un mundo interior apasionante. Juntos, crearán su propio boulevard: un refugio escondido donde poder ser ellos mismos, cumplir sueños imposibles, atreverse a amar a pesar de los prejuicios, el dolor y las cicatrices que arrastran, y demostrar que el amor es capaz de florecer incluso en los corazones más insospechados.",
       "yelmo-la-villa-de-orotava": "Cuando Hasley (Eve Ryan) se muda a una nueva ciudad con su madre, lo último que espera es cruzarse con Luke (Mikel Niso), un joven envuelto en un aura peligrosa y un pasado trágico. Atrapado en sus propios demonios, Luke es todo lo que Hasley debería temer... pero a lo que se siente irremediablemente atraída. A pesar de las sombras que lo rodean, Hasley descubre en Luke una vulnerabilidad y un mundo interior apasionante. Juntos, crearán su propio boulevard: un refugio escondido donde poder ser ellos mismos, cumplir sueños imposibles, atreverse a amar a pesar de los prejuicios, el dolor y las cicatrices que arrastran, y demostrar que el amor es capaz de florecer incluso en los corazones más insospechados."
     },
-    "url": "https://multicinestenerife.com/pelicula/boulevard/",
+    "url": "https://www.yelmocines.es/sinopsis/boulevard",
     "all_urls": {
-      "multicines": "https://multicinestenerife.com/pelicula/boulevard/",
-      "yelmo-la-villa-de-orotava": "https://www.yelmocines.es/sinopsis/boulevard",
-      "zentralcenter": "https://kinetike.com:83/views/peliculas.aspx?s=INTERNET5hbsbthns950"
+      "yelmo-meridiano": "https://www.yelmocines.es/sinopsis/boulevard",
+      "yelmo-la-villa-de-orotava": "https://www.yelmocines.es/sinopsis/boulevard"
     },
-    "cover_url": "https://multicinestenerife.com/wp-content/uploads/2026/04/unnamed-1-204x350_c.jpg"
-  },
-  {
-    "title": "Charlas de Cine:  El cristal oscuro",
-    "length": "01 horas 33 minutos",
-    "age": "7",
-    "theaters": [
-      "multicines"
-    ],
-    "showings": [
-      {
-        "date": "2026-04-24",
-        "time": "19:00",
-        "theater": "multicines",
-        "format": "Español"
-      }
-    ],
-    "actors": [
-      "Jim Henson",
-      "Kathryn Mullen",
-      "Frank Oz"
-    ],
-    "directors": [
-      "Jim Henson",
-      "Frank Oz"
-    ],
-    "genres": [
-      "Adventure",
-      "Fantasy",
-      "Próximamente",
-      "Family",
-      "Estrenos y destacados",
-      "Charlas de cine",
-      "Eventos",
-      "En cartelera",
-      "Venta anticipada",
-      "venta anticipada banner"
-    ],
-    "synopsis": "En otro mundo, en otro tiempo, en la era de la maravilla, hace mil años el Cristal Oscuro se quebró. El caos y la confusión se extendieron por todo el planeta Thra. Así empezó la profecía y aparecieron dos nuevas razas: los crueles skekses y los apacibles místicos. Si nadie repara el cristal, los skekses dominarán Thra hasta el fin de los tiempos. Será Jen, el último superviviente de los Gelfings, quien intente restaurar el cristal y acabar con el mal para siempre. ",
-    "all_synopsis": null,
-    "url": "https://multicinestenerife.com/pelicula/charlas-de-cine-el-cristal-oscuro/",
-    "all_urls": null,
-    "cover_url": "https://multicinestenerife.com/wp-content/uploads/2026/04/1775571651-204x350_c.jpg"
-  },
-  {
-    "title": "Como cabras",
-    "length": "01 horas 39 minutos",
-    "age": "0",
-    "theaters": [
-      "multicines",
-      "xsur"
-    ],
-    "showings": [
-      {
-        "date": "2026-04-23",
-        "time": "17:00",
-        "theater": "multicines",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-25",
-        "time": "13:15",
-        "theater": "xsur",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-25",
-        "time": "19:45",
-        "theater": "multicines",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-26",
-        "time": "13:15",
-        "theater": "xsur",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-26",
-        "time": "19:45",
-        "theater": "multicines",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-27",
-        "time": "19:45",
-        "theater": "multicines",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-28",
-        "time": "19:45",
-        "theater": "multicines",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-29",
-        "time": "19:45",
-        "theater": "multicines",
-        "format": "Español"
-      }
-    ],
-    "actors": [
-      "Caleb McLaughlin",
-      "Gabrielle Union",
-      "Nick Kroll"
-    ],
-    "directors": [
-      "Tyree Dillihay",
-      "Adam Rosette"
-    ],
-    "genres": [
-      "Adventure",
-      "Animation",
-      "En cartelera",
-      "Action"
-    ],
-    "synopsis": "Will es una pequeña cabra con grandes sueños que recibe una oportunidad única en la vida para unirse a los profesionales y jugar al rugebol, un deporte de alta intensidad, mixto y de contacto total dominado por los animales más rápidos y feroces del mundo. A los nuevos compañeros de equipo de Will no les entusiasma tener a una cabrita en su plantilla, pero Will está decidido a revolucionar el deporte y demostrar de una vez por todas que «¡los pequeños saben jugar!»",
-    "all_synopsis": {
-      "multicines": "Will es una pequeña cabra con grandes sueños que recibe una oportunidad única en la vida para unirse a los profesionales y jugar al rugebol, un deporte de alta intensidad, mixto y de contacto total dominado por los animales más rápidos y feroces del mundo. A los nuevos compañeros de equipo de Will no les entusiasma tener a una cabrita en su plantilla, pero Will está decidido a revolucionar el deporte y demostrar de una vez por todas que «¡los pequeños saben jugar!»",
-      "xsur": "Will es una pequeña cabra con grandes sueños que recibe una oportunidad única en la vida para unirse a los profesionales y jugar al rugebol, un deporte de alta intensidad, mixto y de contacto total dominado por los animales más rápidos y feroces del mundo. A los nuevos compañeros de equipo de Will no les entusiasma tener a una cabrita en su plantilla, pero Will está decidido a revolucionar el deporte y demostrar de una vez por todas que  ¡los pequeños saben jugar! ."
-    },
-    "url": "https://multicinestenerife.com/pelicula/como-cabras/",
-    "all_urls": {
-      "multicines": "https://multicinestenerife.com/pelicula/como-cabras/",
-      "xsur": "https://x-surcine.com/peliculas/como-cabras/"
-    },
-    "cover_url": "https://multicinestenerife.com/wp-content/uploads/2026/02/unnamed-7-204x350_c.jpg"
+    "cover_url": "https://eu-static.yelmocines.es/content/img/movies/posters/6927/1/1/6927.jpg"
   },
   {
     "title": "Después de Kim",
@@ -309,42 +127,6 @@
       "multicines"
     ],
     "showings": [
-      {
-        "date": "2026-04-24",
-        "time": "19:20",
-        "theater": "multicines",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-24",
-        "time": "21:40",
-        "theater": "multicines",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-25",
-        "time": "19:20",
-        "theater": "multicines",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-25",
-        "time": "21:40",
-        "theater": "multicines",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-26",
-        "time": "19:20",
-        "theater": "multicines",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-26",
-        "time": "21:40",
-        "theater": "multicines",
-        "format": "Español"
-      },
       {
         "date": "2026-04-27",
         "time": "19:20",
@@ -414,6 +196,136 @@
     "cover_url": "https://multicinestenerife.com/wp-content/uploads/2026/04/unnamed-1-2-204x350_c.jpg"
   },
   {
+    "title": "EL DIABLO VISTE DE PRADA 2",
+    "length": "120 min.",
+    "age": "0",
+    "theaters": [
+      "xsur",
+      "zentralcenter"
+    ],
+    "showings": [
+      {
+        "date": "2026-04-30",
+        "time": "16:15",
+        "theater": "zentralcenter",
+        "format": "SIN SUBTITULOS"
+      },
+      {
+        "date": "2026-04-30",
+        "time": "17:55",
+        "theater": "xsur",
+        "format": "Español"
+      },
+      {
+        "date": "2026-04-30",
+        "time": "20:20",
+        "theater": "xsur",
+        "format": "Español"
+      },
+      {
+        "date": "2026-04-30",
+        "time": "21:15",
+        "theater": "zentralcenter",
+        "format": "SIN SUBTITULOS"
+      },
+      {
+        "date": "2026-04-30",
+        "time": "22:30",
+        "theater": "xsur",
+        "format": "Español"
+      },
+      {
+        "date": "2026-05-01",
+        "time": "16:15",
+        "theater": "zentralcenter",
+        "format": "SIN SUBTITULOS"
+      },
+      {
+        "date": "2026-05-01",
+        "time": "18:45",
+        "theater": "zentralcenter",
+        "format": "SIN SUBTITULOS"
+      },
+      {
+        "date": "2026-05-01",
+        "time": "21:15",
+        "theater": "zentralcenter",
+        "format": "SIN SUBTITULOS"
+      },
+      {
+        "date": "2026-05-02",
+        "time": "16:15",
+        "theater": "zentralcenter",
+        "format": "SIN SUBTITULOS"
+      },
+      {
+        "date": "2026-05-02",
+        "time": "18:45",
+        "theater": "zentralcenter",
+        "format": "SIN SUBTITULOS"
+      },
+      {
+        "date": "2026-05-02",
+        "time": "21:15",
+        "theater": "zentralcenter",
+        "format": "SIN SUBTITULOS"
+      },
+      {
+        "date": "2026-05-03",
+        "time": "12:00",
+        "theater": "zentralcenter",
+        "format": "SIN SUBTITULOS"
+      },
+      {
+        "date": "2026-05-03",
+        "time": "16:15",
+        "theater": "zentralcenter",
+        "format": "SIN SUBTITULOS"
+      },
+      {
+        "date": "2026-05-03",
+        "time": "18:45",
+        "theater": "zentralcenter",
+        "format": "SIN SUBTITULOS"
+      },
+      {
+        "date": "2026-05-03",
+        "time": "21:15",
+        "theater": "zentralcenter",
+        "format": "SIN SUBTITULOS"
+      },
+      {
+        "date": "2026-05-04",
+        "time": "16:15",
+        "theater": "zentralcenter",
+        "format": "SIN SUBTITULOS"
+      },
+      {
+        "date": "2026-05-04",
+        "time": "18:45",
+        "theater": "zentralcenter",
+        "format": "SIN SUBTITULOS"
+      },
+      {
+        "date": "2026-05-04",
+        "time": "21:15",
+        "theater": "zentralcenter",
+        "format": "SIN SUBTITULOS"
+      }
+    ],
+    "actors": null,
+    "directors": null,
+    "genres": null,
+    "synopsis": "Sigue la lucha de Miranda Priestly contra Emily Charlton, su ex asistente convertida en ejecutiva rival, mientras compiten por los ingresos por publicidad en medio de la decadencia de los medios impresos y Miranda se acerca a la jubilación.",
+    "all_synopsis": null,
+    "url": "https://x-surcine.com/peliculas/el-diablo-viste-de-prada-2/",
+    "all_urls": {
+      "xsur": "https://x-surcine.com/peliculas/el-diablo-viste-de-prada-2/",
+      "zentralcenter": "https://kinetike.com:83/views/peliculas.aspx?s=INTERNETm4qm3blpd472"
+    },
+    "cover_url": "https://x-surcine.com/wp-content/uploads/2026/04/JPg000vn-1.jpg"
+  },
+  {
     "title": "El sonido de la caída",
     "length": "02 horas 29 minutos",
     "age": "16",
@@ -421,54 +333,6 @@
       "multicines"
     ],
     "showings": [
-      {
-        "date": "2026-04-24",
-        "time": "16:30",
-        "theater": "multicines",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-24",
-        "time": "20:30",
-        "theater": "multicines",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-25",
-        "time": "12:00",
-        "theater": "multicines",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-25",
-        "time": "16:30",
-        "theater": "multicines",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-25",
-        "time": "20:30",
-        "theater": "multicines",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-26",
-        "time": "12:00",
-        "theater": "multicines",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-26",
-        "time": "16:30",
-        "theater": "multicines",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-26",
-        "time": "20:30",
-        "theater": "multicines",
-        "format": "Español"
-      },
       {
         "date": "2026-04-27",
         "time": "16:30",
@@ -529,81 +393,15 @@
     ],
     "showings": [
       {
-        "date": "2026-04-23",
+        "date": "2026-04-27",
         "time": "17:00",
         "theater": "multicines",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-23",
-        "time": "17:00",
-        "theater": "xsur",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-24",
-        "time": "17:00",
-        "theater": "multicines",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-24",
-        "time": "17:00",
-        "theater": "xsur",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-25",
-        "time": "11:30",
-        "theater": "xsur",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-25",
-        "time": "12:15",
-        "theater": "multicines",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-25",
-        "time": "17:00",
-        "theater": "multicines",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-25",
-        "time": "18:45",
-        "theater": "xsur",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-26",
-        "time": "11:30",
-        "theater": "xsur",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-26",
-        "time": "12:15",
-        "theater": "multicines",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-26",
-        "time": "17:00",
-        "theater": "multicines",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-26",
-        "time": "18:45",
-        "theater": "xsur",
         "format": "Español"
       },
       {
         "date": "2026-04-27",
         "time": "17:00",
-        "theater": "multicines",
+        "theater": "xsur",
         "format": "Español"
       },
       {
@@ -613,7 +411,25 @@
         "format": "Español"
       },
       {
+        "date": "2026-04-28",
+        "time": "17:00",
+        "theater": "xsur",
+        "format": "Español"
+      },
+      {
         "date": "2026-04-29",
+        "time": "17:00",
+        "theater": "multicines",
+        "format": "Español"
+      },
+      {
+        "date": "2026-04-29",
+        "time": "17:00",
+        "theater": "xsur",
+        "format": "Español"
+      },
+      {
+        "date": "2026-04-30",
         "time": "17:00",
         "theater": "multicines",
         "format": "Español"
@@ -621,7 +437,7 @@
       {
         "date": "2026-04-30",
         "time": "17:00",
-        "theater": "multicines",
+        "theater": "xsur",
         "format": "Español"
       }
     ],
@@ -662,84 +478,6 @@
       "yelmo-meridiano"
     ],
     "showings": [
-      {
-        "date": "2026-04-23",
-        "time": "17:30",
-        "theater": "yelmo-meridiano",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-23",
-        "time": "19:20",
-        "theater": "multicines",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-23",
-        "time": "20:00",
-        "theater": "yelmo-la-villa-de-orotava",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-24",
-        "time": "19:20",
-        "theater": "multicines",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-24",
-        "time": "20:00",
-        "theater": "yelmo-la-villa-de-orotava",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-24",
-        "time": "20:00",
-        "theater": "yelmo-meridiano",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-25",
-        "time": "19:20",
-        "theater": "multicines",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-25",
-        "time": "19:45",
-        "theater": "yelmo-la-villa-de-orotava",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-25",
-        "time": "20:00",
-        "theater": "yelmo-meridiano",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-26",
-        "time": "13:00",
-        "theater": "yelmo-meridiano",
-        "format": "2D INGLÉS SUBTITULADO EN ESPAÑOL (VOSE)"
-      },
-      {
-        "date": "2026-04-26",
-        "time": "19:20",
-        "theater": "multicines",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-26",
-        "time": "19:45",
-        "theater": "yelmo-la-villa-de-orotava",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-26",
-        "time": "20:00",
-        "theater": "yelmo-meridiano",
-        "format": "2D ESPAÑOL"
-      },
       {
         "date": "2026-04-27",
         "time": "19:20",
@@ -837,24 +575,6 @@
     ],
     "showings": [
       {
-        "date": "2026-04-24",
-        "time": "21:40",
-        "theater": "multicines",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-25",
-        "time": "21:40",
-        "theater": "multicines",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-26",
-        "time": "21:40",
-        "theater": "multicines",
-        "format": "Español"
-      },
-      {
         "date": "2026-04-27",
         "time": "21:40",
         "theater": "multicines",
@@ -902,47 +622,6 @@
     "cover_url": "https://multicinestenerife.com/wp-content/uploads/2026/04/COMPRA-TUS-ENTRADAS-VOSE-3d8-204x350_c.png"
   },
   {
-    "title": "Kill Bill: The Whole Bloody Affair",
-    "length": "275",
-    "age": "18",
-    "theaters": [
-      "yelmo-meridiano"
-    ],
-    "showings": [
-      {
-        "date": "2026-04-23",
-        "time": "20:00",
-        "theater": "yelmo-meridiano",
-        "format": "2D INGLÉS SUBTITULADO EN ESPAÑOL (VOSE)"
-      },
-      {
-        "date": "2026-04-26",
-        "time": "12:00",
-        "theater": "yelmo-meridiano",
-        "format": "2D INGLÉS SUBTITULADO EN ESPAÑOL (VOSE)"
-      }
-    ],
-    "actors": [
-      "Uma Thurman",
-      "Lucy Liu",
-      "Vivica A. Fox",
-      "Daryl Hannah",
-      "David Carradine",
-      "Michael Madsen"
-    ],
-    "directors": [
-      "Quentin Tarantino"
-    ],
-    "genres": [
-      "ACCION,CONTENIDO ALTERNATIVO"
-    ],
-    "synopsis": "Tras más de dos décadas de espera, el Volumen 1 y el Volumen 2 de \"Kill Bill\" en una única película, presentada tal y como Quentin Tarantino la concibió desde el principio, con una nueva secuencia de anime nunca antes vista. Uma Thurman interpreta a La Novia, dada por muerta después de que su antiguo jefe y amante, Bill, organizase una masacre durante el ensayo de su boda, disparándole en la cabeza y arrebatándole a su hija nonata. Al despertar del coma, emprende una implacable venganza contra los miembros del Escuadrón de Asesinato de las Víboras Mortales, decidida a ajustar cuentas uno a uno hasta llegar al propio Bill.",
-    "all_synopsis": null,
-    "url": "https://www.yelmocines.es/sinopsis/kill-bill-the-whole-bloody-affair",
-    "all_urls": null,
-    "cover_url": null
-  },
-  {
     "title": "Kraken. El libro negro de las horas",
     "length": "01 horas 51 minutos",
     "age": "0",
@@ -950,54 +629,6 @@
       "multicines"
     ],
     "showings": [
-      {
-        "date": "2026-04-24",
-        "time": "19:40",
-        "theater": "multicines",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-24",
-        "time": "22:15",
-        "theater": "multicines",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-25",
-        "time": "12:00",
-        "theater": "multicines",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-25",
-        "time": "19:40",
-        "theater": "multicines",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-25",
-        "time": "22:15",
-        "theater": "multicines",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-26",
-        "time": "12:00",
-        "theater": "multicines",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-26",
-        "time": "19:40",
-        "theater": "multicines",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-26",
-        "time": "22:15",
-        "theater": "multicines",
-        "format": "Español"
-      },
       {
         "date": "2026-04-27",
         "time": "19:40",
@@ -1068,6 +699,151 @@
     "cover_url": "https://multicinestenerife.com/wp-content/uploads/2026/04/unnamed-4-2-204x350_c.jpg"
   },
   {
+    "title": "Kraken: El libro negro de las horas",
+    "length": "112",
+    "age": "12",
+    "theaters": [
+      "yelmo-la-villa-de-orotava",
+      "yelmo-meridiano"
+    ],
+    "showings": [
+      {
+        "date": "2026-04-27",
+        "time": "17:05",
+        "theater": "yelmo-la-villa-de-orotava",
+        "format": "2D ESPAÑOL"
+      },
+      {
+        "date": "2026-04-27",
+        "time": "17:20",
+        "theater": "yelmo-meridiano",
+        "format": "2D ESPAÑOL"
+      },
+      {
+        "date": "2026-04-27",
+        "time": "19:35",
+        "theater": "yelmo-la-villa-de-orotava",
+        "format": "2D ESPAÑOL"
+      },
+      {
+        "date": "2026-04-27",
+        "time": "19:50",
+        "theater": "yelmo-meridiano",
+        "format": "2D ESPAÑOL"
+      },
+      {
+        "date": "2026-04-27",
+        "time": "22:10",
+        "theater": "yelmo-la-villa-de-orotava",
+        "format": "2D ESPAÑOL"
+      },
+      {
+        "date": "2026-04-27",
+        "time": "22:25",
+        "theater": "yelmo-meridiano",
+        "format": "2D ESPAÑOL"
+      },
+      {
+        "date": "2026-04-28",
+        "time": "17:05",
+        "theater": "yelmo-la-villa-de-orotava",
+        "format": "2D ESPAÑOL"
+      },
+      {
+        "date": "2026-04-28",
+        "time": "17:20",
+        "theater": "yelmo-meridiano",
+        "format": "2D ESPAÑOL"
+      },
+      {
+        "date": "2026-04-28",
+        "time": "19:35",
+        "theater": "yelmo-la-villa-de-orotava",
+        "format": "2D ESPAÑOL"
+      },
+      {
+        "date": "2026-04-28",
+        "time": "19:50",
+        "theater": "yelmo-meridiano",
+        "format": "2D ESPAÑOL"
+      },
+      {
+        "date": "2026-04-28",
+        "time": "22:10",
+        "theater": "yelmo-la-villa-de-orotava",
+        "format": "2D ESPAÑOL"
+      },
+      {
+        "date": "2026-04-28",
+        "time": "22:25",
+        "theater": "yelmo-meridiano",
+        "format": "2D ESPAÑOL"
+      },
+      {
+        "date": "2026-04-29",
+        "time": "17:05",
+        "theater": "yelmo-la-villa-de-orotava",
+        "format": "2D ESPAÑOL"
+      },
+      {
+        "date": "2026-04-29",
+        "time": "17:20",
+        "theater": "yelmo-meridiano",
+        "format": "2D ESPAÑOL"
+      },
+      {
+        "date": "2026-04-29",
+        "time": "19:35",
+        "theater": "yelmo-la-villa-de-orotava",
+        "format": "2D ESPAÑOL"
+      },
+      {
+        "date": "2026-04-29",
+        "time": "19:50",
+        "theater": "yelmo-meridiano",
+        "format": "2D ESPAÑOL"
+      },
+      {
+        "date": "2026-04-29",
+        "time": "22:10",
+        "theater": "yelmo-la-villa-de-orotava",
+        "format": "2D ESPAÑOL"
+      },
+      {
+        "date": "2026-04-29",
+        "time": "22:25",
+        "theater": "yelmo-meridiano",
+        "format": "2D ESPAÑOL"
+      }
+    ],
+    "actors": [
+      "Maggie Civantos",
+      "Alejo Sauras",
+      "Natalia Rodríguez",
+      "Aitziber Luma",
+      "Martin Urrutia",
+      "Natalia Millán"
+    ],
+    "directors": [
+      "Manuel Sanabria",
+      "Joaquín Llamas"
+    ],
+    "genres": [
+      "THRILLER"
+    ],
+    "synopsis": "Vitoria, 2022. El exinspector y perfilador criminal Unai López de Ayala, alias Kraken, (Alejo Sauras) recibe una llamada anónima que cambiará lo que cree saber de su pasado familiar: tiene una semana para encontrar el legendario Libro negro de las horas, una de las 7 exclusivas joyas bibliográficas que existen, si no, su madre, a la que creía muerta desde hace décadas, morirá. Unai vuelve de su retiro para iniciar junto a Esti (Maggie Civantos) una angustiosa carrera contrarreloj entre Vitoria y el Madrid de los bibliófilos para trazar el perfil criminal más importante de su carrera, uno capaz de modificar para siempre su pasado.",
+    "all_synopsis": {
+      "yelmo-meridiano": "Vitoria, 2022. El exinspector y perfilador criminal Unai López de Ayala, alias Kraken, (Alejo Sauras) recibe una llamada anónima que cambiará lo que cree saber de su pasado familiar: tiene una semana para encontrar el legendario Libro negro de las horas, una de las 7 exclusivas joyas bibliográficas que existen, si no, su madre, a la que creía muerta desde hace décadas, morirá. Unai vuelve de su retiro para iniciar junto a Esti (Maggie Civantos) una angustiosa carrera contrarreloj entre Vitoria y el Madrid de los bibliófilos para trazar el perfil criminal más importante de su carrera, uno capaz de modificar para siempre su pasado.",
+      "yelmo-la-villa-de-orotava": "Vitoria, 2022. El exinspector y perfilador criminal Unai López de Ayala, alias Kraken, (Alejo Sauras) recibe una llamada anónima que cambiará lo que cree saber de su pasado familiar: tiene una semana para encontrar el legendario Libro negro de las horas, una de las 7 exclusivas joyas bibliográficas que existen, si no, su madre, a la que creía muerta desde hace décadas, morirá. Unai vuelve de su retiro para iniciar junto a Esti (Maggie Civantos) una angustiosa carrera contrarreloj entre Vitoria y el Madrid de los bibliófilos para trazar el perfil criminal más importante de su carrera, uno capaz de modificar para siempre su pasado."
+    },
+    "url": "https://www.yelmocines.es/sinopsis/kraken-el-libro-negro-de-las-horas",
+    "all_urls": {
+      "yelmo-meridiano": "https://www.yelmocines.es/sinopsis/kraken-el-libro-negro-de-las-horas",
+      "yelmo-la-villa-de-orotava": "https://www.yelmocines.es/sinopsis/kraken-el-libro-negro-de-las-horas"
+    },
+    "cover_url": "https://eu-static.yelmocines.es/content/img/movies/posters/7028/1/1/7028.jpg"
+  },
+  {
     "title": "LA FAMILIA BENETÓN +2",
     "length": "87 minutos",
     "age": "0",
@@ -1078,190 +854,10 @@
     ],
     "showings": [
       {
-        "date": "2026-04-23",
+        "date": "2026-04-27",
         "time": "16:10",
         "theater": "xsur",
         "format": "Español"
-      },
-      {
-        "date": "2026-04-23",
-        "time": "18:00",
-        "theater": "yelmo-la-villa-de-orotava",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-23",
-        "time": "18:00",
-        "theater": "yelmo-meridiano",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-23",
-        "time": "19:00",
-        "theater": "xsur",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-23",
-        "time": "20:00",
-        "theater": "yelmo-la-villa-de-orotava",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-23",
-        "time": "20:00",
-        "theater": "yelmo-meridiano",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-24",
-        "time": "16:10",
-        "theater": "xsur",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-24",
-        "time": "17:55",
-        "theater": "yelmo-meridiano",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-24",
-        "time": "18:00",
-        "theater": "yelmo-la-villa-de-orotava",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-24",
-        "time": "19:00",
-        "theater": "xsur",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-24",
-        "time": "19:55",
-        "theater": "yelmo-meridiano",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-24",
-        "time": "20:00",
-        "theater": "yelmo-la-villa-de-orotava",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-25",
-        "time": "11:30",
-        "theater": "xsur",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-25",
-        "time": "14:10",
-        "theater": "xsur",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-25",
-        "time": "16:00",
-        "theater": "yelmo-meridiano",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-25",
-        "time": "16:15",
-        "theater": "yelmo-la-villa-de-orotava",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-25",
-        "time": "17:55",
-        "theater": "yelmo-meridiano",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-25",
-        "time": "18:10",
-        "theater": "yelmo-la-villa-de-orotava",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-25",
-        "time": "18:20",
-        "theater": "xsur",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-25",
-        "time": "19:55",
-        "theater": "yelmo-meridiano",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-25",
-        "time": "20:00",
-        "theater": "yelmo-la-villa-de-orotava",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-26",
-        "time": "11:30",
-        "theater": "xsur",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-26",
-        "time": "12:00",
-        "theater": "yelmo-meridiano",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-26",
-        "time": "14:40",
-        "theater": "xsur",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-26",
-        "time": "16:00",
-        "theater": "yelmo-meridiano",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-26",
-        "time": "16:15",
-        "theater": "yelmo-la-villa-de-orotava",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-26",
-        "time": "17:55",
-        "theater": "yelmo-meridiano",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-26",
-        "time": "18:10",
-        "theater": "yelmo-la-villa-de-orotava",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-26",
-        "time": "18:20",
-        "theater": "xsur",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-26",
-        "time": "19:55",
-        "theater": "yelmo-meridiano",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-26",
-        "time": "20:00",
-        "theater": "yelmo-la-villa-de-orotava",
-        "format": "2D ESPAÑOL"
       },
       {
         "date": "2026-04-27",
@@ -1274,6 +870,12 @@
         "time": "18:00",
         "theater": "yelmo-la-villa-de-orotava",
         "format": "2D ESPAÑOL"
+      },
+      {
+        "date": "2026-04-27",
+        "time": "19:00",
+        "theater": "xsur",
+        "format": "Español"
       },
       {
         "date": "2026-04-27",
@@ -1289,6 +891,12 @@
       },
       {
         "date": "2026-04-28",
+        "time": "16:10",
+        "theater": "xsur",
+        "format": "Español"
+      },
+      {
+        "date": "2026-04-28",
         "time": "17:55",
         "theater": "yelmo-meridiano",
         "format": "2D ESPAÑOL"
@@ -1298,6 +906,18 @@
         "time": "18:00",
         "theater": "yelmo-la-villa-de-orotava",
         "format": "2D ESPAÑOL"
+      },
+      {
+        "date": "2026-04-28",
+        "time": "19:00",
+        "theater": "xsur",
+        "format": "Español"
+      },
+      {
+        "date": "2026-04-29",
+        "time": "16:10",
+        "theater": "xsur",
+        "format": "Español"
       },
       {
         "date": "2026-04-29",
@@ -1313,9 +933,21 @@
       },
       {
         "date": "2026-04-29",
+        "time": "19:00",
+        "theater": "xsur",
+        "format": "Español"
+      },
+      {
+        "date": "2026-04-29",
         "time": "20:00",
         "theater": "yelmo-la-villa-de-orotava",
         "format": "2D ESPAÑOL"
+      },
+      {
+        "date": "2026-04-30",
+        "time": "16:10",
+        "theater": "xsur",
+        "format": "Español"
       }
     ],
     "actors": [
@@ -1344,7 +976,7 @@
       "xsur": "https://x-surcine.com/peliculas/la-familia-beneton-2/",
       "yelmo-la-villa-de-orotava": "https://www.yelmocines.es/sinopsis/la-familia-beneton-2"
     },
-    "cover_url": "https://x-surcine.com/wp-content/uploads/2026/04/JPg000vn.jpg"
+    "cover_url": "https://x-surcine.com/wp-content/uploads/2026/04/JPg000vl-1.jpg"
   },
   {
     "title": "La ahorcada",
@@ -1355,156 +987,6 @@
       "yelmo-la-villa-de-orotava"
     ],
     "showings": [
-      {
-        "date": "2026-04-23",
-        "time": "16:30",
-        "theater": "multicines",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-23",
-        "time": "18:30",
-        "theater": "multicines",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-23",
-        "time": "20:10",
-        "theater": "yelmo-la-villa-de-orotava",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-23",
-        "time": "20:30",
-        "theater": "multicines",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-23",
-        "time": "22:15",
-        "theater": "yelmo-la-villa-de-orotava",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-23",
-        "time": "22:30",
-        "theater": "multicines",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-24",
-        "time": "16:30",
-        "theater": "multicines",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-24",
-        "time": "19:45",
-        "theater": "multicines",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-24",
-        "time": "20:10",
-        "theater": "yelmo-la-villa-de-orotava",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-24",
-        "time": "22:15",
-        "theater": "yelmo-la-villa-de-orotava",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-24",
-        "time": "22:30",
-        "theater": "multicines",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-25",
-        "time": "12:00",
-        "theater": "multicines",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-25",
-        "time": "16:30",
-        "theater": "multicines",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-25",
-        "time": "18:30",
-        "theater": "multicines",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-25",
-        "time": "20:10",
-        "theater": "yelmo-la-villa-de-orotava",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-25",
-        "time": "20:30",
-        "theater": "multicines",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-25",
-        "time": "22:15",
-        "theater": "yelmo-la-villa-de-orotava",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-25",
-        "time": "22:30",
-        "theater": "multicines",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-26",
-        "time": "12:00",
-        "theater": "multicines",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-26",
-        "time": "16:30",
-        "theater": "multicines",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-26",
-        "time": "18:30",
-        "theater": "multicines",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-26",
-        "time": "20:10",
-        "theater": "yelmo-la-villa-de-orotava",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-26",
-        "time": "20:30",
-        "theater": "multicines",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-26",
-        "time": "22:15",
-        "theater": "yelmo-la-villa-de-orotava",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-26",
-        "time": "22:30",
-        "theater": "multicines",
-        "format": "Español"
-      },
       {
         "date": "2026-04-27",
         "time": "16:30",
@@ -1652,156 +1134,6 @@
     ],
     "showings": [
       {
-        "date": "2026-04-23",
-        "time": "16:30",
-        "theater": "multicines",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-23",
-        "time": "16:30",
-        "theater": "zentralcenter",
-        "format": "SIN SUBTITULOS"
-      },
-      {
-        "date": "2026-04-23",
-        "time": "18:30",
-        "theater": "multicines",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-23",
-        "time": "19:30",
-        "theater": "zentralcenter",
-        "format": "SIN SUBTITULOS"
-      },
-      {
-        "date": "2026-04-23",
-        "time": "20:30",
-        "theater": "multicines",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-23",
-        "time": "21:30",
-        "theater": "zentralcenter",
-        "format": "SIN SUBTITULOS"
-      },
-      {
-        "date": "2026-04-23",
-        "time": "22:30",
-        "theater": "multicines",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-24",
-        "time": "16:30",
-        "theater": "multicines",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-24",
-        "time": "17:00",
-        "theater": "zentralcenter",
-        "format": "SIN SUBTITULOS"
-      },
-      {
-        "date": "2026-04-24",
-        "time": "18:30",
-        "theater": "multicines",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-24",
-        "time": "21:15",
-        "theater": "zentralcenter",
-        "format": "SIN SUBTITULOS"
-      },
-      {
-        "date": "2026-04-24",
-        "time": "21:50",
-        "theater": "multicines",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-25",
-        "time": "12:15",
-        "theater": "multicines",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-25",
-        "time": "16:30",
-        "theater": "multicines",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-25",
-        "time": "17:00",
-        "theater": "zentralcenter",
-        "format": "SIN SUBTITULOS"
-      },
-      {
-        "date": "2026-04-25",
-        "time": "18:30",
-        "theater": "multicines",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-25",
-        "time": "21:15",
-        "theater": "zentralcenter",
-        "format": "SIN SUBTITULOS"
-      },
-      {
-        "date": "2026-04-25",
-        "time": "21:50",
-        "theater": "multicines",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-26",
-        "time": "12:00",
-        "theater": "zentralcenter",
-        "format": "SIN SUBTITULOS"
-      },
-      {
-        "date": "2026-04-26",
-        "time": "12:15",
-        "theater": "multicines",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-26",
-        "time": "16:30",
-        "theater": "multicines",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-26",
-        "time": "17:00",
-        "theater": "zentralcenter",
-        "format": "SIN SUBTITULOS"
-      },
-      {
-        "date": "2026-04-26",
-        "time": "18:30",
-        "theater": "multicines",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-26",
-        "time": "21:15",
-        "theater": "zentralcenter",
-        "format": "SIN SUBTITULOS"
-      },
-      {
-        "date": "2026-04-26",
-        "time": "21:50",
-        "theater": "multicines",
-        "format": "Español"
-      },
-      {
         "date": "2026-04-27",
         "time": "16:30",
         "theater": "multicines",
@@ -1857,9 +1189,21 @@
       },
       {
         "date": "2026-04-29",
+        "time": "17:00",
+        "theater": "zentralcenter",
+        "format": "SIN SUBTITULOS"
+      },
+      {
+        "date": "2026-04-29",
         "time": "18:30",
         "theater": "multicines",
         "format": "Español"
+      },
+      {
+        "date": "2026-04-29",
+        "time": "21:15",
+        "theater": "zentralcenter",
+        "format": "SIN SUBTITULOS"
       },
       {
         "date": "2026-04-29",
@@ -1881,9 +1225,39 @@
       },
       {
         "date": "2026-04-30",
+        "time": "21:15",
+        "theater": "zentralcenter",
+        "format": "SIN SUBTITULOS"
+      },
+      {
+        "date": "2026-04-30",
         "time": "21:50",
         "theater": "multicines",
         "format": "Español"
+      },
+      {
+        "date": "2026-05-01",
+        "time": "21:15",
+        "theater": "zentralcenter",
+        "format": "SIN SUBTITULOS"
+      },
+      {
+        "date": "2026-05-02",
+        "time": "21:15",
+        "theater": "zentralcenter",
+        "format": "SIN SUBTITULOS"
+      },
+      {
+        "date": "2026-05-03",
+        "time": "21:15",
+        "theater": "zentralcenter",
+        "format": "SIN SUBTITULOS"
+      },
+      {
+        "date": "2026-05-04",
+        "time": "21:15",
+        "theater": "zentralcenter",
+        "format": "SIN SUBTITULOS"
       }
     ],
     "actors": [
@@ -1915,48 +1289,9 @@
     "url": "https://multicinestenerife.com/pelicula/la-familia-beneton-2/",
     "all_urls": {
       "multicines": "https://multicinestenerife.com/pelicula/la-familia-beneton-2/",
-      "zentralcenter": "https://kinetike.com:83/views/peliculas.aspx?s=INTERNET5hbsbthns950"
+      "zentralcenter": "https://kinetike.com:83/views/peliculas.aspx?s=INTERNETm4qm3blpd472"
     },
     "cover_url": "https://multicinestenerife.com/wp-content/uploads/2026/04/unnamed-8-204x350_c.jpg"
-  },
-  {
-    "title": "La habitación de Mariana",
-    "length": "02 horas 11 minutos",
-    "age": "0",
-    "theaters": [
-      "multicines"
-    ],
-    "showings": [
-      {
-        "date": "2026-04-23",
-        "time": "16:45",
-        "theater": "multicines",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-23",
-        "time": "21:40",
-        "theater": "multicines",
-        "format": "Español"
-      }
-    ],
-    "actors": [
-      "Mélanie Thierry",
-      "Artem Kyryk",
-      "Anastasia Fein"
-    ],
-    "directors": [
-      "Emmanuel Finkiel"
-    ],
-    "genres": [
-      "Drama",
-      "En cartelera"
-    ],
-    "synopsis": "1942, Ucrania. Hugo tiene 12 años cuando el nazismo ocupa su tierra. Para salvarlo de la deportación, su madre lo confía a su amiga de la infancia, Mariana, una prostituta que vive en un burdel en las afueras de la ciudad. Escondido en el armario de la habitación de Mariana, toda su existencia está suspendida de los ruidos que lo rodean y de las escenas que adivina a través del armario. Mientras la guerra continúa fuera Hugo y Mariana forjan un vínculo íntimo y complejo de amor, lealtad y devoción mutua, que cambiará sus vidas para siempre.",
-    "all_synopsis": null,
-    "url": "https://multicinestenerife.com/pelicula/la-habitacion-de-mariana/",
-    "all_urls": null,
-    "cover_url": "https://multicinestenerife.com/wp-content/uploads/2026/04/unnamed-4-1-204x350_c.jpg"
   },
   {
     "title": "La momia de Lee Cronin",
@@ -1971,504 +1306,222 @@
     ],
     "showings": [
       {
-        "date": "2026-04-23",
+        "date": "2026-04-27",
         "time": "16:30",
         "theater": "multicines",
         "format": "Español"
       },
       {
-        "date": "2026-04-23",
+        "date": "2026-04-27",
+        "time": "17:00",
+        "theater": "xsur",
+        "format": "Español"
+      },
+      {
+        "date": "2026-04-27",
         "time": "17:00",
         "theater": "yelmo-meridiano",
         "format": "2D ESPAÑOL"
       },
       {
-        "date": "2026-04-23",
+        "date": "2026-04-27",
         "time": "17:05",
         "theater": "yelmo-la-villa-de-orotava",
         "format": "2D ESPAÑOL"
       },
       {
-        "date": "2026-04-23",
-        "time": "18:00",
-        "theater": "xsur",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-23",
-        "time": "18:30",
-        "theater": "zentralcenter",
-        "format": "SIN SUBTITULOS"
-      },
-      {
-        "date": "2026-04-23",
+        "date": "2026-04-27",
         "time": "19:10",
         "theater": "multicines",
         "format": "Español"
       },
       {
-        "date": "2026-04-23",
+        "date": "2026-04-27",
+        "time": "19:30",
+        "theater": "xsur",
+        "format": "Español"
+      },
+      {
+        "date": "2026-04-27",
         "time": "19:40",
         "theater": "yelmo-meridiano",
         "format": "2D ESPAÑOL"
       },
       {
-        "date": "2026-04-23",
+        "date": "2026-04-27",
         "time": "19:45",
         "theater": "yelmo-la-villa-de-orotava",
         "format": "2D ESPAÑOL"
       },
       {
-        "date": "2026-04-23",
-        "time": "20:25",
-        "theater": "xsur",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-23",
-        "time": "21:00",
+        "date": "2026-04-27",
+        "time": "21:15",
         "theater": "zentralcenter",
         "format": "SIN SUBTITULOS"
       },
       {
-        "date": "2026-04-23",
+        "date": "2026-04-27",
         "time": "22:00",
         "theater": "multicines",
         "format": "Español"
       },
       {
-        "date": "2026-04-23",
+        "date": "2026-04-27",
+        "time": "22:00",
+        "theater": "xsur",
+        "format": "Español"
+      },
+      {
+        "date": "2026-04-27",
+        "time": "22:20",
+        "theater": "yelmo-meridiano",
+        "format": "2D ESPAÑOL"
+      },
+      {
+        "date": "2026-04-27",
+        "time": "22:25",
+        "theater": "yelmo-la-villa-de-orotava",
+        "format": "2D ESPAÑOL"
+      },
+      {
+        "date": "2026-04-28",
+        "time": "16:30",
+        "theater": "multicines",
+        "format": "Español"
+      },
+      {
+        "date": "2026-04-28",
+        "time": "17:00",
+        "theater": "xsur",
+        "format": "Español"
+      },
+      {
+        "date": "2026-04-28",
+        "time": "17:00",
+        "theater": "yelmo-meridiano",
+        "format": "2D ESPAÑOL"
+      },
+      {
+        "date": "2026-04-28",
+        "time": "17:05",
+        "theater": "yelmo-la-villa-de-orotava",
+        "format": "2D ESPAÑOL"
+      },
+      {
+        "date": "2026-04-28",
+        "time": "19:10",
+        "theater": "multicines",
+        "format": "Español"
+      },
+      {
+        "date": "2026-04-28",
+        "time": "19:30",
+        "theater": "xsur",
+        "format": "Español"
+      },
+      {
+        "date": "2026-04-28",
+        "time": "19:40",
+        "theater": "yelmo-meridiano",
+        "format": "2D INGLÉS SUBTITULADO EN ESPAÑOL (VOSE)"
+      },
+      {
+        "date": "2026-04-28",
+        "time": "19:45",
+        "theater": "yelmo-la-villa-de-orotava",
+        "format": "2D INGLÉS SUBTITULADO EN ESPAÑOL (VOSE)"
+      },
+      {
+        "date": "2026-04-28",
+        "time": "22:00",
+        "theater": "multicines",
+        "format": "Español"
+      },
+      {
+        "date": "2026-04-28",
+        "time": "22:00",
+        "theater": "xsur",
+        "format": "Español"
+      },
+      {
+        "date": "2026-04-28",
+        "time": "22:20",
+        "theater": "yelmo-meridiano",
+        "format": "2D ESPAÑOL"
+      },
+      {
+        "date": "2026-04-28",
+        "time": "22:25",
+        "theater": "yelmo-la-villa-de-orotava",
+        "format": "2D ESPAÑOL"
+      },
+      {
+        "date": "2026-04-29",
+        "time": "16:30",
+        "theater": "multicines",
+        "format": "Español"
+      },
+      {
+        "date": "2026-04-29",
+        "time": "17:00",
+        "theater": "yelmo-meridiano",
+        "format": "2D ESPAÑOL"
+      },
+      {
+        "date": "2026-04-29",
+        "time": "17:05",
+        "theater": "yelmo-la-villa-de-orotava",
+        "format": "2D ESPAÑOL"
+      },
+      {
+        "date": "2026-04-29",
+        "time": "18:25",
+        "theater": "xsur",
+        "format": "Español"
+      },
+      {
+        "date": "2026-04-29",
+        "time": "19:10",
+        "theater": "multicines",
+        "format": "Español"
+      },
+      {
+        "date": "2026-04-29",
+        "time": "19:40",
+        "theater": "yelmo-meridiano",
+        "format": "2D ESPAÑOL"
+      },
+      {
+        "date": "2026-04-29",
+        "time": "19:45",
+        "theater": "yelmo-la-villa-de-orotava",
+        "format": "2D ESPAÑOL"
+      },
+      {
+        "date": "2026-04-29",
+        "time": "20:15",
+        "theater": "xsur",
+        "format": "Español"
+      },
+      {
+        "date": "2026-04-29",
+        "time": "21:15",
+        "theater": "zentralcenter",
+        "format": "SIN SUBTITULOS"
+      },
+      {
+        "date": "2026-04-29",
+        "time": "22:00",
+        "theater": "multicines",
+        "format": "Español"
+      },
+      {
+        "date": "2026-04-29",
         "time": "22:10",
         "theater": "xsur",
         "format": "Español"
       },
       {
-        "date": "2026-04-23",
-        "time": "22:25",
-        "theater": "yelmo-la-villa-de-orotava",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-23",
-        "time": "22:25",
-        "theater": "yelmo-meridiano",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-24",
-        "time": "16:30",
-        "theater": "multicines",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-24",
-        "time": "17:00",
-        "theater": "yelmo-meridiano",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-24",
-        "time": "17:05",
-        "theater": "yelmo-la-villa-de-orotava",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-24",
-        "time": "19:10",
-        "theater": "multicines",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-24",
-        "time": "19:40",
-        "theater": "yelmo-meridiano",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-24",
-        "time": "19:45",
-        "theater": "yelmo-la-villa-de-orotava",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-24",
-        "time": "20:20",
-        "theater": "xsur",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-24",
-        "time": "21:15",
-        "theater": "zentralcenter",
-        "format": "SIN SUBTITULOS"
-      },
-      {
-        "date": "2026-04-24",
-        "time": "22:00",
-        "theater": "multicines",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-24",
-        "time": "22:00",
-        "theater": "xsur",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-24",
-        "time": "22:20",
-        "theater": "yelmo-meridiano",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-24",
-        "time": "22:25",
-        "theater": "yelmo-la-villa-de-orotava",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-25",
-        "time": "12:00",
-        "theater": "multicines",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-25",
-        "time": "15:50",
-        "theater": "xsur",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-25",
-        "time": "16:30",
-        "theater": "multicines",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-25",
-        "time": "17:00",
-        "theater": "yelmo-la-villa-de-orotava",
-        "format": "2D INGLÉS SUBTITULADO EN ESPAÑOL (VOSE)"
-      },
-      {
-        "date": "2026-04-25",
-        "time": "17:00",
-        "theater": "yelmo-meridiano",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-25",
-        "time": "17:40",
-        "theater": "xsur",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-25",
-        "time": "19:10",
-        "theater": "multicines",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-25",
-        "time": "19:40",
-        "theater": "yelmo-la-villa-de-orotava",
-        "format": "2D INGLÉS SUBTITULADO EN ESPAÑOL (VOSE)"
-      },
-      {
-        "date": "2026-04-25",
-        "time": "19:40",
-        "theater": "yelmo-meridiano",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-25",
-        "time": "20:15",
-        "theater": "xsur",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-25",
-        "time": "21:15",
-        "theater": "zentralcenter",
-        "format": "SIN SUBTITULOS"
-      },
-      {
-        "date": "2026-04-25",
-        "time": "22:00",
-        "theater": "multicines",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-25",
-        "time": "22:20",
-        "theater": "xsur",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-25",
-        "time": "22:20",
-        "theater": "yelmo-la-villa-de-orotava",
-        "format": "2D INGLÉS SUBTITULADO EN ESPAÑOL (VOSE)"
-      },
-      {
-        "date": "2026-04-25",
-        "time": "22:20",
-        "theater": "yelmo-meridiano",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-26",
-        "time": "12:00",
-        "theater": "multicines",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-26",
-        "time": "12:35",
-        "theater": "yelmo-meridiano",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-26",
-        "time": "15:50",
-        "theater": "xsur",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-26",
-        "time": "16:30",
-        "theater": "multicines",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-26",
-        "time": "17:00",
-        "theater": "yelmo-la-villa-de-orotava",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-26",
-        "time": "17:00",
-        "theater": "yelmo-meridiano",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-26",
-        "time": "17:40",
-        "theater": "xsur",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-26",
-        "time": "19:10",
-        "theater": "multicines",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-26",
-        "time": "19:40",
-        "theater": "yelmo-la-villa-de-orotava",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-26",
-        "time": "19:40",
-        "theater": "yelmo-meridiano",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-26",
-        "time": "20:15",
-        "theater": "xsur",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-26",
-        "time": "21:15",
-        "theater": "zentralcenter",
-        "format": "SIN SUBTITULOS"
-      },
-      {
-        "date": "2026-04-26",
-        "time": "22:00",
-        "theater": "multicines",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-26",
-        "time": "22:20",
-        "theater": "xsur",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-26",
-        "time": "22:20",
-        "theater": "yelmo-la-villa-de-orotava",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-26",
-        "time": "22:20",
-        "theater": "yelmo-meridiano",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-27",
-        "time": "16:30",
-        "theater": "multicines",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-27",
-        "time": "17:00",
-        "theater": "yelmo-meridiano",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-27",
-        "time": "17:05",
-        "theater": "yelmo-la-villa-de-orotava",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-27",
-        "time": "19:10",
-        "theater": "multicines",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-27",
-        "time": "19:40",
-        "theater": "yelmo-meridiano",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-27",
-        "time": "19:45",
-        "theater": "yelmo-la-villa-de-orotava",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-27",
-        "time": "21:15",
-        "theater": "zentralcenter",
-        "format": "SIN SUBTITULOS"
-      },
-      {
-        "date": "2026-04-27",
-        "time": "22:00",
-        "theater": "multicines",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-27",
-        "time": "22:20",
-        "theater": "yelmo-meridiano",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-27",
-        "time": "22:25",
-        "theater": "yelmo-la-villa-de-orotava",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-28",
-        "time": "16:30",
-        "theater": "multicines",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-28",
-        "time": "17:00",
-        "theater": "yelmo-meridiano",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-28",
-        "time": "17:05",
-        "theater": "yelmo-la-villa-de-orotava",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-28",
-        "time": "19:10",
-        "theater": "multicines",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-28",
-        "time": "19:40",
-        "theater": "yelmo-meridiano",
-        "format": "2D INGLÉS SUBTITULADO EN ESPAÑOL (VOSE)"
-      },
-      {
-        "date": "2026-04-28",
-        "time": "19:45",
-        "theater": "yelmo-la-villa-de-orotava",
-        "format": "2D INGLÉS SUBTITULADO EN ESPAÑOL (VOSE)"
-      },
-      {
-        "date": "2026-04-28",
-        "time": "22:00",
-        "theater": "multicines",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-28",
-        "time": "22:20",
-        "theater": "yelmo-meridiano",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-28",
-        "time": "22:25",
-        "theater": "yelmo-la-villa-de-orotava",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-29",
-        "time": "16:30",
-        "theater": "multicines",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-29",
-        "time": "17:00",
-        "theater": "yelmo-meridiano",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-29",
-        "time": "17:05",
-        "theater": "yelmo-la-villa-de-orotava",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-29",
-        "time": "19:10",
-        "theater": "multicines",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-29",
-        "time": "19:40",
-        "theater": "yelmo-meridiano",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-29",
-        "time": "19:45",
-        "theater": "yelmo-la-villa-de-orotava",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-29",
-        "time": "22:00",
-        "theater": "multicines",
-        "format": "Español"
-      },
-      {
         "date": "2026-04-29",
         "time": "22:20",
         "theater": "yelmo-meridiano",
@@ -2494,8 +1547,20 @@
       },
       {
         "date": "2026-04-30",
+        "time": "19:45",
+        "theater": "xsur",
+        "format": "Español"
+      },
+      {
+        "date": "2026-04-30",
         "time": "22:00",
         "theater": "multicines",
+        "format": "Español"
+      },
+      {
+        "date": "2026-04-30",
+        "time": "22:10",
+        "theater": "xsur",
         "format": "Español"
       }
     ],
@@ -2524,7 +1589,7 @@
       "multicines": "https://multicinestenerife.com/pelicula/la-momia-de-lee-cronin/",
       "xsur": "https://x-surcine.com/peliculas/la-momia-de-lee-cronin/",
       "yelmo-la-villa-de-orotava": "https://www.yelmocines.es/sinopsis/la-momia-de-lee-cronin",
-      "zentralcenter": "https://kinetike.com:83/views/peliculas.aspx?s=INTERNET5hbsbthns950"
+      "zentralcenter": "https://kinetike.com:83/views/peliculas.aspx?s=INTERNETm4qm3blpd472"
     },
     "cover_url": "https://multicinestenerife.com/wp-content/uploads/2026/04/unnamed-1-1-204x350_c.jpg"
   },
@@ -2536,30 +1601,6 @@
       "multicines"
     ],
     "showings": [
-      {
-        "date": "2026-04-23",
-        "time": "20:00",
-        "theater": "multicines",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-24",
-        "time": "16:45",
-        "theater": "multicines",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-25",
-        "time": "16:45",
-        "theater": "multicines",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-26",
-        "time": "16:45",
-        "theater": "multicines",
-        "format": "Español"
-      },
       {
         "date": "2026-04-27",
         "time": "16:45",
@@ -2606,32 +1647,6 @@
     "cover_url": "https://multicinestenerife.com/wp-content/uploads/2026/04/unnamed-3-1-204x350_c.jpg"
   },
   {
-    "title": "La partitura del cosmos",
-    "length": "01 horas 59 minutos",
-    "age": "0",
-    "theaters": [
-      "multicines"
-    ],
-    "showings": [
-      {
-        "date": "2026-04-23",
-        "time": "17:15",
-        "theater": "multicines",
-        "format": "Español"
-      }
-    ],
-    "actors": [],
-    "directors": [],
-    "genres": [
-      "En cartelera"
-    ],
-    "synopsis": null,
-    "all_synopsis": null,
-    "url": "https://multicinestenerife.com/pelicula/la-partitura-del-cosmos/",
-    "all_urls": null,
-    "cover_url": "https://multicinestenerife.com/wp-content/uploads/2026/04/1776093823-204x350_c.jpg"
-  },
-  {
     "title": "Maracuda",
     "length": "01 horas 30 minutos",
     "age": "0",
@@ -2640,78 +1655,6 @@
       "zentralcenter"
     ],
     "showings": [
-      {
-        "date": "2026-04-24",
-        "time": "16:30",
-        "theater": "multicines",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-24",
-        "time": "16:30",
-        "theater": "zentralcenter",
-        "format": "SIN SUBTITULOS"
-      },
-      {
-        "date": "2026-04-24",
-        "time": "19:00",
-        "theater": "zentralcenter",
-        "format": "SIN SUBTITULOS"
-      },
-      {
-        "date": "2026-04-25",
-        "time": "12:15",
-        "theater": "multicines",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-25",
-        "time": "16:30",
-        "theater": "multicines",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-25",
-        "time": "16:30",
-        "theater": "zentralcenter",
-        "format": "SIN SUBTITULOS"
-      },
-      {
-        "date": "2026-04-25",
-        "time": "19:00",
-        "theater": "zentralcenter",
-        "format": "SIN SUBTITULOS"
-      },
-      {
-        "date": "2026-04-26",
-        "time": "12:00",
-        "theater": "zentralcenter",
-        "format": "SIN SUBTITULOS"
-      },
-      {
-        "date": "2026-04-26",
-        "time": "12:15",
-        "theater": "multicines",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-26",
-        "time": "16:30",
-        "theater": "multicines",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-26",
-        "time": "16:30",
-        "theater": "zentralcenter",
-        "format": "SIN SUBTITULOS"
-      },
-      {
-        "date": "2026-04-26",
-        "time": "19:00",
-        "theater": "zentralcenter",
-        "format": "SIN SUBTITULOS"
-      },
       {
         "date": "2026-04-27",
         "time": "16:30",
@@ -2743,10 +1686,58 @@
         "format": "Español"
       },
       {
+        "date": "2026-04-29",
+        "time": "16:30",
+        "theater": "zentralcenter",
+        "format": "SIN SUBTITULOS"
+      },
+      {
+        "date": "2026-04-29",
+        "time": "19:00",
+        "theater": "zentralcenter",
+        "format": "SIN SUBTITULOS"
+      },
+      {
         "date": "2026-04-30",
         "time": "16:30",
         "theater": "multicines",
         "format": "Español"
+      },
+      {
+        "date": "2026-04-30",
+        "time": "16:30",
+        "theater": "zentralcenter",
+        "format": "SIN SUBTITULOS"
+      },
+      {
+        "date": "2026-05-01",
+        "time": "16:30",
+        "theater": "zentralcenter",
+        "format": "SIN SUBTITULOS"
+      },
+      {
+        "date": "2026-05-02",
+        "time": "16:30",
+        "theater": "zentralcenter",
+        "format": "SIN SUBTITULOS"
+      },
+      {
+        "date": "2026-05-03",
+        "time": "12:00",
+        "theater": "zentralcenter",
+        "format": "SIN SUBTITULOS"
+      },
+      {
+        "date": "2026-05-03",
+        "time": "16:30",
+        "theater": "zentralcenter",
+        "format": "SIN SUBTITULOS"
+      },
+      {
+        "date": "2026-05-04",
+        "time": "16:30",
+        "theater": "zentralcenter",
+        "format": "SIN SUBTITULOS"
       }
     ],
     "actors": [
@@ -2769,13 +1760,13 @@
     "url": "https://multicinestenerife.com/pelicula/the-myth-of-marakuda/",
     "all_urls": {
       "multicines": "https://multicinestenerife.com/pelicula/the-myth-of-marakuda/",
-      "zentralcenter": "https://kinetike.com:83/views/peliculas.aspx?s=INTERNET5hbsbthns950"
+      "zentralcenter": "https://kinetike.com:83/views/peliculas.aspx?s=INTERNETm4qm3blpd472"
     },
     "cover_url": "https://multicinestenerife.com/wp-content/uploads/2026/04/unnamed-5-1-204x350_c.jpg"
   },
   {
     "title": "Michael",
-    "length": "01 horas 39 minutos",
+    "length": "02 horas 07 minutos",
     "age": "0",
     "theaters": [
       "multicines",
@@ -2786,1396 +1777,748 @@
     ],
     "showings": [
       {
-        "date": "2026-04-23",
+        "date": "2026-04-27",
+        "time": "16:15",
+        "theater": "xsur",
+        "format": "VOSE"
+      },
+      {
+        "date": "2026-04-27",
         "time": "16:15",
         "theater": "xsur",
         "format": "Español"
       },
       {
-        "date": "2026-04-23",
+        "date": "2026-04-27",
+        "time": "16:20",
+        "theater": "zentralcenter",
+        "format": "SIN SUBTITULOS"
+      },
+      {
+        "date": "2026-04-27",
         "time": "16:30",
         "theater": "multicines",
         "format": "Español"
       },
       {
-        "date": "2026-04-23",
-        "time": "16:45",
-        "theater": "zentralcenter",
-        "format": "SIN SUBTITULOS"
-      },
-      {
-        "date": "2026-04-23",
+        "date": "2026-04-27",
         "time": "17:00",
         "theater": "yelmo-la-villa-de-orotava",
         "format": "2D ESPAÑOL"
       },
       {
-        "date": "2026-04-23",
+        "date": "2026-04-27",
         "time": "17:00",
         "theater": "yelmo-meridiano",
         "format": "2D ESPAÑOL"
       },
       {
-        "date": "2026-04-23",
+        "date": "2026-04-27",
         "time": "17:40",
         "theater": "xsur",
         "format": "Español"
       },
       {
-        "date": "2026-04-23",
+        "date": "2026-04-27",
         "time": "17:40",
         "theater": "yelmo-la-villa-de-orotava",
         "format": "2D INGLÉS SUBTITULADO EN ESPAÑOL (VOSE)"
       },
       {
-        "date": "2026-04-23",
+        "date": "2026-04-27",
         "time": "17:40",
         "theater": "yelmo-meridiano",
         "format": "2D INGLÉS SUBTITULADO EN ESPAÑOL (VOSE)"
       },
       {
-        "date": "2026-04-23",
+        "date": "2026-04-27",
         "time": "18:00",
         "theater": "multicines",
         "format": "Español"
       },
       {
-        "date": "2026-04-23",
+        "date": "2026-04-27",
         "time": "18:25",
         "theater": "yelmo-la-villa-de-orotava",
         "format": "2D ESPAÑOL"
       },
       {
-        "date": "2026-04-23",
+        "date": "2026-04-27",
         "time": "18:25",
         "theater": "yelmo-meridiano",
         "format": "2D ESPAÑOL"
       },
       {
-        "date": "2026-04-23",
+        "date": "2026-04-27",
         "time": "18:30",
         "theater": "zentralcenter",
         "format": "SIN SUBTITULOS"
       },
       {
-        "date": "2026-04-23",
+        "date": "2026-04-27",
         "time": "18:50",
         "theater": "xsur",
         "format": "Español"
       },
       {
-        "date": "2026-04-23",
-        "time": "19:00",
-        "theater": "yelmo-la-villa-de-orotava",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-23",
+        "date": "2026-04-27",
         "time": "19:00",
         "theater": "yelmo-meridiano",
         "format": "2D ESPAÑOL"
       },
       {
-        "date": "2026-04-23",
+        "date": "2026-04-27",
         "time": "19:15",
         "theater": "multicines",
         "format": "Español"
       },
       {
-        "date": "2026-04-23",
+        "date": "2026-04-27",
         "time": "19:40",
         "theater": "yelmo-la-villa-de-orotava",
         "format": "2D ESPAÑOL"
       },
       {
-        "date": "2026-04-23",
+        "date": "2026-04-27",
         "time": "19:40",
         "theater": "yelmo-meridiano",
         "format": "2D ESPAÑOL"
       },
       {
-        "date": "2026-04-23",
-        "time": "19:45",
+        "date": "2026-04-27",
+        "time": "19:50",
         "theater": "xsur",
         "format": "VOSE"
       },
       {
-        "date": "2026-04-23",
+        "date": "2026-04-27",
         "time": "20:00",
         "theater": "xsur",
         "format": "Español"
       },
       {
-        "date": "2026-04-23",
+        "date": "2026-04-27",
         "time": "20:20",
         "theater": "yelmo-la-villa-de-orotava",
         "format": "2D INGLÉS SUBTITULADO EN ESPAÑOL (VOSE)"
       },
       {
-        "date": "2026-04-23",
+        "date": "2026-04-27",
         "time": "20:20",
         "theater": "yelmo-meridiano",
         "format": "2D INGLÉS SUBTITULADO EN ESPAÑOL (VOSE)"
       },
       {
-        "date": "2026-04-23",
+        "date": "2026-04-27",
         "time": "20:45",
         "theater": "multicines",
         "format": "Español"
       },
       {
-        "date": "2026-04-23",
+        "date": "2026-04-27",
+        "time": "21:00",
+        "theater": "zentralcenter",
+        "format": "SIN SUBTITULOS"
+      },
+      {
+        "date": "2026-04-27",
         "time": "21:05",
         "theater": "yelmo-la-villa-de-orotava",
         "format": "2D ESPAÑOL"
       },
       {
-        "date": "2026-04-23",
+        "date": "2026-04-27",
         "time": "21:05",
         "theater": "yelmo-meridiano",
         "format": "2D ESPAÑOL"
       },
       {
-        "date": "2026-04-23",
+        "date": "2026-04-27",
         "time": "21:10",
         "theater": "xsur",
         "format": "Español"
       },
       {
-        "date": "2026-04-23",
-        "time": "21:15",
-        "theater": "zentralcenter",
-        "format": "SIN SUBTITULOS"
-      },
-      {
-        "date": "2026-04-23",
-        "time": "21:40",
-        "theater": "yelmo-la-villa-de-orotava",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-23",
+        "date": "2026-04-27",
         "time": "21:40",
         "theater": "yelmo-meridiano",
         "format": "2D ESPAÑOL"
       },
       {
-        "date": "2026-04-23",
-        "time": "21:50",
-        "theater": "xsur",
-        "format": "VOSE"
-      },
-      {
-        "date": "2026-04-23",
+        "date": "2026-04-27",
         "time": "22:00",
         "theater": "multicines",
         "format": "Español"
       },
       {
-        "date": "2026-04-23",
+        "date": "2026-04-27",
         "time": "22:20",
         "theater": "xsur",
         "format": "Español"
       },
       {
-        "date": "2026-04-23",
+        "date": "2026-04-27",
         "time": "22:20",
         "theater": "yelmo-la-villa-de-orotava",
         "format": "2D ESPAÑOL"
       },
       {
-        "date": "2026-04-23",
+        "date": "2026-04-27",
         "time": "22:20",
         "theater": "yelmo-meridiano",
         "format": "2D ESPAÑOL"
       },
       {
-        "date": "2026-04-24",
-        "time": "15:45",
-        "theater": "yelmo-la-villa-de-orotava",
-        "format": "2D ESPAÑOL"
+        "date": "2026-04-28",
+        "time": "16:15",
+        "theater": "xsur",
+        "format": "VOSE"
       },
       {
-        "date": "2026-04-24",
+        "date": "2026-04-28",
         "time": "16:15",
         "theater": "xsur",
         "format": "Español"
       },
       {
-        "date": "2026-04-24",
-        "time": "16:30",
-        "theater": "multicines",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-24",
-        "time": "16:30",
+        "date": "2026-04-28",
+        "time": "16:20",
         "theater": "zentralcenter",
         "format": "SIN SUBTITULOS"
       },
       {
-        "date": "2026-04-24",
+        "date": "2026-04-28",
+        "time": "16:30",
+        "theater": "multicines",
+        "format": "Español"
+      },
+      {
+        "date": "2026-04-28",
         "time": "17:00",
         "theater": "yelmo-la-villa-de-orotava",
         "format": "2D ESPAÑOL"
       },
       {
-        "date": "2026-04-24",
+        "date": "2026-04-28",
         "time": "17:00",
         "theater": "yelmo-meridiano",
         "format": "2D ESPAÑOL"
       },
       {
-        "date": "2026-04-24",
+        "date": "2026-04-28",
         "time": "17:40",
         "theater": "xsur",
         "format": "Español"
       },
       {
-        "date": "2026-04-24",
+        "date": "2026-04-28",
         "time": "17:40",
         "theater": "yelmo-la-villa-de-orotava",
         "format": "2D INGLÉS SUBTITULADO EN ESPAÑOL (VOSE)"
       },
       {
-        "date": "2026-04-24",
+        "date": "2026-04-28",
         "time": "17:40",
         "theater": "yelmo-meridiano",
         "format": "2D INGLÉS SUBTITULADO EN ESPAÑOL (VOSE)"
       },
       {
-        "date": "2026-04-24",
+        "date": "2026-04-28",
         "time": "18:00",
         "theater": "multicines",
         "format": "Español"
       },
       {
-        "date": "2026-04-24",
-        "time": "18:00",
-        "theater": "xsur",
-        "format": "VOSE"
-      },
-      {
-        "date": "2026-04-24",
+        "date": "2026-04-28",
         "time": "18:25",
         "theater": "yelmo-la-villa-de-orotava",
         "format": "2D ESPAÑOL"
       },
       {
-        "date": "2026-04-24",
+        "date": "2026-04-28",
         "time": "18:25",
         "theater": "yelmo-meridiano",
         "format": "2D ESPAÑOL"
       },
       {
-        "date": "2026-04-24",
+        "date": "2026-04-28",
         "time": "18:30",
         "theater": "zentralcenter",
         "format": "SIN SUBTITULOS"
       },
       {
-        "date": "2026-04-24",
+        "date": "2026-04-28",
         "time": "18:50",
         "theater": "xsur",
         "format": "Español"
       },
       {
-        "date": "2026-04-24",
-        "time": "19:00",
-        "theater": "yelmo-la-villa-de-orotava",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-24",
+        "date": "2026-04-28",
         "time": "19:00",
         "theater": "yelmo-meridiano",
         "format": "2D ESPAÑOL"
       },
       {
-        "date": "2026-04-24",
+        "date": "2026-04-28",
         "time": "19:15",
         "theater": "multicines",
         "format": "Español"
       },
       {
-        "date": "2026-04-24",
+        "date": "2026-04-28",
         "time": "19:40",
         "theater": "yelmo-la-villa-de-orotava",
         "format": "2D ESPAÑOL"
       },
       {
-        "date": "2026-04-24",
+        "date": "2026-04-28",
         "time": "19:40",
         "theater": "yelmo-meridiano",
         "format": "2D ESPAÑOL"
       },
       {
-        "date": "2026-04-24",
-        "time": "19:45",
-        "theater": "xsur",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-24",
-        "time": "20:00",
+        "date": "2026-04-28",
+        "time": "19:50",
         "theater": "xsur",
         "format": "VOSE"
       },
       {
-        "date": "2026-04-24",
+        "date": "2026-04-28",
+        "time": "20:00",
+        "theater": "xsur",
+        "format": "Español"
+      },
+      {
+        "date": "2026-04-28",
         "time": "20:20",
         "theater": "yelmo-la-villa-de-orotava",
         "format": "2D INGLÉS SUBTITULADO EN ESPAÑOL (VOSE)"
       },
       {
-        "date": "2026-04-24",
+        "date": "2026-04-28",
         "time": "20:20",
         "theater": "yelmo-meridiano",
         "format": "2D INGLÉS SUBTITULADO EN ESPAÑOL (VOSE)"
       },
       {
-        "date": "2026-04-24",
+        "date": "2026-04-28",
         "time": "20:45",
         "theater": "multicines",
         "format": "Español"
       },
       {
-        "date": "2026-04-24",
+        "date": "2026-04-28",
         "time": "21:00",
         "theater": "zentralcenter",
         "format": "SIN SUBTITULOS"
       },
       {
-        "date": "2026-04-24",
+        "date": "2026-04-28",
         "time": "21:05",
         "theater": "yelmo-la-villa-de-orotava",
         "format": "2D ESPAÑOL"
       },
       {
-        "date": "2026-04-24",
+        "date": "2026-04-28",
         "time": "21:05",
         "theater": "yelmo-meridiano",
         "format": "2D ESPAÑOL"
       },
       {
-        "date": "2026-04-24",
+        "date": "2026-04-28",
         "time": "21:10",
         "theater": "xsur",
         "format": "Español"
       },
       {
-        "date": "2026-04-24",
-        "time": "21:40",
-        "theater": "yelmo-la-villa-de-orotava",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-24",
+        "date": "2026-04-28",
         "time": "21:40",
         "theater": "yelmo-meridiano",
         "format": "2D ESPAÑOL"
       },
       {
-        "date": "2026-04-24",
+        "date": "2026-04-28",
         "time": "22:00",
         "theater": "multicines",
         "format": "Español"
       },
       {
-        "date": "2026-04-24",
+        "date": "2026-04-28",
         "time": "22:20",
         "theater": "xsur",
         "format": "Español"
       },
       {
-        "date": "2026-04-24",
+        "date": "2026-04-28",
         "time": "22:20",
         "theater": "yelmo-la-villa-de-orotava",
         "format": "2D ESPAÑOL"
       },
       {
-        "date": "2026-04-24",
+        "date": "2026-04-28",
         "time": "22:20",
         "theater": "yelmo-meridiano",
         "format": "2D ESPAÑOL"
       },
       {
-        "date": "2026-04-24",
-        "time": "23:00",
-        "theater": "yelmo-meridiano",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-25",
-        "time": "11:45",
-        "theater": "xsur",
-        "format": "VOSE"
-      },
-      {
-        "date": "2026-04-25",
-        "time": "12:00",
-        "theater": "multicines",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-25",
-        "time": "12:00",
-        "theater": "xsur",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-25",
-        "time": "15:20",
-        "theater": "xsur",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-25",
-        "time": "15:45",
-        "theater": "yelmo-la-villa-de-orotava",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-25",
-        "time": "15:45",
-        "theater": "yelmo-meridiano",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-25",
+        "date": "2026-04-29",
         "time": "16:10",
         "theater": "xsur",
         "format": "VOSE"
       },
       {
-        "date": "2026-04-25",
-        "time": "16:20",
-        "theater": "yelmo-la-villa-de-orotava",
-        "format": "2D ESPAÑOL"
+        "date": "2026-04-29",
+        "time": "16:15",
+        "theater": "xsur",
+        "format": "Español"
       },
       {
-        "date": "2026-04-25",
-        "time": "16:20",
-        "theater": "yelmo-meridiano",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-25",
+        "date": "2026-04-29",
         "time": "16:20",
         "theater": "zentralcenter",
         "format": "SIN SUBTITULOS"
       },
       {
-        "date": "2026-04-25",
+        "date": "2026-04-29",
         "time": "16:30",
         "theater": "multicines",
         "format": "Español"
       },
       {
-        "date": "2026-04-25",
+        "date": "2026-04-29",
         "time": "17:00",
         "theater": "yelmo-la-villa-de-orotava",
         "format": "2D ESPAÑOL"
       },
       {
-        "date": "2026-04-25",
+        "date": "2026-04-29",
         "time": "17:00",
         "theater": "yelmo-meridiano",
         "format": "2D ESPAÑOL"
       },
       {
-        "date": "2026-04-25",
-        "time": "17:15",
+        "date": "2026-04-29",
+        "time": "17:40",
         "theater": "xsur",
         "format": "Español"
       },
       {
-        "date": "2026-04-25",
+        "date": "2026-04-29",
         "time": "17:40",
         "theater": "yelmo-la-villa-de-orotava",
         "format": "2D INGLÉS SUBTITULADO EN ESPAÑOL (VOSE)"
       },
       {
-        "date": "2026-04-25",
+        "date": "2026-04-29",
         "time": "17:40",
         "theater": "yelmo-meridiano",
         "format": "2D INGLÉS SUBTITULADO EN ESPAÑOL (VOSE)"
       },
       {
-        "date": "2026-04-25",
+        "date": "2026-04-29",
         "time": "18:00",
         "theater": "multicines",
         "format": "Español"
       },
       {
-        "date": "2026-04-25",
+        "date": "2026-04-29",
         "time": "18:25",
         "theater": "yelmo-la-villa-de-orotava",
         "format": "2D ESPAÑOL"
       },
       {
-        "date": "2026-04-25",
+        "date": "2026-04-29",
         "time": "18:25",
         "theater": "yelmo-meridiano",
         "format": "2D ESPAÑOL"
       },
       {
-        "date": "2026-04-25",
-        "time": "18:30",
-        "theater": "xsur",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-25",
+        "date": "2026-04-29",
         "time": "18:30",
         "theater": "zentralcenter",
         "format": "SIN SUBTITULOS"
       },
       {
-        "date": "2026-04-25",
-        "time": "19:00",
-        "theater": "yelmo-la-villa-de-orotava",
-        "format": "2D ESPAÑOL"
+        "date": "2026-04-29",
+        "time": "18:50",
+        "theater": "xsur",
+        "format": "Español"
       },
       {
-        "date": "2026-04-25",
+        "date": "2026-04-29",
         "time": "19:00",
         "theater": "yelmo-meridiano",
         "format": "2D ESPAÑOL"
       },
       {
-        "date": "2026-04-25",
+        "date": "2026-04-29",
         "time": "19:15",
         "theater": "multicines",
         "format": "Español"
       },
       {
-        "date": "2026-04-25",
+        "date": "2026-04-29",
         "time": "19:40",
         "theater": "yelmo-la-villa-de-orotava",
         "format": "2D ESPAÑOL"
       },
       {
-        "date": "2026-04-25",
+        "date": "2026-04-29",
         "time": "19:40",
         "theater": "yelmo-meridiano",
         "format": "2D ESPAÑOL"
       },
       {
-        "date": "2026-04-25",
-        "time": "19:50",
-        "theater": "xsur",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-25",
-        "time": "20:00",
+        "date": "2026-04-29",
+        "time": "19:45",
         "theater": "xsur",
         "format": "VOSE"
       },
       {
-        "date": "2026-04-25",
+        "date": "2026-04-29",
+        "time": "20:00",
+        "theater": "xsur",
+        "format": "Español"
+      },
+      {
+        "date": "2026-04-29",
         "time": "20:20",
         "theater": "yelmo-la-villa-de-orotava",
         "format": "2D INGLÉS SUBTITULADO EN ESPAÑOL (VOSE)"
       },
       {
-        "date": "2026-04-25",
+        "date": "2026-04-29",
         "time": "20:20",
         "theater": "yelmo-meridiano",
         "format": "2D INGLÉS SUBTITULADO EN ESPAÑOL (VOSE)"
       },
       {
-        "date": "2026-04-25",
+        "date": "2026-04-29",
         "time": "20:45",
         "theater": "multicines",
         "format": "Español"
       },
       {
-        "date": "2026-04-25",
-        "time": "21:00",
-        "theater": "xsur",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-25",
+        "date": "2026-04-29",
         "time": "21:00",
         "theater": "zentralcenter",
         "format": "SIN SUBTITULOS"
       },
       {
-        "date": "2026-04-25",
+        "date": "2026-04-29",
         "time": "21:05",
         "theater": "yelmo-la-villa-de-orotava",
         "format": "2D ESPAÑOL"
       },
       {
-        "date": "2026-04-25",
+        "date": "2026-04-29",
         "time": "21:05",
         "theater": "yelmo-meridiano",
         "format": "2D ESPAÑOL"
       },
       {
-        "date": "2026-04-25",
-        "time": "21:40",
-        "theater": "yelmo-la-villa-de-orotava",
-        "format": "2D ESPAÑOL"
+        "date": "2026-04-29",
+        "time": "21:10",
+        "theater": "xsur",
+        "format": "Español"
       },
       {
-        "date": "2026-04-25",
+        "date": "2026-04-29",
         "time": "21:40",
         "theater": "yelmo-meridiano",
         "format": "2D ESPAÑOL"
       },
       {
-        "date": "2026-04-25",
+        "date": "2026-04-29",
         "time": "22:00",
         "theater": "multicines",
         "format": "Español"
       },
       {
-        "date": "2026-04-25",
-        "time": "22:15",
+        "date": "2026-04-29",
+        "time": "22:20",
         "theater": "xsur",
         "format": "Español"
       },
       {
-        "date": "2026-04-25",
+        "date": "2026-04-29",
         "time": "22:20",
         "theater": "yelmo-la-villa-de-orotava",
         "format": "2D ESPAÑOL"
       },
       {
-        "date": "2026-04-25",
+        "date": "2026-04-29",
         "time": "22:20",
         "theater": "yelmo-meridiano",
         "format": "2D ESPAÑOL"
       },
       {
-        "date": "2026-04-25",
-        "time": "23:00",
-        "theater": "yelmo-meridiano",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-26",
-        "time": "11:30",
-        "theater": "xsur",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-26",
-        "time": "12:00",
-        "theater": "multicines",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-26",
-        "time": "12:00",
-        "theater": "yelmo-meridiano",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-26",
-        "time": "12:00",
-        "theater": "zentralcenter",
-        "format": "SIN SUBTITULOS"
-      },
-      {
-        "date": "2026-04-26",
-        "time": "12:20",
-        "theater": "yelmo-meridiano",
-        "format": "2D INGLÉS SUBTITULADO EN ESPAÑOL (VOSE)"
-      },
-      {
-        "date": "2026-04-26",
-        "time": "12:40",
-        "theater": "yelmo-meridiano",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-26",
-        "time": "13:00",
-        "theater": "yelmo-meridiano",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-26",
-        "time": "15:20",
-        "theater": "xsur",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-26",
-        "time": "15:45",
-        "theater": "yelmo-la-villa-de-orotava",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-26",
-        "time": "15:45",
-        "theater": "yelmo-meridiano",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-26",
+        "date": "2026-04-30",
         "time": "16:10",
         "theater": "xsur",
         "format": "VOSE"
       },
       {
-        "date": "2026-04-26",
-        "time": "16:20",
-        "theater": "yelmo-la-villa-de-orotava",
-        "format": "2D ESPAÑOL"
+        "date": "2026-04-30",
+        "time": "16:15",
+        "theater": "xsur",
+        "format": "Español"
       },
       {
-        "date": "2026-04-26",
-        "time": "16:20",
-        "theater": "yelmo-meridiano",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-26",
+        "date": "2026-04-30",
         "time": "16:20",
         "theater": "zentralcenter",
         "format": "SIN SUBTITULOS"
       },
       {
-        "date": "2026-04-26",
+        "date": "2026-04-30",
         "time": "16:30",
         "theater": "multicines",
         "format": "Español"
       },
       {
-        "date": "2026-04-26",
-        "time": "17:00",
-        "theater": "yelmo-la-villa-de-orotava",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-26",
-        "time": "17:00",
-        "theater": "yelmo-meridiano",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-26",
-        "time": "17:20",
+        "date": "2026-04-30",
+        "time": "17:40",
         "theater": "xsur",
         "format": "Español"
       },
       {
-        "date": "2026-04-26",
-        "time": "17:40",
-        "theater": "yelmo-la-villa-de-orotava",
-        "format": "2D INGLÉS SUBTITULADO EN ESPAÑOL (VOSE)"
-      },
-      {
-        "date": "2026-04-26",
-        "time": "17:40",
-        "theater": "yelmo-meridiano",
-        "format": "2D INGLÉS SUBTITULADO EN ESPAÑOL (VOSE)"
-      },
-      {
-        "date": "2026-04-26",
+        "date": "2026-04-30",
         "time": "18:00",
         "theater": "multicines",
         "format": "Español"
       },
       {
-        "date": "2026-04-26",
-        "time": "18:25",
-        "theater": "yelmo-la-villa-de-orotava",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-26",
-        "time": "18:25",
-        "theater": "yelmo-meridiano",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-26",
-        "time": "18:30",
-        "theater": "xsur",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-26",
+        "date": "2026-04-30",
         "time": "18:30",
         "theater": "zentralcenter",
         "format": "SIN SUBTITULOS"
       },
       {
-        "date": "2026-04-26",
-        "time": "19:00",
-        "theater": "yelmo-la-villa-de-orotava",
-        "format": "2D ESPAÑOL"
+        "date": "2026-04-30",
+        "time": "18:50",
+        "theater": "xsur",
+        "format": "Español"
       },
       {
-        "date": "2026-04-26",
-        "time": "19:00",
-        "theater": "yelmo-meridiano",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-26",
+        "date": "2026-04-30",
         "time": "19:15",
         "theater": "multicines",
         "format": "Español"
       },
       {
-        "date": "2026-04-26",
-        "time": "19:40",
-        "theater": "yelmo-la-villa-de-orotava",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-26",
-        "time": "19:40",
-        "theater": "yelmo-meridiano",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-26",
-        "time": "19:50",
-        "theater": "xsur",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-26",
+        "date": "2026-04-30",
         "time": "20:00",
         "theater": "xsur",
-        "format": "VOSE"
+        "format": "Español"
       },
       {
-        "date": "2026-04-26",
-        "time": "20:20",
-        "theater": "yelmo-la-villa-de-orotava",
-        "format": "2D INGLÉS SUBTITULADO EN ESPAÑOL (VOSE)"
-      },
-      {
-        "date": "2026-04-26",
-        "time": "20:20",
-        "theater": "yelmo-meridiano",
-        "format": "2D INGLÉS SUBTITULADO EN ESPAÑOL (VOSE)"
-      },
-      {
-        "date": "2026-04-26",
+        "date": "2026-04-30",
         "time": "20:45",
         "theater": "multicines",
         "format": "Español"
       },
       {
-        "date": "2026-04-26",
-        "time": "21:00",
-        "theater": "xsur",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-26",
+        "date": "2026-04-30",
         "time": "21:00",
         "theater": "zentralcenter",
         "format": "SIN SUBTITULOS"
       },
       {
-        "date": "2026-04-26",
-        "time": "21:05",
-        "theater": "yelmo-la-villa-de-orotava",
-        "format": "2D ESPAÑOL"
+        "date": "2026-04-30",
+        "time": "21:10",
+        "theater": "xsur",
+        "format": "Español"
       },
       {
-        "date": "2026-04-26",
-        "time": "21:05",
-        "theater": "yelmo-meridiano",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-26",
-        "time": "21:40",
-        "theater": "yelmo-la-villa-de-orotava",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-26",
-        "time": "21:40",
-        "theater": "yelmo-meridiano",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-26",
+        "date": "2026-04-30",
         "time": "22:00",
         "theater": "multicines",
         "format": "Español"
       },
       {
-        "date": "2026-04-26",
-        "time": "22:15",
+        "date": "2026-04-30",
+        "time": "22:20",
         "theater": "xsur",
         "format": "Español"
       },
       {
-        "date": "2026-04-26",
-        "time": "22:20",
-        "theater": "yelmo-la-villa-de-orotava",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-26",
-        "time": "22:20",
-        "theater": "yelmo-meridiano",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-27",
+        "date": "2026-05-01",
         "time": "16:20",
         "theater": "zentralcenter",
         "format": "SIN SUBTITULOS"
       },
       {
-        "date": "2026-04-27",
-        "time": "16:30",
-        "theater": "multicines",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-27",
-        "time": "17:00",
-        "theater": "yelmo-la-villa-de-orotava",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-27",
-        "time": "17:00",
-        "theater": "yelmo-meridiano",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-27",
-        "time": "17:40",
-        "theater": "yelmo-la-villa-de-orotava",
-        "format": "2D INGLÉS SUBTITULADO EN ESPAÑOL (VOSE)"
-      },
-      {
-        "date": "2026-04-27",
-        "time": "17:40",
-        "theater": "yelmo-meridiano",
-        "format": "2D INGLÉS SUBTITULADO EN ESPAÑOL (VOSE)"
-      },
-      {
-        "date": "2026-04-27",
-        "time": "18:00",
-        "theater": "multicines",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-27",
-        "time": "18:25",
-        "theater": "yelmo-la-villa-de-orotava",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-27",
-        "time": "18:25",
-        "theater": "yelmo-meridiano",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-27",
+        "date": "2026-05-01",
         "time": "18:30",
         "theater": "zentralcenter",
         "format": "SIN SUBTITULOS"
       },
       {
-        "date": "2026-04-27",
-        "time": "19:00",
-        "theater": "yelmo-meridiano",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-27",
-        "time": "19:15",
-        "theater": "multicines",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-27",
-        "time": "19:40",
-        "theater": "yelmo-la-villa-de-orotava",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-27",
-        "time": "19:40",
-        "theater": "yelmo-meridiano",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-27",
-        "time": "20:20",
-        "theater": "yelmo-la-villa-de-orotava",
-        "format": "2D INGLÉS SUBTITULADO EN ESPAÑOL (VOSE)"
-      },
-      {
-        "date": "2026-04-27",
-        "time": "20:20",
-        "theater": "yelmo-meridiano",
-        "format": "2D INGLÉS SUBTITULADO EN ESPAÑOL (VOSE)"
-      },
-      {
-        "date": "2026-04-27",
-        "time": "20:45",
-        "theater": "multicines",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-27",
+        "date": "2026-05-01",
         "time": "21:00",
         "theater": "zentralcenter",
         "format": "SIN SUBTITULOS"
       },
       {
-        "date": "2026-04-27",
-        "time": "21:05",
-        "theater": "yelmo-la-villa-de-orotava",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-27",
-        "time": "21:05",
-        "theater": "yelmo-meridiano",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-27",
-        "time": "21:40",
-        "theater": "yelmo-meridiano",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-27",
-        "time": "22:00",
-        "theater": "multicines",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-27",
-        "time": "22:20",
-        "theater": "yelmo-la-villa-de-orotava",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-27",
-        "time": "22:20",
-        "theater": "yelmo-meridiano",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-28",
+        "date": "2026-05-02",
         "time": "16:20",
         "theater": "zentralcenter",
         "format": "SIN SUBTITULOS"
       },
       {
-        "date": "2026-04-28",
-        "time": "16:30",
-        "theater": "multicines",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-28",
-        "time": "17:00",
-        "theater": "yelmo-la-villa-de-orotava",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-28",
-        "time": "17:00",
-        "theater": "yelmo-meridiano",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-28",
-        "time": "17:40",
-        "theater": "yelmo-la-villa-de-orotava",
-        "format": "2D INGLÉS SUBTITULADO EN ESPAÑOL (VOSE)"
-      },
-      {
-        "date": "2026-04-28",
-        "time": "17:40",
-        "theater": "yelmo-meridiano",
-        "format": "2D INGLÉS SUBTITULADO EN ESPAÑOL (VOSE)"
-      },
-      {
-        "date": "2026-04-28",
-        "time": "18:00",
-        "theater": "multicines",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-28",
-        "time": "18:25",
-        "theater": "yelmo-la-villa-de-orotava",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-28",
-        "time": "18:25",
-        "theater": "yelmo-meridiano",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-28",
+        "date": "2026-05-02",
         "time": "18:30",
         "theater": "zentralcenter",
         "format": "SIN SUBTITULOS"
       },
       {
-        "date": "2026-04-28",
-        "time": "19:00",
-        "theater": "yelmo-meridiano",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-28",
-        "time": "19:15",
-        "theater": "multicines",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-28",
-        "time": "19:40",
-        "theater": "yelmo-la-villa-de-orotava",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-28",
-        "time": "19:40",
-        "theater": "yelmo-meridiano",
-        "format": "2D INGLÉS SUBTITULADO EN ESPAÑOL (VOSE)"
-      },
-      {
-        "date": "2026-04-28",
-        "time": "20:20",
-        "theater": "yelmo-la-villa-de-orotava",
-        "format": "2D INGLÉS SUBTITULADO EN ESPAÑOL (VOSE)"
-      },
-      {
-        "date": "2026-04-28",
-        "time": "20:20",
-        "theater": "yelmo-meridiano",
-        "format": "2D INGLÉS SUBTITULADO EN ESPAÑOL (VOSE)"
-      },
-      {
-        "date": "2026-04-28",
-        "time": "20:45",
-        "theater": "multicines",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-28",
+        "date": "2026-05-02",
         "time": "21:00",
         "theater": "zentralcenter",
         "format": "SIN SUBTITULOS"
       },
       {
-        "date": "2026-04-28",
-        "time": "21:05",
-        "theater": "yelmo-la-villa-de-orotava",
-        "format": "2D ESPAÑOL"
+        "date": "2026-05-03",
+        "time": "12:00",
+        "theater": "zentralcenter",
+        "format": "SIN SUBTITULOS"
       },
       {
-        "date": "2026-04-28",
-        "time": "21:05",
-        "theater": "yelmo-meridiano",
-        "format": "2D ESPAÑOL"
+        "date": "2026-05-03",
+        "time": "16:20",
+        "theater": "zentralcenter",
+        "format": "SIN SUBTITULOS"
       },
       {
-        "date": "2026-04-28",
-        "time": "21:40",
-        "theater": "yelmo-meridiano",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-28",
-        "time": "22:00",
-        "theater": "multicines",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-28",
-        "time": "22:20",
-        "theater": "yelmo-la-villa-de-orotava",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-28",
-        "time": "22:20",
-        "theater": "yelmo-meridiano",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-29",
-        "time": "16:30",
-        "theater": "multicines",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-29",
-        "time": "17:00",
-        "theater": "yelmo-la-villa-de-orotava",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-29",
-        "time": "17:00",
-        "theater": "yelmo-meridiano",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-29",
-        "time": "17:40",
-        "theater": "yelmo-la-villa-de-orotava",
-        "format": "2D INGLÉS SUBTITULADO EN ESPAÑOL (VOSE)"
-      },
-      {
-        "date": "2026-04-29",
-        "time": "17:40",
-        "theater": "yelmo-meridiano",
-        "format": "2D INGLÉS SUBTITULADO EN ESPAÑOL (VOSE)"
-      },
-      {
-        "date": "2026-04-29",
-        "time": "18:00",
-        "theater": "multicines",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-29",
-        "time": "18:25",
-        "theater": "yelmo-la-villa-de-orotava",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-29",
-        "time": "18:25",
-        "theater": "yelmo-meridiano",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-29",
-        "time": "19:00",
-        "theater": "yelmo-meridiano",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-29",
-        "time": "19:15",
-        "theater": "multicines",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-29",
-        "time": "19:40",
-        "theater": "yelmo-la-villa-de-orotava",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-29",
-        "time": "19:40",
-        "theater": "yelmo-meridiano",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-29",
-        "time": "20:20",
-        "theater": "yelmo-la-villa-de-orotava",
-        "format": "2D INGLÉS SUBTITULADO EN ESPAÑOL (VOSE)"
-      },
-      {
-        "date": "2026-04-29",
-        "time": "20:20",
-        "theater": "yelmo-meridiano",
-        "format": "2D INGLÉS SUBTITULADO EN ESPAÑOL (VOSE)"
-      },
-      {
-        "date": "2026-04-29",
-        "time": "20:45",
-        "theater": "multicines",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-29",
-        "time": "21:05",
-        "theater": "yelmo-la-villa-de-orotava",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-29",
-        "time": "21:05",
-        "theater": "yelmo-meridiano",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-29",
-        "time": "21:40",
-        "theater": "yelmo-meridiano",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-29",
-        "time": "22:00",
-        "theater": "multicines",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-29",
-        "time": "22:20",
-        "theater": "yelmo-la-villa-de-orotava",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-29",
-        "time": "22:20",
-        "theater": "yelmo-meridiano",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-30",
-        "time": "16:30",
-        "theater": "multicines",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-30",
-        "time": "18:00",
-        "theater": "multicines",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-30",
+        "date": "2026-05-03",
         "time": "18:30",
         "theater": "zentralcenter",
         "format": "SIN SUBTITULOS"
       },
       {
-        "date": "2026-04-30",
-        "time": "19:15",
-        "theater": "multicines",
-        "format": "Español"
+        "date": "2026-05-03",
+        "time": "21:00",
+        "theater": "zentralcenter",
+        "format": "SIN SUBTITULOS"
       },
       {
-        "date": "2026-04-30",
-        "time": "20:45",
-        "theater": "multicines",
-        "format": "Español"
+        "date": "2026-05-04",
+        "time": "16:20",
+        "theater": "zentralcenter",
+        "format": "SIN SUBTITULOS"
       },
       {
-        "date": "2026-04-30",
-        "time": "22:00",
-        "theater": "multicines",
-        "format": "Español"
+        "date": "2026-05-04",
+        "time": "18:30",
+        "theater": "zentralcenter",
+        "format": "SIN SUBTITULOS"
+      },
+      {
+        "date": "2026-05-04",
+        "time": "21:00",
+        "theater": "zentralcenter",
+        "format": "SIN SUBTITULOS"
       }
     ],
     "actors": [
@@ -4208,42 +2551,18 @@
       "multicines": "https://multicinestenerife.com/pelicula/michael/",
       "xsur": "https://x-surcine.com/peliculas/michael/",
       "yelmo-la-villa-de-orotava": "https://www.yelmocines.es/sinopsis/michael",
-      "zentralcenter": "https://kinetike.com:83/views/peliculas.aspx?s=INTERNET5hbsbthns950"
+      "zentralcenter": "https://kinetike.com:83/views/peliculas.aspx?s=INTERNETm4qm3blpd472"
     },
     "cover_url": "https://multicinestenerife.com/wp-content/uploads/2026/04/Michael_Social-Media_Preventa_fecha_Bad_v2_4x5-204x350_c.jpg"
   },
   {
     "title": "Michael (VOSE)",
-    "length": "01 horas 39 minutos",
+    "length": "02 horas 07 minutos",
     "age": "0",
     "theaters": [
       "multicines"
     ],
     "showings": [
-      {
-        "date": "2026-04-23",
-        "time": "20:00",
-        "theater": "multicines",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-24",
-        "time": "18:45",
-        "theater": "multicines",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-25",
-        "time": "18:45",
-        "theater": "multicines",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-26",
-        "time": "18:45",
-        "theater": "multicines",
-        "format": "Español"
-      },
       {
         "date": "2026-04-27",
         "time": "18:45",
@@ -4295,143 +2614,16 @@
     "cover_url": "https://multicinestenerife.com/wp-content/uploads/2026/04/1775418466-204x350_c.jpg"
   },
   {
-    "title": "NOCHE DE BODAS 2",
-    "length": "112 minutos",
-    "age": "18",
-    "theaters": [
-      "xsur"
-    ],
-    "showings": [
-      {
-        "date": "2026-04-23",
-        "time": "22:35",
-        "theater": "xsur",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-25",
-        "time": "22:40",
-        "theater": "xsur",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-26",
-        "time": "20:35",
-        "theater": "xsur",
-        "format": "Español"
-      }
-    ],
-    "actors": null,
-    "directors": null,
-    "genres": null,
-    "synopsis": "Momentos después de sobrevivir a un ataque de la familia Le Domas, Grace descubre que ha alcanzado el siguiente nivel del juego, y esta vez acompañada por su hermana Faith, con quien mantiene una relación distante. Grace tiene una oportunidad para sobrevivir, mantener con vida a su hermana y reclamar el Alto Trono del Consejo que controla el mundo. Cuatro familias rivales la persiguen para hacerse con el trono, y quien gane lo gobernará todo.",
-    "all_synopsis": null,
-    "url": "https://x-surcine.com/peliculas/noche-de-bodas-2/",
-    "all_urls": null,
-    "cover_url": "https://x-surcine.com/wp-content/uploads/2026/04/JPg000va-7.jpg"
-  },
-  {
-    "title": "No te olvidaré",
-    "length": "01 horas 54 minutos",
+    "title": "NO TE OLVIDARÉ",
+    "length": "117 minutos",
     "age": "12",
     "theaters": [
-      "multicines",
       "xsur",
       "yelmo-la-villa-de-orotava",
       "yelmo-meridiano"
     ],
     "showings": [
       {
-        "date": "2026-04-23",
-        "time": "16:15",
-        "theater": "xsur",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-23",
-        "time": "22:25",
-        "theater": "yelmo-la-villa-de-orotava",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-23",
-        "time": "22:30",
-        "theater": "multicines",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-23",
-        "time": "22:30",
-        "theater": "yelmo-meridiano",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-24",
-        "time": "22:25",
-        "theater": "yelmo-la-villa-de-orotava",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-24",
-        "time": "22:30",
-        "theater": "xsur",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-24",
-        "time": "22:30",
-        "theater": "yelmo-meridiano",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-25",
-        "time": "14:00",
-        "theater": "xsur",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-25",
-        "time": "18:35",
-        "theater": "xsur",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-25",
-        "time": "22:25",
-        "theater": "yelmo-la-villa-de-orotava",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-25",
-        "time": "22:30",
-        "theater": "yelmo-meridiano",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-26",
-        "time": "14:00",
-        "theater": "xsur",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-26",
-        "time": "22:20",
-        "theater": "yelmo-la-villa-de-orotava",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-26",
-        "time": "22:30",
-        "theater": "yelmo-meridiano",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-26",
-        "time": "22:35",
-        "theater": "xsur",
-        "format": "Español"
-      },
-      {
         "date": "2026-04-27",
         "time": "22:05",
         "theater": "yelmo-meridiano",
@@ -4445,6 +2637,12 @@
       },
       {
         "date": "2026-04-28",
+        "time": "20:35",
+        "theater": "xsur",
+        "format": "Español"
+      },
+      {
+        "date": "2026-04-28",
         "time": "22:05",
         "theater": "yelmo-meridiano",
         "format": "2D ESPAÑOL"
@@ -4454,6 +2652,12 @@
         "time": "22:25",
         "theater": "yelmo-la-villa-de-orotava",
         "format": "2D ESPAÑOL"
+      },
+      {
+        "date": "2026-04-29",
+        "time": "18:05",
+        "theater": "xsur",
+        "format": "Español"
       },
       {
         "date": "2026-04-29",
@@ -4470,60 +2674,59 @@
     ],
     "actors": [
       "Maika Monroe",
-      "Jennifer Robertson",
+      "Tyriq Withers",
+      "Rudy Pankow",
+      "Lainey Wilson",
+      "Lauren Graham",
       "Bradley Whitford"
     ],
     "directors": [
       "Vanessa Caswill"
     ],
     "genres": [
-      "Drama",
-      "Romance",
-      "En cartelera"
+      "ROMANCE"
     ],
     "synopsis": "Tras salir de la cárcel, Kenna intenta volver a conectar con su hija pequeña, pero se enfrenta a la resistencia de todo el mundo, excepto del dueño de un bar que tiene vínculos con su hija. A medida que se acercan, Kenna debe enfrentarse a sus errores del pasado para construir un futuro esperanzador… Adaptación del libro de Colleen Hoover, autora de Romper el círculo.",
     "all_synopsis": {
-      "multicines": "Tras salir de la cárcel, Kenna intenta volver a conectar con su hija pequeña, pero se enfrenta a la resistencia de todo el mundo, excepto del dueño de un bar que tiene vínculos con su hija. A medida que se acercan, Kenna debe enfrentarse a sus errores del pasado para construir un futuro esperanzador… Adaptación del libro de Colleen Hoover, autora de Romper el círculo.",
       "xsur": "Tras salir de la cárcel, Kenna intenta volver a conectar con su hija pequeña, pero se enfrenta a la resistencia de todo el mundo, excepto del dueño de un bar que tiene vínculos con su hija. A medida que se acercan, Kenna debe enfrentarse a sus errores del pasado para construir un futuro esperanzador… Adaptación del libro de Colleen Hoover, autora de Romper el círculo.",
       "yelmo-la-villa-de-orotava": "Tras salir de la cárcel, Kenna intenta volver a conectar con su hija pequeña, pero se enfrenta a la resistencia de todo el mundo, excepto del dueño de un bar que tiene vínculos con su hija. A medida que se acercan, Kenna debe enfrentarse a sus errores del pasado para construir un futuro esperanzador."
     },
-    "url": "https://multicinestenerife.com/pelicula/reminders-of-him/",
+    "url": "https://x-surcine.com/peliculas/no-te-olvidare/",
     "all_urls": {
-      "multicines": "https://multicinestenerife.com/pelicula/reminders-of-him/",
       "xsur": "https://x-surcine.com/peliculas/no-te-olvidare/",
       "yelmo-la-villa-de-orotava": "https://www.yelmocines.es/sinopsis/no-te-olvidare"
     },
-    "cover_url": "https://multicinestenerife.com/wp-content/uploads/2026/04/unnamed-7-204x350_c.jpg"
+    "cover_url": "https://x-surcine.com/wp-content/uploads/2026/04/JPg000vb-7.jpg"
   },
   {
-    "title": "PROJECT HAIL MARY",
-    "length": "158 minutos",
-    "age": "7",
+    "title": "NOCHE DE BODAS 2",
+    "length": "112 minutos",
+    "age": "18",
     "theaters": [
       "xsur"
     ],
     "showings": [
       {
-        "date": "2026-04-25",
-        "time": "14:30",
+        "date": "2026-04-27",
+        "time": "22:15",
         "theater": "xsur",
-        "format": "VOSE"
+        "format": "Español"
       },
       {
-        "date": "2026-04-26",
-        "time": "14:40",
+        "date": "2026-04-29",
+        "time": "22:40",
         "theater": "xsur",
-        "format": "VOSE"
+        "format": "Español"
       }
     ],
     "actors": null,
     "directors": null,
     "genres": null,
-    "synopsis": "El profesor de ciencias Ryland Grace (Ryan Gosling) se despierta en una nave espacial a años luz de casa sin recordar quién es ni cómo ha llegado hasta allí. A medida que recupera la memoria, empieza a descubrir su misión: resolver el enigma de la misteriosa sustancia que provoca la extinción del sol. Deberá recurrir a sus conocimientos científicos y a sus ideas poco ortodoxas para salvar todo lo que hay en la Tierra de la extinción… pero una amistad inesperada significa que quizá no tenga que hacerlo solo.",
+    "synopsis": "Momentos después de sobrevivir a un ataque de la familia Le Domas, Grace descubre que ha alcanzado el siguiente nivel del juego, y esta vez acompañada por su hermana Faith, con quien mantiene una relación distante. Grace tiene una oportunidad para sobrevivir, mantener con vida a su hermana y reclamar el Alto Trono del Consejo que controla el mundo. Cuatro familias rivales la persiguen para hacerse con el trono, y quien gane lo gobernará todo.",
     "all_synopsis": null,
-    "url": "https://x-surcine.com/peliculas/project-hail-mary-english-version/",
+    "url": "https://x-surcine.com/peliculas/noche-de-bodas-2/",
     "all_urls": null,
-    "cover_url": "https://x-surcine.com/wp-content/uploads/2026/04/JPg000v5-7-800x1185.jpg"
+    "cover_url": "https://x-surcine.com/wp-content/uploads/2026/04/JPg000va-8.jpg"
   },
   {
     "title": "Perfect Days",
@@ -4567,36 +2770,6 @@
       "multicines"
     ],
     "showings": [
-      {
-        "date": "2026-04-23",
-        "time": "19:45",
-        "theater": "multicines",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-23",
-        "time": "22:00",
-        "theater": "multicines",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-24",
-        "time": "21:30",
-        "theater": "multicines",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-25",
-        "time": "21:30",
-        "theater": "multicines",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-26",
-        "time": "21:30",
-        "theater": "multicines",
-        "format": "Español"
-      },
       {
         "date": "2026-04-27",
         "time": "21:30",
@@ -4655,315 +2828,105 @@
     ],
     "showings": [
       {
-        "date": "2026-04-23",
+        "date": "2026-04-27",
+        "time": "17:15",
+        "theater": "yelmo-meridiano",
+        "format": "2D ESPAÑOL"
+      },
+      {
+        "date": "2026-04-27",
+        "time": "17:25",
+        "theater": "yelmo-la-villa-de-orotava",
+        "format": "2D ESPAÑOL"
+      },
+      {
+        "date": "2026-04-27",
+        "time": "17:45",
+        "theater": "multicines",
+        "format": "Español"
+      },
+      {
+        "date": "2026-04-27",
+        "time": "18:35",
+        "theater": "xsur",
+        "format": "Español"
+      },
+      {
+        "date": "2026-04-27",
+        "time": "20:30",
+        "theater": "yelmo-meridiano",
+        "format": "2D ESPAÑOL"
+      },
+      {
+        "date": "2026-04-27",
+        "time": "20:45",
+        "theater": "yelmo-la-villa-de-orotava",
+        "format": "2D ESPAÑOL"
+      },
+      {
+        "date": "2026-04-27",
+        "time": "21:00",
+        "theater": "multicines",
+        "format": "Español"
+      },
+      {
+        "date": "2026-04-27",
+        "time": "21:25",
+        "theater": "xsur",
+        "format": "Español"
+      },
+      {
+        "date": "2026-04-28",
+        "time": "17:15",
+        "theater": "yelmo-meridiano",
+        "format": "2D ESPAÑOL"
+      },
+      {
+        "date": "2026-04-28",
+        "time": "17:25",
+        "theater": "yelmo-la-villa-de-orotava",
+        "format": "2D ESPAÑOL"
+      },
+      {
+        "date": "2026-04-28",
+        "time": "17:45",
+        "theater": "multicines",
+        "format": "Español"
+      },
+      {
+        "date": "2026-04-28",
+        "time": "18:35",
+        "theater": "xsur",
+        "format": "Español"
+      },
+      {
+        "date": "2026-04-28",
+        "time": "20:30",
+        "theater": "yelmo-meridiano",
+        "format": "2D INGLÉS SUBTITULADO EN ESPAÑOL (VOSE)"
+      },
+      {
+        "date": "2026-04-28",
+        "time": "20:45",
+        "theater": "yelmo-la-villa-de-orotava",
+        "format": "2D ESPAÑOL"
+      },
+      {
+        "date": "2026-04-28",
+        "time": "21:00",
+        "theater": "multicines",
+        "format": "Español"
+      },
+      {
+        "date": "2026-04-28",
+        "time": "21:25",
+        "theater": "xsur",
+        "format": "Español"
+      },
+      {
+        "date": "2026-04-29",
         "time": "17:00",
         "theater": "xsur",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-23",
-        "time": "17:15",
-        "theater": "yelmo-meridiano",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-23",
-        "time": "17:25",
-        "theater": "yelmo-la-villa-de-orotava",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-23",
-        "time": "17:45",
-        "theater": "multicines",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-23",
-        "time": "20:30",
-        "theater": "yelmo-meridiano",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-23",
-        "time": "20:45",
-        "theater": "yelmo-la-villa-de-orotava",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-23",
-        "time": "21:00",
-        "theater": "multicines",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-23",
-        "time": "21:55",
-        "theater": "xsur",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-24",
-        "time": "17:00",
-        "theater": "xsur",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-24",
-        "time": "17:15",
-        "theater": "yelmo-meridiano",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-24",
-        "time": "17:25",
-        "theater": "yelmo-la-villa-de-orotava",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-24",
-        "time": "17:45",
-        "theater": "multicines",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-24",
-        "time": "20:30",
-        "theater": "yelmo-meridiano",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-24",
-        "time": "20:45",
-        "theater": "yelmo-la-villa-de-orotava",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-24",
-        "time": "21:00",
-        "theater": "multicines",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-24",
-        "time": "21:55",
-        "theater": "xsur",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-25",
-        "time": "11:30",
-        "theater": "xsur",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-25",
-        "time": "12:15",
-        "theater": "multicines",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-25",
-        "time": "15:50",
-        "theater": "yelmo-la-villa-de-orotava",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-25",
-        "time": "15:55",
-        "theater": "yelmo-meridiano",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-25",
-        "time": "16:00",
-        "theater": "xsur",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-25",
-        "time": "17:45",
-        "theater": "multicines",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-25",
-        "time": "18:50",
-        "theater": "yelmo-la-villa-de-orotava",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-25",
-        "time": "19:00",
-        "theater": "yelmo-meridiano",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-25",
-        "time": "21:00",
-        "theater": "multicines",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-25",
-        "time": "21:40",
-        "theater": "xsur",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-25",
-        "time": "22:00",
-        "theater": "yelmo-la-villa-de-orotava",
-        "format": "2D INGLÉS SUBTITULADO EN ESPAÑOL (VOSE)"
-      },
-      {
-        "date": "2026-04-25",
-        "time": "22:15",
-        "theater": "yelmo-meridiano",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-26",
-        "time": "12:15",
-        "theater": "multicines",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-26",
-        "time": "12:25",
-        "theater": "yelmo-meridiano",
-        "format": "2D INGLÉS SUBTITULADO EN ESPAÑOL (VOSE)"
-      },
-      {
-        "date": "2026-04-26",
-        "time": "15:50",
-        "theater": "yelmo-la-villa-de-orotava",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-26",
-        "time": "15:55",
-        "theater": "yelmo-meridiano",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-26",
-        "time": "16:00",
-        "theater": "xsur",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-26",
-        "time": "17:45",
-        "theater": "multicines",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-26",
-        "time": "18:50",
-        "theater": "yelmo-la-villa-de-orotava",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-26",
-        "time": "19:00",
-        "theater": "yelmo-meridiano",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-26",
-        "time": "21:00",
-        "theater": "multicines",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-26",
-        "time": "21:40",
-        "theater": "xsur",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-26",
-        "time": "22:00",
-        "theater": "yelmo-la-villa-de-orotava",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-26",
-        "time": "22:15",
-        "theater": "yelmo-meridiano",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-27",
-        "time": "17:15",
-        "theater": "yelmo-meridiano",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-27",
-        "time": "17:25",
-        "theater": "yelmo-la-villa-de-orotava",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-27",
-        "time": "17:45",
-        "theater": "multicines",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-27",
-        "time": "20:30",
-        "theater": "yelmo-meridiano",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-27",
-        "time": "20:45",
-        "theater": "yelmo-la-villa-de-orotava",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-27",
-        "time": "21:00",
-        "theater": "multicines",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-28",
-        "time": "17:15",
-        "theater": "yelmo-meridiano",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-28",
-        "time": "17:25",
-        "theater": "yelmo-la-villa-de-orotava",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-28",
-        "time": "17:45",
-        "theater": "multicines",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-28",
-        "time": "20:30",
-        "theater": "yelmo-meridiano",
-        "format": "2D INGLÉS SUBTITULADO EN ESPAÑOL (VOSE)"
-      },
-      {
-        "date": "2026-04-28",
-        "time": "20:45",
-        "theater": "yelmo-la-villa-de-orotava",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-28",
-        "time": "21:00",
-        "theater": "multicines",
         "format": "Español"
       },
       {
@@ -5004,9 +2967,21 @@
       },
       {
         "date": "2026-04-29",
+        "time": "21:50",
+        "theater": "xsur",
+        "format": "Español"
+      },
+      {
+        "date": "2026-04-29",
         "time": "22:00",
         "theater": "yelmo-meridiano",
         "format": "2D ESPAÑOL"
+      },
+      {
+        "date": "2026-04-30",
+        "time": "17:00",
+        "theater": "xsur",
+        "format": "Español"
       },
       {
         "date": "2026-04-30",
@@ -5018,6 +2993,12 @@
         "date": "2026-04-30",
         "time": "21:00",
         "theater": "multicines",
+        "format": "Español"
+      },
+      {
+        "date": "2026-04-30",
+        "time": "22:00",
+        "theater": "xsur",
         "format": "Español"
       }
     ],
@@ -5063,72 +3044,12 @@
     ],
     "showings": [
       {
-        "date": "2026-04-23",
-        "time": "22:30",
-        "theater": "yelmo-la-villa-de-orotava",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-23",
-        "time": "22:35",
-        "theater": "yelmo-meridiano",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-24",
+        "date": "2026-04-27",
         "time": "20:35",
         "theater": "xsur",
         "format": "Español"
       },
       {
-        "date": "2026-04-24",
-        "time": "22:30",
-        "theater": "yelmo-la-villa-de-orotava",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-24",
-        "time": "22:35",
-        "theater": "yelmo-meridiano",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-25",
-        "time": "20:40",
-        "theater": "xsur",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-25",
-        "time": "22:35",
-        "theater": "yelmo-meridiano",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-25",
-        "time": "22:40",
-        "theater": "yelmo-la-villa-de-orotava",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-26",
-        "time": "22:35",
-        "theater": "yelmo-meridiano",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-26",
-        "time": "22:40",
-        "theater": "yelmo-la-villa-de-orotava",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-26",
-        "time": "22:45",
-        "theater": "xsur",
-        "format": "Español"
-      },
-      {
         "date": "2026-04-27",
         "time": "22:30",
         "theater": "yelmo-la-villa-de-orotava",
@@ -5139,6 +3060,12 @@
         "time": "22:35",
         "theater": "yelmo-meridiano",
         "format": "2D ESPAÑOL"
+      },
+      {
+        "date": "2026-04-28",
+        "time": "22:15",
+        "theater": "xsur",
+        "format": "Español"
       },
       {
         "date": "2026-04-28",
@@ -5154,6 +3081,12 @@
       },
       {
         "date": "2026-04-29",
+        "time": "20:35",
+        "theater": "xsur",
+        "format": "Español"
+      },
+      {
+        "date": "2026-04-29",
         "time": "22:30",
         "theater": "yelmo-la-villa-de-orotava",
         "format": "2D ESPAÑOL"
@@ -5163,6 +3096,12 @@
         "time": "22:35",
         "theater": "yelmo-meridiano",
         "format": "2D ESPAÑOL"
+      },
+      {
+        "date": "2026-04-30",
+        "time": "22:40",
+        "theater": "xsur",
+        "format": "Español"
       }
     ],
     "actors": [
@@ -5183,41 +3122,12 @@
       "xsur": "En una remota isla, un hombre que vive en el exilio (Jason Statham) rescata a una niña de una peligrosa tempestad, lo que desencadena una serie de eventos que los ponen a ambos en grave peligro. A medida que sus destinos se entrelazan, su misión será protegerla a toda costa, mientras se enfrenta a los enemigos de su pasado, en una trepidante odisea por sobrevivir.",
       "yelmo-la-villa-de-orotava": "En una remota isla, un hombre que vive en el exilio (Jason Statham) rescata a una niña de una peligrosa tempestad, lo que desencadena una serie de eventos que los ponen a ambos en grave peligro. A medida que sus destinos se entrelazan, su misión será protegerla a toda costa, mientras se enfrenta a los enemigos de su pasado, en una trepidante odisea por sobrevivir."
     },
-    "url": "https://x-surcine.com/peliculas/shelter-el-protector-2/",
+    "url": "https://x-surcine.com/peliculas/shelter-el-protector/",
     "all_urls": {
-      "xsur": "https://x-surcine.com/peliculas/shelter-el-protector-2/",
+      "xsur": "https://x-surcine.com/peliculas/shelter-el-protector/",
       "yelmo-la-villa-de-orotava": "https://www.yelmocines.es/sinopsis/shelter-el-protector"
     },
-    "cover_url": "https://x-surcine.com/wp-content/uploads/2026/04/JPg000v4-7.jpg"
-  },
-  {
-    "title": "Sidosa",
-    "length": "94",
-    "age": "12",
-    "theaters": [
-      "yelmo-meridiano"
-    ],
-    "showings": [
-      {
-        "date": "2026-04-23",
-        "time": "20:00",
-        "theater": "yelmo-meridiano",
-        "format": "2D ESPAÑOL"
-      }
-    ],
-    "actors": null,
-    "directors": [
-      "Lluís Galter",
-      "Màrius Sánchez"
-    ],
-    "genres": [
-      "DOCUMENTAL,CONTENIDO ALTERNATIVO"
-    ],
-    "synopsis": "En ‘Sidosa’, el director y actor Eduardo Casanova rompe años de silencio y hace la revelación más íntima y trascendente de su vida: vive con VIH. En un gesto sin precedentes en España para una figura mediática de su relevancia, decide hacerlo público con el objetivo de combatir el estigma social que todavía rodea al virus. Producido y conducido por Jordi Évole, el documental propone un viaje catártico lleno de humor, emoción y memoria que aborda la realidad actual del VIH y, al mismo tiempo, profundiza en la figura personal y artística de Casanova. A través de este recorrido, la película reivindica la reapropiación del término “sidosa” como acto de resistencia y empoderamiento, contribuyendo a normalizar la conversación sobre el VIH en la sociedad española.",
-    "all_synopsis": null,
-    "url": "https://www.yelmocines.es/sinopsis/sidosa",
-    "all_urls": null,
-    "cover_url": null
+    "cover_url": "https://x-surcine.com/wp-content/uploads/2026/04/JPg000v4-8.jpg"
   },
   {
     "title": "Super Mario Galaxy: La película",
@@ -5232,540 +3142,210 @@
     ],
     "showings": [
       {
-        "date": "2026-04-23",
+        "date": "2026-04-27",
         "time": "16:10",
         "theater": "xsur",
         "format": "Español"
       },
       {
-        "date": "2026-04-23",
-        "time": "16:15",
-        "theater": "zentralcenter",
-        "format": "SIN SUBTITULOS"
-      },
-      {
-        "date": "2026-04-23",
+        "date": "2026-04-27",
         "time": "16:30",
         "theater": "multicines",
         "format": "Español"
       },
       {
-        "date": "2026-04-23",
+        "date": "2026-04-27",
+        "time": "17:30",
+        "theater": "multicines",
+        "format": "Español"
+      },
+      {
+        "date": "2026-04-27",
         "time": "18:00",
         "theater": "xsur",
         "format": "Español"
       },
       {
-        "date": "2026-04-23",
+        "date": "2026-04-27",
         "time": "18:00",
         "theater": "yelmo-meridiano",
         "format": "2D ESPAÑOL"
       },
       {
-        "date": "2026-04-23",
+        "date": "2026-04-27",
         "time": "18:05",
         "theater": "yelmo-la-villa-de-orotava",
         "format": "2D ESPAÑOL"
       },
       {
-        "date": "2026-04-23",
+        "date": "2026-04-27",
         "time": "18:45",
         "theater": "multicines",
         "format": "Español"
       },
       {
-        "date": "2026-04-23",
-        "time": "19:45",
+        "date": "2026-04-27",
+        "time": "19:00",
+        "theater": "zentralcenter",
+        "format": "SIN SUBTITULOS"
+      },
+      {
+        "date": "2026-04-27",
+        "time": "20:15",
+        "theater": "yelmo-la-villa-de-orotava",
+        "format": "2D ESPAÑOL"
+      },
+      {
+        "date": "2026-04-27",
+        "time": "20:15",
+        "theater": "yelmo-meridiano",
+        "format": "2D ESPAÑOL"
+      },
+      {
+        "date": "2026-04-27",
+        "time": "20:25",
+        "theater": "xsur",
+        "format": "Español"
+      },
+      {
+        "date": "2026-04-27",
+        "time": "21:00",
         "theater": "multicines",
         "format": "Español"
       },
       {
-        "date": "2026-04-23",
+        "date": "2026-04-27",
+        "time": "22:35",
+        "theater": "yelmo-la-villa-de-orotava",
+        "format": "2D ESPAÑOL"
+      },
+      {
+        "date": "2026-04-28",
+        "time": "16:10",
+        "theater": "xsur",
+        "format": "Español"
+      },
+      {
+        "date": "2026-04-28",
+        "time": "16:30",
+        "theater": "multicines",
+        "format": "Español"
+      },
+      {
+        "date": "2026-04-28",
+        "time": "17:30",
+        "theater": "multicines",
+        "format": "Español"
+      },
+      {
+        "date": "2026-04-28",
+        "time": "18:00",
+        "theater": "xsur",
+        "format": "Español"
+      },
+      {
+        "date": "2026-04-28",
+        "time": "18:00",
+        "theater": "yelmo-meridiano",
+        "format": "2D ESPAÑOL"
+      },
+      {
+        "date": "2026-04-28",
+        "time": "18:05",
+        "theater": "yelmo-la-villa-de-orotava",
+        "format": "2D ESPAÑOL"
+      },
+      {
+        "date": "2026-04-28",
+        "time": "18:45",
+        "theater": "multicines",
+        "format": "Español"
+      },
+      {
+        "date": "2026-04-28",
+        "time": "20:15",
+        "theater": "yelmo-la-villa-de-orotava",
+        "format": "2D ESPAÑOL"
+      },
+      {
+        "date": "2026-04-28",
+        "time": "20:15",
+        "theater": "yelmo-meridiano",
+        "format": "2D ESPAÑOL"
+      },
+      {
+        "date": "2026-04-28",
+        "time": "20:25",
+        "theater": "xsur",
+        "format": "Español"
+      },
+      {
+        "date": "2026-04-28",
+        "time": "21:00",
+        "theater": "multicines",
+        "format": "Español"
+      },
+      {
+        "date": "2026-04-28",
+        "time": "22:35",
+        "theater": "yelmo-la-villa-de-orotava",
+        "format": "2D ESPAÑOL"
+      },
+      {
+        "date": "2026-04-29",
+        "time": "16:10",
+        "theater": "xsur",
+        "format": "Español"
+      },
+      {
+        "date": "2026-04-29",
+        "time": "16:30",
+        "theater": "multicines",
+        "format": "Español"
+      },
+      {
+        "date": "2026-04-29",
+        "time": "17:30",
+        "theater": "multicines",
+        "format": "Español"
+      },
+      {
+        "date": "2026-04-29",
+        "time": "18:00",
+        "theater": "xsur",
+        "format": "Español"
+      },
+      {
+        "date": "2026-04-29",
+        "time": "18:00",
+        "theater": "yelmo-meridiano",
+        "format": "2D ESPAÑOL"
+      },
+      {
+        "date": "2026-04-29",
+        "time": "18:05",
+        "theater": "yelmo-la-villa-de-orotava",
+        "format": "2D ESPAÑOL"
+      },
+      {
+        "date": "2026-04-29",
+        "time": "18:45",
+        "theater": "multicines",
+        "format": "Español"
+      },
+      {
+        "date": "2026-04-29",
+        "time": "19:00",
+        "theater": "zentralcenter",
+        "format": "SIN SUBTITULOS"
+      },
+      {
+        "date": "2026-04-29",
         "time": "20:00",
         "theater": "xsur",
         "format": "Español"
       },
       {
-        "date": "2026-04-23",
-        "time": "20:15",
-        "theater": "yelmo-la-villa-de-orotava",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-23",
-        "time": "20:15",
-        "theater": "yelmo-meridiano",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-23",
-        "time": "21:00",
-        "theater": "multicines",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-23",
-        "time": "22:00",
-        "theater": "multicines",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-23",
-        "time": "22:35",
-        "theater": "yelmo-la-villa-de-orotava",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-24",
-        "time": "16:15",
-        "theater": "xsur",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-24",
-        "time": "16:30",
-        "theater": "multicines",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-24",
-        "time": "17:30",
-        "theater": "multicines",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-24",
-        "time": "18:00",
-        "theater": "yelmo-meridiano",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-24",
-        "time": "18:05",
-        "theater": "xsur",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-24",
-        "time": "18:05",
-        "theater": "yelmo-la-villa-de-orotava",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-24",
-        "time": "18:45",
-        "theater": "multicines",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-24",
-        "time": "19:00",
-        "theater": "zentralcenter",
-        "format": "SIN SUBTITULOS"
-      },
-      {
-        "date": "2026-04-24",
-        "time": "20:00",
-        "theater": "xsur",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-24",
-        "time": "20:15",
-        "theater": "yelmo-la-villa-de-orotava",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-24",
-        "time": "20:15",
-        "theater": "yelmo-meridiano",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-24",
-        "time": "21:00",
-        "theater": "multicines",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-24",
-        "time": "22:35",
-        "theater": "yelmo-la-villa-de-orotava",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-25",
-        "time": "11:30",
-        "theater": "xsur",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-25",
-        "time": "12:15",
-        "theater": "multicines",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-25",
-        "time": "13:35",
-        "theater": "xsur",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-25",
-        "time": "15:30",
-        "theater": "xsur",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-25",
-        "time": "15:45",
-        "theater": "yelmo-meridiano",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-25",
-        "time": "15:50",
-        "theater": "yelmo-la-villa-de-orotava",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-25",
-        "time": "16:30",
-        "theater": "multicines",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-25",
-        "time": "17:30",
-        "theater": "multicines",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-25",
-        "time": "17:30",
-        "theater": "xsur",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-25",
-        "time": "17:55",
-        "theater": "yelmo-la-villa-de-orotava",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-25",
-        "time": "18:00",
-        "theater": "yelmo-meridiano",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-25",
-        "time": "18:45",
-        "theater": "multicines",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-25",
-        "time": "19:00",
-        "theater": "zentralcenter",
-        "format": "SIN SUBTITULOS"
-      },
-      {
-        "date": "2026-04-25",
-        "time": "19:35",
-        "theater": "xsur",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-25",
-        "time": "20:05",
-        "theater": "yelmo-la-villa-de-orotava",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-25",
-        "time": "20:15",
-        "theater": "yelmo-meridiano",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-25",
-        "time": "21:00",
-        "theater": "multicines",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-25",
-        "time": "22:30",
-        "theater": "yelmo-la-villa-de-orotava",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-26",
-        "time": "11:30",
-        "theater": "xsur",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-26",
-        "time": "12:15",
-        "theater": "multicines",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-26",
-        "time": "12:30",
-        "theater": "yelmo-meridiano",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-26",
-        "time": "13:35",
-        "theater": "xsur",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-26",
-        "time": "13:55",
-        "theater": "yelmo-meridiano",
-        "format": "3D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-26",
-        "time": "15:30",
-        "theater": "xsur",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-26",
-        "time": "15:45",
-        "theater": "yelmo-meridiano",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-26",
-        "time": "15:50",
-        "theater": "yelmo-la-villa-de-orotava",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-26",
-        "time": "16:30",
-        "theater": "multicines",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-26",
-        "time": "17:30",
-        "theater": "multicines",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-26",
-        "time": "17:30",
-        "theater": "xsur",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-26",
-        "time": "17:55",
-        "theater": "yelmo-la-villa-de-orotava",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-26",
-        "time": "18:00",
-        "theater": "yelmo-meridiano",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-26",
-        "time": "18:45",
-        "theater": "multicines",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-26",
-        "time": "19:00",
-        "theater": "zentralcenter",
-        "format": "SIN SUBTITULOS"
-      },
-      {
-        "date": "2026-04-26",
-        "time": "19:35",
-        "theater": "xsur",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-26",
-        "time": "20:05",
-        "theater": "yelmo-la-villa-de-orotava",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-26",
-        "time": "20:15",
-        "theater": "yelmo-meridiano",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-26",
-        "time": "21:00",
-        "theater": "multicines",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-26",
-        "time": "22:30",
-        "theater": "yelmo-la-villa-de-orotava",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-27",
-        "time": "16:30",
-        "theater": "multicines",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-27",
-        "time": "17:30",
-        "theater": "multicines",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-27",
-        "time": "18:00",
-        "theater": "yelmo-meridiano",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-27",
-        "time": "18:05",
-        "theater": "yelmo-la-villa-de-orotava",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-27",
-        "time": "18:45",
-        "theater": "multicines",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-27",
-        "time": "19:00",
-        "theater": "zentralcenter",
-        "format": "SIN SUBTITULOS"
-      },
-      {
-        "date": "2026-04-27",
-        "time": "20:15",
-        "theater": "yelmo-la-villa-de-orotava",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-27",
-        "time": "20:15",
-        "theater": "yelmo-meridiano",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-27",
-        "time": "21:00",
-        "theater": "multicines",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-27",
-        "time": "22:35",
-        "theater": "yelmo-la-villa-de-orotava",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-28",
-        "time": "16:30",
-        "theater": "multicines",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-28",
-        "time": "17:30",
-        "theater": "multicines",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-28",
-        "time": "18:00",
-        "theater": "yelmo-meridiano",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-28",
-        "time": "18:05",
-        "theater": "yelmo-la-villa-de-orotava",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-28",
-        "time": "18:45",
-        "theater": "multicines",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-28",
-        "time": "20:15",
-        "theater": "yelmo-la-villa-de-orotava",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-28",
-        "time": "20:15",
-        "theater": "yelmo-meridiano",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-28",
-        "time": "21:00",
-        "theater": "multicines",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-28",
-        "time": "22:35",
-        "theater": "yelmo-la-villa-de-orotava",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-29",
-        "time": "16:30",
-        "theater": "multicines",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-29",
-        "time": "17:30",
-        "theater": "multicines",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-29",
-        "time": "18:00",
-        "theater": "yelmo-meridiano",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-29",
-        "time": "18:05",
-        "theater": "yelmo-la-villa-de-orotava",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-29",
-        "time": "18:45",
-        "theater": "multicines",
-        "format": "Español"
-      },
-      {
         "date": "2026-04-29",
         "time": "20:15",
         "theater": "yelmo-la-villa-de-orotava",
@@ -5791,6 +3371,12 @@
       },
       {
         "date": "2026-04-30",
+        "time": "16:10",
+        "theater": "xsur",
+        "format": "Español"
+      },
+      {
+        "date": "2026-04-30",
         "time": "16:30",
         "theater": "multicines",
         "format": "Español"
@@ -5803,8 +3389,26 @@
       },
       {
         "date": "2026-04-30",
+        "time": "18:30",
+        "theater": "xsur",
+        "format": "Español"
+      },
+      {
+        "date": "2026-04-30",
         "time": "18:45",
         "theater": "multicines",
+        "format": "Español"
+      },
+      {
+        "date": "2026-04-30",
+        "time": "18:55",
+        "theater": "zentralcenter",
+        "format": "SIN SUBTITULOS"
+      },
+      {
+        "date": "2026-04-30",
+        "time": "20:10",
+        "theater": "xsur",
         "format": "Español"
       },
       {
@@ -5812,6 +3416,30 @@
         "time": "21:00",
         "theater": "multicines",
         "format": "Español"
+      },
+      {
+        "date": "2026-05-01",
+        "time": "18:55",
+        "theater": "zentralcenter",
+        "format": "SIN SUBTITULOS"
+      },
+      {
+        "date": "2026-05-02",
+        "time": "18:55",
+        "theater": "zentralcenter",
+        "format": "SIN SUBTITULOS"
+      },
+      {
+        "date": "2026-05-03",
+        "time": "18:55",
+        "theater": "zentralcenter",
+        "format": "SIN SUBTITULOS"
+      },
+      {
+        "date": "2026-05-04",
+        "time": "18:55",
+        "theater": "zentralcenter",
+        "format": "SIN SUBTITULOS"
       }
     ],
     "actors": [
@@ -5842,35 +3470,23 @@
     "url": "https://multicinestenerife.com/pelicula/super-mario-galaxy-la-pelicula/",
     "all_urls": {
       "multicines": "https://multicinestenerife.com/pelicula/super-mario-galaxy-la-pelicula/",
-      "xsur": "https://x-surcine.com/peliculas/super-mario-galaxy-la-pelicula/",
+      "xsur": "https://x-surcine.com/peliculas/super-mario-galaxy-la-pelicula-2/",
       "yelmo-la-villa-de-orotava": "https://www.yelmocines.es/sinopsis/super-mario-galaxy-la-pelicula",
-      "zentralcenter": "https://kinetike.com:83/views/peliculas.aspx?s=INTERNET5hbsbthns950"
+      "zentralcenter": "https://kinetike.com:83/views/peliculas.aspx?s=INTERNETm4qm3blpd472"
     },
     "cover_url": "https://multicinestenerife.com/wp-content/uploads/2026/03/1773073094-204x350_c.jpg"
   },
   {
-    "title": "THE SUPER MARIO GALAXY MOVIE",
-    "length": "100 minutos",
-    "age": "7",
+    "title": "THE DEVIL WEARS PRADA 2",
+    "length": "",
+    "age": "0",
     "theaters": [
       "xsur"
     ],
     "showings": [
       {
-        "date": "2026-04-24",
-        "time": "16:10",
-        "theater": "xsur",
-        "format": "VOSE"
-      },
-      {
-        "date": "2026-04-25",
-        "time": "12:00",
-        "theater": "xsur",
-        "format": "VOSE"
-      },
-      {
-        "date": "2026-04-26",
-        "time": "12:00",
+        "date": "2026-04-30",
+        "time": "18:15",
         "theater": "xsur",
         "format": "VOSE"
       }
@@ -5878,11 +3494,140 @@
     "actors": null,
     "directors": null,
     "genres": null,
-    "synopsis": "La película tiene lugar después de los acontecimientos de la primera, en la que dos hermanos, Mario y Luigi, y la princesa Peach emprenden una aventura hasta los confines del espacio y a través de la galaxia. Secuela de Super Mario Bros: La película, basada en la saga Mario Galaxy.",
+    "synopsis": "Sigue la lucha de Miranda Priestly contra Emily Charlton, su ex asistente convertida en ejecutiva rival, mientras compiten por los ingresos por publicidad en medio de la decadencia de los medios impresos y Miranda se acerca a la jubilación.",
     "all_synopsis": null,
-    "url": "https://x-surcine.com/peliculas/the-super-mario-galaxy-movie-english-version-3/",
+    "url": "https://x-surcine.com/peliculas/the-devil-wears-prada-2-english-version/",
     "all_urls": null,
-    "cover_url": "https://x-surcine.com/wp-content/uploads/2026/04/JPg000v7-11.jpg"
+    "cover_url": "https://x-surcine.com/wp-content/uploads/2026/04/JPg000vo-800x1176.jpg"
+  },
+  {
+    "title": "THE MANDALORIAN AND GROGU",
+    "length": "131 min.",
+    "age": "0",
+    "theaters": [],
+    "showings": [],
+    "actors": null,
+    "directors": null,
+    "genres": null,
+    "synopsis": null,
+    "all_synopsis": null,
+    "url": "https://kinetike.com:83/views/peliculas.aspx?s=INTERNETm4qm3blpd472",
+    "all_urls": null,
+    "cover_url": null
+  },
+  {
+    "title": "THE STRANGERS  CHAPTER 3 - STRANGERS CAPÍTULO FINAL",
+    "length": "91 min.",
+    "age": "16",
+    "theaters": [
+      "zentralcenter"
+    ],
+    "showings": [
+      {
+        "date": "2026-04-30",
+        "time": "17:00",
+        "theater": "zentralcenter",
+        "format": "SIN SUBTITULOS"
+      },
+      {
+        "date": "2026-04-30",
+        "time": "19:00",
+        "theater": "zentralcenter",
+        "format": "SIN SUBTITULOS"
+      },
+      {
+        "date": "2026-04-30",
+        "time": "21:00",
+        "theater": "zentralcenter",
+        "format": "SIN SUBTITULOS"
+      },
+      {
+        "date": "2026-05-01",
+        "time": "17:00",
+        "theater": "zentralcenter",
+        "format": "SIN SUBTITULOS"
+      },
+      {
+        "date": "2026-05-01",
+        "time": "19:00",
+        "theater": "zentralcenter",
+        "format": "SIN SUBTITULOS"
+      },
+      {
+        "date": "2026-05-01",
+        "time": "21:00",
+        "theater": "zentralcenter",
+        "format": "SIN SUBTITULOS"
+      },
+      {
+        "date": "2026-05-02",
+        "time": "17:00",
+        "theater": "zentralcenter",
+        "format": "SIN SUBTITULOS"
+      },
+      {
+        "date": "2026-05-02",
+        "time": "19:00",
+        "theater": "zentralcenter",
+        "format": "SIN SUBTITULOS"
+      },
+      {
+        "date": "2026-05-02",
+        "time": "21:00",
+        "theater": "zentralcenter",
+        "format": "SIN SUBTITULOS"
+      },
+      {
+        "date": "2026-05-03",
+        "time": "12:00",
+        "theater": "zentralcenter",
+        "format": "SIN SUBTITULOS"
+      },
+      {
+        "date": "2026-05-03",
+        "time": "17:00",
+        "theater": "zentralcenter",
+        "format": "SIN SUBTITULOS"
+      },
+      {
+        "date": "2026-05-03",
+        "time": "19:00",
+        "theater": "zentralcenter",
+        "format": "SIN SUBTITULOS"
+      },
+      {
+        "date": "2026-05-03",
+        "time": "21:00",
+        "theater": "zentralcenter",
+        "format": "SIN SUBTITULOS"
+      },
+      {
+        "date": "2026-05-04",
+        "time": "17:00",
+        "theater": "zentralcenter",
+        "format": "SIN SUBTITULOS"
+      },
+      {
+        "date": "2026-05-04",
+        "time": "19:00",
+        "theater": "zentralcenter",
+        "format": "SIN SUBTITULOS"
+      },
+      {
+        "date": "2026-05-04",
+        "time": "21:00",
+        "theater": "zentralcenter",
+        "format": "SIN SUBTITULOS"
+      }
+    ],
+    "actors": null,
+    "directors": null,
+    "genres": null,
+    "synopsis": null,
+    "all_synopsis": null,
+    "url": "https://kinetike.com:83/views/peliculas.aspx?s=INTERNETm4qm3blpd472",
+    "all_urls": null,
+    "cover_url": null
   },
   {
     "title": "Torrente Presidente",
@@ -5892,476 +3637,229 @@
       "multicines",
       "xsur",
       "yelmo-la-villa-de-orotava",
-      "yelmo-meridiano",
-      "zentralcenter"
+      "yelmo-meridiano"
     ],
     "showings": [
       {
-        "date": "2026-04-23",
-        "time": "16:10",
+        "date": "2026-04-27",
+        "time": "16:45",
         "theater": "xsur",
         "format": "Español"
       },
       {
-        "date": "2026-04-23",
+        "date": "2026-04-27",
         "time": "17:00",
         "theater": "multicines",
         "format": "Español"
       },
       {
-        "date": "2026-04-23",
+        "date": "2026-04-27",
         "time": "18:05",
         "theater": "yelmo-meridiano",
         "format": "2D ESPAÑOL"
       },
       {
-        "date": "2026-04-23",
+        "date": "2026-04-27",
         "time": "18:15",
         "theater": "yelmo-la-villa-de-orotava",
         "format": "2D ESPAÑOL"
       },
       {
-        "date": "2026-04-23",
-        "time": "18:50",
-        "theater": "zentralcenter",
-        "format": "SIN SUBTITULOS"
-      },
-      {
-        "date": "2026-04-23",
+        "date": "2026-04-27",
         "time": "19:30",
         "theater": "multicines",
         "format": "Español"
       },
       {
-        "date": "2026-04-23",
+        "date": "2026-04-27",
         "time": "20:15",
         "theater": "yelmo-meridiano",
         "format": "2D ESPAÑOL"
       },
       {
-        "date": "2026-04-23",
+        "date": "2026-04-27",
         "time": "20:25",
         "theater": "yelmo-la-villa-de-orotava",
         "format": "2D ESPAÑOL"
       },
       {
-        "date": "2026-04-23",
-        "time": "20:40",
-        "theater": "xsur",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-23",
+        "date": "2026-04-27",
         "time": "22:00",
         "theater": "multicines",
         "format": "Español"
       },
       {
-        "date": "2026-04-23",
+        "date": "2026-04-27",
+        "time": "22:25",
+        "theater": "xsur",
+        "format": "Español"
+      },
+      {
+        "date": "2026-04-27",
         "time": "22:30",
         "theater": "yelmo-meridiano",
         "format": "2D ESPAÑOL"
       },
       {
-        "date": "2026-04-23",
+        "date": "2026-04-27",
         "time": "22:40",
         "theater": "yelmo-la-villa-de-orotava",
         "format": "2D ESPAÑOL"
       },
       {
-        "date": "2026-04-24",
-        "time": "16:30",
+        "date": "2026-04-28",
+        "time": "16:45",
         "theater": "xsur",
         "format": "Español"
       },
       {
-        "date": "2026-04-24",
+        "date": "2026-04-28",
         "time": "17:00",
         "theater": "multicines",
         "format": "Español"
       },
       {
-        "date": "2026-04-24",
-        "time": "17:50",
+        "date": "2026-04-28",
+        "time": "18:05",
         "theater": "yelmo-meridiano",
         "format": "2D ESPAÑOL"
       },
       {
-        "date": "2026-04-24",
+        "date": "2026-04-28",
         "time": "18:15",
         "theater": "yelmo-la-villa-de-orotava",
         "format": "2D ESPAÑOL"
       },
       {
-        "date": "2026-04-24",
+        "date": "2026-04-28",
         "time": "19:30",
         "theater": "multicines",
         "format": "Español"
       },
       {
-        "date": "2026-04-24",
+        "date": "2026-04-28",
+        "time": "20:15",
+        "theater": "yelmo-meridiano",
+        "format": "2D ESPAÑOL"
+      },
+      {
+        "date": "2026-04-28",
         "time": "20:25",
         "theater": "yelmo-la-villa-de-orotava",
         "format": "2D ESPAÑOL"
       },
       {
-        "date": "2026-04-24",
+        "date": "2026-04-28",
         "time": "22:00",
         "theater": "multicines",
         "format": "Español"
       },
       {
-        "date": "2026-04-24",
-        "time": "22:15",
+        "date": "2026-04-28",
+        "time": "22:25",
         "theater": "xsur",
         "format": "Español"
       },
       {
-        "date": "2026-04-24",
+        "date": "2026-04-28",
+        "time": "22:30",
+        "theater": "yelmo-meridiano",
+        "format": "2D ESPAÑOL"
+      },
+      {
+        "date": "2026-04-28",
         "time": "22:40",
         "theater": "yelmo-la-villa-de-orotava",
         "format": "2D ESPAÑOL"
       },
       {
-        "date": "2026-04-24",
+        "date": "2026-04-29",
+        "time": "17:00",
+        "theater": "multicines",
+        "format": "Español"
+      },
+      {
+        "date": "2026-04-29",
+        "time": "18:05",
+        "theater": "yelmo-meridiano",
+        "format": "2D ESPAÑOL"
+      },
+      {
+        "date": "2026-04-29",
+        "time": "18:15",
+        "theater": "yelmo-la-villa-de-orotava",
+        "format": "2D ESPAÑOL"
+      },
+      {
+        "date": "2026-04-29",
+        "time": "19:30",
+        "theater": "multicines",
+        "format": "Español"
+      },
+      {
+        "date": "2026-04-29",
+        "time": "20:15",
+        "theater": "yelmo-meridiano",
+        "format": "2D ESPAÑOL"
+      },
+      {
+        "date": "2026-04-29",
+        "time": "20:25",
+        "theater": "yelmo-la-villa-de-orotava",
+        "format": "2D ESPAÑOL"
+      },
+      {
+        "date": "2026-04-29",
+        "time": "20:45",
+        "theater": "xsur",
+        "format": "Español"
+      },
+      {
+        "date": "2026-04-29",
+        "time": "22:00",
+        "theater": "multicines",
+        "format": "Español"
+      },
+      {
+        "date": "2026-04-29",
+        "time": "22:30",
+        "theater": "yelmo-meridiano",
+        "format": "2D ESPAÑOL"
+      },
+      {
+        "date": "2026-04-29",
+        "time": "22:40",
+        "theater": "xsur",
+        "format": "Español"
+      },
+      {
+        "date": "2026-04-29",
+        "time": "22:40",
+        "theater": "yelmo-la-villa-de-orotava",
+        "format": "2D ESPAÑOL"
+      },
+      {
+        "date": "2026-04-30",
+        "time": "17:00",
+        "theater": "multicines",
+        "format": "Español"
+      },
+      {
+        "date": "2026-04-30",
+        "time": "19:30",
+        "theater": "multicines",
+        "format": "Español"
+      },
+      {
+        "date": "2026-04-30",
+        "time": "22:00",
+        "theater": "multicines",
+        "format": "Español"
+      },
+      {
+        "date": "2026-04-30",
         "time": "22:45",
-        "theater": "yelmo-meridiano",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-25",
-        "time": "12:15",
-        "theater": "multicines",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-25",
-        "time": "14:15",
         "theater": "xsur",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-25",
-        "time": "15:55",
-        "theater": "yelmo-meridiano",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-25",
-        "time": "17:00",
-        "theater": "multicines",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-25",
-        "time": "18:05",
-        "theater": "yelmo-meridiano",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-25",
-        "time": "18:15",
-        "theater": "yelmo-la-villa-de-orotava",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-25",
-        "time": "19:30",
-        "theater": "multicines",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-25",
-        "time": "20:15",
-        "theater": "yelmo-meridiano",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-25",
-        "time": "20:25",
-        "theater": "yelmo-la-villa-de-orotava",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-25",
-        "time": "22:00",
-        "theater": "multicines",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-25",
-        "time": "22:30",
-        "theater": "yelmo-meridiano",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-25",
-        "time": "22:40",
-        "theater": "yelmo-la-villa-de-orotava",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-25",
-        "time": "22:45",
-        "theater": "xsur",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-26",
-        "time": "12:15",
-        "theater": "multicines",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-26",
-        "time": "14:00",
-        "theater": "xsur",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-26",
-        "time": "15:55",
-        "theater": "yelmo-meridiano",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-26",
-        "time": "17:00",
-        "theater": "multicines",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-26",
-        "time": "18:05",
-        "theater": "yelmo-meridiano",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-26",
-        "time": "18:15",
-        "theater": "yelmo-la-villa-de-orotava",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-26",
-        "time": "18:40",
-        "theater": "xsur",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-26",
-        "time": "19:30",
-        "theater": "multicines",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-26",
-        "time": "20:15",
-        "theater": "yelmo-meridiano",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-26",
-        "time": "20:25",
-        "theater": "yelmo-la-villa-de-orotava",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-26",
-        "time": "22:00",
-        "theater": "multicines",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-26",
-        "time": "22:30",
-        "theater": "yelmo-meridiano",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-26",
-        "time": "22:40",
-        "theater": "yelmo-la-villa-de-orotava",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-27",
-        "time": "17:00",
-        "theater": "multicines",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-27",
-        "time": "18:05",
-        "theater": "yelmo-meridiano",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-27",
-        "time": "18:15",
-        "theater": "yelmo-la-villa-de-orotava",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-27",
-        "time": "19:30",
-        "theater": "multicines",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-27",
-        "time": "20:15",
-        "theater": "yelmo-meridiano",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-27",
-        "time": "20:25",
-        "theater": "yelmo-la-villa-de-orotava",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-27",
-        "time": "22:00",
-        "theater": "multicines",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-27",
-        "time": "22:30",
-        "theater": "yelmo-meridiano",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-27",
-        "time": "22:40",
-        "theater": "yelmo-la-villa-de-orotava",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-28",
-        "time": "17:00",
-        "theater": "multicines",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-28",
-        "time": "18:05",
-        "theater": "yelmo-meridiano",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-28",
-        "time": "18:15",
-        "theater": "yelmo-la-villa-de-orotava",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-28",
-        "time": "19:30",
-        "theater": "multicines",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-28",
-        "time": "20:15",
-        "theater": "yelmo-meridiano",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-28",
-        "time": "20:25",
-        "theater": "yelmo-la-villa-de-orotava",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-28",
-        "time": "22:00",
-        "theater": "multicines",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-28",
-        "time": "22:30",
-        "theater": "yelmo-meridiano",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-28",
-        "time": "22:40",
-        "theater": "yelmo-la-villa-de-orotava",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-29",
-        "time": "17:00",
-        "theater": "multicines",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-29",
-        "time": "18:05",
-        "theater": "yelmo-meridiano",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-29",
-        "time": "18:15",
-        "theater": "yelmo-la-villa-de-orotava",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-29",
-        "time": "19:30",
-        "theater": "multicines",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-29",
-        "time": "20:15",
-        "theater": "yelmo-meridiano",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-29",
-        "time": "20:25",
-        "theater": "yelmo-la-villa-de-orotava",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-29",
-        "time": "22:00",
-        "theater": "multicines",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-29",
-        "time": "22:30",
-        "theater": "yelmo-meridiano",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-29",
-        "time": "22:40",
-        "theater": "yelmo-la-villa-de-orotava",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-30",
-        "time": "17:00",
-        "theater": "multicines",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-30",
-        "time": "19:30",
-        "theater": "multicines",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-30",
-        "time": "22:00",
-        "theater": "multicines",
         "format": "Español"
       }
     ],
@@ -6388,8 +3886,7 @@
     "all_urls": {
       "multicines": "https://multicinestenerife.com/pelicula/torrente-presidente/",
       "xsur": "https://x-surcine.com/peliculas/torrente-presidente/",
-      "yelmo-la-villa-de-orotava": "https://www.yelmocines.es/sinopsis/torrente-presidente",
-      "zentralcenter": "https://kinetike.com:83/views/peliculas.aspx?s=INTERNET5hbsbthns950"
+      "yelmo-la-villa-de-orotava": "https://www.yelmocines.es/sinopsis/torrente-presidente"
     },
     "cover_url": "https://multicinestenerife.com/wp-content/uploads/2026/03/photo_2026-03-17-20.19.38-204x350_c.jpeg"
   },
@@ -6405,213 +3902,111 @@
     ],
     "showings": [
       {
-        "date": "2026-04-23",
+        "date": "2026-04-27",
         "time": "18:05",
         "theater": "yelmo-la-villa-de-orotava",
         "format": "2D ESPAÑOL"
       },
       {
-        "date": "2026-04-23",
-        "time": "18:15",
+        "date": "2026-04-27",
+        "time": "18:35",
         "theater": "xsur",
         "format": "Español"
       },
       {
-        "date": "2026-04-23",
+        "date": "2026-04-27",
         "time": "19:15",
         "theater": "multicines",
         "format": "Español"
       },
       {
-        "date": "2026-04-23",
-        "time": "20:05",
-        "theater": "xsur",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-23",
+        "date": "2026-04-27",
         "time": "21:45",
         "theater": "multicines",
         "format": "Español"
       },
       {
-        "date": "2026-04-23",
-        "time": "22:50",
-        "theater": "xsur",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-24",
-        "time": "18:05",
-        "theater": "yelmo-la-villa-de-orotava",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-24",
-        "time": "18:20",
-        "theater": "xsur",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-24",
-        "time": "19:15",
-        "theater": "multicines",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-24",
-        "time": "20:10",
-        "theater": "xsur",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-24",
-        "time": "21:45",
-        "theater": "multicines",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-24",
-        "time": "22:50",
-        "theater": "xsur",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-25",
-        "time": "16:00",
-        "theater": "yelmo-la-villa-de-orotava",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-25",
-        "time": "16:50",
-        "theater": "xsur",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-25",
-        "time": "18:05",
-        "theater": "yelmo-la-villa-de-orotava",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-25",
-        "time": "19:15",
-        "theater": "multicines",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-25",
-        "time": "20:40",
-        "theater": "xsur",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-25",
-        "time": "21:45",
-        "theater": "multicines",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-25",
+        "date": "2026-04-27",
         "time": "22:35",
         "theater": "xsur",
         "format": "Español"
       },
       {
-        "date": "2026-04-26",
-        "time": "12:00",
+        "date": "2026-04-28",
+        "time": "18:05",
+        "theater": "yelmo-la-villa-de-orotava",
+        "format": "2D ESPAÑOL"
+      },
+      {
+        "date": "2026-04-28",
+        "time": "18:35",
+        "theater": "xsur",
+        "format": "Español"
+      },
+      {
+        "date": "2026-04-28",
+        "time": "19:15",
+        "theater": "multicines",
+        "format": "Español"
+      },
+      {
+        "date": "2026-04-28",
+        "time": "21:45",
+        "theater": "multicines",
+        "format": "Español"
+      },
+      {
+        "date": "2026-04-28",
+        "time": "22:40",
+        "theater": "xsur",
+        "format": "Español"
+      },
+      {
+        "date": "2026-04-29",
+        "time": "16:15",
+        "theater": "xsur",
+        "format": "Español"
+      },
+      {
+        "date": "2026-04-29",
+        "time": "16:30",
         "theater": "zentralcenter",
         "format": "SIN SUBTITULOS"
-      },
-      {
-        "date": "2026-04-26",
-        "time": "16:00",
-        "theater": "yelmo-la-villa-de-orotava",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-26",
-        "time": "16:50",
-        "theater": "xsur",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-26",
-        "time": "18:05",
-        "theater": "yelmo-la-villa-de-orotava",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-26",
-        "time": "19:15",
-        "theater": "multicines",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-26",
-        "time": "20:40",
-        "theater": "xsur",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-26",
-        "time": "21:45",
-        "theater": "multicines",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-26",
-        "time": "22:35",
-        "theater": "xsur",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-27",
-        "time": "18:05",
-        "theater": "yelmo-la-villa-de-orotava",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-27",
-        "time": "19:15",
-        "theater": "multicines",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-27",
-        "time": "21:45",
-        "theater": "multicines",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-28",
-        "time": "18:05",
-        "theater": "yelmo-la-villa-de-orotava",
-        "format": "2D ESPAÑOL"
-      },
-      {
-        "date": "2026-04-28",
-        "time": "19:15",
-        "theater": "multicines",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-28",
-        "time": "21:45",
-        "theater": "multicines",
-        "format": "Español"
       },
       {
         "date": "2026-04-29",
         "time": "18:05",
         "theater": "yelmo-la-villa-de-orotava",
         "format": "2D ESPAÑOL"
+      },
+      {
+        "date": "2026-04-29",
+        "time": "18:45",
+        "theater": "zentralcenter",
+        "format": "SIN SUBTITULOS"
+      },
+      {
+        "date": "2026-04-29",
+        "time": "21:00",
+        "theater": "zentralcenter",
+        "format": "SIN SUBTITULOS"
       },
       {
         "date": "2026-04-29",
         "time": "22:15",
         "theater": "multicines",
+        "format": "Español"
+      },
+      {
+        "date": "2026-04-29",
+        "time": "22:35",
+        "theater": "xsur",
+        "format": "Español"
+      },
+      {
+        "date": "2026-04-30",
+        "time": "20:55",
+        "theater": "xsur",
         "format": "Español"
       }
     ],
@@ -6640,7 +4035,7 @@
       "multicines": "https://multicinestenerife.com/pelicula/turno-de-noche/",
       "xsur": "https://x-surcine.com/peliculas/turno-de-noche/",
       "yelmo-la-villa-de-orotava": "https://www.yelmocines.es/sinopsis/turno-de-noche",
-      "zentralcenter": "https://kinetike.com:83/views/peliculas.aspx?s=INTERNET5hbsbthns950"
+      "zentralcenter": "https://kinetike.com:83/views/peliculas.aspx?s=INTERNETm4qm3blpd472"
     },
     "cover_url": "https://multicinestenerife.com/wp-content/uploads/2026/04/1776269455-204x350_c.jpg"
   },
@@ -6652,24 +4047,6 @@
       "multicines"
     ],
     "showings": [
-      {
-        "date": "2026-04-24",
-        "time": "16:45",
-        "theater": "multicines",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-25",
-        "time": "16:45",
-        "theater": "multicines",
-        "format": "Español"
-      },
-      {
-        "date": "2026-04-26",
-        "time": "16:45",
-        "theater": "multicines",
-        "format": "Español"
-      },
       {
         "date": "2026-04-27",
         "time": "16:45",

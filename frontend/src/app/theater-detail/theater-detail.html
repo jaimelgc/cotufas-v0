@@ -18,7 +18,7 @@
       @for (item of movieShowings(); track item.movie.id) {
         <div class="screening-row">
           <a [routerLink]="['/movies', item.movie.id]" class="screening-poster-link">
-            <img [src]="item.movie.title" [alt]="item.movie.title" class="screening-poster" />
+            <img [src]="item.movie.cover_url" [alt]="item.movie.title" class="screening-poster" />
           </a>
           <div class="screening-info">
             <a [routerLink]="['/movies', item.movie.id]" class="screening-title">

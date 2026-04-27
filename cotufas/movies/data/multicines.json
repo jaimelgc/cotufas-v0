@@ -1,94 +1,11 @@
 [
   {
-    "title": "Como cabras",
-    "length": "01 horas 39 minutos",
-    "age": "0",
-    "theater": "multicines",
-    "format": "Español",
-    "showings": {
-      "2026-04-23": [
-        {
-          "time": "17:00"
-        }
-      ],
-      "2026-04-25": [
-        {
-          "time": "19:45"
-        }
-      ],
-      "2026-04-26": [
-        {
-          "time": "19:45"
-        }
-      ],
-      "2026-04-27": [
-        {
-          "time": "19:45"
-        }
-      ],
-      "2026-04-28": [
-        {
-          "time": "19:45"
-        }
-      ],
-      "2026-04-29": [
-        {
-          "time": "19:45"
-        }
-      ]
-    },
-    "actors": [
-      "Caleb McLaughlin",
-      "Gabrielle Union",
-      "Nick Kroll"
-    ],
-    "directors": [
-      "Tyree Dillihay",
-      "Adam Rosette"
-    ],
-    "genres": [
-      "Adventure",
-      "Animation",
-      "En cartelera",
-      "Action"
-    ],
-    "synopsis": "Will es una pequeña cabra con grandes sueños que recibe una oportunidad única en la vida para unirse a los profesionales y jugar al rugebol, un deporte de alta intensidad, mixto y de contacto total dominado por los animales más rápidos y feroces del mundo. A los nuevos compañeros de equipo de Will no les entusiasma tener a una cabrita en su plantilla, pero Will está decidido a revolucionar el deporte y demostrar de una vez por todas que «¡los pequeños saben jugar!»",
-    "url": "https://multicinestenerife.com/pelicula/como-cabras/",
-    "cover_url": "https://multicinestenerife.com/wp-content/uploads/2026/02/unnamed-7-204x350_c.jpg"
-  },
-  {
     "title": "Hoppers",
     "length": "01 horas 45 minutos",
     "age": "0",
     "theater": "multicines",
     "format": "Español",
     "showings": {
-      "2026-04-23": [
-        {
-          "time": "17:00"
-        }
-      ],
-      "2026-04-24": [
-        {
-          "time": "17:00"
-        }
-      ],
-      "2026-04-25": [
-        {
-          "time": "12:15"
-        },
-        {
-          "time": "17:00"
-        }
-      ],
-      "2026-04-26": [
-        {
-          "time": "12:15"
-        },
-        {
-          "time": "17:00"
-        }
-      ],
       "2026-04-27": [
         {
           "time": "17:00"
@@ -136,56 +53,6 @@
     "theater": "multicines",
     "format": "Español",
     "showings": {
-      "2026-04-23": [
-        {
-          "time": "17:00"
-        },
-        {
-          "time": "19:30"
-        },
-        {
-          "time": "22:00"
-        }
-      ],
-      "2026-04-24": [
-        {
-          "time": "17:00"
-        },
-        {
-          "time": "19:30"
-        },
-        {
-          "time": "22:00"
-        }
-      ],
-      "2026-04-25": [
-        {
-          "time": "12:15"
-        },
-        {
-          "time": "17:00"
-        },
-        {
-          "time": "19:30"
-        },
-        {
-          "time": "22:00"
-        }
-      ],
-      "2026-04-26": [
-        {
-          "time": "12:15"
-        },
-        {
-          "time": "17:00"
-        },
-        {
-          "time": "19:30"
-        },
-        {
-          "time": "22:00"
-        }
-      ],
       "2026-04-27": [
         {
           "time": "17:00"
@@ -253,44 +120,6 @@
     "theater": "multicines",
     "format": "Español",
     "showings": {
-      "2026-04-23": [
-        {
-          "time": "17:45"
-        },
-        {
-          "time": "21:00"
-        }
-      ],
-      "2026-04-24": [
-        {
-          "time": "17:45"
-        },
-        {
-          "time": "21:00"
-        }
-      ],
-      "2026-04-25": [
-        {
-          "time": "12:15"
-        },
-        {
-          "time": "17:45"
-        },
-        {
-          "time": "21:00"
-        }
-      ],
-      "2026-04-26": [
-        {
-          "time": "12:15"
-        },
-        {
-          "time": "17:45"
-        },
-        {
-          "time": "21:00"
-        }
-      ],
       "2026-04-27": [
         {
           "time": "17:45"
@@ -352,71 +181,6 @@
     "theater": "multicines",
     "format": "Español",
     "showings": {
-      "2026-04-23": [
-        {
-          "time": "16:30"
-        },
-        {
-          "time": "18:45"
-        },
-        {
-          "time": "19:45"
-        },
-        {
-          "time": "21:00"
-        },
-        {
-          "time": "22:00"
-        }
-      ],
-      "2026-04-24": [
-        {
-          "time": "16:30"
-        },
-        {
-          "time": "17:30"
-        },
-        {
-          "time": "18:45"
-        },
-        {
-          "time": "21:00"
-        }
-      ],
-      "2026-04-25": [
-        {
-          "time": "12:15"
-        },
-        {
-          "time": "16:30"
-        },
-        {
-          "time": "17:30"
-        },
-        {
-          "time": "18:45"
-        },
-        {
-          "time": "21:00"
-        }
-      ],
-      "2026-04-26": [
-        {
-          "time": "12:15"
-        },
-        {
-          "time": "16:30"
-        },
-        {
-          "time": "17:30"
-        },
-        {
-          "time": "18:45"
-        },
-        {
-          "time": "21:00"
-        }
-      ],
       "2026-04-27": [
         {
           "time": "16:30"
@@ -498,57 +262,12 @@
     "cover_url": "https://multicinestenerife.com/wp-content/uploads/2026/03/1773073094-204x350_c.jpg"
   },
   {
-    "title": "No te olvidaré",
-    "length": "01 horas 54 minutos",
-    "age": "12",
-    "theater": "multicines",
-    "format": "Español",
-    "showings": {
-      "2026-04-23": [
-        {
-          "time": "22:30"
-        }
-      ]
-    },
-    "actors": [
-      "Maika Monroe",
-      "Jennifer Robertson",
-      "Bradley Whitford"
-    ],
-    "directors": [
-      "Vanessa Caswill"
-    ],
-    "genres": [
-      "Drama",
-      "Romance",
-      "En cartelera"
-    ],
-    "synopsis": "Tras salir de la cárcel, Kenna intenta volver a conectar con su hija pequeña, pero se enfrenta a la resistencia de todo el mundo, excepto del dueño de un bar que tiene vínculos con su hija. A medida que se acercan, Kenna debe enfrentarse a sus errores del pasado para construir un futuro esperanzador… Adaptación del libro de Colleen Hoover, autora de Romper el círculo.",
-    "url": "https://multicinestenerife.com/pelicula/reminders-of-him/",
-    "cover_url": "https://multicinestenerife.com/wp-content/uploads/2026/04/unnamed-7-204x350_c.jpg"
-  },
-  {
     "title": "Incontrolable (I Swear) – VOSE",
     "length": "02 horas 00 minutos",
     "age": "12",
     "theater": "multicines",
     "format": "Español",
     "showings": {
-      "2026-04-24": [
-        {
-          "time": "21:40"
-        }
-      ],
-      "2026-04-25": [
-        {
-          "time": "21:40"
-        }
-      ],
-      "2026-04-26": [
-        {
-          "time": "21:40"
-        }
-      ],
       "2026-04-27": [
         {
           "time": "21:40"
@@ -597,26 +316,6 @@
     "theater": "multicines",
     "format": "Español",
     "showings": {
-      "2026-04-23": [
-        {
-          "time": "19:20"
-        }
-      ],
-      "2026-04-24": [
-        {
-          "time": "19:20"
-        }
-      ],
-      "2026-04-25": [
-        {
-          "time": "19:20"
-        }
-      ],
-      "2026-04-26": [
-        {
-          "time": "19:20"
-        }
-      ],
       "2026-04-27": [
         {
           "time": "19:20"
@@ -658,115 +357,12 @@
     "cover_url": "https://multicinestenerife.com/wp-content/uploads/2026/04/unnamed-2-204x350_c.jpg"
   },
   {
-    "title": "Boulevard",
-    "length": "01 horas 39 minutos",
-    "age": "0",
-    "theater": "multicines",
-    "format": "Español",
-    "showings": {
-      "2026-04-23": [
-        {
-          "time": "16:30"
-        }
-      ]
-    },
-    "actors": [
-      "Luis Zahera",
-      "Eve Ryan",
-      "Pepe Barroso"
-    ],
-    "directors": [
-      "Sonia Méndez"
-    ],
-    "genres": [
-      "Drama",
-      "En cartelera"
-    ],
-    "synopsis": "Cuando Hasley (Eve Ryan) se muda a una nueva ciudad con su madre, lo último que espera es cruzarse con Luke (Mikel Niso), un joven envuelto en un aura peligrosa y un pasado trágico. Atrapado en sus propios demonios, Luke es todo lo que Hasley debería temer… pero a lo que se siente irremediablemente atraída. A pesar de las sombras que lo rodean, Hasley descubre en Luke una vulnerabilidad y un mundo interior apasionante. Juntos, crearán su propio boulevard: un refugio escondido donde poder ser ellos mismos, cumplir sueños imposibles, atreverse a amar a pesar de los prejuicios, el dolor y las cicatrices que arrastran, y demostrar que el amor es capaz de florecer incluso en los corazones más insospechados.",
-    "url": "https://multicinestenerife.com/pelicula/boulevard/",
-    "cover_url": "https://multicinestenerife.com/wp-content/uploads/2026/04/unnamed-1-204x350_c.jpg"
-  },
-  {
-    "title": "La partitura del cosmos",
-    "length": "01 horas 59 minutos",
-    "age": "0",
-    "theater": "multicines",
-    "format": "Español",
-    "showings": {
-      "2026-04-23": [
-        {
-          "time": "17:15"
-        }
-      ]
-    },
-    "actors": [],
-    "directors": [],
-    "genres": [
-      "En cartelera"
-    ],
-    "synopsis": null,
-    "url": "https://multicinestenerife.com/pelicula/la-partitura-del-cosmos/",
-    "cover_url": "https://multicinestenerife.com/wp-content/uploads/2026/04/1776093823-204x350_c.jpg"
-  },
-  {
-    "title": "La habitación de Mariana",
-    "length": "02 horas 11 minutos",
-    "age": "0",
-    "theater": "multicines",
-    "format": "Español",
-    "showings": {
-      "2026-04-23": [
-        {
-          "time": "16:45"
-        },
-        {
-          "time": "21:40"
-        }
-      ]
-    },
-    "actors": [
-      "Mélanie Thierry",
-      "Artem Kyryk",
-      "Anastasia Fein"
-    ],
-    "directors": [
-      "Emmanuel Finkiel"
-    ],
-    "genres": [
-      "Drama",
-      "En cartelera"
-    ],
-    "synopsis": "1942, Ucrania. Hugo tiene 12 años cuando el nazismo ocupa su tierra. Para salvarlo de la deportación, su madre lo confía a su amiga de la infancia, Mariana, una prostituta que vive en un burdel en las afueras de la ciudad. Escondido en el armario de la habitación de Mariana, toda su existencia está suspendida de los ruidos que lo rodean y de las escenas que adivina a través del armario. Mientras la guerra continúa fuera Hugo y Mariana forjan un vínculo íntimo y complejo de amor, lealtad y devoción mutua, que cambiará sus vidas para siempre.",
-    "url": "https://multicinestenerife.com/pelicula/la-habitacion-de-mariana/",
-    "cover_url": "https://multicinestenerife.com/wp-content/uploads/2026/04/unnamed-4-1-204x350_c.jpg"
-  },
-  {
     "title": "La mujer más rica del mundo",
     "length": "02 horas 01 minutos",
     "age": "12",
     "theater": "multicines",
     "format": "Español",
     "showings": {
-      "2026-04-23": [
-        {
-          "time": "20:00"
-        }
-      ],
-      "2026-04-24": [
-        {
-          "time": "16:45"
-        }
-      ],
-      "2026-04-25": [
-        {
-          "time": "16:45"
-        }
-      ],
-      "2026-04-26": [
-        {
-          "time": "16:45"
-        }
-      ],
       "2026-04-27": [
         {
           "time": "16:45"
@@ -813,29 +409,6 @@
     "theater": "multicines",
     "format": "Español",
     "showings": {
-      "2026-04-23": [
-        {
-          "time": "19:45"
-        },
-        {
-          "time": "22:00"
-        }
-      ],
-      "2026-04-24": [
-        {
-          "time": "21:30"
-        }
-      ],
-      "2026-04-25": [
-        {
-          "time": "21:30"
-        }
-      ],
-      "2026-04-26": [
-        {
-          "time": "21:30"
-        }
-      ],
       "2026-04-27": [
         {
           "time": "21:30"
@@ -883,56 +456,6 @@
     "theater": "multicines",
     "format": "Español",
     "showings": {
-      "2026-04-23": [
-        {
-          "time": "16:30"
-        },
-        {
-          "time": "19:10"
-        },
-        {
-          "time": "22:00"
-        }
-      ],
-      "2026-04-24": [
-        {
-          "time": "16:30"
-        },
-        {
-          "time": "19:10"
-        },
-        {
-          "time": "22:00"
-        }
-      ],
-      "2026-04-25": [
-        {
-          "time": "12:00"
-        },
-        {
-          "time": "16:30"
-        },
-        {
-          "time": "19:10"
-        },
-        {
-          "time": "22:00"
-        }
-      ],
-      "2026-04-26": [
-        {
-          "time": "12:00"
-        },
-        {
-          "time": "16:30"
-        },
-        {
-          "time": "19:10"
-        },
-        {
-          "time": "22:00"
-        }
-      ],
       "2026-04-27": [
         {
           "time": "16:30"
@@ -1003,59 +526,6 @@
     "theater": "multicines",
     "format": "Español",
     "showings": {
-      "2026-04-23": [
-        {
-          "time": "16:30"
-        },
-        {
-          "time": "18:30"
-        },
-        {
-          "time": "20:30"
-        },
-        {
-          "time": "22:30"
-        }
-      ],
-      "2026-04-24": [
-        {
-          "time": "16:30"
-        },
-        {
-          "time": "18:30"
-        },
-        {
-          "time": "21:50"
-        }
-      ],
-      "2026-04-25": [
-        {
-          "time": "12:15"
-        },
-        {
-          "time": "16:30"
-        },
-        {
-          "time": "18:30"
-        },
-        {
-          "time": "21:50"
-        }
-      ],
-      "2026-04-26": [
-        {
-          "time": "12:15"
-        },
-        {
-          "time": "16:30"
-        },
-        {
-          "time": "18:30"
-        },
-        {
-          "time": "21:50"
-        }
-      ],
       "2026-04-27": [
         {
           "time": "16:30"
@@ -1136,38 +606,6 @@
     "theater": "multicines",
     "format": "Español",
     "showings": {
-      "2026-04-23": [
-        {
-          "time": "19:15"
-        },
-        {
-          "time": "21:45"
-        }
-      ],
-      "2026-04-24": [
-        {
-          "time": "19:15"
-        },
-        {
-          "time": "21:45"
-        }
-      ],
-      "2026-04-25": [
-        {
-          "time": "19:15"
-        },
-        {
-          "time": "21:45"
-        }
-      ],
-      "2026-04-26": [
-        {
-          "time": "19:15"
-        },
-        {
-          "time": "21:45"
-        }
-      ],
       "2026-04-27": [
         {
           "time": "19:15"
@@ -1216,65 +654,6 @@
     "theater": "multicines",
     "format": "Español",
     "showings": {
-      "2026-04-23": [
-        {
-          "time": "16:30"
-        },
-        {
-          "time": "18:30"
-        },
-        {
-          "time": "20:30"
-        },
-        {
-          "time": "22:30"
-        }
-      ],
-      "2026-04-24": [
-        {
-          "time": "16:30"
-        },
-        {
-          "time": "19:45"
-        },
-        {
-          "time": "22:30"
-        }
-      ],
-      "2026-04-25": [
-        {
-          "time": "12:00"
-        },
-        {
-          "time": "16:30"
-        },
-        {
-          "time": "18:30"
-        },
-        {
-          "time": "20:30"
-        },
-        {
-          "time": "22:30"
-        }
-      ],
-      "2026-04-26": [
-        {
-          "time": "12:00"
-        },
-        {
-          "time": "16:30"
-        },
-        {
-          "time": "18:30"
-        },
-        {
-          "time": "20:30"
-        },
-        {
-          "time": "22:30"
-        }
-      ],
       "2026-04-27": [
         {
           "time": "16:30"
@@ -1338,27 +717,6 @@
     "theater": "multicines",
     "format": "Español",
     "showings": {
-      "2026-04-24": [
-        {
-          "time": "16:30"
-        }
-      ],
-      "2026-04-25": [
-        {
-          "time": "12:15"
-        },
-        {
-          "time": "16:30"
-        }
-      ],
-      "2026-04-26": [
-        {
-          "time": "12:15"
-        },
-        {
-          "time": "16:30"
-        }
-      ],
       "2026-04-27": [
         {
           "time": "16:30"
@@ -1406,36 +764,6 @@
     "theater": "multicines",
     "format": "Español",
     "showings": {
-      "2026-04-24": [
-        {
-          "time": "19:40"
-        },
-        {
-          "time": "22:15"
-        }
-      ],
-      "2026-04-25": [
-        {
-          "time": "12:00"
-        },
-        {
-          "time": "19:40"
-        },
-        {
-          "time": "22:15"
-        }
-      ],
-      "2026-04-26": [
-        {
-          "time": "12:00"
-        },
-        {
-          "time": "19:40"
-        },
-        {
-          "time": "22:15"
-        }
-      ],
       "2026-04-27": [
         {
           "time": "19:40"
@@ -1494,36 +822,6 @@
     "theater": "multicines",
     "format": "Español",
     "showings": {
-      "2026-04-24": [
-        {
-          "time": "16:30"
-        },
-        {
-          "time": "20:30"
-        }
-      ],
-      "2026-04-25": [
-        {
-          "time": "12:00"
-        },
-        {
-          "time": "16:30"
-        },
-        {
-          "time": "20:30"
-        }
-      ],
-      "2026-04-26": [
-        {
-          "time": "12:00"
-        },
-        {
-          "time": "16:30"
-        },
-        {
-          "time": "20:30"
-        }
-      ],
       "2026-04-27": [
         {
           "time": "16:30"
@@ -1570,21 +868,6 @@
     "theater": "multicines",
     "format": "Español",
     "showings": {
-      "2026-04-24": [
-        {
-          "time": "16:45"
-        }
-      ],
-      "2026-04-25": [
-        {
-          "time": "16:45"
-        }
-      ],
-      "2026-04-26": [
-        {
-          "time": "16:45"
-        }
-      ],
       "2026-04-27": [
         {
           "time": "16:45"
@@ -1629,30 +912,6 @@
     "theater": "multicines",
     "format": "Español",
     "showings": {
-      "2026-04-24": [
-        {
-          "time": "19:20"
-        },
-        {
-          "time": "21:40"
-        }
-      ],
-      "2026-04-25": [
-        {
-          "time": "19:20"
-        },
-        {
-          "time": "21:40"
-        }
-      ],
-      "2026-04-26": [
-        {
-          "time": "19:20"
-        },
-        {
-          "time": "21:40"
-        }
-      ],
       "2026-04-27": [
         {
           "time": "19:20"
@@ -1705,31 +964,11 @@
   },
   {
     "title": "Michael (VOSE)",
-    "length": "01 horas 39 minutos",
+    "length": "02 horas 07 minutos",
     "age": "0",
     "theater": "multicines",
     "format": "Español",
     "showings": {
-      "2026-04-23": [
-        {
-          "time": "20:00"
-        }
-      ],
-      "2026-04-24": [
-        {
-          "time": "18:45"
-        }
-      ],
-      "2026-04-25": [
-        {
-          "time": "18:45"
-        }
-      ],
-      "2026-04-26": [
-        {
-          "time": "18:45"
-        }
-      ],
       "2026-04-27": [
         {
           "time": "18:45"
@@ -1776,85 +1015,11 @@
   },
   {
     "title": "Michael",
-    "length": "01 horas 39 minutos",
+    "length": "02 horas 07 minutos",
     "age": "0",
     "theater": "multicines",
     "format": "Español",
     "showings": {
-      "2026-04-23": [
-        {
-          "time": "16:30"
-        },
-        {
-          "time": "18:00"
-        },
-        {
-          "time": "19:15"
-        },
-        {
-          "time": "20:45"
-        },
-        {
-          "time": "22:00"
-        }
-      ],
-      "2026-04-24": [
-        {
-          "time": "16:30"
-        },
-        {
-          "time": "18:00"
-        },
-        {
-          "time": "19:15"
-        },
-        {
-          "time": "20:45"
-        },
-        {
-          "time": "22:00"
-        }
-      ],
-      "2026-04-25": [
-        {
-          "time": "12:00"
-        },
-        {
-          "time": "16:30"
-        },
-        {
-          "time": "18:00"
-        },
-        {
-          "time": "19:15"
-        },
-        {
-          "time": "20:45"
-        },
-        {
-          "time": "22:00"
-        }
-      ],
-      "2026-04-26": [
-        {
-          "time": "12:00"
-        },
-        {
-          "time": "16:30"
-        },
-        {
-          "time": "18:00"
-        },
-        {
-          "time": "19:15"
-        },
-        {
-          "time": "20:45"
-        },
-        {
-          "time": "22:00"
-        }
-      ],
       "2026-04-27": [
         {
           "time": "16:30"
@@ -1976,43 +1141,5 @@
     "synopsis": "Hirayama parece totalmente satisfecho con su sencilla vida de limpiador de retretes en Tokio. Fuera de su estructurada rutina diaria, disfruta de su pasión por la música y los libros. Le encantan los árboles y les hace fotos. Una serie de encuentros inesperados revelan poco a poco más de su pasado.",
     "url": "https://multicinestenerife.com/pelicula/perfect-days/",
     "cover_url": "https://multicinestenerife.com/wp-content/uploads/2024/01/MV5BYjI2Njc4MGQtYzYwNC00MDQ1LTkyMzQtODY0NDk4NzZjNGMyXkEyXkFqcGdeQXVyMTM1NjM2ODg1._V1_SX300-204x350_c.jpg"
-  },
-  {
-    "title": "Charlas de Cine:  El cristal oscuro",
-    "length": "01 horas 33 minutos",
-    "age": "7",
-    "theater": "multicines",
-    "format": "Español",
-    "showings": {
-      "2026-04-24": [
-        {
-          "time": "19:00"
-        }
-      ]
-    },
-    "actors": [
-      "Jim Henson",
-      "Kathryn Mullen",
-      "Frank Oz"
-    ],
-    "directors": [
-      "Jim Henson",
-      "Frank Oz"
-    ],
-    "genres": [
-      "Adventure",
-      "Fantasy",
-      "Próximamente",
-      "Family",
-      "Estrenos y destacados",
-      "Charlas de cine",
-      "Eventos",
-      "En cartelera",
-      "Venta anticipada",
-      "venta anticipada banner"
-    ],
-    "synopsis": "En otro mundo, en otro tiempo, en la era de la maravilla, hace mil años el Cristal Oscuro se quebró. El caos y la confusión se extendieron por todo el planeta Thra. Así empezó la profecía y aparecieron dos nuevas razas: los crueles skekses y los apacibles místicos. Si nadie repara el cristal, los skekses dominarán Thra hasta el fin de los tiempos. Será Jen, el último superviviente de los Gelfings, quien intente restaurar el cristal y acabar con el mal para siempre. ",
-    "url": "https://multicinestenerife.com/pelicula/charlas-de-cine-el-cristal-oscuro/",
-    "cover_url": "https://multicinestenerife.com/wp-content/uploads/2026/04/1775571651-204x350_c.jpg"
   }
 ]

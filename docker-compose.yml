@@ -1,0 +1,35 @@
+services:
+  db:
+    image: postgres:16-alpine
+    env_file: .env
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+    ports:
+      - "5432:5432"
+
+  backend:
+    build: ./backend
+    command: python manage.py runserver 0.0.0.0:8000  # override prod CMD
+    volumes:
+      - ./backend:/app           # live reload
+    env_file: .env
+    environment:
+      DJANGO_SETTINGS_MODULE: myproject.settings.dev
+    ports:
+      - "8000:8000"
+    depends_on:
+      - db
+
+  frontend:
+    build:
+      context: ./frontend
+      target: builder           # only the builder stage
+    command: npx ng serve --host 0.0.0.0 --poll 500
+    volumes:
+      - ./frontend:/app
+      - /app/node_modules        # don't override node_modules with host
+    ports:
+      - "4200:4200"
+
+volumes:
+  postgres_data:

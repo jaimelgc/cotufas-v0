@@ -30,34 +30,44 @@
       <h2 class="section-label">Showtimes — All Theatres</h2>
 
       <div class="theater-showings-grid">
-        @for (ts of theaterShowings(); track ts.theater.id) {
-          <div class="theater-column card">
-            <div class="theater-col-header">
-              <a [routerLink]="['/theaters', ts.theater.id]" class="theater-col-name">
-                {{ ts.theater.name }}
-              </a>
-              <p class="theater-col-address">{{ ts.theater.location }}</p>
-            </div>
-
-            @if (ts.showings.length) {
-              <div class="showtime-list">
-                @for (s of ts.showings; track s.id) {
-                  <div class="showtime-item">
-                    <div class="showtime-meta">
-                      <span class="showtime-date">{{ formatShowdate(s.date, s.time) }}</span>
-                      @if (s.format) { <span class="format-tag">{{ s.format }}</span> }
-                    </div>
-                    <a [href]="s.purchaseUrl" target="_blank" rel="noopener" class="showtime-link">
-                      <span class="showtime-date">{{ formatShowdate(s.date, s.time) }}</span>
-                    </a>
-                  </div>
-                }
-              </div>
-            } @else {
-              <p class="no-showings">No upcoming showings</p>
-            }
+        @for (tg of theaterShowingsGrouped(); track tg.theater.id) {
+        <div class="theater-column card">
+          <div class="theater-col-header">
+            <a [routerLink]="['/theaters', tg.theater.id]" class="theater-col-name">
+              {{ tg.theater.name }}
+            </a>
+            <p class="theater-col-address">{{ tg.theater.location }}</p>
           </div>
-        }
+
+          @if (tg.dates.length) {
+            <select
+              class="date-select"
+              (change)="onDateChange(tg.theater.id, $any($event.target).value)">
+              @for (d of tg.dates; track d) {
+                <option [value]="d" [selected]="d === getSelectedDate(tg.theater.id, tg.dates)">
+                  {{ formatShowdate(d, '') }}
+                </option>
+              }
+            </select>
+
+            <div class="showtime-list">
+              @for (s of getShowingsForDate(tg); track s.id) {
+                <div class="showtime-item">
+                  <div class="showtime-meta">
+                    @if (s.format) { <span class="format-tag">{{ s.format }}</span> }
+                    <span class="showtime-date">{{ formatShowtime(s.date, s.time) }}</span>
+                  </div>
+                  <a [href]="s.purchaseUrl" target="_blank" rel="noopener" class="showtime-link">
+                    {{ formatShowtime(s.date, s.time) }}
+                  </a>
+                </div>
+              }
+            </div>
+          } @else {
+            <p class="no-showings">No upcoming showings</p>
+          }
+        </div>
+      }
       </div>
     </div>
   }

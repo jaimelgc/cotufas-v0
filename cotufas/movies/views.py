@@ -29,5 +29,5 @@ class ShowingViewSet(viewsets.ReadOnlyModelViewSet):
     permission_classes = [permissions.AllowAny]
 
     filter_backends = [DjangoFilterBackend, filters.SearchFilter]
-    filterset_backends = ['movie', 'theater', 'update']
-    search_fields = ['movie__slug', 'theater__slug']
+    filterset_fields = ["movie", "theater"]
+    search_fields = ["movie__slug", "theater__slug"]

@@ -52,7 +52,7 @@
                     class="date-toggle"
                     (click)="toggleDate(tg.theater.id, d, i)"
                     [attr.aria-expanded]="isExpanded(tg.theater.id, d, i)">
-                    <span class="showtime-date">{{ formatShowdate(d, '') }}</span>
+                    <span class="showtime-date">{{ formatShowdate(d, '00:00') }}</span>
                     <span class="chevron">{{ isExpanded(tg.theater.id, d, i) ? '−' : '+' }}</span>
                   </button>
 

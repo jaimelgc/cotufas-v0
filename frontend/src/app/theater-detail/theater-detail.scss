@@ -98,3 +98,12 @@
 }
 
 .empty-state { color: var(--muted); font-size: 0.9rem; padding: 2rem 0; }
+
+.poster-placeholder {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: var(--surface-3);
+  color: var(--muted);
+  font-size: 1.5rem;
+}

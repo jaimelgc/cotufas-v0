@@ -33,8 +33,9 @@ export class MovieDetailComponent {
     { initialValue: [] }
   );
 
-  // selected date per theater, keyed by theater id
-  selectedDates = signal<Record<number, string>>({});
+  // explicit expand/collapse overrides per "theaterId::date", keyed so each
+  // day gets its own independent toggle button instead of a single dropdown
+  private expandedOverrides = signal<Map<string, boolean>>(new Map());
 
   // group each theater's showings by date
   theaterShowingsGrouped = computed(() => {
@@ -53,16 +54,28 @@ export class MovieDetailComponent {
     return genres.join(", ")
   }
 
-  getSelectedDate(theaterId: number, dates: string[]): string {
-    return this.selectedDates()[theaterId] ?? dates[0];
+  private dateKey(theaterId: number, date: string): string {
+    return `${theaterId}::${date}`;
   }
 
-  onDateChange(theaterId: number, date: string) {
-    this.selectedDates.update(m => ({ ...m, [theaterId]: date }));
+  // First date of each theater is expanded by default; every other date
+  // starts collapsed until its own button is clicked.
+  isExpanded(theaterId: number, date: string, index: number): boolean {
+    const override = this.expandedOverrides().get(this.dateKey(theaterId, date));
+    return override !== undefined ? override : index === 0;
   }
 
-  getShowingsForDate(tg: { theater: any; dates: string[]; groups: Map<string, any[]> }) {
-    const date = this.getSelectedDate(tg.theater.id, tg.dates);
+  toggleDate(theaterId: number, date: string, index: number) {
+    const key = this.dateKey(theaterId, date);
+    const current = this.isExpanded(theaterId, date, index);
+    this.expandedOverrides.update(overrides => {
+      const next = new Map(overrides);
+      next.set(key, !current);
+      return next;
+    });
+  }
+
+  getShowingsForDate(tg: { dates: string[]; groups: Map<string, any[]> }, date: string) {
     return tg.groups.get(date) ?? [];
   }
 }

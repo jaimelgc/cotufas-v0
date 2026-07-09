@@ -30,8 +30,9 @@ export class CinemaService {
 
   getShowings(filters: { movieId?: number; theaterId?: number } = {}): Observable<Showing[]> {
     const params: any = {};
-    if (filters.movieId)   params['movieId']   = filters.movieId;
-    if (filters.theaterId) params['theaterId'] = filters.theaterId;
+    // Backend (DjangoFilterBackend) filters on the model field names `movie`/`theater`.
+    if (filters.movieId)   params['movie']   = filters.movieId;
+    if (filters.theaterId) params['theater'] = filters.theaterId;
     return this.http.get<Showing[]>(`${this.base}/showings/`, { params });
   }
 

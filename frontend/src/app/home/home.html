@@ -16,7 +16,11 @@
         @for (movie of featured().slice(0, 4); track movie.id) {
           <a [routerLink]="['/movies', movie.id]" class="movie-card card">
             <div class="poster-wrap">
-              <img [src]="movie.cover_url" [alt]="movie.title" class="poster" loading="lazy" />
+              @if (movie.cover_url) {
+                <img [src]="movie.cover_url" [alt]="movie.title" class="poster" loading="lazy" />
+              } @else {
+                <div class="poster-placeholder" [attr.aria-label]="movie.title">🎬</div>
+              }
               <div class="poster-overlay">
                 <span class="rating-badge">{{ movie.age }}</span>
                 <span class="duration">{{ movie.length }} min</span>
@@ -45,9 +49,6 @@
       <div class="theater-grid">
         @for (t of theaters(); track t.id) {
           <a [routerLink]="['/theaters', t.id]" class="theater-card card">
-            @if (t.name) {
-              <img [src]="t.name" [alt]="t.name" class="theater-img" />
-            }
             <div class="theater-info">
               <h3 class="theater-name">{{ t.name }}</h3>
               <p class="theater-address">{{ t.location }}</p>

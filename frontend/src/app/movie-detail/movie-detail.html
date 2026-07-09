@@ -1,12 +1,16 @@
 <div class="page">
   @if (movie(); as m) {
     <!-- Backdrop hero -->
-    <div class="movie-hero" [style.background-image]="m.title ? 'url(' + m.title + ')' : ''">
+    <div class="movie-hero" [style.background-image]="m.cover_url ? 'url(' + m.cover_url + ')' : ''">
       <div class="hero-overlay">
         <div class="container hero-content">
           <p class="breadcrumb"><a routerLink="/home">Home</a> / Films</p>
           <div class="hero-body">
-            <img [src]="m.cover_url" [alt]="m.title" class="hero-poster" />
+            @if (m.cover_url) {
+              <img [src]="m.cover_url" [alt]="m.title" class="hero-poster" />
+            } @else {
+              <div class="hero-poster poster-placeholder" [attr.aria-label]="m.title">🎬</div>
+            }
             <div class="hero-text">
               <p class="genre-label">{{ formatGenres(m.genres) }}</p>
               <h1 class="movie-title">{{ m.title }}</h1>
@@ -40,26 +44,30 @@
           </div>
 
           @if (tg.dates.length) {
-            <select
-              class="date-select"
-              (change)="onDateChange(tg.theater.id, $any($event.target).value)">
-              @for (d of tg.dates; track d) {
-                <option [value]="d" [selected]="d === getSelectedDate(tg.theater.id, tg.dates)">
-                  {{ formatShowdate(d, '') }}
-                </option>
-              }
-            </select>
+            <div class="date-accordion">
+              @for (d of tg.dates; track d; let i = $index) {
+                <div class="date-block" [class.expanded]="isExpanded(tg.theater.id, d, i)">
+                  <button
+                    type="button"
+                    class="date-toggle"
+                    (click)="toggleDate(tg.theater.id, d, i)"
+                    [attr.aria-expanded]="isExpanded(tg.theater.id, d, i)">
+                    <span class="showtime-date">{{ formatShowdate(d, '') }}</span>
+                    <span class="chevron">{{ isExpanded(tg.theater.id, d, i) ? '−' : '+' }}</span>
+                  </button>
 
-            <div class="showtime-list">
-              @for (s of getShowingsForDate(tg); track s.id) {
-                <div class="showtime-item">
-                  <div class="showtime-meta">
-                    @if (s.format) { <span class="format-tag">{{ s.format }}</span> }
-                    <span class="showtime-date">{{ formatShowtime(s.date, s.time) }}</span>
-                  </div>
-                  <a [href]="s.purchaseUrl" target="_blank" rel="noopener" class="showtime-link">
-                    {{ formatShowtime(s.date, s.time) }}
-                  </a>
+                  @if (isExpanded(tg.theater.id, d, i)) {
+                    <div class="showtime-list">
+                      @for (s of getShowingsForDate(tg, d); track s.id) {
+                        <div class="showtime-item">
+                          @if (s.format) { <span class="format-tag">{{ s.format }}</span> }
+                          <a [href]="s.purchaseUrl" target="_blank" rel="noopener" class="showtime-link">
+                            {{ formatShowtime(s.date, s.time) }}
+                          </a>
+                        </div>
+                      }
+                    </div>
+                  }
                 </div>
               }
             </div>

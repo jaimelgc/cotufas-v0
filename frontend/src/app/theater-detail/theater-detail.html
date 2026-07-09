@@ -1,6 +1,6 @@
 <div class="page">
   @if (theater(); as t) {
-    <div class="theater-hero" [style.background-image]="t.name ? 'url(' + t.name + ')' : ''">
+    <div class="theater-hero">
       <div class="hero-overlay">
         <div class="container">
           <p class="breadcrumb"><a routerLink="/home">Home</a> / Theatres</p>
@@ -18,7 +18,11 @@
       @for (item of movieShowings(); track item.movie.id) {
         <div class="screening-row">
           <a [routerLink]="['/movies', item.movie.id]" class="screening-poster-link">
-            <img [src]="item.movie.cover_url" [alt]="item.movie.title" class="screening-poster" />
+            @if (item.movie.cover_url) {
+              <img [src]="item.movie.cover_url" [alt]="item.movie.title" class="screening-poster" />
+            } @else {
+              <div class="screening-poster poster-placeholder" [attr.aria-label]="item.movie.title">🎬</div>
+            }
           </a>
           <div class="screening-info">
             <a [routerLink]="['/movies', item.movie.id]" class="screening-title">

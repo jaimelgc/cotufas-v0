@@ -19,6 +19,7 @@ ALLOWED_HOSTS = ['*']
 # Application definition
 
 INSTALLED_APPS = [
+    'drf_spectacular',
     'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',
@@ -119,7 +120,8 @@ STATIC_URL = 'static/'
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
 REST_FRAMEWORK = {
-    'DEFAULT_PERMISSION_CLASSES': ['rest_framework.permissions.DjangoModelPermissions']
+    'DEFAULT_PERMISSION_CLASSES': ['rest_framework.permissions.DjangoModelPermissions'],
+    'DEFAULT_SCHEMA_CLASS': 'drf_spectacular.openapi.AutoSchema',
 }
 
 CORS_ALLOWED_ORIGINS = [
@@ -127,3 +129,9 @@ CORS_ALLOWED_ORIGINS = [
     "http://192.168.1.38:4200",
     "http://172.19.0.1:4200",
 ]
+
+SPECTACULAR_SETTINGS = {
+    "TITLE": "Cotufas API",
+    "DESCRIPTION": "Cotufas API documentation",
+    "VERSION": "1.0.0",
+}

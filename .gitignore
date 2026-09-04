@@ -1,7 +1,38 @@
-.env
+# Python
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+.tox/
 .venv
-__pycache__/*
-__pycache__
-.pytest_cache
-sheet.md
-.claude
+
+# Django
+*.log
+db.sqlite3
+db.sqlite3-journal
+/cotufas/staticfiles/
+/cotufas/media/
+
+# Test / coverage
+.coverage
+.coverage.*
+htmlcov/
+coverage.xml
+.mypy_cache/
+.ruff_cache/
+
+# Env files
+.env.*
+!.env.example
+
+# Editors / OS
+.DS_Store
+Thumbs.db
+.idea/
+*.swp
+
+# LibreOffice / Office lock fil
+.~lock.*#
+
+/frontend/build/

@@ -45,14 +45,14 @@
   <!-- Theater Links -->
   <section class="section theaters-section">
     <div class="container">
-      <h2 class="section-title">Our Theatres</h2>
+      <h2 class="section-title">Cines</h2>
       <div class="theater-grid">
         @for (t of theaters(); track t.id) {
           <a [routerLink]="['/theaters', t.id]" class="theater-card card">
             <div class="theater-info">
               <h3 class="theater-name">{{ t.name }}</h3>
               <p class="theater-address">{{ t.location }}</p>
-              <span class="theater-cta">View screenings →</span>
+              <span class="theater-cta">Ver horarios→</span>
             </div>
           </a>
         }

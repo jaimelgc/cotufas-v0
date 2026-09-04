@@ -3,7 +3,7 @@
     <div class="theater-hero">
       <div class="hero-overlay">
         <div class="container">
-          <p class="breadcrumb"><a routerLink="/home">Home</a> / Theatres</p>
+          <p class="breadcrumb"><a routerLink="/home">Home</a> / Cines</p>
           <h1 class="theater-name">{{ t.name }}</h1>
           <p class="theater-address">{{ t.location}}</p>
         </div>
@@ -12,7 +12,7 @@
   }
 
   <div class="container page-content">
-    <h2 class="section-label">Now Showing</h2>
+    <h2 class="section-label">En Cartelera</h2>
 
     <div class="screening-list">
       @for (item of movieShowings(); track item.movie.id) {
@@ -43,7 +43,7 @@
           </div>
         </div>
       } @empty {
-        <p class="empty-state">No screenings available at this time.</p>
+        <p class="empty-state">Sin información de cartelera.</p>
       }
     </div>
   </div>

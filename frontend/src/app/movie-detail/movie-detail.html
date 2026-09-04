@@ -4,7 +4,7 @@
     <div class="movie-hero" [style.background-image]="m.cover_url ? 'url(' + m.cover_url + ')' : ''">
       <div class="hero-overlay">
         <div class="container hero-content">
-          <p class="breadcrumb"><a routerLink="/home">Home</a> / Films</p>
+          <p class="breadcrumb"><a routerLink="/home">Home</a> / Películas</p>
           <div class="hero-body">
             @if (m.cover_url) {
               <img [src]="m.cover_url" [alt]="m.title" class="hero-poster" />
@@ -31,7 +31,7 @@
 
     <!-- Showings Grid -->
     <div class="container page-content">
-      <h2 class="section-label">Showtimes — All Theatres</h2>
+      <h2 class="section-label">Horarios — Todos los Cines</h2>
 
       <div class="theater-showings-grid">
         @for (tg of theaterShowingsGrouped(); track tg.theater.id) {
@@ -72,7 +72,7 @@
               }
             </div>
           } @else {
-            <p class="no-showings">No upcoming showings</p>
+            <p class="no-showings">Sin información de horarios.</p>
           }
         </div>
       }

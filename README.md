@@ -80,7 +80,7 @@ El frontend, desarrollado con **Angular**, consume esta API y permite consultar 
 * HTML5
 * CSS3
 
-## ⚙️ Instalación
+## Instalación
 
 ### Requisitos
 
